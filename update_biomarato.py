@@ -162,6 +162,7 @@ def get_participation_df(main_project):
     pt_users["espècies"] = pt_users["participant"].apply(
         lambda x: _get_species(x, main_project)
     )
+    pt_users.columns = pt_users.columns.str.upper()
     return pt_users
 
 
