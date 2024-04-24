@@ -6,52 +6,13 @@ from mecoda_minka import get_dfs, get_obs
 
 API_PATH = "https://api.minka-sdg.org/v1"
 
-main_project = 233
+main_project = 283
 
 projects = {
-    79: "Begues",
-    80: "Viladecans",
-    81: "Sant Climent de Llobregat",
-    83: "Cervelló",
-    85: "Sant Boi de Llobregat",
-    86: "Santa Coloma de Cervelló",
-    87: "Sant Vicenç dels Horts",
-    88: "la Palma de Cervelló",
-    89: "Corbera de Llobregat",
-    91: "Sant Andreu de la Barca",
-    92: "Castellbisbal",
-    93: "el Papiol",
-    94: "Molins de Rei",
-    95: "Sant Feliu de Llobregat",
-    97: "Cornellà de Llobregat",
-    98: "l'Hospitalet de Llobregat",
-    99: "Esplugues de Llobregat",
-    100: "Sant Just Desvern",
-    101: "Sant Cugat del Vallès",
-    102: "Barberà del Vallès",
-    103: "Ripollet",
-    104: "Montcada i Reixac",
-    106: "Sant Adrià de Besòs",
-    107: "Badalona",
-    108: "Tiana",
-    109: "Montgat",
-    224: "Barcelona",
-    225: "el Prat de Llobregat",
-    226: "Pallejà",
-    227: "Torrelles de Llobregat",
-    228: "Castelldefels",
-    229: "Gavà",
-    230: "Sant Joan Despí",
-    231: "Santa Coloma de Gramenet",
-    232: "Àrea marina Barcelona",
-}
-
-proj_110 = {
-    111: "Barcelona",
-    82: "Torrelles de Llobregat",
-    96: "Sant Joan Despí",
-    84: "El Prat de Llobregat",
-    105: "Santa Coloma de Gramenet",
+    281: "Girona",
+    280: "Tarragona",
+    282: "Barcelona",
+    283: "Catalunya",
 }
 
 exclude_users = [
@@ -87,41 +48,43 @@ def update_main_metrics(proj_id):
     session = requests.Session()
 
     # Fecha de inicio de BioDiverCiutat
-    day = datetime.date(year=2024, month=4, day=26)
-    rango_temporal = (datetime.date(year=2024, month=4, day=30) - day).days
+    day = datetime.date(year=2024, month=5, day=6)
+    # rango_temporal = (datetime.date(year=2024, month=10, day=15) - day).days
+    rango_temporal = (datetime.datetime.today().date() - day).days
 
-    for i in range(rango_temporal):
-        print(i)
-        st_day = day.strftime("%Y-%m-%d")
+    if i > 0:
+        for i in range(rango_temporal):
+            print(i)
+            st_day = day.strftime("%Y-%m-%d")
 
-        params = {
-            "project_id": proj_id,
-            "created_d2": st_day,
-            "order": "desc",
-            "order_by": "created_at",
-        }
+            params = {
+                "project_id": proj_id,
+                "created_d2": st_day,
+                "order": "desc",
+                "order_by": "created_at",
+            }
 
-        # Utilizar la sesión para realizar las solicitudes
-        total_species = session.get(species, params=params).json()["total_results"]
-        total_participants = session.get(observers, params=params).json()[
-            "total_results"
-        ]
-        total_obs = session.get(observations, params=params).json()["total_results"]
+            # Utilizar la sesión para realizar las solicitudes
+            total_species = session.get(species, params=params).json()["total_results"]
+            total_participants = session.get(observers, params=params).json()[
+                "total_results"
+            ]
+            total_obs = session.get(observations, params=params).json()["total_results"]
 
-        result = {
-            "date": st_day,
-            "observations": total_obs,
-            "species": total_species,
-            "participants": total_participants,
-        }
+            result = {
+                "date": st_day,
+                "observations": total_obs,
+                "species": total_species,
+                "participants": total_participants,
+            }
 
-        results.append(result)
+            results.append(result)
 
-        day = day + datetime.timedelta(days=1)
+            day = day + datetime.timedelta(days=1)
 
-    result_df = pd.DataFrame(results)
-    print("Updated main metrics")
-    return result_df
+        result_df = pd.DataFrame(results)
+        print("Updated main metrics")
+        return result_df
 
 
 def get_metrics_proj(proj_id, proj_city):
@@ -191,6 +154,9 @@ def get_participation_df(main_project):
         .reset_index(drop=False)
         .rename(columns={"user_login": "participant", "count": "observacions"})
     )
+    pt_users = pt_users[-pt_users["user_login"].isin(exclude_users)].reset_index(
+        drop=True
+    )
     pt_users["identificacions"] = pt_users["participant"].apply(
         lambda x: _get_identifiers(x, main_project)
     )
@@ -242,7 +208,7 @@ if __name__ == "__main__":
 
     # Actualiza main metrics
     main_metrics_df = update_main_metrics(main_project)
-    main_metrics_df.to_csv(f"data/{main_project}_main_metrics.csv", index=False)
+    main_metrics_df.to_csv(f"data/{main_project}_main_metrics_per_day.csv", index=False)
     print("Main metrics actualizada")
 
     # Actualiza métricas de los proyectos
@@ -291,62 +257,3 @@ if __name__ == "__main__":
         }
     )
     df.to_csv(f"data/{main_project}_metrics_tiempo_real.csv", index=False)
-
-    # Datos de prueba
-
-    # Actualiza main metrics
-    main_metrics_df = update_main_metrics(110)
-    main_metrics_df.to_csv(f"data/110_main_metrics.csv", index=False)
-    print("Main metrics actualizada")
-
-    # Actualiza métricas de los proyectos
-    df_projs = create_df_projs(proj_110)
-    df_projs.to_csv("data/110_main_metrics_projects.csv", index=False)
-    print("Main metrics of city projects actualizado")
-
-    # Test df_obs y df_photos totales
-    obs = get_obs(id_project=110, grade="research")
-    if len(obs) > 0:
-        df_obs, df_photos = get_dfs(obs)
-        df_obs["taxon_id"] = df_obs["taxon_id"].astype(int)
-
-        # Completar campos de taxonomías
-        cols = ["class", "order", "family", "genus"]
-        for col in cols:
-            df_obs.loc[df_obs[col].isnull(), col] = df_obs[df_obs[col].isnull()][
-                "taxon_id"
-            ].apply(lambda x: get_missing_taxon(x, col))
-
-        # Sacar columna marine
-
-        taxon_url = "https://raw.githubusercontent.com/eosc-cos4cloud/mecoda-orange/master/mecoda_orange/data/taxon_tree_with_marines.csv"
-        taxon_tree = pd.read_csv(taxon_url)
-
-        df_obs = pd.merge(
-            df_obs, taxon_tree[["taxon_id", "marine"]], on="taxon_id", how="left"
-        )
-
-        df_obs.to_csv(f"data/110_obs.csv", index=False)
-        df_photos.to_csv(f"data/110_photos.csv", index=False)
-
-        # Dataframe de marino/terrestre
-        print("Dataframe de marino/terrestre")
-        df_marine = get_marine_df(df_obs)
-        df_marine.to_csv(f"data/110_marines.csv", index=False)
-
-    # Dataframe de participantes
-    print("Dataframe de participantes")
-    df_users = get_participation_df(110)
-    df_users.columns = ["PARTICIPANT", "OBSERVACIONS", "IDENTIFICACIONS", "ESPÈCIES"]
-    df_users.to_csv(f"data/110_users.csv", index=False)
-
-    # Dataframe de métricas actualizadas
-    print("Dataframe de métricas actualizadas")
-    total_species, total_participants, total_obs = get_main_metrics(110)
-    df = pd.DataFrame(
-        {
-            "metrics": ["observacions", "espècies", "participants"],
-            "values": [total_obs, total_species, total_participants],
-        }
-    )
-    df.to_csv("data/110_metrics_tiempo_real.csv", index=False)
