@@ -79,10 +79,10 @@ exclude_users = [
     "carlosrodero",
     "lydia",
     "elibonfill",
-    # meri,
-    # marina,
+    "meri",
+    "marinatorresgi",
     # vanessa,
-    # teresa
+    # teresa,
 ]
 
 
