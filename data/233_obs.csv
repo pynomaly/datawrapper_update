@@ -1,5 +1,6 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
 257570,2024-04-26,2024-04-26,2024-04-26,09:23:00,,nan,,,41.4100953092,2.2275730726,"Zona de Banys Fòrum, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257569,2024-04-26,2024-04-26,2024-04-26,09:20:00,,nan,,,41.410085,2.227477,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
 257447,2024-04-26,2024-04-26,2024-04-26,09:04:00,arachnida,1362,family,Thomisidae,41.2790039607,2.0812284597,Platja del Remolar,needs_id,15,mediambient_ajelprat,cc-by-nc,0,0,Animalia,Arthropoda,Arachnida,Araneae,,
 257446,2024-04-26,2024-04-26,2024-04-26,08:11:00,mollusca,34855,species,Sepia officinalis,41.2787521071,2.0809381327,Platja del Remolar,needs_id,15,mediambient_ajelprat,cc-by-nc,0,0,Animalia,Mollusca,Cephalopoda,Sepiida,Sepiidae,Sepia
 257445,2024-04-26,2024-04-26,2024-04-26,08:05:00,elasmobranchii,11990,genus,Raja,41.2787521071,2.0809381327,Platja del Remolar,needs_id,15,mediambient_ajelprat,cc-by-nc,0,0,Animalia,Chordata,Elasmobranchii,Rajiformes,Rajidae,
