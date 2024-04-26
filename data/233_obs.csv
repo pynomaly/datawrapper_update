@@ -1,4 +1,9 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+257615,2024-04-26,2024-04-26,2024-04-26,09:06:00,actinopterygii,35216,species,Symphodus tinca,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
+257613,2024-04-26,2024-04-26,2024-04-26,12:05:00,aves,252264,species,Columba livia,41.4139986552,2.1738888323,Spain,needs_id,2245,emilyastr,cc-by,0,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
+257612,2024-04-26,2024-04-26,2024-04-26,12:45:00,aves,252272,species,Columba palumbus,41.4139257375,2.1735887602,Spain,needs_id,2245,emilyastr,cc-by,0,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
+257611,2024-04-26,2024-04-26,2024-04-26,12:04:00,aves,247963,species,Myiopsitta monachus,41.4142143905,2.1735237166,Spain,needs_id,2245,emilyastr,cc-by,0,0,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Myiopsitta
+257610,2024-04-26,2024-04-26,2024-04-26,08:30:00,,nan,,,41.3930407558,2.1831960976,Spain,needs_id,26,carlosrodero,cc-by-nc,0,0,,,,,,
 257609,2024-04-26,2024-04-26,2024-04-26,08:31:00,,nan,,,41.3930246585,2.1832500771,Spain,needs_id,45,anna_olive_abello,cc-by-nc,0,0,,,,,,
 257608,2024-04-26,2024-04-26,2024-04-26,06:32:00,aves,252853,species,Passer montanus,41.4245305556,2.1893111111,Spain,needs_id,1244,meri,cc-by,0,0,Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer
 257607,2024-04-26,2024-04-26,2024-04-26,06:32:00,aves,252272,species,Columba palumbus,41.4245305556,2.1893111111,Spain,needs_id,1244,meri,cc-by,0,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
@@ -52,16 +57,16 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 257554,2024-04-26,2024-04-26,2024-04-26,09:13:00,echinodermata,34848,species,Paracentrotus lividus,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Echinodermata,Echinoidea,Camarodonta,Parechinidae,Paracentrotus
 257553,2024-04-26,2024-04-26,2024-04-26,09:12:00,actinopterygii,34835,species,Coris julis,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
 257552,2024-04-26,2024-04-26,2024-04-26,09:12:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-257551,2024-04-26,2024-04-26,2024-04-26,09:12:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-257550,2024-04-26,2024-04-26,2024-04-26,09:11:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257551,2024-04-26,2024-04-26,2024-04-26,09:12:00,actinopterygii,35120,species,Gobius incognitus,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Gobius
+257550,2024-04-26,2024-04-26,2024-04-26,09:11:00,actinopterygii,35120,species,Gobius incognitus,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Gobius
 257549,2024-04-26,2024-04-26,2024-04-26,09:11:00,actinopterygii,34805,species,Sarpa salpa,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
-257548,2024-04-26,2024-04-26,2024-04-26,09:11:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-257547,2024-04-26,2024-04-26,2024-04-26,09:10:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-257546,2024-04-26,2024-04-26,2024-04-26,09:10:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-257545,2024-04-26,2024-04-26,2024-04-26,09:10:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-257544,2024-04-26,2024-04-26,2024-04-26,09:09:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-257543,2024-04-26,2024-04-26,2024-04-26,09:09:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-257542,2024-04-26,2024-04-26,2024-04-26,09:06:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257548,2024-04-26,2024-04-26,2024-04-26,09:11:00,echinodermata,34848,species,Paracentrotus lividus,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Echinodermata,Echinoidea,Camarodonta,Parechinidae,Paracentrotus
+257547,2024-04-26,2024-04-26,2024-04-26,09:10:00,actinopterygii,240400,species,Oblada melanura,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Oblada
+257546,2024-04-26,2024-04-26,2024-04-26,09:10:00,actinopterygii,35216,species,Symphodus tinca,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
+257545,2024-04-26,2024-04-26,2024-04-26,09:10:00,echinodermata,240406,species,Arbacia lixula,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Echinodermata,Echinoidea,Arbacioida,Arbaciidae,Arbacia
+257544,2024-04-26,2024-04-26,2024-04-26,09:09:00,echinodermata,251875,species,Holothuria tubulosa,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria
+257543,2024-04-26,2024-04-26,2024-04-26,09:09:00,actinopterygii,35216,species,Symphodus tinca,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
+257542,2024-04-26,2024-04-26,2024-04-26,09:06:00,actinopterygii,240399,species,Tripterygion tripteronotum,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Tripterygiidae,Tripterygion
 257541,2024-04-26,2024-04-26,2024-04-26,09:05:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
 257540,2024-04-26,2024-04-26,2024-04-26,09:05:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
 257539,2024-04-26,2024-04-26,2024-04-26,09:04:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
