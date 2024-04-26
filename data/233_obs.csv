@@ -1,4 +1,7 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+257708,2024-04-26,2024-04-26,2024-04-26,14:24:00,aves,251769,species,Streptopelia turtur,41.4310944444,2.192175,Spain,needs_id,1244,meri,cc-by,0,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Streptopelia
+257706,2024-04-26,2024-04-26,2024-04-26,08:14:00,actinopterygii,34841,species,Diplodus annularis,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+257705,2024-04-26,2024-04-26,2024-04-26,08:14:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
 257704,2024-04-26,2024-04-26,2024-04-26,07:20:00,,nan,,,41.4102865123,2.2274335067,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
 257703,2024-04-26,2024-04-26,2024-04-26,07:17:00,crustacea,240381,species,Pachygrapsus marmoratus,41.4102866076,2.2274568067,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Arthropoda,Malacostraca,Decapoda,Grapsidae,Pachygrapsus
 257702,2024-04-26,2024-04-26,2024-04-26,07:07:00,mollusca,248495,species,Mytilus galloprovincialis,41.4102831831,2.2274237727,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,Mytilus
@@ -214,38 +217,38 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 257419,2024-04-26,2024-04-26,2024-04-26,08:21:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
 257418,2024-04-26,2024-04-26,2024-04-26,08:21:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
 257417,2024-04-26,2024-04-26,2024-04-26,08:21:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
-257416,2024-04-26,2024-04-26,2024-04-26,08:21:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
-257415,2024-04-26,2024-04-26,2024-04-26,08:21:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
-257414,2024-04-26,2024-04-26,2024-04-26,08:21:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
+257416,2024-04-26,2024-04-26,2024-04-26,08:21:00,annelida,34800,species,Branchiomma luctuosum,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,Animalia,Annelida,Polychaeta,Sabellida,Sabellidae,Branchiomma
+257415,2024-04-26,2024-04-26,2024-04-26,08:21:00,annelida,34800,species,Branchiomma luctuosum,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,Animalia,Annelida,Polychaeta,Sabellida,Sabellidae,Branchiomma
+257414,2024-04-26,2024-04-26,2024-04-26,08:21:00,plantae,246914,species,Asparagopsis taxiformis,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,Plantae,Rhodophyta,Florideophyceae,Bonnemaisoniales,Bonnemaisoniaceae,Asparagopsis
 257413,2024-04-26,2024-04-26,2024-04-26,08:20:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
 257412,2024-04-26,2024-04-26,2024-04-26,08:20:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
-257411,2024-04-26,2024-04-26,2024-04-26,08:18:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
-257410,2024-04-26,2024-04-26,2024-04-26,08:18:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
-257409,2024-04-26,2024-04-26,2024-04-26,08:17:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
-257408,2024-04-26,2024-04-26,2024-04-26,08:16:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
-257407,2024-04-26,2024-04-26,2024-04-26,08:16:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
-257406,2024-04-26,2024-04-26,2024-04-26,08:14:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
-257405,2024-04-26,2024-04-26,2024-04-26,08:14:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
-257404,2024-04-26,2024-04-26,2024-04-26,08:14:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
+257411,2024-04-26,2024-04-26,2024-04-26,08:18:00,mollusca,250214,species,Cerithium vulgatum,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,,Cerithiidae,Cerithium
+257410,2024-04-26,2024-04-26,2024-04-26,08:18:00,actinopterygii,35120,species,Gobius incognitus,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Gobius
+257409,2024-04-26,2024-04-26,2024-04-26,08:17:00,annelida,34800,species,Branchiomma luctuosum,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,Animalia,Annelida,Polychaeta,Sabellida,Sabellidae,Branchiomma
+257408,2024-04-26,2024-04-26,2024-04-26,08:16:00,plantae,246914,species,Asparagopsis taxiformis,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,Plantae,Rhodophyta,Florideophyceae,Bonnemaisoniales,Bonnemaisoniaceae,Asparagopsis
+257407,2024-04-26,2024-04-26,2024-04-26,08:16:00,actinopterygii,91462,genus,Chelon,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Mugiliformes,Mugilidae,
+257406,2024-04-26,2024-04-26,2024-04-26,08:14:00,echinodermata,251875,species,Holothuria tubulosa,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria
+257405,2024-04-26,2024-04-26,2024-04-26,08:14:00,mollusca,250214,species,Cerithium vulgatum,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,,Cerithiidae,Cerithium
+257404,2024-04-26,2024-04-26,2024-04-26,08:14:00,actinopterygii,35120,species,Gobius incognitus,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Gobius
 257403,2024-04-26,2024-04-26,2024-04-26,08:13:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
-257402,2024-04-26,2024-04-26,2024-04-26,08:13:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
-257401,2024-04-26,2024-04-26,2024-04-26,08:13:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
-257400,2024-04-26,2024-04-26,2024-04-26,08:12:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
-257399,2024-04-26,2024-04-26,2024-04-26,08:12:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
-257398,2024-04-26,2024-04-26,2024-04-26,08:12:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
+257402,2024-04-26,2024-04-26,2024-04-26,08:13:00,actinopterygii,34841,species,Diplodus annularis,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+257401,2024-04-26,2024-04-26,2024-04-26,08:13:00,actinopterygii,34841,species,Diplodus annularis,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+257400,2024-04-26,2024-04-26,2024-04-26,08:12:00,actinopterygii,34871,species,Tripterygion delaisi,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Tripterygiidae,Tripterygion
+257399,2024-04-26,2024-04-26,2024-04-26,08:12:00,echinodermata,240406,species,Arbacia lixula,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,Animalia,Echinodermata,Echinoidea,Arbacioida,Arbaciidae,Arbacia
+257398,2024-04-26,2024-04-26,2024-04-26,08:12:00,actinopterygii,34871,species,Tripterygion delaisi,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Tripterygiidae,Tripterygion
 257397,2024-04-26,2024-04-26,2024-04-26,08:12:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
-257396,2024-04-26,2024-04-26,2024-04-26,08:12:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
+257396,2024-04-26,2024-04-26,2024-04-26,08:12:00,actinopterygii,34871,species,Tripterygion delaisi,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Tripterygiidae,Tripterygion
 257395,2024-04-26,2024-04-26,2024-04-26,08:12:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
 257394,2024-04-26,2024-04-26,2024-04-26,08:11:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
 257393,2024-04-26,2024-04-26,2024-04-26,08:11:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
 257392,2024-04-26,2024-04-26,2024-04-26,08:11:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
-257391,2024-04-26,2024-04-26,2024-04-26,08:10:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
+257391,2024-04-26,2024-04-26,2024-04-26,08:10:00,mollusca,34875,species,Hexaplex trunculus,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Neogastropoda,Muricidae,Hexaplex
 257390,2024-04-26,2024-04-26,2024-04-26,08:10:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
-257389,2024-04-26,2024-04-26,2024-04-26,08:10:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
+257389,2024-04-26,2024-04-26,2024-04-26,08:10:00,actinopterygii,240399,species,Tripterygion tripteronotum,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Tripterygiidae,Tripterygion
 257388,2024-04-26,2024-04-26,2024-04-26,08:10:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
 257387,2024-04-26,2024-04-26,2024-04-26,08:09:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
 257386,2024-04-26,2024-04-26,2024-04-26,08:09:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
-257385,2024-04-26,2024-04-26,2024-04-26,08:08:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
+257385,2024-04-26,2024-04-26,2024-04-26,08:08:00,echinodermata,251875,species,Holothuria tubulosa,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria
 257384,2024-04-26,2024-04-26,2024-04-26,08:08:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
 257383,2024-04-26,2024-04-26,2024-04-26,08:07:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
 257382,2024-04-26,2024-04-26,2024-04-26,08:07:00,,nan,,,41.4103914399,2.2282027324,"Barcelona, España",needs_id,714,meme,cc-by-nc,0,0,,,,,,
