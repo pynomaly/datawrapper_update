@@ -25,7 +25,7 @@ project,city,observations,species,participants
 107,Badalona,0,0,0
 108,Tiana,0,0,0
 109,Montgat,0,0,0
-224,Barcelona,146,44,7
+224,Barcelona,188,49,8
 225,el Prat de Llobregat,13,11,1
 226,Pallejà,50,31,1
 227,Torrelles de Llobregat,0,0,0
@@ -33,4 +33,4 @@ project,city,observations,species,participants
 229,Gavà,0,0,0
 230,Sant Joan Despí,0,0,0
 231,Santa Coloma de Gramenet,0,0,0
-232,Àrea marina Barcelona,356,59,5
+232,Àrea marina Barcelona,398,60,6
