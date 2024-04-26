@@ -1,4 +1,6 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+257786,2024-04-26,2024-04-26,2024-04-26,08:40:00,insecta,1054,family,Formicidae,41.392914492,2.1838740259,Spain,needs_id,26,carlosrodero,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Hymenoptera,,
+257785,2024-04-26,2024-04-26,2024-04-26,08:37:00,plantae,44940,genus,Cupressus,41.392804577,2.1827102825,Spain,needs_id,26,carlosrodero,cc-by-nc,0,0,Plantae,Pinophyta,Pinopsida,Pinales,Cupressaceae,
 257784,2024-04-26,2024-04-26,2024-04-26,08:34:00,plantae,245857,species,Malva sylvestris,41.3931509221,2.1833053976,Spain,needs_id,26,carlosrodero,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Malvales,Malvaceae,Malva
 257783,2024-04-26,2024-04-26,2024-04-26,08:29:00,aves,250485,species,Sturnus vulgaris,41.3929411533,2.1831230074,Spain,research,26,carlosrodero,cc-by-nc,2,0,Animalia,Chordata,Aves,Passeriformes,Sturnidae,Sturnus
 257752,2024-04-26,2024-04-26,2024-04-26,08:33:00,aves,247963,species,Myiopsitta monachus,41.3930822568,2.1833516657,Spain,research,26,carlosrodero,cc-by-nc,2,0,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Myiopsitta
