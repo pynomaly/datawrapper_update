@@ -222,22 +222,17 @@ def get_participation_df(main_project):
 
 
 def get_marine_df(df_obs) -> pd.DataFrame:
+    df_obs_filtered = df_obs[df_obs["taxon_rank"].isin(["species"])]
     df_marines = (
-        df_obs.groupby("marine")
+        df_obs_filtered.groupby("marine")
         .size()
         .reset_index()
         .rename(columns={"marine": "entorn", 0: "observacions"})
     )
 
-    df_spe = df_obs.groupby("marine")["taxon_name"].nunique().reset_index()
-    try:
-        especies_terrestres = df_spe.loc[df_spe.marine == False, "taxon_name"].item()
-    except ValueError:
-        especies_terrestres = 0
-    try:
-        especies_marinas = df_spe.loc[df_spe.marine == True, "taxon_name"].item()
-    except ValueError:
-        especies_marinas = 0
+    df_spe = df_obs_filtered.groupby("marine")["taxon_name"].nunique().reset_index()
+    especies_terrestres = df_spe.loc[df_spe.marine == False, "taxon_name"].item()
+    especies_marinas = df_spe.loc[df_spe.marine == True, "taxon_name"].item()
 
     df_marines["entorn"] = df_marines["entorn"].map({False: "terrestre", True: "marí"})
     df_marines.loc[df_marines.entorn == "marí", "espècies"] = especies_marinas
@@ -265,6 +260,18 @@ def get_main_metrics(proj_id):
     return total_species, total_participants, total_obs
 
 
+def get_marine(taxon_name):
+    name_clean = taxon_name.replace(" ", "+")
+    status = requests.get(
+        f"https://www.marinespecies.org/rest/AphiaIDByName/{name_clean}?marine_only=true"
+    ).status_code
+    if (status == 200) or (status == 206):
+        result = True
+    else:
+        result = False
+    return result
+
+
 if __name__ == "__main__":
 
     # BioDiverCiutat
@@ -283,31 +290,34 @@ if __name__ == "__main__":
     obs = get_obs(id_project=main_project_bdc)
     if len(obs) > 0:
         df_obs, df_photos = get_dfs(obs)
-        try:
-            df_filtered = df_obs[df_obs["taxon_rank"].isin(["species", "genus"])].copy()
+        # Completar campos de taxonomías
+        cols = ["class", "order", "family", "genus"]
+        for col in cols:
+            df_obs.loc[df_obs[col].isnull(), col] = df_obs[df_obs[col].isnull()][
+                "taxon_id"
+            ].apply(lambda x: get_missing_taxon(x, col))
 
-            df_filtered["taxon_id"] = df_filtered["taxon_id"].astype(int)
-            # Completar campos de taxonomías
-            cols = ["class", "order", "family", "genus"]
-            for col in cols:
-                df_filtered.loc[df_filtered[col].isnull(), col] = df_filtered[
-                    df_filtered[col].isnull()
-                ]["taxon_id"].apply(lambda x: get_missing_taxon(x, col))
-
-            # Sacar columna marino
-            taxon_url = "https://raw.githubusercontent.com/eosc-cos4cloud/mecoda-orange/master/mecoda_orange/data/taxon_tree_with_marines.csv"
-            taxon_tree = pd.read_csv(taxon_url)
-
-            df_filtered = pd.merge(
-                df_filtered,
-                taxon_tree[["taxon_id", "marine"]],
-                on="taxon_id",
-                how="left",
-            )
-        except:
-            pass
         df_obs.to_csv(f"data/{main_project_bdc}_obs.csv", index=False)
         df_photos.to_csv(f"data/{main_project_bdc}_photos.csv", index=False)
+
+        df_filtered = df_obs[df_obs["taxon_rank"].isin(["species"])].copy()
+
+        df_filtered["taxon_id"] = df_filtered["taxon_id"].astype(int)
+
+        # Sacar columna marino
+        taxon_url = "https://raw.githubusercontent.com/eosc-cos4cloud/mecoda-orange/master/mecoda_orange/data/taxon_tree_with_marines.csv"
+        taxon_tree = pd.read_csv(taxon_url)
+
+        df_filtered = pd.merge(
+            df_filtered,
+            taxon_tree[["taxon_id", "marine"]],
+            on="taxon_id",
+            how="left",
+        )
+        if len(df_filtered[df_filtered.marine.isnull()]) > 0:
+            df_filtered.loc[df_filtered.marine.isnull(), "marine"] = df_filtered.loc[
+                df_filtered.marine.isnull(), "taxon_name"
+            ].apply(get_marine)
 
         # Dataframe de participantes
         df_users = get_participation_df(main_project_bdc)
