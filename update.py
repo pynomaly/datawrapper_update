@@ -278,21 +278,25 @@ if __name__ == "__main__":
     if len(obs) > 0:
         df_obs, df_photos = get_dfs(obs)
         try:
-            df_obs["taxon_id"] = df_obs["taxon_id"].astype(int)
+            df_filtered = df_obs[df_obs["taxon_rank"].isin(["species", "genus"])].copy()
 
+            df_filtered["taxon_id"] = df_filtered["taxon_id"].astype(int)
             # Completar campos de taxonomías
             cols = ["class", "order", "family", "genus"]
             for col in cols:
-                df_obs.loc[df_obs[col].isnull(), col] = df_obs[df_obs[col].isnull()][
-                    "taxon_id"
-                ].apply(lambda x: get_missing_taxon(x, col))
+                df_filtered.loc[df_filtered[col].isnull(), col] = df_filtered[
+                    df_filtered[col].isnull()
+                ]["taxon_id"].apply(lambda x: get_missing_taxon(x, col))
 
             # Sacar columna marino
             taxon_url = "https://raw.githubusercontent.com/eosc-cos4cloud/mecoda-orange/master/mecoda_orange/data/taxon_tree_with_marines.csv"
             taxon_tree = pd.read_csv(taxon_url)
 
-            df_obs = pd.merge(
-                df_obs, taxon_tree[["taxon_id", "marine"]], on="taxon_id", how="left"
+            df_filtered = pd.merge(
+                df_filtered,
+                taxon_tree[["taxon_id", "marine"]],
+                on="taxon_id",
+                how="left",
             )
         except:
             pass
@@ -305,7 +309,7 @@ if __name__ == "__main__":
 
         # Dataframe de marino/terrestre
         try:
-            df_marine = get_marine_df(df_obs)
+            df_marine = get_marine_df(df_filtered)
             df_marine.to_csv(f"data/{main_project_bdc}_marines.csv", index=False)
         except:
             df_obs["marine"] = None
