@@ -230,8 +230,14 @@ def get_marine_df(df_obs) -> pd.DataFrame:
     )
 
     df_spe = df_obs.groupby("marine")["taxon_name"].nunique().reset_index()
-    especies_terrestres = df_spe.loc[df_spe.marine == False, "taxon_name"].item()
-    especies_marinas = df_spe.loc[df_spe.marine == True, "taxon_name"].item()
+    try:
+        especies_terrestres = df_spe.loc[df_spe.marine == False, "taxon_name"].item()
+    except ValueError:
+        especies_terrestres = 0
+    try:
+        especies_marinas = df_spe.loc[df_spe.marine == True, "taxon_name"].item()
+    except ValueError:
+        especies_marinas = 0
 
     df_marines["entorn"] = df_marines["entorn"].map({False: "terrestre", True: "marí"})
     df_marines.loc[df_marines.entorn == "marí", "espècies"] = especies_marinas
@@ -325,7 +331,7 @@ if __name__ == "__main__":
     )
     df.to_csv(f"data/{main_project_bdc}_metrics_tiempo_real.csv", index=False)
 
-    # BioMARató 2024
+"""    # BioMARató 2024
 
     # Actualiza main metrics
     main_metrics_df = update_main_metrics(main_project_bmt)
@@ -413,4 +419,4 @@ if __name__ == "__main__":
             "values": [total_obs, total_species, total_participants],
         }
     )
-    df.to_csv(f"data/{main_project_bmt}_metrics_tiempo_real.csv", index=False)
+    df.to_csv(f"data/{main_project_bmt}_metrics_tiempo_real.csv", index=False)"""
