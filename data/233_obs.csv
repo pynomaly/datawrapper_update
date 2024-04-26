@@ -1,5 +1,24 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
-257158,2024-04-26,2024-04-26,2024-04-26,08:12:00,,nan,,,41.4224145663,2.0034431666,Spain,needs_id,76,patopi,cc-by-nc-sa,0,0,,,,,,
+257178,2024-04-26,2024-04-26,2024-04-26,07:25:00,aves,249839,species,Gallinula chloropus,41.4195729031,2.0064509816,"Pallejà, Barcelona",needs_id,76,patopi,cc-by-nc-sa,0,0,Animalia,Chordata,Aves,Gruiformes,Rallidae,Gallinula
+257177,2024-04-26,2024-04-26,2024-04-26,07:23:00,mammalia,246192,species,Sus scrofa,41.4191152386,2.006622643,"Pallejà, Barcelona",needs_id,76,patopi,cc-by-nc-sa,0,0,Animalia,Chordata,Mammalia,Artiodactyla,Suidae,Sus
+257176,2024-04-26,2024-04-26,2024-04-26,07:21:00,aves,244453,species,Psittacula krameri,41.4195537136,2.0060486502,"Pallejà, Barcelona",needs_id,76,patopi,cc-by-nc-sa,0,0,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Psittacula
+257175,2024-04-26,2024-04-26,2024-04-26,07:17:00,aves,242596,species,Actitis hypoleucos,41.4200975816,2.0056302256,"Pallejà, Barcelona",needs_id,76,patopi,cc-by-nc-sa,0,0,Animalia,Chordata,Aves,Ciconiiformes,Scolopacidae,Actitis
+257174,2024-04-26,2024-04-26,2024-04-26,07:15:00,aves,244592,species,Anas platyrhynchos,41.4200412643,2.0055765801,"Barcelona, España",needs_id,76,patopi,cc-by-nc-sa,0,0,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas
+257173,2024-04-26,2024-04-26,2024-04-26,07:15:00,aves,250289,species,Cettia cetti,41.4197255057,2.0060026652,"Pallejà, Barcelona",needs_id,76,patopi,cc-by-nc-sa,0,0,Animalia,Chordata,Aves,Passeriformes,Sylviidae,Cettia
+257172,2024-04-26,2024-04-26,2024-04-26,07:14:00,aves,244575,species,Anas crecca,41.4184155053,2.0071036558,"Pallejà, Barcelona",needs_id,76,patopi,cc-by-nc-sa,0,0,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas
+257170,2024-04-26,2024-04-26,2024-04-26,07:09:00,aves,252848,species,Passer domesticus,41.4200975816,2.0056302256,"Pallejà, Barcelona",needs_id,76,patopi,cc-by-nc-sa,0,0,Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer
+257169,2024-04-26,2024-04-26,2024-04-26,07:01:00,aves,251700,species,Himantopus himantopus,41.4199749129,2.0060670373,"Pallejà, Barcelona",needs_id,76,patopi,cc-by-nc-sa,0,0,Animalia,Chordata,Aves,Charadriiformes,,Himantopus
+257168,2024-04-26,2024-04-26,2024-04-26,08:25:00,,nan,,,41.3870595566,2.195556052,Spain,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
+257167,2024-04-26,2024-04-26,2024-04-26,08:20:00,,nan,,,41.3874819338,2.1938033597,Spain,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
+257166,2024-04-26,2024-04-26,2024-04-26,08:18:00,,nan,,,41.3874749338,2.1937963597,Spain,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
+257165,2024-04-26,2024-04-26,2024-04-26,08:18:00,,nan,,,41.3874679338,2.1937893597,Spain,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
+257164,2024-04-26,2024-04-26,2024-04-26,08:17:00,,nan,,,41.3874609338,2.1937823597,Spain,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
+257163,2024-04-26,2024-04-26,2024-04-26,08:17:00,,nan,,,41.3874539338,2.1937753597,Spain,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
+257162,2024-04-26,2024-04-26,2024-04-26,08:16:00,,nan,,,41.3874469338,2.1937683597,Spain,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
+257161,2024-04-26,2024-04-26,2024-04-26,08:02:00,aves,249912,species,Garrulus glandarius,41.4022605783,2.1394733677,Spain,needs_id,2245,emilyastr,cc-by,0,0,Animalia,Chordata,Aves,Passeriformes,Corvidae,Garrulus
+257160,2024-04-26,2024-04-26,2024-04-26,08:02:00,aves,252835,species,Parus major,41.4022535783,2.1394663677,Spain,needs_id,2245,emilyastr,cc-by,0,0,Animalia,Chordata,Aves,Passeriformes,Paridae,Parus
+257159,2024-04-26,2024-04-26,2024-04-26,08:02:00,aves,253420,species,Turdus merula,41.4023169526,2.1393785253,Spain,needs_id,2245,emilyastr,cc-by,0,0,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus
+257158,2024-04-26,2024-04-26,2024-04-26,08:12:00,mollusca,246812,species,Rumina decollata,41.4224145663,2.0034431666,Spain,needs_id,76,patopi,cc-by-nc-sa,0,0,Animalia,Mollusca,Gastropoda,Stylommatophora,Subulinidae,Rumina
 257155,2024-04-26,2024-04-26,2024-04-26,07:51:00,plantae,12,kingdom,Plantae,41.4164737099,2.0027493507,Spain,needs_id,76,patopi,cc-by-nc-sa,0,0,,,,,,
 257154,2024-04-26,2024-04-26,2024-04-26,07:29:00,plantae,12,kingdom,Plantae,41.4127380967,2.0084595311,Spain,needs_id,76,patopi,cc-by-nc-sa,0,0,,,,,,
 257153,2024-04-26,2024-04-26,2024-04-26,07:21:00,plantae,12,kingdom,Plantae,41.4118200956,2.0087752022,Spain,needs_id,76,patopi,cc-by-nc-sa,0,0,,,,,,
