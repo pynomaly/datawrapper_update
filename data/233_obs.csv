@@ -1,6 +1,161 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
-257570,2024-04-26,2024-04-26,2024-04-26,09:23:00,,nan,,,41.4100953092,2.2275730726,"Zona de Banys Fòrum, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-257569,2024-04-26,2024-04-26,2024-04-26,09:20:00,,nan,,,41.410085,2.227477,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257609,2024-04-26,2024-04-26,2024-04-26,08:31:00,,nan,,,41.3930246585,2.1832500771,Spain,casual,45,anna_olive_abello,cc-by-nc,0,0,,,,,,
+257608,2024-04-26,2024-04-26,2024-04-26,06:32:00,aves,252853,species,Passer montanus,41.4245305556,2.1893111111,Spain,needs_id,1244,meri,cc-by,0,0,Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer
+257607,2024-04-26,2024-04-26,2024-04-26,06:32:00,aves,252853,species,Passer montanus,41.4245305556,2.1893111111,Spain,needs_id,1244,meri,cc-by,0,0,Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer
+257606,2024-04-26,2024-04-26,2024-04-26,09:42:00,aves,244592,species,Anas platyrhynchos,41.4255361111,2.1806055556,Spain,needs_id,1244,meri,cc-by,0,0,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas
+257605,2024-04-26,2024-04-26,2024-04-26,06:55:00,aves,247963,species,Myiopsitta monachus,41.4245305556,2.1893111111,Spain,needs_id,1244,meri,cc-by,0,0,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Myiopsitta
+257604,2024-04-26,2024-04-26,2024-04-26,08:21:00,actinopterygii,34805,species,Sarpa salpa,41.4103093956,2.2274255635,Spain,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
+257603,2024-04-26,2024-04-26,2024-04-26,08:21:00,actinopterygii,34805,species,Sarpa salpa,41.4103093956,2.2274255635,Spain,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
+257602,2024-04-26,2024-04-26,2024-04-26,08:20:00,actinopterygii,35225,species,Chromis chromis,41.4103093956,2.2274255635,Spain,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
+257601,2024-04-26,2024-04-26,2024-04-26,08:20:00,echinodermata,34848,species,Paracentrotus lividus,41.4100981736,2.2273746016,Spain,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Echinodermata,Echinoidea,Camarodonta,Parechinidae,Paracentrotus
+257600,2024-04-26,2024-04-26,2024-04-26,08:26:00,crustacea,237075,species,Perforatus perforatus,41.4103093956,2.2274255635,Spain,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Arthropoda,,,Balanidae,Perforatus
+257599,2024-04-26,2024-04-26,2024-04-26,08:19:00,crustacea,240381,species,Pachygrapsus marmoratus,41.4103093956,2.2274255635,Spain,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Arthropoda,Malacostraca,Decapoda,Grapsidae,Pachygrapsus
+257598,2024-04-26,2024-04-26,2024-04-26,08:18:00,mollusca,35107,species,Patella caerulea,41.4103093956,2.2274255635,Spain,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Patellogastropoda,Patellidae,Patella
+257597,2024-04-26,2024-04-26,2024-04-26,08:18:00,actinopterygii,35225,species,Chromis chromis,41.4103093956,2.2274255635,Spain,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
+257596,2024-04-26,2024-04-26,2024-04-26,08:18:00,actinopterygii,35225,species,Chromis chromis,41.4100277661,2.227329004,Spain,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
+257595,2024-04-26,2024-04-26,2024-04-26,08:16:00,actinopterygii,34983,species,Parablennius zvonimiri,41.4104569253,2.2273960592,"Barcelona, Espanya",needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+257594,2024-04-26,2024-04-26,2024-04-26,08:13:00,,252060,species,Clibanarius erythropus,41.4102014477,2.2274175169,Spain,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Arthropoda,Malacostraca,Decapoda,Diogenidae,Clibanarius
+257593,2024-04-26,2024-04-26,2024-04-26,08:17:00,mollusca,14784,genus,Patella,41.4102155291,2.2274657967,Spain,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Patellogastropoda,Patellidae,
+257592,2024-04-26,2024-04-26,2024-04-26,08:23:00,animalia,34972,species,Pyura dura,41.4101974244,2.2274389746,Spain,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Ascidiacea,Pleurogona,Pyuridae,Pyura
+257591,2024-04-26,2024-04-26,2024-04-26,08:15:00,plantae,246914,species,Asparagopsis taxiformis,41.4102416804,2.2274497034,Spain,needs_id,9,andrea,cc-by-nc,0,0,Plantae,Rhodophyta,Florideophyceae,Bonnemaisoniales,Bonnemaisoniaceae,Asparagopsis
+257590,2024-04-26,2024-04-26,2024-04-26,08:15:00,,252060,species,Clibanarius erythropus,41.4101149472,2.2273880126,Spain,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Arthropoda,Malacostraca,Decapoda,Diogenidae,Clibanarius
+257589,2024-04-26,2024-04-26,2024-04-26,08:15:00,plantae,246914,species,Asparagopsis taxiformis,41.4101511567,2.2274336102,Spain,needs_id,9,andrea,cc-by-nc,0,0,Plantae,Rhodophyta,Florideophyceae,Bonnemaisoniales,Bonnemaisoniaceae,Asparagopsis
+257588,2024-04-26,2024-04-26,2024-04-26,08:14:00,mollusca,250214,species,Cerithium vulgatum,41.410205471,2.2273960592,Spain,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,,Cerithiidae,Cerithium
+257587,2024-04-26,2024-04-26,2024-04-26,08:14:00,crustacea,240381,species,Pachygrapsus marmoratus,41.4103784717,2.2273263218,Spain,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Arthropoda,Malacostraca,Decapoda,Grapsidae,Pachygrapsus
+257586,2024-04-26,2024-04-26,2024-04-26,08:12:00,actinopterygii,1952,family,Sparidae,41.4102537503,2.2272431733,Spain,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,,
+257585,2024-04-26,2024-04-26,2024-04-26,08:12:00,actinopterygii,1952,family,Sparidae,41.4102416804,2.2272565844,Spain,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,,
+257584,2024-04-26,2024-04-26,2024-04-26,08:12:00,actinopterygii,1952,family,Sparidae,41.4102255873,2.2272270801,Spain,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,,
+257583,2024-04-26,2024-04-26,2024-04-26,08:12:00,actinopterygii,1952,family,Sparidae,41.4102658201,2.2272941353,Spain,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,,
+257582,2024-04-26,2024-04-26,2024-04-26,08:12:00,actinopterygii,1952,family,Sparidae,41.4101913895,2.2272163512,Spain,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,,
+257581,2024-04-26,2024-04-26,2024-04-26,08:07:00,cnidaria,34999,species,Actinia mediterranea,41.4098539202,2.2274443251,"Zona de Banys Fòrum, Barcelona, Espanya",needs_id,9,andrea,cc-by-nc,0,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Actinia
+257580,2024-04-26,2024-04-26,2024-04-26,08:12:00,actinopterygii,35044,species,Aidablennius sphynx,41.4104381699,2.2272512199,Spain,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Aidablennius
+257579,2024-04-26,2024-04-26,2024-04-26,08:11:00,actinopterygii,35114,species,Salaria pavo,41.4103483566,2.2272404911,Spain,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Salaria
+257578,2024-04-26,2024-04-26,2024-04-26,08:09:00,plantae,246914,species,Asparagopsis taxiformis,41.4102920308,2.2271814825,Spain,needs_id,9,andrea,cc-by-nc,0,0,Plantae,Rhodophyta,Florideophyceae,Bonnemaisoniales,Bonnemaisoniaceae,Asparagopsis
+257577,2024-04-26,2024-04-26,2024-04-26,08:08:00,annelida,34800,species,Branchiomma luctuosum,41.4101733442,2.2271010162,Spain,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Annelida,Polychaeta,Sabellida,Sabellidae,Branchiomma
+257576,2024-04-26,2024-04-26,2024-04-26,08:06:00,plantae,253478,species,Ulva rigida,41.4100546573,2.2274336102,Spain,needs_id,9,andrea,cc-by-nc,0,0,Plantae,Chlorophyta,Ulvophyceae,Ulvales,Ulvaceae,Ulva
+257570,2024-04-26,2024-04-26,2024-04-26,09:23:00,annelida,34800,species,Branchiomma luctuosum,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Annelida,Polychaeta,Sabellida,Sabellidae,Branchiomma
+257569,2024-04-26,2024-04-26,2024-04-26,09:20:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257568,2024-04-26,2024-04-26,2024-04-26,09:19:00,annelida,34800,species,Branchiomma luctuosum,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Annelida,Polychaeta,Sabellida,Sabellidae,Branchiomma
+257567,2024-04-26,2024-04-26,2024-04-26,09:19:00,mollusca,250214,species,Cerithium vulgatum,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Mollusca,Gastropoda,,Cerithiidae,Cerithium
+257566,2024-04-26,2024-04-26,2024-04-26,09:19:00,actinopterygii,34835,species,Coris julis,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+257565,2024-04-26,2024-04-26,2024-04-26,09:18:00,plantae,246914,species,Asparagopsis taxiformis,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Plantae,Rhodophyta,Florideophyceae,Bonnemaisoniales,Bonnemaisoniaceae,Asparagopsis
+257564,2024-04-26,2024-04-26,2024-04-26,09:18:00,chromista,35063,species,Dictyota dichotoma,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota
+257563,2024-04-26,2024-04-26,2024-04-26,09:17:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257562,2024-04-26,2024-04-26,2024-04-26,09:16:00,actinopterygii,35250,species,Parablennius pilicornis,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+257561,2024-04-26,2024-04-26,2024-04-26,09:16:00,echinodermata,251875,species,Holothuria tubulosa,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria
+257560,2024-04-26,2024-04-26,2024-04-26,09:15:00,actinopterygii,35065,species,Gobius xanthocephalus,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Gobius
+257559,2024-04-26,2024-04-26,2024-04-26,09:14:00,chromista,35063,species,Dictyota dichotoma,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota
+257558,2024-04-26,2024-04-26,2024-04-26,09:14:00,chromista,35214,species,Dictyota cyanoloma,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota
+257557,2024-04-26,2024-04-26,2024-04-26,09:14:00,echinodermata,251875,species,Holothuria tubulosa,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria
+257556,2024-04-26,2024-04-26,2024-04-26,09:14:00,echinodermata,251875,species,Holothuria tubulosa,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria
+257555,2024-04-26,2024-04-26,2024-04-26,09:13:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257554,2024-04-26,2024-04-26,2024-04-26,09:13:00,echinodermata,34848,species,Paracentrotus lividus,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Echinodermata,Echinoidea,Camarodonta,Parechinidae,Paracentrotus
+257553,2024-04-26,2024-04-26,2024-04-26,09:12:00,actinopterygii,34835,species,Coris julis,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+257552,2024-04-26,2024-04-26,2024-04-26,09:12:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257551,2024-04-26,2024-04-26,2024-04-26,09:12:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257550,2024-04-26,2024-04-26,2024-04-26,09:11:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257549,2024-04-26,2024-04-26,2024-04-26,09:11:00,actinopterygii,34805,species,Sarpa salpa,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
+257548,2024-04-26,2024-04-26,2024-04-26,09:11:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257547,2024-04-26,2024-04-26,2024-04-26,09:10:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257546,2024-04-26,2024-04-26,2024-04-26,09:10:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257545,2024-04-26,2024-04-26,2024-04-26,09:10:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257544,2024-04-26,2024-04-26,2024-04-26,09:09:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257543,2024-04-26,2024-04-26,2024-04-26,09:09:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257542,2024-04-26,2024-04-26,2024-04-26,09:06:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257541,2024-04-26,2024-04-26,2024-04-26,09:05:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257540,2024-04-26,2024-04-26,2024-04-26,09:05:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257539,2024-04-26,2024-04-26,2024-04-26,09:04:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257538,2024-04-26,2024-04-26,2024-04-26,09:03:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257537,2024-04-26,2024-04-26,2024-04-26,09:03:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257536,2024-04-26,2024-04-26,2024-04-26,09:01:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257535,2024-04-26,2024-04-26,2024-04-26,09:01:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257534,2024-04-26,2024-04-26,2024-04-26,09:00:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257533,2024-04-26,2024-04-26,2024-04-26,09:00:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257532,2024-04-26,2024-04-26,2024-04-26,09:00:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257531,2024-04-26,2024-04-26,2024-04-26,08:59:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257530,2024-04-26,2024-04-26,2024-04-26,08:59:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257529,2024-04-26,2024-04-26,2024-04-26,08:58:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257528,2024-04-26,2024-04-26,2024-04-26,08:56:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257527,2024-04-26,2024-04-26,2024-04-26,08:56:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257526,2024-04-26,2024-04-26,2024-04-26,08:55:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257525,2024-04-26,2024-04-26,2024-04-26,08:55:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257524,2024-04-26,2024-04-26,2024-04-26,08:54:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257523,2024-04-26,2024-04-26,2024-04-26,08:54:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257522,2024-04-26,2024-04-26,2024-04-26,08:50:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257521,2024-04-26,2024-04-26,2024-04-26,08:49:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257520,2024-04-26,2024-04-26,2024-04-26,08:49:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257519,2024-04-26,2024-04-26,2024-04-26,08:48:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257518,2024-04-26,2024-04-26,2024-04-26,08:48:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257517,2024-04-26,2024-04-26,2024-04-26,08:48:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257516,2024-04-26,2024-04-26,2024-04-26,08:47:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257515,2024-04-26,2024-04-26,2024-04-26,08:47:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257514,2024-04-26,2024-04-26,2024-04-26,08:47:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257513,2024-04-26,2024-04-26,2024-04-26,08:46:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257512,2024-04-26,2024-04-26,2024-04-26,08:46:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257511,2024-04-26,2024-04-26,2024-04-26,08:45:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257510,2024-04-26,2024-04-26,2024-04-26,08:45:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257509,2024-04-26,2024-04-26,2024-04-26,08:44:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257508,2024-04-26,2024-04-26,2024-04-26,08:43:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257507,2024-04-26,2024-04-26,2024-04-26,08:43:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257506,2024-04-26,2024-04-26,2024-04-26,08:43:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257505,2024-04-26,2024-04-26,2024-04-26,08:43:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257504,2024-04-26,2024-04-26,2024-04-26,08:43:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257503,2024-04-26,2024-04-26,2024-04-26,08:42:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257502,2024-04-26,2024-04-26,2024-04-26,08:42:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257501,2024-04-26,2024-04-26,2024-04-26,08:42:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257500,2024-04-26,2024-04-26,2024-04-26,08:41:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257499,2024-04-26,2024-04-26,2024-04-26,08:41:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257498,2024-04-26,2024-04-26,2024-04-26,08:41:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257497,2024-04-26,2024-04-26,2024-04-26,08:41:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257496,2024-04-26,2024-04-26,2024-04-26,08:40:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257495,2024-04-26,2024-04-26,2024-04-26,08:37:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257494,2024-04-26,2024-04-26,2024-04-26,08:37:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257493,2024-04-26,2024-04-26,2024-04-26,08:36:00,actinopterygii,35125,species,Mullus surmuletus,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Mullidae,Mullus
+257492,2024-04-26,2024-04-26,2024-04-26,08:35:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257491,2024-04-26,2024-04-26,2024-04-26,08:35:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257490,2024-04-26,2024-04-26,2024-04-26,08:34:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257489,2024-04-26,2024-04-26,2024-04-26,08:34:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257488,2024-04-26,2024-04-26,2024-04-26,08:33:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257487,2024-04-26,2024-04-26,2024-04-26,08:32:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257486,2024-04-26,2024-04-26,2024-04-26,08:32:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257485,2024-04-26,2024-04-26,2024-04-26,08:31:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257484,2024-04-26,2024-04-26,2024-04-26,08:31:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257483,2024-04-26,2024-04-26,2024-04-26,08:31:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257482,2024-04-26,2024-04-26,2024-04-26,08:31:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257481,2024-04-26,2024-04-26,2024-04-26,08:30:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257480,2024-04-26,2024-04-26,2024-04-26,08:29:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257479,2024-04-26,2024-04-26,2024-04-26,08:29:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257478,2024-04-26,2024-04-26,2024-04-26,08:29:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257477,2024-04-26,2024-04-26,2024-04-26,08:28:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257476,2024-04-26,2024-04-26,2024-04-26,08:28:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257475,2024-04-26,2024-04-26,2024-04-26,08:27:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257474,2024-04-26,2024-04-26,2024-04-26,08:27:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257473,2024-04-26,2024-04-26,2024-04-26,08:27:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257472,2024-04-26,2024-04-26,2024-04-26,08:26:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257471,2024-04-26,2024-04-26,2024-04-26,08:26:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257470,2024-04-26,2024-04-26,2024-04-26,08:26:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257469,2024-04-26,2024-04-26,2024-04-26,08:26:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257468,2024-04-26,2024-04-26,2024-04-26,08:25:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257467,2024-04-26,2024-04-26,2024-04-26,08:25:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257466,2024-04-26,2024-04-26,2024-04-26,08:24:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257465,2024-04-26,2024-04-26,2024-04-26,08:24:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257464,2024-04-26,2024-04-26,2024-04-26,08:23:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257463,2024-04-26,2024-04-26,2024-04-26,08:23:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257462,2024-04-26,2024-04-26,2024-04-26,08:23:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257461,2024-04-26,2024-04-26,2024-04-26,08:22:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257460,2024-04-26,2024-04-26,2024-04-26,08:21:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257459,2024-04-26,2024-04-26,2024-04-26,08:20:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257458,2024-04-26,2024-04-26,2024-04-26,08:20:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257457,2024-04-26,2024-04-26,2024-04-26,08:20:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257456,2024-04-26,2024-04-26,2024-04-26,08:19:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257455,2024-04-26,2024-04-26,2024-04-26,08:19:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257454,2024-04-26,2024-04-26,2024-04-26,08:19:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257453,2024-04-26,2024-04-26,2024-04-26,08:18:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257452,2024-04-26,2024-04-26,2024-04-26,08:18:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257451,2024-04-26,2024-04-26,2024-04-26,08:18:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257450,2024-04-26,2024-04-26,2024-04-26,08:17:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257449,2024-04-26,2024-04-26,2024-04-26,08:17:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+257448,2024-04-26,2024-04-26,2024-04-26,08:16:00,,nan,,,41.409435,2.227562,Zona de Banys Fòrum,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
 257447,2024-04-26,2024-04-26,2024-04-26,09:04:00,arachnida,1362,family,Thomisidae,41.2790039607,2.0812284597,Platja del Remolar,needs_id,15,mediambient_ajelprat,cc-by-nc,0,0,Animalia,Arthropoda,Arachnida,Araneae,,
 257446,2024-04-26,2024-04-26,2024-04-26,08:11:00,mollusca,34855,species,Sepia officinalis,41.2787521071,2.0809381327,Platja del Remolar,needs_id,15,mediambient_ajelprat,cc-by-nc,0,0,Animalia,Mollusca,Cephalopoda,Sepiida,Sepiidae,Sepia
 257445,2024-04-26,2024-04-26,2024-04-26,08:05:00,elasmobranchii,11990,genus,Raja,41.2787521071,2.0809381327,Platja del Remolar,needs_id,15,mediambient_ajelprat,cc-by-nc,0,0,Animalia,Chordata,Elasmobranchii,Rajiformes,Rajidae,
