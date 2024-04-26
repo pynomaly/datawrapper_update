@@ -1,3 +1,7 @@
-entorn,observacions,espècies
-marí,1,1
-terrestre,1,1
+id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus,marine
+257158,2024-04-26,2024-04-26,2024-04-26,08:12:00,,nan,,,41.4224145663,2.0034431666,Spain,needs_id,76,patopi,cc-by-nc-sa,0,0,,,,,,,
+257155,2024-04-26,2024-04-26,2024-04-26,07:51:00,plantae,12,kingdom,Plantae,41.4164737099,2.0027493507,Spain,needs_id,76,patopi,cc-by-nc-sa,0,0,,,,,,,
+257154,2024-04-26,2024-04-26,2024-04-26,07:29:00,plantae,12,kingdom,Plantae,41.4127380967,2.0084595311,Spain,needs_id,76,patopi,cc-by-nc-sa,0,0,,,,,,,
+257153,2024-04-26,2024-04-26,2024-04-26,07:21:00,plantae,12,kingdom,Plantae,41.4118200956,2.0087752022,Spain,needs_id,76,patopi,cc-by-nc-sa,0,0,,,,,,,
+257152,2024-04-26,2024-04-26,2024-04-26,07:21:00,plantae,12,kingdom,Plantae,41.4118130956,2.0087682022,Spain,needs_id,76,patopi,cc-by-nc-sa,0,0,,,,,,,
+257151,2024-04-26,2024-04-26,2024-04-26,07:21:00,plantae,12,kingdom,Plantae,41.4118060956,2.0087612022,Spain,needs_id,76,patopi,cc-by-nc-sa,0,0,,,,,,,
