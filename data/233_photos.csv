@@ -1,7 +1,8 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
-257609,nan,,,,anna_olive_abello,41.3930246585,2.1832500771,,,257609_nan.jpg
+257609,345060,,,https://minka-sdg.org/attachments/local_photos/files/345060/medium.jpg,anna_olive_abello,41.3930246585,2.1832500771,cc-by-nc,"(c) anna_olive_abello, some rights reserved (CC BY-NC)",257609_345060.jpg
+257609,345061,,,https://minka-sdg.org/attachments/local_photos/files/345061/medium.jpg,anna_olive_abello,41.3930246585,2.1832500771,cc-by-nc,"(c) anna_olive_abello, some rights reserved (CC BY-NC)",257609_345061.jpg
 257608,345059,aves,Passer montanus,https://minka-sdg.org/attachments/local_photos/files/345059/medium.jpg,meri,41.4245305556,2.1893111111,cc-by,"(c) meri, some rights reserved (CC BY)",257608_345059.jpg
-257607,345051,aves,Passer montanus,https://minka-sdg.org/attachments/local_photos/files/345051/medium.jpg,meri,41.4245305556,2.1893111111,cc-by,"(c) meri, some rights reserved (CC BY)",257607_345051.jpg
+257607,345051,aves,Columba palumbus,https://minka-sdg.org/attachments/local_photos/files/345051/medium.jpg,meri,41.4245305556,2.1893111111,cc-by,"(c) meri, some rights reserved (CC BY)",257607_345051.jpg
 257606,345039,aves,Anas platyrhynchos,https://minka-sdg.org/attachments/local_photos/files/345039/medium.jpg,meri,41.4255361111,2.1806055556,cc-by,"(c) meri, some rights reserved (CC BY)",257606_345039.jpg
 257605,345028,aves,Myiopsitta monachus,https://minka-sdg.org/attachments/local_photos/files/345028/medium.jpg,meri,41.4245305556,2.1893111111,cc-by,"(c) meri, some rights reserved (CC BY)",257605_345028.jpg
 257604,344967,actinopterygii,Sarpa salpa,https://minka-sdg.org/attachments/local_photos/files/344967/medium.jpeg,andrea,41.4103093956,2.2274255635,cc-by-nc,"(c) Andrea Comaposada, some rights reserved (CC BY-NC)",257604_344967.jpg

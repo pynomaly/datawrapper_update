@@ -1,7 +1,7 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
-257609,2024-04-26,2024-04-26,2024-04-26,08:31:00,,nan,,,41.3930246585,2.1832500771,Spain,casual,45,anna_olive_abello,cc-by-nc,0,0,,,,,,
+257609,2024-04-26,2024-04-26,2024-04-26,08:31:00,,nan,,,41.3930246585,2.1832500771,Spain,needs_id,45,anna_olive_abello,cc-by-nc,0,0,,,,,,
 257608,2024-04-26,2024-04-26,2024-04-26,06:32:00,aves,252853,species,Passer montanus,41.4245305556,2.1893111111,Spain,needs_id,1244,meri,cc-by,0,0,Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer
-257607,2024-04-26,2024-04-26,2024-04-26,06:32:00,aves,252853,species,Passer montanus,41.4245305556,2.1893111111,Spain,needs_id,1244,meri,cc-by,0,0,Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer
+257607,2024-04-26,2024-04-26,2024-04-26,06:32:00,aves,252272,species,Columba palumbus,41.4245305556,2.1893111111,Spain,needs_id,1244,meri,cc-by,0,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
 257606,2024-04-26,2024-04-26,2024-04-26,09:42:00,aves,244592,species,Anas platyrhynchos,41.4255361111,2.1806055556,Spain,needs_id,1244,meri,cc-by,0,0,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas
 257605,2024-04-26,2024-04-26,2024-04-26,06:55:00,aves,247963,species,Myiopsitta monachus,41.4245305556,2.1893111111,Spain,needs_id,1244,meri,cc-by,0,0,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Myiopsitta
 257604,2024-04-26,2024-04-26,2024-04-26,08:21:00,actinopterygii,34805,species,Sarpa salpa,41.4103093956,2.2274255635,Spain,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
