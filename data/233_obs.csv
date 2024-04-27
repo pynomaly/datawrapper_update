@@ -1,4 +1,8 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+258781,2024-04-27,2024-04-27,2024-04-27,08:11:00,,nan,,,41.4108943009,2.1503501013,Spain,needs_id,1736,gembio,cc-by,0,0,,,,,,
+258780,2024-04-27,2024-04-27,2024-04-27,17:10:00,,nan,,,41.4108970669,2.150365524,Spain,needs_id,1736,gembio,cc-by,0,0,,,,,,
+258779,2024-04-27,2024-04-27,2024-04-27,17:11:00,,nan,,,41.4108953067,2.1502488479,Spain,needs_id,1736,gembio,cc-by,0,0,,,,,,
+258778,2024-04-27,2024-04-27,2024-04-27,17:11:00,,nan,,,41.4108925407,2.1503417194,Spain,needs_id,1736,gembio,cc-by,0,0,,,,,,
 258777,2024-04-27,2024-04-27,2024-04-27,17:11:00,,nan,,,41.4109156743,2.1503269672,Spain,needs_id,1736,gembio,cc-by,0,0,,,,,,
 258775,2024-04-27,2024-04-27,2024-04-27,17:12:00,,nan,,,41.4109219606,2.1502656117,Spain,needs_id,1736,gembio,cc-by,0,0,,,,,,
 258774,2024-04-27,2024-04-27,2024-04-27,17:13:00,,nan,,,41.4109186918,2.1503041685,Spain,needs_id,1736,gembio,cc-by,0,0,,,,,,
@@ -24,11 +28,11 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258746,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718714206,2.0500146623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258745,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718684206,2.0500116623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258744,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718654206,2.0500086623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
-258743,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718624206,2.0500056623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258743,2024-04-27,2024-04-27,2024-04-27,09:22:00,plantae,245425,species,Echinophora spinosa,41.2718624206,2.0500056623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Apiales,Apiaceae,Echinophora
 258742,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718594206,2.0500026623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258741,2024-04-27,2024-04-27,2024-04-27,09:22:00,mollusca,241878,species,Acanthocardia tuberculata,41.2718564206,2.0499996623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Acanthocardia
 258740,2024-04-27,2024-04-27,2024-04-27,09:22:00,mollusca,251218,species,Spisula subtruncata,41.2718534206,2.0499966623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Venerida,Mactridae,Spisula
-258739,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718504206,2.0499936623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258739,2024-04-27,2024-04-27,2024-04-27,09:22:00,plantae,44508,genus,Tamarix,41.2718504206,2.0499936623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Violales,Tamaricaceae,
 258738,2024-04-27,2024-04-27,2024-04-27,09:22:00,plantae,42982,species,Lantana camara,41.2718474206,2.0499906623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Verbenaceae,Lantana
 258737,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718444206,2.0499876623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258736,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718414206,2.0499846623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
@@ -45,7 +49,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258725,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718084206,2.0499516623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258724,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718054206,2.0499486623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258723,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718024206,2.0499456623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
-258722,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717924206,2.0499356623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258722,2024-04-27,2024-04-27,2024-04-27,10:13:00,plantae,90169,species,Calystegia soldanella,41.2717924206,2.0499356623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Convolvulaceae,Calystegia
 258721,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717894206,2.0499326623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258720,2024-04-27,2024-04-27,2024-04-27,10:13:00,cnidaria,253561,species,Velella velella,41.2717864206,2.0499296623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
 258719,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717834206,2.0499266623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
@@ -57,7 +61,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258713,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717684206,2.0499116623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258712,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717654206,2.0499086623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258711,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717624206,2.0499056623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
-258710,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717594206,2.0499026623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258710,2024-04-27,2024-04-27,2024-04-27,10:13:00,mollusca,251218,species,Spisula subtruncata,41.2717594206,2.0499026623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Venerida,Mactridae,Spisula
 258709,2024-04-27,2024-04-27,2024-04-27,10:13:00,cnidaria,253561,species,Velella velella,41.2717564206,2.0498996623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
 258708,2024-04-27,2024-04-27,2024-04-27,10:13:00,mollusca,241878,species,Acanthocardia tuberculata,41.2717534206,2.0498966623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Acanthocardia
 258707,2024-04-27,2024-04-27,2024-04-27,10:13:00,mollusca,241878,species,Acanthocardia tuberculata,41.2717504206,2.0498936623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Acanthocardia
@@ -100,12 +104,12 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258669,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2915904258,2.1090151088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258668,2024-04-27,2024-04-27,2024-04-27,15:35:00,insecta,40510,genus,Lachnaia,41.2915874258,2.1090121088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Coleoptera,Chrysomelidae,
 258667,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2915844258,2.1090091088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
-258666,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2915814258,2.1090061088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
-258665,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2915784258,2.1090031088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
-258664,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2915754258,2.1090001088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
-258663,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2915724258,2.1089971088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
-258662,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2915694258,2.1089941088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
-258661,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2915664258,2.1089911088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258666,2024-04-27,2024-04-27,2024-04-27,15:35:00,crustacea,243588,species,Lepas pectinata,41.2915814258,2.1090061088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Arthropoda,,,Lepadidae,Lepas
+258665,2024-04-27,2024-04-27,2024-04-27,15:35:00,mollusca,251218,species,Spisula subtruncata,41.2915784258,2.1090031088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Venerida,Mactridae,Spisula
+258664,2024-04-27,2024-04-27,2024-04-27,15:35:00,mollusca,34855,species,Sepia officinalis,41.2915754258,2.1090001088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Mollusca,Cephalopoda,Sepiida,Sepiidae,Sepia
+258663,2024-04-27,2024-04-27,2024-04-27,15:35:00,mollusca,250465,species,Chamelea gallina,41.2915724258,2.1089971088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Venerida,Veneridae,Chamelea
+258662,2024-04-27,2024-04-27,2024-04-27,15:35:00,mollusca,249089,species,Glycymeris glycymeris,41.2915694258,2.1089941088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Arcida,Glycymerididae,Glycymeris
+258661,2024-04-27,2024-04-27,2024-04-27,15:35:00,mollusca,241878,species,Acanthocardia tuberculata,41.2915664258,2.1089911088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Acanthocardia
 258660,2024-04-27,2024-04-27,2024-04-26,08:17:00,crustacea,251234,species,Chthamalus stellatus,41.4104320534,2.2274104902,"Barcelona, Espanya",research,9,andrea,cc-by-nc,1,0,Animalia,Arthropoda,,,Chthamalidae,Chthamalus
 258659,2024-04-27,2024-04-27,2024-04-26,09:32:00,actinopterygii,34805,species,Sarpa salpa,41.409787437,2.2269867012,Spain,needs_id,9,andrea,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
 258658,2024-04-27,2024-04-27,2024-04-26,09:32:00,actinopterygii,61913,genus,Atherina,41.4099000894,2.2269564858,Spain,needs_id,9,andrea,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Atheriniformes,Atherinidae,
@@ -198,7 +202,6 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258549,2024-04-27,2024-04-27,2024-04-27,14:58:00,,nan,,,41.3876937,2.1839421,"Passeig de Picasso, 7, Ciutat Vella, 08003 Barcelona, España",needs_id,83,nuriasireni,cc-by-nc,0,0,,,,,,
 258548,2024-04-27,2024-04-27,2024-04-27,14:58:00,,nan,,,41.3876937,2.1839421,"Passeig de Picasso, 7, Ciutat Vella, 08003 Barcelona, España",needs_id,83,nuriasireni,cc-by-nc,0,0,,,,,,
 258547,2024-04-27,2024-04-27,2024-04-27,14:58:00,,nan,,,41.3876937,2.1839421,"Passeig de Picasso, 7, Ciutat Vella, 08003 Barcelona, España",needs_id,83,nuriasireni,cc-by-nc,0,0,,,,,,
-258546,2024-04-27,2024-04-27,2024-04-27,14:58:00,plantae,262865,species,Sansevieria trifasciata,41.3876937,2.1839421,"Passeig de Picasso, 7, Ciutat Vella, 08003 Barcelona, España",needs_id,83,nuriasireni,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Asparagales,Asparagaceae,Sansevieria
 258546,2024-04-27,2024-04-27,2024-04-27,14:58:00,plantae,262865,species,Sansevieria trifasciata,41.3876937,2.1839421,"Passeig de Picasso, 7, Ciutat Vella, 08003 Barcelona, España",needs_id,83,nuriasireni,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Asparagales,Asparagaceae,Sansevieria
 258545,2024-04-27,2024-04-27,2024-04-27,15:04:00,plantae,247405,species,Salvia microphylla,41.3863045548,2.1593608226,Spain,casual,2258,lydiat,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Lamiaceae,Salvia
 258544,2024-04-27,2024-04-27,2024-04-26,14:50:00,cnidaria,34999,species,Actinia mediterranea,41.4103203916,2.2272552394,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Actinia
