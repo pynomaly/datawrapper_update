@@ -59,7 +59,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258884,2024-04-27,2024-04-27,2024-04-27,09:13:00,,nan,,,41.2718121581,2.050681226,,needs_id,2285,elisabetd,cc-by,0,0,,,,,,
 258882,2024-04-27,2024-04-27,2024-04-27,09:35:00,plantae,244728,species,Lobularia maritima,41.2718809513,2.0507499576,,needs_id,2285,elisabetd,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Capparales,Brassicaceae,
 258881,2024-04-27,2024-04-27,2024-04-27,09:01:00,plantae,42982,species,Lantana camara,41.2715216133,2.0482109115,,needs_id,2285,elisabetd,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Verbenaceae,Lantana
-258877,2024-04-27,2024-04-27,2024-04-27,09:17:00,plantae,90169,species,Calystegia soldanella,41.2715251412,2.0482729375,,needs_id,2285,elisabetd,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Convolvulaceae,Calystegia
+258877,2024-04-27,2024-04-27,2024-04-27,09:17:00,plantae,90169,species,Calystegia soldanella,41.2715251412,2.0482729375,,research,2285,elisabetd,cc-by,1,0,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Convolvulaceae,Calystegia
 258860,2024-04-27,2024-04-27,2024-04-26,15:09:00,cnidaria,253561,species,Velella velella,41.4112701,2.227734,"Zona de Banys Fòrum, Barcelona, España",research,556,nereavieitez,cc-by-nc,1,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
 258859,2024-04-27,2024-04-27,2024-04-26,09:29:00,actinopterygii,35125,species,Mullus surmuletus,41.4088585124,2.226973772,Spain,needs_id,1030,mingokt,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Mullidae,Mullus
 258858,2024-04-27,2024-04-27,2024-04-26,09:37:00,,nan,,,41.4088585124,2.226973772,Spain,needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
@@ -402,7 +402,6 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258486,2024-04-27,2024-04-27,2024-04-27,11:25:00,cnidaria,84515,genus,Aequorea,41.2712519,2.0468001,,needs_id,2291,ikerperez,cc-by,0,0,Animalia,Cnidaria,Hydrozoa,Leptothecata,Aequoreidae,
 258485,2024-04-27,2024-04-27,2024-04-27,10:10:00,,nan,,,41.2712892,2.0467815,,casual,2294,sergggio,cc-by,0,0,,,,,,
 258484,2024-04-27,2024-04-27,2024-04-27,10:10:00,cnidaria,253561,species,Velella velella,41.2712862,2.0467785,,research,2294,sergggio,cc-by,2,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
-258227,2024-04-27,2024-04-27,2024-04-27,09:13:00,plantae,221647,species,Paronychia argentea,41.2714674352,2.0484563336,,casual,988,elibonfill,C,0,0,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,Paronychia
 258221,2024-04-27,2024-04-27,2024-04-27,09:02:00,plantae,42982,species,Lantana camara,41.2716395,2.0473142,,needs_id,2292,keco,cc-by,1,0,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Verbenaceae,Lantana
 258220,2024-04-27,2024-04-27,2024-04-27,08:17:00,,nan,,,41.2713831985,2.0474229601,,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
 258219,2024-04-27,2024-04-27,2024-04-27,08:17:00,,nan,,,41.2713801985,2.0474199601,,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
