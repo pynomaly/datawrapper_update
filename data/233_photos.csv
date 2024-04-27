@@ -1,4 +1,5 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+258623,346343,aves,Upupa epops,https://minka-sdg.org/attachments/local_photos/files/346343/medium.jpeg,pitubis,41.3554261,1.9793518,cc-by-nc,"(c) pitubis, some rights reserved (CC BY-NC)",258623_346343.jpg
 258621,346319,aves,Sturnus vulgaris,https://minka-sdg.org/attachments/local_photos/files/346319/medium.jpeg,vicent,41.3464716299,1.9548574795,cc-by-nc,"(c) Vicenç Roig Vidal, some rights reserved (CC BY-NC)",258621_346319.jpg
 258620,346318,aves,Passer domesticus,https://minka-sdg.org/attachments/local_photos/files/346318/medium.jpeg,vicent,41.3467909367,1.954237635,cc-by-nc,"(c) Vicenç Roig Vidal, some rights reserved (CC BY-NC)",258620_346318.jpg
 258619,346317,aves,Motacilla cinerea,https://minka-sdg.org/attachments/local_photos/files/346317/medium.jpeg,vicent,41.3744510178,1.9912703406,cc-by-nc,"(c) Vicenç Roig Vidal, some rights reserved (CC BY-NC)",258619_346317.jpg
@@ -77,7 +78,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 258548,346228,,,https://minka-sdg.org/attachments/local_photos/files/346228/medium.jpg,nuriasireni,41.3876937,2.1839421,cc-by-nc,"(c) NÚRIA, some rights reserved (CC BY-NC)",258548_346228.jpg
 258547,346227,,,https://minka-sdg.org/attachments/local_photos/files/346227/medium.jpg,nuriasireni,41.3876937,2.1839421,cc-by-nc,"(c) NÚRIA, some rights reserved (CC BY-NC)",258547_346227.jpg
 258546,346226,plantae,Sansevieria trifasciata,https://minka-sdg.org/attachments/local_photos/files/346226/medium.jpg,nuriasireni,41.3876937,2.1839421,cc-by-nc,"(c) NÚRIA, some rights reserved (CC BY-NC)",258546_346226.jpg
-258545,nan,plantae,Salvia microphylla,,lydiat,41.3863045548,2.1593608226,,,258545_nan.jpg
+258545,346325,plantae,Salvia microphylla,https://minka-sdg.org/attachments/local_photos/files/346325/medium.jpg,lydiat,41.3863045548,2.1593608226,cc-by,"(c) Lydia Tuset, some rights reserved (CC BY)",258545_346325.jpg
 258544,346225,cnidaria,Actinia mediterranea,https://minka-sdg.org/attachments/local_photos/files/346225/medium.jpg,ngoncubells,41.4103203916,2.2272552394,cc-by-nc,"(c) Núria Cubells, some rights reserved (CC BY-NC)",258544_346225.jpg
 258543,346224,annelida,Branchiomma luctuosum,https://minka-sdg.org/attachments/local_photos/files/346224/medium.jpg,ngoncubells,41.41029218,2.2273093344,cc-by-nc,"(c) Núria Cubells, some rights reserved (CC BY-NC)",258543_346224.jpg
 258542,346223,actinopterygii,Aidablennius sphynx,https://minka-sdg.org/attachments/local_photos/files/346223/medium.jpg,ngoncubells,41.41029218,2.2273093344,cc-by-nc,"(c) Núria Cubells, some rights reserved (CC BY-NC)",258542_346223.jpg
@@ -347,7 +348,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 258023,345778,actinopterygii,Labrus merula,https://minka-sdg.org/attachments/local_photos/files/345778/medium.jpeg,andrea,41.4095803292,2.227143914,cc-by-nc,"(c) Andrea Comaposada, some rights reserved (CC BY-NC)",258023_345778.jpg
 258022,345777,actinopterygii,Symphodus tinca,https://minka-sdg.org/attachments/local_photos/files/345777/medium.jpeg,andrea,41.4095803292,2.227143914,cc-by-nc,"(c) Andrea Comaposada, some rights reserved (CC BY-NC)",258022_345777.jpg
 258021,345776,crustacea,Perforatus perforatus,https://minka-sdg.org/attachments/local_photos/files/345776/medium.jpeg,andrea,41.4095803292,2.227143914,cc-by-nc,"(c) Andrea Comaposada, some rights reserved (CC BY-NC)",258021_345776.jpg
-258020,345775,actinopterygii,Diplodus vulgaris,https://minka-sdg.org/attachments/local_photos/files/345775/medium.jpeg,andrea,41.4095803292,2.227143914,cc-by-nc,"(c) Andrea Comaposada, some rights reserved (CC BY-NC)",258020_345775.jpg
+258020,345775,actinopterygii,Diplodus sargus,https://minka-sdg.org/attachments/local_photos/files/345775/medium.jpeg,andrea,41.4095803292,2.227143914,cc-by-nc,"(c) Andrea Comaposada, some rights reserved (CC BY-NC)",258020_345775.jpg
 258019,345774,actinopterygii,Parablennius pilicornis,https://minka-sdg.org/attachments/local_photos/files/345774/medium.jpeg,andrea,41.4095803292,2.227143914,cc-by-nc,"(c) Andrea Comaposada, some rights reserved (CC BY-NC)",258019_345774.jpg
 258018,345773,actinopterygii,Gobius incognitus,https://minka-sdg.org/attachments/local_photos/files/345773/medium.jpeg,andrea,41.4095803292,2.227143914,cc-by-nc,"(c) Andrea Comaposada, some rights reserved (CC BY-NC)",258018_345773.jpg
 258017,345772,actinopterygii,Tripterygion tripteronotum,https://minka-sdg.org/attachments/local_photos/files/345772/medium.jpeg,andrea,41.4095803292,2.227143914,cc-by-nc,"(c) Andrea Comaposada, some rights reserved (CC BY-NC)",258017_345772.jpg
