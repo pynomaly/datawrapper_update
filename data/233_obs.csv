@@ -1,4 +1,13 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+258537,2024-04-27,2024-04-27,2024-04-26,14:41:00,,nan,,,41.4103524382,2.2273053661,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+258536,2024-04-27,2024-04-27,2024-04-26,14:41:00,,nan,,,41.4103524382,2.2273053661,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+258535,2024-04-27,2024-04-27,2024-04-26,14:41:00,,nan,,,41.4103524382,2.2273053661,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+258534,2024-04-27,2024-04-27,2024-04-26,14:37:00,,nan,,,41.4102392103,2.2272863768,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+258533,2024-04-27,2024-04-27,2024-04-26,14:37:00,crustacea,240381,species,Pachygrapsus marmoratus,41.4102398947,2.2272839433,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Arthropoda,Malacostraca,Decapoda,Grapsidae,Pachygrapsus
+258532,2024-04-27,2024-04-27,2024-04-26,14:37:00,,nan,,,41.4102386187,2.2272751219,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+258531,2024-04-27,2024-04-27,2024-04-26,14:32:00,,nan,,,41.4103094204,2.2273297566,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+258530,2024-04-27,2024-04-27,2024-04-26,14:32:00,mollusca,35075,species,Octopus vulgaris,41.4103080516,2.2273233687,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus
+258529,2024-04-27,2024-04-27,2024-04-26,14:32:00,,nan,,,41.4103133917,2.2273133305,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
 258528,2024-04-27,2024-04-27,2024-04-27,09:10:00,,nan,,,41.2715131304,2.0505077658,,needs_id,2295,prdsoul,cc-by,0,0,,,,,,
 258527,2024-04-27,2024-04-27,2024-04-26,14:24:00,,nan,,,41.4103196671,2.2273281305,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
 258526,2024-04-27,2024-04-27,2024-04-26,14:24:00,,nan,,,41.4103196671,2.2273281305,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
