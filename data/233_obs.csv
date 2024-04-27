@@ -1,4 +1,6 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+258881,2024-04-27,2024-04-27,2024-04-27,09:01:00,plantae,42982,species,Lantana camara,41.2715216133,2.0482109115,,needs_id,2285,elisabetd,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Verbenaceae,Lantana
+258877,2024-04-27,2024-04-27,2024-04-27,09:17:00,plantae,90169,species,Calystegia soldanella,41.2715251412,2.0482729375,,needs_id,2285,elisabetd,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Convolvulaceae,Calystegia
 258860,2024-04-27,2024-04-27,2024-04-26,15:09:00,cnidaria,253561,species,Velella velella,41.4112701,2.227734,"Zona de Banys Fòrum, Barcelona, España",needs_id,556,nereavieitez,cc-by-nc,0,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
 258859,2024-04-27,2024-04-27,2024-04-26,09:29:00,actinopterygii,35125,species,Mullus surmuletus,41.4088585124,2.226973772,Spain,needs_id,1030,mingokt,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Mullidae,Mullus
 258858,2024-04-27,2024-04-27,2024-04-26,09:37:00,,nan,,,41.4088585124,2.226973772,Spain,needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
