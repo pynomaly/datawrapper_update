@@ -5,21 +5,21 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258502,2024-04-27,2024-04-27,2024-04-27,10:15:00,,nan,,,41.2719416701,2.0507095321,,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
 258501,2024-04-27,2024-04-27,2024-04-27,10:15:00,,nan,,,41.2719386701,2.0507065321,,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
 258500,2024-04-27,2024-04-27,2024-04-27,10:15:00,,nan,,,41.2719356701,2.0507035321,,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
-258499,2024-04-27,2024-04-27,2024-04-27,10:15:00,,nan,,,41.2719326701,2.0507005321,,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
-258498,2024-04-27,2024-04-27,2024-04-27,10:15:00,,nan,,,41.2719296701,2.0506975321,,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
+258499,2024-04-27,2024-04-27,2024-04-27,10:15:00,plantae,44508,genus,Tamarix,41.2719326701,2.0507005321,,needs_id,817,marinatorresgi,cc0,0,0,Plantae,Magnoliophyta,Magnoliopsida,Violales,Tamaricaceae,
+258498,2024-04-27,2024-04-27,2024-04-27,10:15:00,plantae,42982,species,Lantana camara,41.2719296701,2.0506975321,,needs_id,817,marinatorresgi,cc0,0,0,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Verbenaceae,Lantana
 258497,2024-04-27,2024-04-27,2024-04-27,10:15:00,,nan,,,41.2719266701,2.0506945321,,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
 258496,2024-04-27,2024-04-27,2024-04-27,10:15:00,,nan,,,41.2719236701,2.0506915321,,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
-258495,2024-04-27,2024-04-27,2024-04-27,10:15:00,,nan,,,41.2719206701,2.0506885321,,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
+258495,2024-04-27,2024-04-27,2024-04-27,10:15:00,plantae,49271,genus,Xanthium,41.2719206701,2.0506885321,,needs_id,817,marinatorresgi,cc0,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,
 258494,2024-04-27,2024-04-27,2024-04-27,10:15:00,,nan,,,41.2719176701,2.0506855321,,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
-258493,2024-04-27,2024-04-27,2024-04-27,10:15:00,,nan,,,41.2719146701,2.0506825321,,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
+258493,2024-04-27,2024-04-27,2024-04-27,10:15:00,plantae,90169,species,Calystegia soldanella,41.2719146701,2.0506825321,,needs_id,817,marinatorresgi,cc0,0,0,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Convolvulaceae,Calystegia
 258492,2024-04-27,2024-04-27,2024-04-27,10:15:00,,nan,,,41.2719116701,2.0506795321,,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
-258491,2024-04-27,2024-04-27,2024-04-27,10:15:00,,nan,,,41.2719086701,2.0506765321,,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
+258491,2024-04-27,2024-04-27,2024-04-27,10:15:00,cnidaria,253561,species,Velella velella,41.2719086701,2.0506765321,,needs_id,817,marinatorresgi,cc0,0,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
 258489,2024-04-27,2024-04-27,2024-04-27,10:10:00,,nan,,,41.2712922,2.0467845,,casual,2294,sergggio,cc-by,0,0,,,,,,
 258488,2024-04-27,2024-04-27,2024-04-27,11:25:00,,nan,,,41.2712579,2.0468061,,casual,2291,ikerperez,cc-by,0,0,,,,,,
-258487,2024-04-27,2024-04-27,2024-04-27,11:25:00,,nan,,,41.2712549,2.0468031,,needs_id,2291,ikerperez,cc-by,0,0,,,,,,
-258486,2024-04-27,2024-04-27,2024-04-27,11:25:00,,nan,,,41.2712519,2.0468001,,needs_id,2291,ikerperez,cc-by,0,0,,,,,,
+258487,2024-04-27,2024-04-27,2024-04-27,11:25:00,cnidaria,240423,species,Aequorea forskalea,41.2712549,2.0468031,,needs_id,2291,ikerperez,cc-by,0,0,Animalia,Cnidaria,Hydrozoa,Leptothecata,Aequoreidae,Aequorea
+258486,2024-04-27,2024-04-27,2024-04-27,11:25:00,cnidaria,84515,genus,Aequorea,41.2712519,2.0468001,,needs_id,2291,ikerperez,cc-by,0,0,Animalia,Cnidaria,Hydrozoa,Leptothecata,Aequoreidae,
 258485,2024-04-27,2024-04-27,2024-04-27,10:10:00,,nan,,,41.2712892,2.0467815,,casual,2294,sergggio,cc-by,0,0,,,,,,
-258484,2024-04-27,2024-04-27,2024-04-27,10:10:00,,nan,,,41.2712862,2.0467785,,needs_id,2294,sergggio,cc-by,0,0,,,,,,
+258484,2024-04-27,2024-04-27,2024-04-27,10:10:00,cnidaria,253561,species,Velella velella,41.2712862,2.0467785,,needs_id,2294,sergggio,cc-by,0,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
 258227,2024-04-27,2024-04-27,2024-04-27,09:13:00,plantae,221647,species,Paronychia argentea,41.2714674352,2.0484563336,,casual,988,elibonfill,C,0,0,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,Paronychia
 258221,2024-04-27,2024-04-27,2024-04-27,09:02:00,plantae,42981,genus,Lantana,41.2716395,2.0473142,,needs_id,2292,keco,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Verbenaceae,
 258220,2024-04-27,2024-04-27,2024-04-27,08:17:00,,nan,,,41.2713831985,2.0474229601,,needs_id,817,marinatorresgi,cc0,0,0,,,,,,

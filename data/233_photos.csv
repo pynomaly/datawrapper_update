@@ -5,21 +5,21 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 258502,346181,,,https://minka-sdg.org/attachments/local_photos/files/346181/medium.jpg,marinatorresgi,41.2719416701,2.0507095321,C,"(c) Marina Torres Gibert, all rights reserved",258502_346181.jpg
 258501,346180,,,https://minka-sdg.org/attachments/local_photos/files/346180/medium.jpg,marinatorresgi,41.2719386701,2.0507065321,C,"(c) Marina Torres Gibert, all rights reserved",258501_346180.jpg
 258500,346179,,,https://minka-sdg.org/attachments/local_photos/files/346179/medium.jpg,marinatorresgi,41.2719356701,2.0507035321,C,"(c) Marina Torres Gibert, all rights reserved",258500_346179.jpg
-258499,346178,,,https://minka-sdg.org/attachments/local_photos/files/346178/medium.jpg,marinatorresgi,41.2719326701,2.0507005321,C,"(c) Marina Torres Gibert, all rights reserved",258499_346178.jpg
-258498,346177,,,https://minka-sdg.org/attachments/local_photos/files/346177/medium.jpg,marinatorresgi,41.2719296701,2.0506975321,C,"(c) Marina Torres Gibert, all rights reserved",258498_346177.jpg
+258499,346178,plantae,Tamarix,https://minka-sdg.org/attachments/local_photos/files/346178/medium.jpg,marinatorresgi,41.2719326701,2.0507005321,C,"(c) Marina Torres Gibert, all rights reserved",258499_346178.jpg
+258498,346177,plantae,Lantana camara,https://minka-sdg.org/attachments/local_photos/files/346177/medium.jpg,marinatorresgi,41.2719296701,2.0506975321,C,"(c) Marina Torres Gibert, all rights reserved",258498_346177.jpg
 258497,346176,,,https://minka-sdg.org/attachments/local_photos/files/346176/medium.jpg,marinatorresgi,41.2719266701,2.0506945321,C,"(c) Marina Torres Gibert, all rights reserved",258497_346176.jpg
 258496,346175,,,https://minka-sdg.org/attachments/local_photos/files/346175/medium.jpg,marinatorresgi,41.2719236701,2.0506915321,C,"(c) Marina Torres Gibert, all rights reserved",258496_346175.jpg
-258495,346174,,,https://minka-sdg.org/attachments/local_photos/files/346174/medium.jpg,marinatorresgi,41.2719206701,2.0506885321,C,"(c) Marina Torres Gibert, all rights reserved",258495_346174.jpg
+258495,346174,plantae,Xanthium,https://minka-sdg.org/attachments/local_photos/files/346174/medium.jpg,marinatorresgi,41.2719206701,2.0506885321,C,"(c) Marina Torres Gibert, all rights reserved",258495_346174.jpg
 258494,346173,,,https://minka-sdg.org/attachments/local_photos/files/346173/medium.jpg,marinatorresgi,41.2719176701,2.0506855321,C,"(c) Marina Torres Gibert, all rights reserved",258494_346173.jpg
-258493,346172,,,https://minka-sdg.org/attachments/local_photos/files/346172/medium.jpg,marinatorresgi,41.2719146701,2.0506825321,C,"(c) Marina Torres Gibert, all rights reserved",258493_346172.jpg
+258493,346172,plantae,Calystegia soldanella,https://minka-sdg.org/attachments/local_photos/files/346172/medium.jpg,marinatorresgi,41.2719146701,2.0506825321,C,"(c) Marina Torres Gibert, all rights reserved",258493_346172.jpg
 258492,346171,,,https://minka-sdg.org/attachments/local_photos/files/346171/medium.jpg,marinatorresgi,41.2719116701,2.0506795321,C,"(c) Marina Torres Gibert, all rights reserved",258492_346171.jpg
-258491,346170,,,https://minka-sdg.org/attachments/local_photos/files/346170/medium.jpg,marinatorresgi,41.2719086701,2.0506765321,C,"(c) Marina Torres Gibert, all rights reserved",258491_346170.jpg
+258491,346170,cnidaria,Velella velella,https://minka-sdg.org/attachments/local_photos/files/346170/medium.jpg,marinatorresgi,41.2719086701,2.0506765321,C,"(c) Marina Torres Gibert, all rights reserved",258491_346170.jpg
 258489,nan,,,,sergggio,41.2712922,2.0467845,,,258489_nan.jpg
 258488,nan,,,,ikerperez,41.2712579,2.0468061,,,258488_nan.jpg
-258487,346168,,,https://minka-sdg.org/attachments/local_photos/files/346168/medium.jpg,ikerperez,41.2712549,2.0468031,cc-by,"(c) iker Joel Perez Andreu, some rights reserved (CC BY)",258487_346168.jpg
-258486,346167,,,https://minka-sdg.org/attachments/local_photos/files/346167/medium.jpg,ikerperez,41.2712519,2.0468001,cc-by,"(c) iker Joel Perez Andreu, some rights reserved (CC BY)",258486_346167.jpg
+258487,346168,cnidaria,Aequorea forskalea,https://minka-sdg.org/attachments/local_photos/files/346168/medium.jpg,ikerperez,41.2712549,2.0468031,cc-by,"(c) iker Joel Perez Andreu, some rights reserved (CC BY)",258487_346168.jpg
+258486,346167,cnidaria,Aequorea,https://minka-sdg.org/attachments/local_photos/files/346167/medium.jpg,ikerperez,41.2712519,2.0468001,cc-by,"(c) iker Joel Perez Andreu, some rights reserved (CC BY)",258486_346167.jpg
 258485,nan,,,,sergggio,41.2712892,2.0467815,,,258485_nan.jpg
-258484,346166,,,https://minka-sdg.org/attachments/local_photos/files/346166/medium.jpg,sergggio,41.2712862,2.0467785,cc-by,"(c) sergio pardina, some rights reserved (CC BY)",258484_346166.jpg
+258484,346166,cnidaria,Velella velella,https://minka-sdg.org/attachments/local_photos/files/346166/medium.jpg,sergggio,41.2712862,2.0467785,cc-by,"(c) sergio pardina, some rights reserved (CC BY)",258484_346166.jpg
 258227,nan,plantae,Paronychia argentea,,elibonfill,41.2714674352,2.0484563336,,,258227_nan.jpg
 258221,345855,plantae,Lantana,https://minka-sdg.org/attachments/local_photos/files/345855/medium.jpg,keco,41.2716395,2.0473142,cc-by,"(c) Sergio, some rights reserved (CC BY)",258221_345855.jpg
 258220,345854,,,https://minka-sdg.org/attachments/local_photos/files/345854/medium.jpg,marinatorresgi,41.2713831985,2.0474229601,C,"(c) Marina Torres Gibert, all rights reserved",258220_345854.jpg
