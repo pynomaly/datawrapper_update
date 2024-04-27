@@ -1,16 +1,16 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
 258887,2024-04-27,2024-04-27,2024-04-27,10:16:00,,nan,,,41.2715956986,2.0512247086,,needs_id,2285,elisabetd,cc-by,0,0,,,,,,
-258886,2024-04-27,2024-04-27,2024-04-27,10:09:00,cnidaria,57376,genus,Velella,41.2714031775,2.050983645,,needs_id,2285,elisabetd,cc-by,0,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,
+258886,2024-04-27,2024-04-27,2024-04-27,10:09:00,cnidaria,253561,species,Velella velella,41.2714031775,2.050983645,,needs_id,2285,elisabetd,cc-by,1,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
 258885,2024-04-27,2024-04-27,2024-04-27,09:13:00,,nan,,,41.2715992264,2.0489180088,,needs_id,2285,elisabetd,cc-by,0,0,,,,,,
 258884,2024-04-27,2024-04-27,2024-04-27,09:13:00,,nan,,,41.2718121581,2.050681226,,needs_id,2285,elisabetd,cc-by,0,0,,,,,,
 258882,2024-04-27,2024-04-27,2024-04-27,09:35:00,plantae,244728,species,Lobularia maritima,41.2718809513,2.0507499576,,needs_id,2285,elisabetd,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Capparales,Brassicaceae,
 258881,2024-04-27,2024-04-27,2024-04-27,09:01:00,plantae,42982,species,Lantana camara,41.2715216133,2.0482109115,,needs_id,2285,elisabetd,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Verbenaceae,Lantana
 258877,2024-04-27,2024-04-27,2024-04-27,09:17:00,plantae,90169,species,Calystegia soldanella,41.2715251412,2.0482729375,,needs_id,2285,elisabetd,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Convolvulaceae,Calystegia
-258860,2024-04-27,2024-04-27,2024-04-26,15:09:00,cnidaria,253561,species,Velella velella,41.4112701,2.227734,"Zona de Banys Fòrum, Barcelona, España",needs_id,556,nereavieitez,cc-by-nc,0,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
+258860,2024-04-27,2024-04-27,2024-04-26,15:09:00,cnidaria,253561,species,Velella velella,41.4112701,2.227734,"Zona de Banys Fòrum, Barcelona, España",research,556,nereavieitez,cc-by-nc,1,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
 258859,2024-04-27,2024-04-27,2024-04-26,09:29:00,actinopterygii,35125,species,Mullus surmuletus,41.4088585124,2.226973772,Spain,needs_id,1030,mingokt,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Mullidae,Mullus
 258858,2024-04-27,2024-04-27,2024-04-26,09:37:00,,nan,,,41.4088585124,2.226973772,Spain,needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 258857,2024-04-27,2024-04-27,2024-04-26,09:17:00,actinopterygii,13755,species,Serranus cabrilla,41.4088585124,2.226973772,Spain,needs_id,1030,mingokt,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Serranus
-258856,2024-04-27,2024-04-27,2024-04-26,09:16:00,mollusca,250214,species,Cerithium vulgatum,41.4088585124,2.226973772,Spain,needs_id,1030,mingokt,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,,Cerithiidae,Cerithium
+258856,2024-04-27,2024-04-27,2024-04-26,09:16:00,mollusca,250214,species,Cerithium vulgatum,41.4088585124,2.226973772,Spain,research,1030,mingokt,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,,Cerithiidae,Cerithium
 258855,2024-04-27,2024-04-27,2024-04-26,09:16:00,,nan,,,41.4088585124,2.226973772,Spain,needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 258854,2024-04-27,2024-04-27,2024-04-26,09:15:00,plantae,244641,species,Lithophyllum incrustans,41.4088585124,2.226973772,Spain,needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,Lithophyllum
 258853,2024-04-27,2024-04-27,2024-04-26,08:31:00,,nan,,,41.4088585124,2.226973772,Spain,needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
@@ -84,7 +84,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258784,2024-04-27,2024-04-27,2024-04-26,19:24:00,actinopterygii,246899,species,Boops boops,41.4094193964,2.227669627,"El Besòs i el Maresme, Sant Martí, Barcelona, España",research,691,virginia_canet,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Boops
 258783,2024-04-27,2024-04-27,2024-04-26,19:22:00,actinopterygii,35213,species,Diplodus puntazzo,41.4094193964,2.227669627,"El Besòs i el Maresme, Sant Martí, Barcelona, España",research,691,virginia_canet,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
 258782,2024-04-27,2024-04-27,2024-04-26,19:21:00,actinopterygii,240400,species,Oblada melanura,41.4094193964,2.227669627,"El Besòs i el Maresme, Sant Martí, Barcelona, España",research,691,virginia_canet,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Oblada
-258781,2024-04-27,2024-04-27,2024-04-27,08:11:00,aves,252272,species,Columba palumbus,41.4108943009,2.1503501013,Spain,needs_id,1736,gembio,cc-by,0,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
+258781,2024-04-27,2024-04-27,2024-04-27,08:11:00,aves,252272,species,Columba palumbus,41.4108943009,2.1503501013,Spain,research,1736,gembio,cc-by,2,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
 258780,2024-04-27,2024-04-27,2024-04-27,17:10:00,,nan,,,41.4108970669,2.150365524,Spain,needs_id,1736,gembio,cc-by,0,0,,,,,,
 258779,2024-04-27,2024-04-27,2024-04-27,17:11:00,,nan,,,41.4108953067,2.1502488479,Spain,needs_id,1736,gembio,cc-by,0,0,,,,,,
 258778,2024-04-27,2024-04-27,2024-04-27,17:11:00,,nan,,,41.4108925407,2.1503417194,Spain,needs_id,1736,gembio,cc-by,0,0,,,,,,
@@ -126,7 +126,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258733,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718324206,2.0499756623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258732,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718294206,2.0499726623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258731,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718264206,2.0499696623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
-258730,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718234206,2.0499666623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258730,2024-04-27,2024-04-27,2024-04-27,09:22:00,plantae,12134,genus,Pinus,41.2718234206,2.0499666623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Pinophyta,Pinopsida,Pinales,Pinaceae,
 258729,2024-04-27,2024-04-27,2024-04-27,09:22:00,plantae,49271,genus,Xanthium,41.2718204206,2.0499636623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,
 258728,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718174206,2.0499606623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258727,2024-04-27,2024-04-27,2024-04-27,09:22:00,plantae,244728,species,Lobularia maritima,41.2718144206,2.0499576623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Capparales,Brassicaceae,
@@ -136,7 +136,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258723,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718024206,2.0499456623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258722,2024-04-27,2024-04-27,2024-04-27,10:13:00,plantae,90169,species,Calystegia soldanella,41.2717924206,2.0499356623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Convolvulaceae,Calystegia
 258721,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717894206,2.0499326623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
-258720,2024-04-27,2024-04-27,2024-04-27,10:13:00,cnidaria,253561,species,Velella velella,41.2717864206,2.0499296623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
+258720,2024-04-27,2024-04-27,2024-04-27,10:13:00,cnidaria,253561,species,Velella velella,41.2717864206,2.0499296623,,research,54,loreto_rodriguez,cc-by-nc,2,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
 258719,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717834206,2.0499266623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258718,2024-04-27,2024-04-27,2024-04-27,10:13:00,plantae,38944,genus,Cenchrus,41.2717804206,2.0499236623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Poales,Poaceae,
 258717,2024-04-27,2024-04-27,2024-04-27,10:15:00,,nan,,,41.2715833333,2.0504055556,,needs_id,2284,cristi,cc-by,0,0,,,,,,
@@ -147,9 +147,9 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258712,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717654206,2.0499086623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258711,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717624206,2.0499056623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258710,2024-04-27,2024-04-27,2024-04-27,10:13:00,mollusca,251218,species,Spisula subtruncata,41.2717594206,2.0499026623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Venerida,Mactridae,Spisula
-258709,2024-04-27,2024-04-27,2024-04-27,10:13:00,cnidaria,253561,species,Velella velella,41.2717564206,2.0498996623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
-258708,2024-04-27,2024-04-27,2024-04-27,10:13:00,mollusca,241878,species,Acanthocardia tuberculata,41.2717534206,2.0498966623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Acanthocardia
-258707,2024-04-27,2024-04-27,2024-04-27,10:13:00,mollusca,241878,species,Acanthocardia tuberculata,41.2717504206,2.0498936623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Acanthocardia
+258709,2024-04-27,2024-04-27,2024-04-27,10:13:00,cnidaria,253561,species,Velella velella,41.2717564206,2.0498996623,,research,54,loreto_rodriguez,cc-by-nc,2,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
+258708,2024-04-27,2024-04-27,2024-04-27,10:13:00,mollusca,241878,species,Acanthocardia tuberculata,41.2717534206,2.0498966623,,research,54,loreto_rodriguez,cc-by-nc,2,0,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Acanthocardia
+258707,2024-04-27,2024-04-27,2024-04-27,10:13:00,mollusca,241878,species,Acanthocardia tuberculata,41.2717504206,2.0498936623,,research,54,loreto_rodriguez,cc-by-nc,2,0,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Acanthocardia
 258705,2024-04-27,2024-04-27,2024-04-27,13:56:00,,nan,,,41.2917194258,2.1091441088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258704,2024-04-27,2024-04-27,2024-04-27,13:56:00,,nan,,,41.2917164258,2.1091411088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258703,2024-04-27,2024-04-27,2024-04-27,13:56:00,,nan,,,41.2917134258,2.1091381088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
@@ -191,10 +191,10 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258667,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2915844258,2.1090091088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258666,2024-04-27,2024-04-27,2024-04-27,15:35:00,crustacea,243588,species,Lepas pectinata,41.2915814258,2.1090061088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Arthropoda,,,Lepadidae,Lepas
 258665,2024-04-27,2024-04-27,2024-04-27,15:35:00,mollusca,251218,species,Spisula subtruncata,41.2915784258,2.1090031088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Venerida,Mactridae,Spisula
-258664,2024-04-27,2024-04-27,2024-04-27,15:35:00,mollusca,34855,species,Sepia officinalis,41.2915754258,2.1090001088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Mollusca,Cephalopoda,Sepiida,Sepiidae,Sepia
+258664,2024-04-27,2024-04-27,2024-04-27,15:35:00,mollusca,34855,species,Sepia officinalis,41.2915754258,2.1090001088,,research,54,loreto_rodriguez,cc-by-nc,2,0,Animalia,Mollusca,Cephalopoda,Sepiida,Sepiidae,Sepia
 258663,2024-04-27,2024-04-27,2024-04-27,15:35:00,mollusca,250465,species,Chamelea gallina,41.2915724258,2.1089971088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Venerida,Veneridae,Chamelea
 258662,2024-04-27,2024-04-27,2024-04-27,15:35:00,mollusca,249089,species,Glycymeris glycymeris,41.2915694258,2.1089941088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Arcida,Glycymerididae,Glycymeris
-258661,2024-04-27,2024-04-27,2024-04-27,15:35:00,mollusca,241878,species,Acanthocardia tuberculata,41.2915664258,2.1089911088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Acanthocardia
+258661,2024-04-27,2024-04-27,2024-04-27,15:35:00,mollusca,241878,species,Acanthocardia tuberculata,41.2915664258,2.1089911088,,research,54,loreto_rodriguez,cc-by-nc,2,0,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Acanthocardia
 258660,2024-04-27,2024-04-27,2024-04-26,08:17:00,crustacea,251234,species,Chthamalus stellatus,41.4104320534,2.2274104902,"Barcelona, Espanya",research,9,andrea,cc-by-nc,1,0,Animalia,Arthropoda,,,Chthamalidae,Chthamalus
 258659,2024-04-27,2024-04-27,2024-04-26,09:32:00,actinopterygii,34805,species,Sarpa salpa,41.409787437,2.2269867012,Spain,needs_id,9,andrea,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
 258658,2024-04-27,2024-04-27,2024-04-26,09:32:00,actinopterygii,61913,genus,Atherina,41.4099000894,2.2269564858,Spain,needs_id,9,andrea,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Atheriniformes,Atherinidae,
@@ -341,7 +341,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258494,2024-04-27,2024-04-27,2024-04-27,10:15:00,,nan,,,41.2719176701,2.0506855321,,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
 258493,2024-04-27,2024-04-27,2024-04-27,10:15:00,plantae,90169,species,Calystegia soldanella,41.2719146701,2.0506825321,,needs_id,817,marinatorresgi,cc0,0,0,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Convolvulaceae,Calystegia
 258492,2024-04-27,2024-04-27,2024-04-27,10:15:00,,nan,,,41.2719116701,2.0506795321,,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
-258491,2024-04-27,2024-04-27,2024-04-27,10:15:00,cnidaria,253561,species,Velella velella,41.2719086701,2.0506765321,,needs_id,817,marinatorresgi,cc0,0,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
+258491,2024-04-27,2024-04-27,2024-04-27,10:15:00,cnidaria,253561,species,Velella velella,41.2719086701,2.0506765321,,research,817,marinatorresgi,cc0,2,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
 258489,2024-04-27,2024-04-27,2024-04-27,10:10:00,,nan,,,41.2712922,2.0467845,,casual,2294,sergggio,cc-by,0,0,,,,,,
 258488,2024-04-27,2024-04-27,2024-04-27,11:25:00,,nan,,,41.2712579,2.0468061,,casual,2291,ikerperez,cc-by,0,0,,,,,,
 258487,2024-04-27,2024-04-27,2024-04-27,11:25:00,cnidaria,240423,species,Aequorea forskalea,41.2712549,2.0468031,,needs_id,2291,ikerperez,cc-by,0,0,Animalia,Cnidaria,Hydrozoa,Leptothecata,Aequoreidae,Aequorea

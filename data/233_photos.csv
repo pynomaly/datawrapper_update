@@ -1,6 +1,6 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
 258887,346646,,,https://minka-sdg.org/attachments/local_photos/files/346646/medium.jpg,elisabetd,41.2715956986,2.0512247086,cc-by,"(c) Elisabet Dionisio Lopez, some rights reserved (CC BY)",258887_346646.jpg
-258886,346645,cnidaria,Velella,https://minka-sdg.org/attachments/local_photos/files/346645/medium.jpg,elisabetd,41.2714031775,2.050983645,cc-by,"(c) Elisabet Dionisio Lopez, some rights reserved (CC BY)",258886_346645.jpg
+258886,346645,cnidaria,Velella velella,https://minka-sdg.org/attachments/local_photos/files/346645/medium.jpg,elisabetd,41.2714031775,2.050983645,cc-by,"(c) Elisabet Dionisio Lopez, some rights reserved (CC BY)",258886_346645.jpg
 258885,346644,,,https://minka-sdg.org/attachments/local_photos/files/346644/medium.jpg,elisabetd,41.2715992264,2.0489180088,cc-by,"(c) Elisabet Dionisio Lopez, some rights reserved (CC BY)",258885_346644.jpg
 258884,346643,,,https://minka-sdg.org/attachments/local_photos/files/346643/medium.jpg,elisabetd,41.2718121581,2.050681226,cc-by,"(c) Elisabet Dionisio Lopez, some rights reserved (CC BY)",258884_346643.jpg
 258882,346640,plantae,Lobularia maritima,https://minka-sdg.org/attachments/local_photos/files/346640/medium.jpg,elisabetd,41.2718809513,2.0507499576,cc-by,"(c) Elisabet Dionisio Lopez, some rights reserved (CC BY)",258882_346640.jpg
@@ -129,7 +129,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 258733,346485,,,https://minka-sdg.org/attachments/local_photos/files/346485/medium.jpg,loreto_rodriguez,41.2718324206,2.0499756623,cc-by-nc,"(c) loreto_rodriguez, some rights reserved (CC BY-NC)",258733_346485.jpg
 258732,346484,,,https://minka-sdg.org/attachments/local_photos/files/346484/medium.jpg,loreto_rodriguez,41.2718294206,2.0499726623,cc-by-nc,"(c) loreto_rodriguez, some rights reserved (CC BY-NC)",258732_346484.jpg
 258731,346483,,,https://minka-sdg.org/attachments/local_photos/files/346483/medium.jpg,loreto_rodriguez,41.2718264206,2.0499696623,cc-by-nc,"(c) loreto_rodriguez, some rights reserved (CC BY-NC)",258731_346483.jpg
-258730,346482,,,https://minka-sdg.org/attachments/local_photos/files/346482/medium.jpg,loreto_rodriguez,41.2718234206,2.0499666623,cc-by-nc,"(c) loreto_rodriguez, some rights reserved (CC BY-NC)",258730_346482.jpg
+258730,346482,plantae,Pinus,https://minka-sdg.org/attachments/local_photos/files/346482/medium.jpg,loreto_rodriguez,41.2718234206,2.0499666623,cc-by-nc,"(c) loreto_rodriguez, some rights reserved (CC BY-NC)",258730_346482.jpg
 258729,346481,plantae,Xanthium,https://minka-sdg.org/attachments/local_photos/files/346481/medium.jpg,loreto_rodriguez,41.2718204206,2.0499636623,cc-by-nc,"(c) loreto_rodriguez, some rights reserved (CC BY-NC)",258729_346481.jpg
 258728,346480,,,https://minka-sdg.org/attachments/local_photos/files/346480/medium.jpg,loreto_rodriguez,41.2718174206,2.0499606623,cc-by-nc,"(c) loreto_rodriguez, some rights reserved (CC BY-NC)",258728_346480.jpg
 258727,346479,plantae,Lobularia maritima,https://minka-sdg.org/attachments/local_photos/files/346479/medium.jpg,loreto_rodriguez,41.2718144206,2.0499576623,cc-by-nc,"(c) loreto_rodriguez, some rights reserved (CC BY-NC)",258727_346479.jpg
