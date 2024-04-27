@@ -1,4 +1,11 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+258544,2024-04-27,2024-04-27,2024-04-26,14:50:00,,nan,,,41.4103203916,2.2272552394,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+258543,2024-04-27,2024-04-27,2024-04-26,14:47:00,,nan,,,41.41029218,2.2273093344,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+258542,2024-04-27,2024-04-27,2024-04-26,14:47:00,,nan,,,41.41029218,2.2273093344,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+258541,2024-04-27,2024-04-27,2024-04-26,14:47:00,,nan,,,41.41029218,2.2273093344,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+258540,2024-04-27,2024-04-27,2024-04-26,14:43:00,,nan,,,41.4103319708,2.2272807435,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+258539,2024-04-27,2024-04-27,2024-04-26,14:43:00,,nan,,,41.4103319708,2.2272807435,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+258538,2024-04-27,2024-04-27,2024-04-26,14:43:00,,nan,,,41.4103319708,2.2272807435,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
 258537,2024-04-27,2024-04-27,2024-04-26,14:41:00,,nan,,,41.4103524382,2.2273053661,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
 258536,2024-04-27,2024-04-27,2024-04-26,14:41:00,,nan,,,41.4103524382,2.2273053661,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
 258535,2024-04-27,2024-04-27,2024-04-26,14:41:00,,nan,,,41.4103524382,2.2273053661,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
