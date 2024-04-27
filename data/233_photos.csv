@@ -1,4 +1,5 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+258882,346640,plantae,Lobularia maritima,https://minka-sdg.org/attachments/local_photos/files/346640/medium.jpg,elisabetd,41.2718809513,2.0507499576,cc-by,"(c) Elisabet Dionisio Lopez, some rights reserved (CC BY)",258882_346640.jpg
 258881,346639,plantae,Lantana camara,https://minka-sdg.org/attachments/local_photos/files/346639/medium.jpg,elisabetd,41.2715216133,2.0482109115,cc-by,"(c) Elisabet Dionisio Lopez, some rights reserved (CC BY)",258881_346639.jpg
 258877,346632,plantae,Calystegia soldanella,https://minka-sdg.org/attachments/local_photos/files/346632/medium.jpg,elisabetd,41.2715251412,2.0482729375,cc-by,"(c) Elisabet Dionisio Lopez, some rights reserved (CC BY)",258877_346632.jpg
 258860,346577,cnidaria,Velella velella,https://minka-sdg.org/attachments/local_photos/files/346577/medium.jpeg,nereavieitez,41.4112701,2.227734,cc-by-nc,"(c) nereavieitez, some rights reserved (CC BY-NC)",258860_346577.jpg
@@ -391,7 +392,6 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 258190,345820,cnidaria,Velella velella,https://minka-sdg.org/attachments/local_photos/files/345820/medium.jpeg,andrea,41.4101033582,2.2272190159,cc-by-nc,"(c) Andrea Comaposada, some rights reserved (CC BY-NC)",258190_345820.jpg
 258189,345819,cnidaria,Velella velella,https://minka-sdg.org/attachments/local_photos/files/345819/medium.jpeg,andrea,41.4101033582,2.2272190159,cc-by-nc,"(c) Andrea Comaposada, some rights reserved (CC BY-NC)",258189_345819.jpg
 258188,345827,plantae,Malva sylvestris,https://minka-sdg.org/attachments/local_photos/files/345827/medium.jpg,anna_olive_abello,41.392937632,2.1831984445,cc-by-nc,"(c) anna_olive_abello, some rights reserved (CC BY-NC)",258188_345827.jpg
-258187,nan,,,,elibonfill,41.2716136878,2.0469818272,,,258187_nan.jpg
 258186,345821,aves,Turdus merula,https://minka-sdg.org/attachments/local_photos/files/345821/medium.jpg,anna_olive_abello,41.3929310925,2.1830717102,cc-by-nc,"(c) anna_olive_abello, some rights reserved (CC BY-NC)",258186_345821.jpg
 258186,345822,aves,Turdus merula,https://minka-sdg.org/attachments/local_photos/files/345822/medium.jpg,anna_olive_abello,41.3929310925,2.1830717102,cc-by-nc,"(c) anna_olive_abello, some rights reserved (CC BY-NC)",258186_345822.jpg
 258185,345817,actinopterygii,Actinopterygii,https://minka-sdg.org/attachments/local_photos/files/345817/medium.jpeg,andrea,41.4091216665,2.2269400712,cc-by-nc,"(c) Andrea Comaposada, some rights reserved (CC BY-NC)",258185_345817.jpg
@@ -403,7 +403,6 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 258179,345810,chromista,Padina pavonica,https://minka-sdg.org/attachments/local_photos/files/345810/medium.jpeg,andrea,41.4091216665,2.2269400712,cc-by-nc,"(c) Andrea Comaposada, some rights reserved (CC BY-NC)",258179_345810.jpg
 258178,345809,actinopterygii,Diplodus sargus,https://minka-sdg.org/attachments/local_photos/files/345809/medium.jpeg,andrea,41.4091216665,2.2269400712,cc-by-nc,"(c) Andrea Comaposada, some rights reserved (CC BY-NC)",258178_345809.jpg
 258177,345808,actinopterygii,Diplodus annularis,https://minka-sdg.org/attachments/local_photos/files/345808/medium.jpeg,andrea,41.4091216665,2.2269400712,cc-by-nc,"(c) Andrea Comaposada, some rights reserved (CC BY-NC)",258177_345808.jpg
-258176,nan,,,,elibonfill,41.2716106878,2.0469788272,,,258176_nan.jpg
 258175,345818,,,https://minka-sdg.org/attachments/local_photos/files/345818/medium.jpg,elibonfill,41.2716076878,2.0469758272,C,"(c) Elisabet Bonfill i Molina, all rights reserved",258175_345818.jpg
 258174,345760,plantae,Ellisolandia elongata,https://minka-sdg.org/attachments/local_photos/files/345760/medium.jpeg,manelsalvador,41.4092118676,2.2271221464,cc-by-nc,"(c) manelsalvador, some rights reserved (CC BY-NC)",258174_345760.jpg
 258173,345760,chromista,Dictyota dichotoma,https://minka-sdg.org/attachments/local_photos/files/345760/medium.jpeg,manelsalvador,41.4092118676,2.2271221464,cc-by-nc,"(c) manelsalvador, some rights reserved (CC BY-NC)",258173_345760.jpg
