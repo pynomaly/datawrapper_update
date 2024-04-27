@@ -1,4 +1,18 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+258528,2024-04-27,2024-04-27,2024-04-27,09:10:00,,nan,,,41.2715131304,2.0505077658,,needs_id,2295,prdsoul,cc-by,0,0,,,,,,
+258527,2024-04-27,2024-04-27,2024-04-26,14:24:00,,nan,,,41.4103196671,2.2273281305,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+258526,2024-04-27,2024-04-27,2024-04-26,14:24:00,,nan,,,41.4103196671,2.2273281305,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+258525,2024-04-27,2024-04-27,2024-04-26,14:24:00,,nan,,,41.4103196671,2.2273281305,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+258524,2024-04-27,2024-04-27,2024-04-27,09:01:00,,nan,,,41.2715061304,2.0505007658,,needs_id,2295,prdsoul,cc-by,0,0,,,,,,
+258523,2024-04-27,2024-04-27,2024-04-27,09:32:00,,nan,,,41.2714991304,2.0504937658,,needs_id,2295,prdsoul,cc-by,0,0,,,,,,
+258522,2024-04-27,2024-04-27,2024-04-27,10:17:00,,nan,,,41.2714921304,2.0504867658,,needs_id,2295,prdsoul,cc-by,0,0,,,,,,
+258521,2024-04-27,2024-04-27,2024-04-27,10:14:00,,nan,,,41.2715349688,2.0506611094,,needs_id,2295,prdsoul,cc-by,0,0,,,,,,
+258520,2024-04-27,2024-04-27,2024-04-26,14:20:00,,nan,,,41.4102812167,2.2273289756,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+258519,2024-04-27,2024-04-27,2024-04-26,14:20:00,,nan,,,41.4102812167,2.2273289756,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+258518,2024-04-27,2024-04-27,2024-04-26,14:20:00,,nan,,,41.4102812167,2.2273289756,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+258517,2024-04-27,2024-04-27,2024-04-26,14:15:00,actinopterygii,240401,genus,Oblada,41.4102455653,2.2273039597,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,
+258516,2024-04-27,2024-04-27,2024-04-26,14:15:00,actinopterygii,34798,species,Diplodus vulgaris,41.4102455653,2.2273039597,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+258515,2024-04-27,2024-04-27,2024-04-26,14:15:00,,nan,,,41.4102455653,2.2273039597,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
 258514,2024-04-27,2024-04-27,2024-04-26,14:07:00,,nan,,,41.4100784977,2.2274796046,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
 258513,2024-04-27,2024-04-27,2024-04-26,14:07:00,,nan,,,41.4100784977,2.2274796046,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
 258512,2024-04-27,2024-04-27,2024-04-26,14:07:00,,nan,,,41.4100784977,2.2274796046,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
