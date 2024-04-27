@@ -1,4 +1,5 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+258887,2024-04-27,2024-04-27,2024-04-27,10:16:00,,nan,,,41.2715956986,2.0512247086,,needs_id,2285,elisabetd,cc-by,0,0,,,,,,
 258886,2024-04-27,2024-04-27,2024-04-27,10:09:00,cnidaria,57376,genus,Velella,41.2714031775,2.050983645,,needs_id,2285,elisabetd,cc-by,0,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,
 258885,2024-04-27,2024-04-27,2024-04-27,09:13:00,,nan,,,41.2715992264,2.0489180088,,needs_id,2285,elisabetd,cc-by,0,0,,,,,,
 258884,2024-04-27,2024-04-27,2024-04-27,09:13:00,,nan,,,41.2718121581,2.050681226,,needs_id,2285,elisabetd,cc-by,0,0,,,,,,
@@ -391,7 +392,6 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258179,2024-04-27,2024-04-27,2024-04-26,09:18:00,chromista,35106,species,Padina pavonica,41.4091216665,2.2269400712,"Zona de Banys Fòrum, Barcelona, Espanya",research,9,andrea,cc-by-nc,1,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
 258178,2024-04-27,2024-04-27,2024-04-26,09:17:00,actinopterygii,12553,species,Diplodus sargus,41.4091216665,2.2269400712,"Zona de Banys Fòrum, Barcelona, Espanya",research,9,andrea,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
 258177,2024-04-27,2024-04-27,2024-04-26,09:16:00,actinopterygii,34841,species,Diplodus annularis,41.4091216665,2.2269400712,"Zona de Banys Fòrum, Barcelona, Espanya",research,9,andrea,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
-258175,2024-04-27,2024-04-27,2024-04-27,07:48:00,,nan,,,41.2716076878,2.0469758272,,needs_id,988,elibonfill,C,0,0,,,,,,
 258174,2024-04-27,2024-04-27,2024-04-26,07:22:00,plantae,35123,species,Ellisolandia elongata,41.4092118676,2.2271221464,Forum,research,224,manelsalvador,cc-by-nc,1,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,Ellisolandia
 258173,2024-04-27,2024-04-27,2024-04-26,07:22:00,chromista,35063,species,Dictyota dichotoma,41.4092118676,2.2271221464,Forum,research,224,manelsalvador,cc-by-nc,1,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota
 258172,2024-04-27,2024-04-27,2024-04-26,07:22:00,chromista,35214,species,Dictyota cyanoloma,41.4092118676,2.2271221464,Forum,research,224,manelsalvador,cc-by-nc,1,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota
@@ -472,7 +472,6 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258097,2024-04-27,2024-04-27,2024-04-26,08:16:00,chromista,35063,species,Dictyota dichotoma,41.4092118676,2.2271221464,Forum,needs_id,224,manelsalvador,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota
 258096,2024-04-27,2024-04-27,2024-04-26,08:16:00,actinopterygii,35125,species,Mullus surmuletus,41.4092118676,2.2271221464,Forum,research,224,manelsalvador,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Mullidae,Mullus
 258095,2024-04-27,2024-04-27,2024-04-26,08:16:00,actinopterygii,34835,species,Coris julis,41.4092118676,2.2271221464,Forum,research,224,manelsalvador,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
-258094,2024-04-27,2024-04-27,2024-04-27,07:48:00,,nan,,,41.2716046878,2.0469728272,,needs_id,988,elibonfill,C,0,0,,,,,,
 258093,2024-04-27,2024-04-27,2024-04-26,08:18:00,actinopterygii,240399,species,Tripterygion tripteronotum,41.4092118676,2.2271221464,Forum,research,224,manelsalvador,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Tripterygiidae,Tripterygion
 258092,2024-04-27,2024-04-27,2024-04-26,08:18:00,plantae,252192,species,Codium effusum,41.4092118676,2.2271221464,Forum,needs_id,224,manelsalvador,cc-by-nc,0,0,Plantae,Chlorophyta,Bryopsidophyceae,Bryopsidales,Codiaceae,Codium
 258091,2024-04-27,2024-04-27,2024-04-26,08:18:00,plantae,35123,species,Ellisolandia elongata,41.4092118676,2.2271221464,Forum,needs_id,224,manelsalvador,cc-by-nc,0,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,Ellisolandia
@@ -526,12 +525,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258043,2024-04-27,2024-04-27,2024-04-26,07:22:00,chromista,35214,species,Dictyota cyanoloma,41.4092118676,2.2271221464,Forum,needs_id,224,manelsalvador,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota
 258042,2024-04-27,2024-04-27,2024-04-26,07:22:00,chromista,35063,species,Dictyota dichotoma,41.4092118676,2.2271221464,Forum,needs_id,224,manelsalvador,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota
 258041,2024-04-27,2024-04-27,2024-04-27,07:48:00,,nan,,,41.2716016878,2.0469698272,,needs_id,988,elibonfill,C,0,0,,,,,,
-258040,2024-04-27,2024-04-27,2024-04-27,07:48:00,,nan,,,41.2715986878,2.0469668272,,needs_id,988,elibonfill,C,0,0,,,,,,
-258039,2024-04-27,2024-04-27,2024-04-27,07:48:00,,nan,,,41.2715956878,2.0469638272,,needs_id,988,elibonfill,C,0,0,,,,,,
-258038,2024-04-27,2024-04-27,2024-04-27,07:48:00,,nan,,,41.2715926878,2.0469608272,,needs_id,988,elibonfill,C,0,0,,,,,,
-258037,2024-04-27,2024-04-27,2024-04-27,07:48:00,,nan,,,41.2715896878,2.0469578272,,needs_id,988,elibonfill,C,0,0,,,,,,
 258036,2024-04-27,2024-04-27,2024-04-27,07:48:00,,nan,,,41.2715866878,2.0469548272,,needs_id,988,elibonfill,C,0,0,,,,,,
-258035,2024-04-27,2024-04-27,2024-04-27,07:48:00,,nan,,,41.2715836878,2.0469518272,,needs_id,988,elibonfill,C,0,0,,,,,,
 258034,2024-04-27,2024-04-27,2024-04-26,09:14:00,actinopterygii,35040,genus,Symphodus,41.4095803292,2.227143914,"Zona de Banys Fòrum, Barcelona, Espanya",needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,
 258033,2024-04-27,2024-04-27,2024-04-26,09:13:00,actinopterygii,34841,species,Diplodus annularis,41.4095803292,2.227143914,"Zona de Banys Fòrum, Barcelona, Espanya",needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
 258032,2024-04-27,2024-04-27,2024-04-26,09:13:00,actinopterygii,35216,species,Symphodus tinca,41.4095803292,2.227143914,"Zona de Banys Fòrum, Barcelona, Espanya",needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
@@ -559,7 +553,6 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258010,2024-04-27,2024-04-27,2024-04-26,08:37:00,actinopterygii,240400,species,Oblada melanura,41.4095803292,2.227143914,"Zona de Banys Fòrum, Barcelona, Espanya",needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Oblada
 258009,2024-04-27,2024-04-27,2024-04-27,07:48:00,,nan,,,41.2715806878,2.0469488272,,needs_id,988,elibonfill,C,0,0,,,,,,
 258008,2024-04-27,2024-04-27,2024-04-27,07:48:00,,nan,,,41.2715776878,2.0469458272,,needs_id,988,elibonfill,C,0,0,,,,,,
-258007,2024-04-27,2024-04-27,2024-04-27,07:48:00,,nan,,,41.2715746878,2.0469428272,,needs_id,988,elibonfill,C,0,0,,,,,,
 258006,2024-04-27,2024-04-27,2024-04-27,07:48:00,,nan,,,41.2715716878,2.0469398272,,needs_id,988,elibonfill,C,0,0,,,,,,
 258005,2024-04-27,2024-04-27,2024-04-27,07:48:00,,nan,,,41.2715686878,2.0469368272,,needs_id,988,elibonfill,C,0,0,,,,,,
 258003,2024-04-27,2024-04-27,2024-04-27,07:48:00,,nan,,,41.2715656878,2.0469338272,,needs_id,988,elibonfill,C,0,0,,,,,,
