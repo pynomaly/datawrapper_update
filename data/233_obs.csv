@@ -524,8 +524,6 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258044,2024-04-27,2024-04-27,2024-04-26,07:21:00,actinopterygii,34871,species,Tripterygion delaisi,41.4092118676,2.2271221464,Forum,research,224,manelsalvador,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Tripterygiidae,Tripterygion
 258043,2024-04-27,2024-04-27,2024-04-26,07:22:00,chromista,35214,species,Dictyota cyanoloma,41.4092118676,2.2271221464,Forum,needs_id,224,manelsalvador,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota
 258042,2024-04-27,2024-04-27,2024-04-26,07:22:00,chromista,35063,species,Dictyota dichotoma,41.4092118676,2.2271221464,Forum,needs_id,224,manelsalvador,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota
-258041,2024-04-27,2024-04-27,2024-04-27,07:48:00,,nan,,,41.2716016878,2.0469698272,,needs_id,988,elibonfill,C,0,0,,,,,,
-258036,2024-04-27,2024-04-27,2024-04-27,07:48:00,,nan,,,41.2715866878,2.0469548272,,needs_id,988,elibonfill,C,0,0,,,,,,
 258034,2024-04-27,2024-04-27,2024-04-26,09:14:00,actinopterygii,35040,genus,Symphodus,41.4095803292,2.227143914,"Zona de Banys Fòrum, Barcelona, Espanya",needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,
 258033,2024-04-27,2024-04-27,2024-04-26,09:13:00,actinopterygii,34841,species,Diplodus annularis,41.4095803292,2.227143914,"Zona de Banys Fòrum, Barcelona, Espanya",needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
 258032,2024-04-27,2024-04-27,2024-04-26,09:13:00,actinopterygii,35216,species,Symphodus tinca,41.4095803292,2.227143914,"Zona de Banys Fòrum, Barcelona, Espanya",needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
@@ -551,12 +549,6 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258012,2024-04-27,2024-04-27,2024-04-26,08:43:00,actinopterygii,35250,species,Parablennius pilicornis,41.4095803292,2.227143914,"Zona de Banys Fòrum, Barcelona, Espanya",needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
 258011,2024-04-27,2024-04-27,2024-04-26,08:44:00,actinopterygii,34798,species,Diplodus vulgaris,41.4095803292,2.227143914,"Zona de Banys Fòrum, Barcelona, Espanya",needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
 258010,2024-04-27,2024-04-27,2024-04-26,08:37:00,actinopterygii,240400,species,Oblada melanura,41.4095803292,2.227143914,"Zona de Banys Fòrum, Barcelona, Espanya",needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Oblada
-258009,2024-04-27,2024-04-27,2024-04-27,07:48:00,,nan,,,41.2715806878,2.0469488272,,needs_id,988,elibonfill,C,0,0,,,,,,
-258008,2024-04-27,2024-04-27,2024-04-27,07:48:00,,nan,,,41.2715776878,2.0469458272,,needs_id,988,elibonfill,C,0,0,,,,,,
-258006,2024-04-27,2024-04-27,2024-04-27,07:48:00,,nan,,,41.2715716878,2.0469398272,,needs_id,988,elibonfill,C,0,0,,,,,,
-258005,2024-04-27,2024-04-27,2024-04-27,07:48:00,,nan,,,41.2715686878,2.0469368272,,needs_id,988,elibonfill,C,0,0,,,,,,
-258003,2024-04-27,2024-04-27,2024-04-27,07:48:00,,nan,,,41.2715656878,2.0469338272,,needs_id,988,elibonfill,C,0,0,,,,,,
-258002,2024-04-27,2024-04-27,2024-04-27,07:48:00,,nan,,,41.2715626878,2.0469308272,,needs_id,988,elibonfill,C,0,0,,,,,,
 257998,2024-04-27,2024-04-27,2024-04-27,08:11:00,,nan,,,41.4108797167,2.1502619237,Spain,needs_id,1736,gembio,cc-by,0,0,,,,,,
 257997,2024-04-27,2024-04-27,2024-04-27,07:39:00,,nan,,,41.4103517812,2.2273584503,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
 257996,2024-04-27,2024-04-27,2024-04-27,06:41:00,cnidaria,253561,species,Velella velella,41.4104134553,2.2272619344,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
