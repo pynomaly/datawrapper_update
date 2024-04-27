@@ -291,11 +291,14 @@ if __name__ == "__main__":
     if len(obs) > 0:
         df_obs, df_photos = get_dfs(obs)
         # Completar campos de taxonomías
-        cols = ["class", "order", "family", "genus"]
-        for col in cols:
-            df_obs.loc[df_obs[col].isnull(), col] = df_obs[df_obs[col].isnull()][
-                "taxon_id"
-            ].apply(lambda x: get_missing_taxon(x, col))
+        try:
+            cols = ["class", "order", "family", "genus"]
+            for col in cols:
+                df_obs.loc[df_obs[col].isnull(), col] = df_obs[df_obs[col].isnull()][
+                    "taxon_id"
+                ].apply(lambda x: get_missing_taxon(x, col))
+        except:
+            pass
 
         df_obs.to_csv(f"data/{main_project_bdc}_obs.csv", index=False)
         df_photos.to_csv(f"data/{main_project_bdc}_photos.csv", index=False)
