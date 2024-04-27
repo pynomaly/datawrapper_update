@@ -1,6 +1,20 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+258777,2024-04-27,2024-04-27,2024-04-27,17:11:00,,nan,,,41.4109156743,2.1503269672,Spain,needs_id,1736,gembio,cc-by,0,0,,,,,,
+258775,2024-04-27,2024-04-27,2024-04-27,17:12:00,,nan,,,41.4109219606,2.1502656117,Spain,needs_id,1736,gembio,cc-by,0,0,,,,,,
+258774,2024-04-27,2024-04-27,2024-04-27,17:13:00,,nan,,,41.4109186918,2.1503041685,Spain,needs_id,1736,gembio,cc-by,0,0,,,,,,
+258772,2024-04-27,2024-04-27,2024-04-27,17:13:00,,nan,,,41.4108809739,2.1503410488,Spain,needs_id,1736,gembio,cc-by,0,0,,,,,,
+258771,2024-04-27,2024-04-27,2024-04-27,17:14:00,,nan,,,41.4109031017,2.1503534541,Spain,needs_id,1736,gembio,cc-by,0,0,,,,,,
+258769,2024-04-27,2024-04-27,2024-04-27,17:14:00,,nan,,,41.4108960611,2.1503668651,Spain,needs_id,1736,gembio,cc-by,0,0,,,,,,
+258768,2024-04-27,2024-04-27,2024-04-27,17:15:00,,nan,,,41.410891032,2.1503511071,Spain,needs_id,1736,gembio,cc-by,0,0,,,,,,
+258767,2024-04-27,2024-04-27,2024-04-27,17:16:00,,nan,,,41.4108948038,2.1503564715,Spain,needs_id,1736,gembio,cc-by,0,0,,,,,,
+258766,2024-04-27,2024-04-27,2024-04-27,17:16:00,,nan,,,41.4109025988,2.1503353491,Spain,needs_id,1736,gembio,cc-by,0,0,,,,,,
+258764,2024-04-27,2024-04-27,2024-04-27,17:17:00,,nan,,,41.4108932951,2.1502639353,Spain,needs_id,1736,gembio,cc-by,0,0,,,,,,
+258762,2024-04-27,2024-04-27,2024-04-27,17:17:00,,nan,,,41.4108922893,2.1502418071,Spain,needs_id,1736,gembio,cc-by,0,0,,,,,,
+258760,2024-04-27,2024-04-27,2024-04-27,17:17:00,,nan,,,41.4108779565,2.1502545476,Spain,needs_id,1736,gembio,cc-by,0,0,,,,,,
+258758,2024-04-27,2024-04-27,2024-04-27,17:18:00,,nan,,,41.4108772021,2.1502340958,Spain,needs_id,1736,gembio,cc-by,0,0,,,,,,
+258756,2024-04-27,2024-04-27,2024-04-27,17:18:00,,nan,,,41.4108746876,2.1502632648,Spain,needs_id,1736,gembio,cc-by,0,0,,,,,,
 258755,2024-04-27,2024-04-27,2024-04-27,17:18:00,,nan,,,41.4108905291,2.1502461657,Spain,needs_id,1736,gembio,cc-by,0,0,,,,,,
-258753,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718924206,2.0500356623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258753,2024-04-27,2024-04-27,2024-04-27,09:22:00,plantae,248549,species,Scirpoides holoschoenus,41.2718924206,2.0500356623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Poales,Cyperaceae,Scirpoides
 258752,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718894206,2.0500326623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258751,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718864206,2.0500296623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258750,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718834206,2.0500266623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
@@ -33,9 +47,9 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258723,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718024206,2.0499456623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258722,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717924206,2.0499356623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258721,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717894206,2.0499326623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
-258720,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717864206,2.0499296623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258720,2024-04-27,2024-04-27,2024-04-27,10:13:00,cnidaria,253561,species,Velella velella,41.2717864206,2.0499296623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
 258719,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717834206,2.0499266623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
-258718,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717804206,2.0499236623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258718,2024-04-27,2024-04-27,2024-04-27,10:13:00,plantae,38944,genus,Cenchrus,41.2717804206,2.0499236623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Poales,Poaceae,
 258717,2024-04-27,2024-04-27,2024-04-27,10:15:00,,nan,,,41.2715833333,2.0504055556,,needs_id,2284,cristi,cc-by,0,0,,,,,,
 258716,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717774206,2.0499206623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258715,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717744206,2.0499176623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
@@ -44,9 +58,9 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258712,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717654206,2.0499086623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258711,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717624206,2.0499056623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258710,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717594206,2.0499026623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
-258709,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717564206,2.0498996623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
-258708,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717534206,2.0498966623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
-258707,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717504206,2.0498936623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258709,2024-04-27,2024-04-27,2024-04-27,10:13:00,cnidaria,253561,species,Velella velella,41.2717564206,2.0498996623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
+258708,2024-04-27,2024-04-27,2024-04-27,10:13:00,mollusca,241878,species,Acanthocardia tuberculata,41.2717534206,2.0498966623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Acanthocardia
+258707,2024-04-27,2024-04-27,2024-04-27,10:13:00,mollusca,241878,species,Acanthocardia tuberculata,41.2717504206,2.0498936623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Acanthocardia
 258705,2024-04-27,2024-04-27,2024-04-27,13:56:00,,nan,,,41.2917194258,2.1091441088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258704,2024-04-27,2024-04-27,2024-04-27,13:56:00,,nan,,,41.2917164258,2.1091411088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258703,2024-04-27,2024-04-27,2024-04-27,13:56:00,,nan,,,41.2917134258,2.1091381088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
@@ -69,13 +83,13 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258686,2024-04-27,2024-04-27,2024-04-27,14:43:00,,nan,,,41.2916484258,2.1090731088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258685,2024-04-27,2024-04-27,2024-04-27,14:43:00,,nan,,,41.2916454258,2.1090701088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258684,2024-04-27,2024-04-27,2024-04-27,14:43:00,,nan,,,41.2916424258,2.1090671088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
-258683,2024-04-27,2024-04-27,2024-04-27,14:43:00,,nan,,,41.2916394258,2.1090641088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
-258682,2024-04-27,2024-04-27,2024-04-27,14:43:00,,nan,,,41.2916364258,2.1090611088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258683,2024-04-27,2024-04-27,2024-04-27,14:43:00,insecta,8048,genus,Polistes,41.2916394258,2.1090641088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Hymenoptera,Eumenidae,
+258682,2024-04-27,2024-04-27,2024-04-27,14:43:00,insecta,40510,genus,Lachnaia,41.2916364258,2.1090611088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Coleoptera,Chrysomelidae,
 258681,2024-04-27,2024-04-27,2024-04-27,14:43:00,,nan,,,41.2916334258,2.1090581088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258680,2024-04-27,2024-04-27,2024-04-27,14:43:00,,nan,,,41.2916304258,2.1090551088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258679,2024-04-27,2024-04-27,2024-04-27,14:43:00,,nan,,,41.2916274258,2.1090521088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258678,2024-04-27,2024-04-27,2024-04-27,14:43:00,,nan,,,41.2916244258,2.1090491088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
-258677,2024-04-27,2024-04-27,2024-04-27,14:43:00,,nan,,,41.2916214258,2.1090461088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258677,2024-04-27,2024-04-27,2024-04-27,14:43:00,fungi,253726,species,Xanthoria parietina,41.2916214258,2.1090461088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Fungi,Ascomycota,Lecanoromycetes,Teloschistales,Teloschistaceae,Xanthoria
 258676,2024-04-27,2024-04-27,2024-04-27,14:43:00,,nan,,,41.2916184258,2.1090431088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258675,2024-04-27,2024-04-27,2024-04-27,14:43:00,,nan,,,41.2916154258,2.1090401088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258674,2024-04-27,2024-04-27,2024-04-27,14:43:00,,nan,,,41.2916124258,2.1090371088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
@@ -84,7 +98,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258671,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2915964258,2.1090211088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258670,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2915934258,2.1090181088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258669,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2915904258,2.1090151088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
-258668,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2915874258,2.1090121088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258668,2024-04-27,2024-04-27,2024-04-27,15:35:00,insecta,40510,genus,Lachnaia,41.2915874258,2.1090121088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Coleoptera,Chrysomelidae,
 258667,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2915844258,2.1090091088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258666,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2915814258,2.1090061088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258665,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2915784258,2.1090031088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
@@ -93,15 +107,15 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258662,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2915694258,2.1089941088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258661,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2915664258,2.1089911088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258660,2024-04-27,2024-04-27,2024-04-26,08:17:00,crustacea,251234,species,Chthamalus stellatus,41.4104320534,2.2274104902,"Barcelona, Espanya",research,9,andrea,cc-by-nc,1,0,Animalia,Arthropoda,,,Chthamalidae,Chthamalus
-258659,2024-04-27,2024-04-27,2024-04-26,09:32:00,actinopterygii,1952,family,Sparidae,41.409787437,2.2269867012,Spain,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,,
-258658,2024-04-27,2024-04-27,2024-04-26,09:32:00,actinopterygii,61912,species,Atherina hepsetus,41.4099000894,2.2269564858,Spain,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Atheriniformes,Atherinidae,Atherina
+258659,2024-04-27,2024-04-27,2024-04-26,09:32:00,actinopterygii,34805,species,Sarpa salpa,41.409787437,2.2269867012,Spain,needs_id,9,andrea,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
+258658,2024-04-27,2024-04-27,2024-04-26,09:32:00,actinopterygii,61913,genus,Atherina,41.4099000894,2.2269564858,Spain,needs_id,9,andrea,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Atheriniformes,Atherinidae,
 258657,2024-04-27,2024-04-27,2024-04-26,09:32:00,annelida,34800,species,Branchiomma luctuosum,41.4101414867,2.2271227828,Spain,research,9,andrea,cc-by-nc,1,0,Animalia,Annelida,Polychaeta,Sabellida,Sabellidae,Branchiomma
 258656,2024-04-27,2024-04-27,2024-04-26,09:26:00,actinopterygii,34835,species,Coris julis,41.4098097946,2.2271213606,Spain,research,9,andrea,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
 258655,2024-04-27,2024-04-27,2024-04-26,09:22:00,actinopterygii,35120,species,Gobius incognitus,41.4099832555,2.227139974,Spain,research,9,andrea,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Gobius
 258654,2024-04-27,2024-04-27,2024-04-26,09:20:00,plantae,35123,species,Ellisolandia elongata,41.4102367224,2.2272201167,Spain,research,9,andrea,cc-by-nc,1,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,Ellisolandia
 258653,2024-04-27,2024-04-27,2024-04-26,09:19:00,plantae,35123,species,Ellisolandia elongata,41.4102729318,2.2273971425,Spain,research,9,andrea,cc-by-nc,1,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,Ellisolandia
-258652,2024-04-27,2024-04-27,2024-04-26,09:19:00,chromista,35541,genus,Dictyota,41.4100726862,2.2273053,Spain,needs_id,9,andrea,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,
-258651,2024-04-27,2024-04-27,2024-04-26,09:15:00,porifera,242281,species,Crambe crambe,41.4101469421,2.2273576494,Spain,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Porifera,Demospongiae,Poecilosclerida,Crambeidae,Crambe
+258652,2024-04-27,2024-04-27,2024-04-26,09:19:00,chromista,35541,genus,Dictyota,41.4100726862,2.2273053,Spain,needs_id,9,andrea,cc-by-nc,1,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,
+258651,2024-04-27,2024-04-27,2024-04-26,09:15:00,animalia,2,kingdom,Animalia,41.4101469421,2.2273576494,Spain,needs_id,9,andrea,cc-by-nc,2,0,,,,,,
 258650,2024-04-27,2024-04-27,2024-04-26,09:14:00,actinopterygii,34986,species,Symphodus roissali,41.4112701,2.227734,"Zona de Banys Fòrum, Barcelona, Espanya",research,9,andrea,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
 258649,2024-04-27,2024-04-27,2024-04-26,09:02:00,actinopterygii,12553,species,Diplodus sargus,41.4112701,2.227734,"Zona de Banys Fòrum, Barcelona, Espanya",research,9,andrea,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
 258648,2024-04-27,2024-04-27,2024-04-26,08:45:00,actinopterygii,34798,species,Diplodus vulgaris,41.4112701,2.227734,"Zona de Banys Fòrum, Barcelona, Espanya",research,9,andrea,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
@@ -110,19 +124,19 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258645,2024-04-27,2024-04-27,2024-04-26,08:12:00,chromista,34968,species,Colpomenia sinuosa,41.4112701,2.227734,"Zona de Banys Fòrum, Barcelona, Espanya",research,9,andrea,cc-by-nc,1,0,Chromista,Ochrophyta,Phaeophyceae,Scytosiphonales,Scytosiphonaceae,Colpomenia
 258644,2024-04-27,2024-04-27,2024-04-26,08:13:00,mollusca,250214,species,Cerithium vulgatum,41.4112701,2.227734,"Zona de Banys Fòrum, Barcelona, Espanya",research,9,andrea,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,,Cerithiidae,Cerithium
 258643,2024-04-27,2024-04-27,2024-04-26,08:07:00,cnidaria,34999,species,Actinia mediterranea,41.4112701,2.227734,"Zona de Banys Fòrum, Barcelona, Espanya",research,9,andrea,cc-by-nc,1,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Actinia
-258623,2024-04-27,2024-04-27,2024-04-27,10:45:00,aves,253488,species,Upupa epops,41.3554261,1.9793518,"08629 Torrelles de Llobregat, Barcelona, Espanya",needs_id,420,pitubis,cc-by-nc,0,0,Animalia,Chordata,Aves,Upupiformes,Upupidae,Upupa
-258621,2024-04-27,2024-04-27,2024-04-27,05:48:00,aves,250485,species,Sturnus vulgaris,41.3464716299,1.9548574795,"Barcelona, España",needs_id,64,vicent,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Sturnidae,Sturnus
-258620,2024-04-27,2024-04-27,2024-04-27,05:46:00,aves,252848,species,Passer domesticus,41.3467909367,1.954237635,"Barcelona, España",needs_id,64,vicent,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer
-258619,2024-04-27,2024-04-27,2024-04-27,10:13:00,aves,247539,species,Motacilla cinerea,41.3744510178,1.9912703406,"Barcelona, España",needs_id,64,vicent,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Motacillidae,Motacilla
-258618,2024-04-27,2024-04-27,2024-04-27,09:59:00,aves,249839,species,Gallinula chloropus,41.3718858147,1.9895634333,"Barcelona, España",needs_id,64,vicent,cc-by-nc,0,0,Animalia,Chordata,Aves,Gruiformes,Rallidae,Gallinula
-258617,2024-04-27,2024-04-27,2024-04-27,09:28:00,aves,243037,species,Cyanistes caeruleus,41.3626132896,1.976553998,"Barcelona, España",needs_id,64,vicent,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Paridae,Cyanistes
-258616,2024-04-27,2024-04-27,2024-04-27,09:07:00,aves,251759,species,Streptopelia decaocto,41.3592548023,1.9816845561,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,64,vicent,cc-by-nc,0,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Streptopelia
-258615,2024-04-27,2024-04-27,2024-04-27,09:07:00,aves,253189,species,Phoenicurus ochruros,41.359126714,1.981923853,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,64,vicent,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Phoenicurus
-258614,2024-04-27,2024-04-27,2024-04-27,09:02:00,aves,243973,species,Delichon urbicum,41.3592457155,1.9817172002,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,64,vicent,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Delichon
-258613,2024-04-27,2024-04-27,2024-04-27,08:58:00,aves,249190,species,Carduelis carduelis,41.3592815138,1.9817299552,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,64,vicent,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Carduelis
-258612,2024-04-27,2024-04-27,2024-04-27,08:43:00,aves,253420,species,Turdus merula,41.3575750671,1.9837849621,"Barcelona, España",needs_id,64,vicent,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus
-258611,2024-04-27,2024-04-27,2024-04-27,08:35:00,aves,250773,species,Chloris chloris,41.3567860999,1.9822184101,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,64,vicent,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Chloris
-258610,2024-04-27,2024-04-27,2024-04-27,08:32:00,aves,252272,species,Columba palumbus,41.3567842059,1.9825860331,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,64,vicent,cc-by-nc,0,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
+258623,2024-04-27,2024-04-27,2024-04-27,10:45:00,aves,253488,species,Upupa epops,41.3554261,1.9793518,"08629 Torrelles de Llobregat, Barcelona, Espanya",research,420,pitubis,cc-by-nc,1,0,Animalia,Chordata,Aves,Upupiformes,Upupidae,Upupa
+258621,2024-04-27,2024-04-27,2024-04-27,05:48:00,aves,250485,species,Sturnus vulgaris,41.3464716299,1.9548574795,"Barcelona, España",research,64,vicent,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Sturnidae,Sturnus
+258620,2024-04-27,2024-04-27,2024-04-27,05:46:00,aves,252848,species,Passer domesticus,41.3467909367,1.954237635,"Barcelona, España",research,64,vicent,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer
+258619,2024-04-27,2024-04-27,2024-04-27,10:13:00,aves,247539,species,Motacilla cinerea,41.3744510178,1.9912703406,"Barcelona, España",research,64,vicent,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Motacillidae,Motacilla
+258618,2024-04-27,2024-04-27,2024-04-27,09:59:00,aves,249839,species,Gallinula chloropus,41.3718858147,1.9895634333,"Barcelona, España",research,64,vicent,cc-by-nc,1,0,Animalia,Chordata,Aves,Gruiformes,Rallidae,Gallinula
+258617,2024-04-27,2024-04-27,2024-04-27,09:28:00,aves,243037,species,Cyanistes caeruleus,41.3626132896,1.976553998,"Barcelona, España",research,64,vicent,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Paridae,Cyanistes
+258616,2024-04-27,2024-04-27,2024-04-27,09:07:00,aves,251759,species,Streptopelia decaocto,41.3592548023,1.9816845561,"08629 Torrelles de Llobregat, Barcelona, España",research,64,vicent,cc-by-nc,1,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Streptopelia
+258615,2024-04-27,2024-04-27,2024-04-27,09:07:00,aves,253189,species,Phoenicurus ochruros,41.359126714,1.981923853,"08629 Torrelles de Llobregat, Barcelona, España",research,64,vicent,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Phoenicurus
+258614,2024-04-27,2024-04-27,2024-04-27,09:02:00,aves,243973,species,Delichon urbicum,41.3592457155,1.9817172002,"08629 Torrelles de Llobregat, Barcelona, España",research,64,vicent,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Delichon
+258613,2024-04-27,2024-04-27,2024-04-27,08:58:00,aves,249190,species,Carduelis carduelis,41.3592815138,1.9817299552,"08629 Torrelles de Llobregat, Barcelona, España",research,64,vicent,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Carduelis
+258612,2024-04-27,2024-04-27,2024-04-27,08:43:00,aves,253420,species,Turdus merula,41.3575750671,1.9837849621,"Barcelona, España",research,64,vicent,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus
+258611,2024-04-27,2024-04-27,2024-04-27,08:35:00,aves,250773,species,Chloris chloris,41.3567860999,1.9822184101,"08629 Torrelles de Llobregat, Barcelona, España",research,64,vicent,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Chloris
+258610,2024-04-27,2024-04-27,2024-04-27,08:32:00,aves,252272,species,Columba palumbus,41.3567842059,1.9825860331,"08629 Torrelles de Llobregat, Barcelona, España",research,64,vicent,cc-by-nc,1,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
 258609,2024-04-27,2024-04-27,2024-04-27,06:58:00,aves,247438,species,Monticola solitarius,41.3657688863,1.9609547026,"Barcelona, España",research,64,vicent,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Turdidae,Monticola
 258608,2024-04-27,2024-04-27,2024-04-27,06:14:00,aves,252272,species,Columba palumbus,41.3533325237,1.9717581647,"Barcelona, España",research,64,vicent,cc-by-nc,1,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
 258607,2024-04-27,2024-04-27,2024-04-27,05:55:00,aves,253420,species,Turdus merula,41.3467396763,1.9578541624,"Barcelona, España",research,64,vicent,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus
@@ -184,6 +198,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258549,2024-04-27,2024-04-27,2024-04-27,14:58:00,,nan,,,41.3876937,2.1839421,"Passeig de Picasso, 7, Ciutat Vella, 08003 Barcelona, España",needs_id,83,nuriasireni,cc-by-nc,0,0,,,,,,
 258548,2024-04-27,2024-04-27,2024-04-27,14:58:00,,nan,,,41.3876937,2.1839421,"Passeig de Picasso, 7, Ciutat Vella, 08003 Barcelona, España",needs_id,83,nuriasireni,cc-by-nc,0,0,,,,,,
 258547,2024-04-27,2024-04-27,2024-04-27,14:58:00,,nan,,,41.3876937,2.1839421,"Passeig de Picasso, 7, Ciutat Vella, 08003 Barcelona, España",needs_id,83,nuriasireni,cc-by-nc,0,0,,,,,,
+258546,2024-04-27,2024-04-27,2024-04-27,14:58:00,plantae,262865,species,Sansevieria trifasciata,41.3876937,2.1839421,"Passeig de Picasso, 7, Ciutat Vella, 08003 Barcelona, España",needs_id,83,nuriasireni,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Asparagales,Asparagaceae,Sansevieria
 258546,2024-04-27,2024-04-27,2024-04-27,14:58:00,plantae,262865,species,Sansevieria trifasciata,41.3876937,2.1839421,"Passeig de Picasso, 7, Ciutat Vella, 08003 Barcelona, España",needs_id,83,nuriasireni,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Asparagales,Asparagaceae,Sansevieria
 258545,2024-04-27,2024-04-27,2024-04-27,15:04:00,plantae,247405,species,Salvia microphylla,41.3863045548,2.1593608226,Spain,casual,2258,lydiat,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Lamiaceae,Salvia
 258544,2024-04-27,2024-04-27,2024-04-26,14:50:00,cnidaria,34999,species,Actinia mediterranea,41.4103203916,2.2272552394,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Actinia
