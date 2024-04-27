@@ -1,4 +1,83 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+258722,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717924206,2.0499356623,,casual,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258721,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717894206,2.0499326623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258720,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717864206,2.0499296623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258719,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717834206,2.0499266623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258718,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717804206,2.0499236623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258717,2024-04-27,2024-04-27,2024-04-27,10:15:00,,nan,,,41.2715833333,2.0504055556,,needs_id,2284,cristi,cc-by,0,0,,,,,,
+258716,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717774206,2.0499206623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258715,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717744206,2.0499176623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258714,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717714206,2.0499146623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258713,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717684206,2.0499116623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258712,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717654206,2.0499086623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258711,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717624206,2.0499056623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258710,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717594206,2.0499026623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258709,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717564206,2.0498996623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258708,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717534206,2.0498966623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258707,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717504206,2.0498936623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258705,2024-04-27,2024-04-27,2024-04-27,13:56:00,,nan,,,41.2917194258,2.1091441088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258704,2024-04-27,2024-04-27,2024-04-27,13:56:00,,nan,,,41.2917164258,2.1091411088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258703,2024-04-27,2024-04-27,2024-04-27,13:56:00,,nan,,,41.2917134258,2.1091381088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258702,2024-04-27,2024-04-27,2024-04-27,13:56:00,,nan,,,41.2917104258,2.1091351088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258701,2024-04-27,2024-04-27,2024-04-27,13:56:00,,nan,,,41.2917074258,2.1091321088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258700,2024-04-27,2024-04-27,2024-04-27,13:56:00,,nan,,,41.2917044258,2.1091291088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258699,2024-04-27,2024-04-27,2024-04-27,13:56:00,,nan,,,41.2917014258,2.1091261088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258698,2024-04-27,2024-04-27,2024-04-27,14:14:00,,nan,,,41.2916914258,2.1091161088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258697,2024-04-27,2024-04-27,2024-04-27,14:14:00,,nan,,,41.2916884258,2.1091131088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258696,2024-04-27,2024-04-27,2024-04-27,14:14:00,,nan,,,41.2916854258,2.1091101088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258695,2024-04-27,2024-04-27,2024-04-27,14:14:00,,nan,,,41.2916824258,2.1091071088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258694,2024-04-27,2024-04-27,2024-04-27,14:14:00,,nan,,,41.2916794258,2.1091041088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258693,2024-04-27,2024-04-27,2024-04-27,14:14:00,,nan,,,41.2916764258,2.1091011088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258692,2024-04-27,2024-04-27,2024-04-27,14:14:00,,nan,,,41.2916734258,2.1090981088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258691,2024-04-27,2024-04-27,2024-04-27,14:14:00,,nan,,,41.2916704258,2.1090951088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258690,2024-04-27,2024-04-27,2024-04-27,14:14:00,,nan,,,41.2916674258,2.1090921088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258689,2024-04-27,2024-04-27,2024-04-27,14:14:00,,nan,,,41.2916644258,2.1090891088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258688,2024-04-27,2024-04-27,2024-04-27,14:14:00,,nan,,,41.2916614258,2.1090861088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258687,2024-04-27,2024-04-27,2024-04-27,14:14:00,,nan,,,41.2916584258,2.1090831088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258686,2024-04-27,2024-04-27,2024-04-27,14:43:00,,nan,,,41.2916484258,2.1090731088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258685,2024-04-27,2024-04-27,2024-04-27,14:43:00,,nan,,,41.2916454258,2.1090701088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258684,2024-04-27,2024-04-27,2024-04-27,14:43:00,,nan,,,41.2916424258,2.1090671088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258683,2024-04-27,2024-04-27,2024-04-27,14:43:00,,nan,,,41.2916394258,2.1090641088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258682,2024-04-27,2024-04-27,2024-04-27,14:43:00,,nan,,,41.2916364258,2.1090611088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258681,2024-04-27,2024-04-27,2024-04-27,14:43:00,,nan,,,41.2916334258,2.1090581088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258680,2024-04-27,2024-04-27,2024-04-27,14:43:00,,nan,,,41.2916304258,2.1090551088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258679,2024-04-27,2024-04-27,2024-04-27,14:43:00,,nan,,,41.2916274258,2.1090521088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258678,2024-04-27,2024-04-27,2024-04-27,14:43:00,,nan,,,41.2916244258,2.1090491088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258677,2024-04-27,2024-04-27,2024-04-27,14:43:00,,nan,,,41.2916214258,2.1090461088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258676,2024-04-27,2024-04-27,2024-04-27,14:43:00,,nan,,,41.2916184258,2.1090431088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258675,2024-04-27,2024-04-27,2024-04-27,14:43:00,,nan,,,41.2916154258,2.1090401088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258674,2024-04-27,2024-04-27,2024-04-27,14:43:00,,nan,,,41.2916124258,2.1090371088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258673,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2916024258,2.1090271088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258672,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2915994258,2.1090241088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258671,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2915964258,2.1090211088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258670,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2915934258,2.1090181088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258669,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2915904258,2.1090151088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258668,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2915874258,2.1090121088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258667,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2915844258,2.1090091088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258666,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2915814258,2.1090061088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258665,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2915784258,2.1090031088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258664,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2915754258,2.1090001088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258663,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2915724258,2.1089971088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258662,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2915694258,2.1089941088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258661,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2915664258,2.1089911088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258660,2024-04-27,2024-04-27,2024-04-26,08:17:00,crustacea,251234,species,Chthamalus stellatus,41.4104320534,2.2274104902,"Barcelona, Espanya",needs_id,9,andrea,cc-by-nc,0,0,Animalia,Arthropoda,,,Chthamalidae,Chthamalus
+258659,2024-04-27,2024-04-27,2024-04-26,09:32:00,actinopterygii,1952,family,Sparidae,41.409787437,2.2269867012,Spain,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,,
+258658,2024-04-27,2024-04-27,2024-04-26,09:32:00,actinopterygii,61912,species,Atherina hepsetus,41.4099000894,2.2269564858,Spain,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Atheriniformes,Atherinidae,Atherina
+258657,2024-04-27,2024-04-27,2024-04-26,09:32:00,annelida,34800,species,Branchiomma luctuosum,41.4101414867,2.2271227828,Spain,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Annelida,Polychaeta,Sabellida,Sabellidae,Branchiomma
+258656,2024-04-27,2024-04-27,2024-04-26,09:26:00,actinopterygii,34835,species,Coris julis,41.4098097946,2.2271213606,Spain,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+258655,2024-04-27,2024-04-27,2024-04-26,09:22:00,actinopterygii,35120,species,Gobius incognitus,41.4099832555,2.227139974,Spain,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Gobius
+258654,2024-04-27,2024-04-27,2024-04-26,09:20:00,plantae,35123,species,Ellisolandia elongata,41.4102367224,2.2272201167,Spain,needs_id,9,andrea,cc-by-nc,0,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,Ellisolandia
+258653,2024-04-27,2024-04-27,2024-04-26,09:19:00,plantae,35123,species,Ellisolandia elongata,41.4102729318,2.2273971425,Spain,needs_id,9,andrea,cc-by-nc,0,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,Ellisolandia
+258652,2024-04-27,2024-04-27,2024-04-26,09:19:00,chromista,35541,genus,Dictyota,41.4100726862,2.2273053,Spain,needs_id,9,andrea,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,
+258651,2024-04-27,2024-04-27,2024-04-26,09:15:00,porifera,242281,species,Crambe crambe,41.4101469421,2.2273576494,Spain,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Porifera,Demospongiae,Poecilosclerida,Crambeidae,Crambe
+258650,2024-04-27,2024-04-27,2024-04-26,09:14:00,actinopterygii,34986,species,Symphodus roissali,41.4112701,2.227734,"Zona de Banys Fòrum, Barcelona, Espanya",needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
+258649,2024-04-27,2024-04-27,2024-04-26,09:02:00,actinopterygii,12553,species,Diplodus sargus,41.4112701,2.227734,"Zona de Banys Fòrum, Barcelona, Espanya",needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+258648,2024-04-27,2024-04-27,2024-04-26,08:45:00,actinopterygii,34798,species,Diplodus vulgaris,41.4112701,2.227734,"Zona de Banys Fòrum, Barcelona, Espanya",needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+258647,2024-04-27,2024-04-27,2024-04-26,08:19:00,crustacea,240381,species,Pachygrapsus marmoratus,41.4112701,2.227734,"Zona de Banys Fòrum, Barcelona, Espanya",needs_id,9,andrea,cc-by-nc,0,0,Animalia,Arthropoda,Malacostraca,Decapoda,Grapsidae,Pachygrapsus
+258646,2024-04-27,2024-04-27,2024-04-26,08:09:00,chromista,34968,species,Colpomenia sinuosa,41.4112701,2.227734,"Zona de Banys Fòrum, Barcelona, Espanya",needs_id,9,andrea,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Scytosiphonales,Scytosiphonaceae,Colpomenia
+258645,2024-04-27,2024-04-27,2024-04-26,08:12:00,chromista,34968,species,Colpomenia sinuosa,41.4112701,2.227734,"Zona de Banys Fòrum, Barcelona, Espanya",needs_id,9,andrea,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Scytosiphonales,Scytosiphonaceae,Colpomenia
+258644,2024-04-27,2024-04-27,2024-04-26,08:13:00,mollusca,250214,species,Cerithium vulgatum,41.4112701,2.227734,"Zona de Banys Fòrum, Barcelona, Espanya",needs_id,9,andrea,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,,Cerithiidae,Cerithium
+258643,2024-04-27,2024-04-27,2024-04-26,08:07:00,cnidaria,34999,species,Actinia mediterranea,41.4112701,2.227734,"Zona de Banys Fòrum, Barcelona, Espanya",needs_id,9,andrea,cc-by-nc,0,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Actinia
 258623,2024-04-27,2024-04-27,2024-04-27,10:45:00,aves,253488,species,Upupa epops,41.3554261,1.9793518,"08629 Torrelles de Llobregat, Barcelona, Espanya",needs_id,420,pitubis,cc-by-nc,0,0,Animalia,Chordata,Aves,Upupiformes,Upupidae,Upupa
 258621,2024-04-27,2024-04-27,2024-04-27,05:48:00,aves,250485,species,Sturnus vulgaris,41.3464716299,1.9548574795,"Barcelona, España",needs_id,64,vicent,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Sturnidae,Sturnus
 258620,2024-04-27,2024-04-27,2024-04-27,05:46:00,aves,252848,species,Passer domesticus,41.3467909367,1.954237635,"Barcelona, España",needs_id,64,vicent,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer
@@ -353,9 +432,6 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258005,2024-04-27,2024-04-27,2024-04-27,07:48:00,,nan,,,41.2715686878,2.0469368272,,needs_id,988,elibonfill,C,0,0,,,,,,
 258003,2024-04-27,2024-04-27,2024-04-27,07:48:00,,nan,,,41.2715656878,2.0469338272,,needs_id,988,elibonfill,C,0,0,,,,,,
 258002,2024-04-27,2024-04-27,2024-04-27,07:48:00,,nan,,,41.2715626878,2.0469308272,,needs_id,988,elibonfill,C,0,0,,,,,,
-258001,2024-04-27,2024-04-27,2024-04-27,08:11:00,,nan,,,41.4108268,2.1503624,Spain,casual,1736,gembio,cc-by,0,0,,,,,,
-258000,2024-04-27,2024-04-27,2024-04-27,08:11:00,,nan,,,41.4108198,2.1503554,Spain,needs_id,1736,gembio,cc-by,0,0,,,,,,
-257999,2024-04-27,2024-04-27,2024-04-27,08:11:00,,nan,,,41.4108751905,2.1502552181,Spain,needs_id,1736,gembio,cc-by,0,0,,,,,,
 257998,2024-04-27,2024-04-27,2024-04-27,08:11:00,,nan,,,41.4108797167,2.1502619237,Spain,needs_id,1736,gembio,cc-by,0,0,,,,,,
 257997,2024-04-27,2024-04-27,2024-04-27,07:39:00,,nan,,,41.4103517812,2.2273584503,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
 257996,2024-04-27,2024-04-27,2024-04-27,06:41:00,cnidaria,253561,species,Velella velella,41.4104134553,2.2272619344,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
