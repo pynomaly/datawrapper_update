@@ -1,4 +1,8 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+259638,2024-04-28,2024-04-28,2024-04-28,10:41:00,aves,253889,species,Pica pica,41.505012,2.15325,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Corvidae,Pica
+259637,2024-04-28,2024-04-28,2024-04-28,10:58:00,aves,1638,family,Columbidae,41.505012,2.15325,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Animalia,Chordata,Aves,Columbiformes,,
+259636,2024-04-28,2024-04-28,2024-04-28,10:59:00,aves,249670,species,Serinus serinus,41.505012,2.15325,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Serinus
+259635,2024-04-28,2024-04-28,2024-04-28,11:05:00,aves,253488,species,Upupa epops,41.505012,2.15325,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Animalia,Chordata,Aves,Upupiformes,Upupidae,Upupa
 259634,2024-04-28,2024-04-28,2024-04-28,11:11:00,aves,247528,species,Motacilla alba,41.505012,2.15325,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Motacillidae,Motacilla
 259626,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,252272,species,Columba palumbus,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
 259621,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,252264,species,Columba livia,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
@@ -63,19 +67,19 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 259562,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,247147,species,Estrilda astrild,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Estrildidae,Estrilda
 259561,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,247147,species,Estrilda astrild,41.40826265,2.1828373,Spain,casual,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Estrildidae,Estrilda
 259560,2024-04-28,2024-04-28,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
-259559,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,252848,species,Passer domesticus,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer
-259558,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,247528,species,Motacilla alba,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Motacillidae,Motacilla
+259559,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,252848,species,Passer domesticus,41.40826265,2.1828373,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer
+259558,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,247528,species,Motacilla alba,41.40826265,2.1828373,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Motacillidae,Motacilla
 259557,2024-04-28,2024-04-28,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
 259556,2024-04-28,2024-04-28,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
 259555,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,252272,species,Columba palumbus,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
-259554,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,253889,species,Pica pica,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Corvidae,Pica
-259553,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,247963,species,Myiopsitta monachus,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Myiopsitta
+259554,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,253889,species,Pica pica,41.40826265,2.1828373,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Corvidae,Pica
+259553,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,247963,species,Myiopsitta monachus,41.40826265,2.1828373,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Myiopsitta
 259552,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,253420,species,Turdus merula,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus
 259551,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,253889,species,Pica pica,41.40826265,2.1828373,Spain,casual,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Corvidae,Pica
 259550,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,245911,species,Ardea cinerea,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Ciconiiformes,Ardeidae,Ardea
 259549,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,252272,species,Columba palumbus,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
-259548,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,249670,species,Serinus serinus,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Serinus
-259547,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,249670,species,Serinus serinus,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Serinus
+259548,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,249670,species,Serinus serinus,41.40826265,2.1828373,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Serinus
+259547,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,249670,species,Serinus serinus,41.40826265,2.1828373,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Serinus
 259545,2024-04-28,2024-04-28,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
 259546,2024-04-28,2024-04-28,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
 259544,2024-04-28,2024-04-28,2024-04-28,07:46:00,plantae,252738,species,Papaver rhoeas,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Papaverales,Papaveraceae,Papaver
