@@ -27,10 +27,10 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 259672,2024-04-28,2024-04-28,2024-04-28,11:09:00,plantae,252738,species,Papaver rhoeas,41.505124,2.15413,"Ripollet, Barcelona, España",research,1030,mingokt,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Papaverales,Papaveraceae,Papaver
 259671,2024-04-28,2024-04-28,2024-04-28,11:06:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259670,2024-04-28,2024-04-28,2024-04-28,11:04:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-259669,2024-04-28,2024-04-28,2024-04-28,10:57:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-259668,2024-04-28,2024-04-28,2024-04-28,10:55:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-259667,2024-04-28,2024-04-28,2024-04-28,10:54:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-259666,2024-04-28,2024-04-28,2024-04-28,10:54:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
+259669,2024-04-28,2024-04-28,2024-04-28,10:57:00,plantae,245137,species,Quercus ilex,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Fagales,Fagaceae,Quercus
+259668,2024-04-28,2024-04-28,2024-04-28,10:55:00,plantae,250103,species,Olea europaea,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Scrophulariales,Oleaceae,Olea
+259667,2024-04-28,2024-04-28,2024-04-28,10:54:00,plantae,244166,species,Prunus dulcis,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Rosaceae,Prunus
+259666,2024-04-28,2024-04-28,2024-04-28,10:54:00,plantae,243576,species,Populus nigra,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Salicales,Salicaceae,Populus
 259665,2024-04-28,2024-04-28,2024-04-28,10:49:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259664,2024-04-28,2024-04-28,2024-04-28,10:48:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259663,2024-04-28,2024-04-28,2024-04-28,10:47:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
@@ -74,20 +74,19 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 259612,2024-04-28,2024-04-28,2024-04-28,07:46:00,insecta,1252,family,Sarcophagidae,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,Diptera,,
 259611,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,249190,species,Carduelis carduelis,41.40826265,2.1828373,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Carduelis
 259610,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,252848,species,Passer domesticus,41.40826265,2.1828373,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer
-259609,2024-04-28,2024-04-28,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
+259609,2024-04-28,2024-04-28,2024-04-28,07:46:00,plantae,249449,species,Fumaria officinalis,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Papaverales,Fumariaceae,Fumaria
 259608,2024-04-28,2024-04-28,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
 259607,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,257136,species,Curruca melanocephala,41.40826265,2.1828373,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Sylviidae,
 259606,2024-04-28,2024-04-28,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
 259605,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,246236,species,Sylvia atricapilla,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Sylviidae,Sylvia
 259604,2024-04-28,2024-04-28,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
 259603,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,252264,species,Columba livia,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
-259602,2024-04-28,2024-04-28,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
-259601,2024-04-28,2024-04-28,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
+259601,2024-04-28,2024-04-28,2024-04-28,07:46:00,insecta,245563,species,Apis mellifera,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Apis
 259600,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,257136,species,Curruca melanocephala,41.40826265,2.1828373,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Sylviidae,
-259599,2024-04-28,2024-04-28,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
-259598,2024-04-28,2024-04-28,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
+259599,2024-04-28,2024-04-28,2024-04-28,07:46:00,insecta,245563,species,Apis mellifera,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Apis
+259598,2024-04-28,2024-04-28,2024-04-28,07:46:00,insecta,1099,family,Syrphidae,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Diptera,,
 259597,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,257136,species,Curruca melanocephala,41.40826265,2.1828373,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Sylviidae,
-259596,2024-04-28,2024-04-28,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
+259596,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,253420,species,Turdus merula,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus
 259595,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,253262,species,Phylloscopus collybita,41.40826265,2.1828373,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Sylviidae,Phylloscopus
 259594,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,246557,species,Apus melba,41.40826265,2.1828373,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Apodiformes,Apodidae,Apus
 259593,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,247963,species,Myiopsitta monachus,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Myiopsitta
