@@ -18,14 +18,14 @@ project,city,observations,species,participants
 99,Esplugues de Llobregat,0,0,0
 100,Sant Just Desvern,0,0,0
 101,Sant Cugat del Vallès,0,0,0
-102,Barberà del Vallès,0,0,0
-103,Ripollet,60,30,1
-104,Montcada i Reixac,1,1,1
+102,Barberà del Vallès,1,1,1
+103,Ripollet,58,28,1
+104,Montcada i Reixac,2,2,1
 106,Sant Adrià de Besòs,0,0,0
 107,Badalona,0,0,0
 108,Tiana,0,0,0
 109,Montgat,0,0,0
-224,Barcelona,723,215,18
+224,Barcelona,755,229,19
 225,el Prat de Llobregat,58,34,2
 226,Pallejà,50,37,1
 227,Torrelles de Llobregat,82,50,2
@@ -33,4 +33,4 @@ project,city,observations,species,participants
 229,Gavà,0,0,0
 230,Sant Joan Despí,0,0,0
 231,Santa Coloma de Gramenet,0,0,0
-232,Àrea marina Barcelona,1684,383,25
+232,Àrea marina Barcelona,1716,383,26
