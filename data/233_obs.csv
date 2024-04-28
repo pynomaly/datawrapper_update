@@ -197,8 +197,8 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258716,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717774206,2.0499206623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258715,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717744206,2.0499176623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258714,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717714206,2.0499146623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
-258713,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717684206,2.0499116623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
-258712,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717654206,2.0499086623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258713,2024-04-27,2024-04-28,2024-04-27,10:13:00,insecta,50251,species,Psilothrix viridicoerulea,41.2717684206,2.0499116623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Coleoptera,Dasytidae,Psilothrix
+258712,2024-04-27,2024-04-28,2024-04-27,10:13:00,insecta,1252,family,Sarcophagidae,41.2717654206,2.0499086623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Diptera,,
 258711,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717624206,2.0499056623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258710,2024-04-27,2024-04-27,2024-04-27,10:13:00,mollusca,251218,species,Spisula subtruncata,41.2717594206,2.0499026623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Venerida,Mactridae,Spisula
 258709,2024-04-27,2024-04-27,2024-04-27,10:13:00,cnidaria,253561,species,Velella velella,41.2717564206,2.0498996623,,research,54,loreto_rodriguez,cc-by-nc,2,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
@@ -206,7 +206,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258707,2024-04-27,2024-04-27,2024-04-27,10:13:00,mollusca,241878,species,Acanthocardia tuberculata,41.2717504206,2.0498936623,,research,54,loreto_rodriguez,cc-by-nc,2,0,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Acanthocardia
 258705,2024-04-27,2024-04-27,2024-04-27,13:56:00,,nan,,,41.2917194258,2.1091441088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258704,2024-04-27,2024-04-27,2024-04-27,13:56:00,,nan,,,41.2917164258,2.1091411088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
-258703,2024-04-27,2024-04-27,2024-04-27,13:56:00,,nan,,,41.2917134258,2.1091381088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258703,2024-04-27,2024-04-28,2024-04-27,13:56:00,insecta,18481,genus,Oedemera,41.2917134258,2.1091381088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Coleoptera,Oedemeridae,
 258702,2024-04-27,2024-04-28,2024-04-27,13:56:00,plantae,252413,species,Convolvulus althaeoides,41.2917104258,2.1091351088,,research,54,loreto_rodriguez,cc-by-nc,2,0,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Convolvulaceae,Convolvulus
 258701,2024-04-27,2024-04-27,2024-04-27,13:56:00,,nan,,,41.2917074258,2.1091321088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258700,2024-04-27,2024-04-27,2024-04-27,13:56:00,,nan,,,41.2917044258,2.1091291088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
@@ -237,7 +237,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258675,2024-04-27,2024-04-27,2024-04-27,14:43:00,,nan,,,41.2916154258,2.1090401088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258674,2024-04-27,2024-04-27,2024-04-27,14:43:00,,nan,,,41.2916124258,2.1090371088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258673,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2916024258,2.1090271088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
-258672,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2915994258,2.1090241088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258672,2024-04-27,2024-04-28,2024-04-27,15:35:00,insecta,1252,family,Sarcophagidae,41.2915994258,2.1090241088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Diptera,,
 258671,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2915964258,2.1090211088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258670,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2915934258,2.1090181088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258669,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2915904258,2.1090151088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
