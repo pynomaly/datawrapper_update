@@ -1,12 +1,13 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+259699,347626,,,https://minka-sdg.org/attachments/local_photos/files/347626/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259699_347626.jpg
 259696,347604,,,https://minka-sdg.org/attachments/local_photos/files/347604/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259696_347604.jpg
 259696,347605,,,https://minka-sdg.org/attachments/local_photos/files/347605/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259696_347605.jpg
 259695,347603,,,https://minka-sdg.org/attachments/local_photos/files/347603/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259695_347603.jpg
 259695,347606,,,https://minka-sdg.org/attachments/local_photos/files/347606/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259695_347606.jpg
 259694,347602,,,https://minka-sdg.org/attachments/local_photos/files/347602/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259694_347602.jpg
 259694,347607,,,https://minka-sdg.org/attachments/local_photos/files/347607/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259694_347607.jpg
-259693,347601,,,https://minka-sdg.org/attachments/local_photos/files/347601/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259693_347601.jpg
-259693,347608,,,https://minka-sdg.org/attachments/local_photos/files/347608/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259693_347608.jpg
+259693,347601,plantae,Lemna,https://minka-sdg.org/attachments/local_photos/files/347601/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259693_347601.jpg
+259693,347608,plantae,Lemna,https://minka-sdg.org/attachments/local_photos/files/347608/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259693_347608.jpg
 259692,347600,plantae,Chamaemelum nobile,https://minka-sdg.org/attachments/local_photos/files/347600/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259692_347600.jpg
 259692,347609,plantae,Chamaemelum nobile,https://minka-sdg.org/attachments/local_photos/files/347609/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259692_347609.jpg
 259691,347599,,,https://minka-sdg.org/attachments/local_photos/files/347599/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259691_347599.jpg
@@ -28,7 +29,8 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 259682,347616,plantae,Eriobotrya japonica,https://minka-sdg.org/attachments/local_photos/files/347616/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259682_347616.jpg
 259681,347589,plantae,Passiflora caerulea,https://minka-sdg.org/attachments/local_photos/files/347589/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259681_347589.jpg
 259681,347617,plantae,Passiflora caerulea,https://minka-sdg.org/attachments/local_photos/files/347617/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259681_347617.jpg
-259680,347588,,,https://minka-sdg.org/attachments/local_photos/files/347588/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259680_347588.jpg
+259680,347588,plantae,Foeniculum vulgare,https://minka-sdg.org/attachments/local_photos/files/347588/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259680_347588.jpg
+259680,347625,plantae,Foeniculum vulgare,https://minka-sdg.org/attachments/local_photos/files/347625/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259680_347625.jpg
 259679,347587,,,https://minka-sdg.org/attachments/local_photos/files/347587/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259679_347587.jpg
 259678,347586,,,https://minka-sdg.org/attachments/local_photos/files/347586/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259678_347586.jpg
 259677,347585,,,https://minka-sdg.org/attachments/local_photos/files/347585/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259677_347585.jpg

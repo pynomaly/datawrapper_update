@@ -1,8 +1,9 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+259699,2024-04-28,2024-04-28,2024-04-28,12:20:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259696,2024-04-28,2024-04-28,2024-04-28,12:29:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259695,2024-04-28,2024-04-28,2024-04-28,12:27:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259694,2024-04-28,2024-04-28,2024-04-28,12:22:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-259693,2024-04-28,2024-04-28,2024-04-28,12:20:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
+259693,2024-04-28,2024-04-28,2024-04-28,12:20:00,plantae,30846,genus,Lemna,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Araceae,
 259692,2024-04-28,2024-04-28,2024-04-28,12:19:00,plantae,250459,species,Chamaemelum nobile,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Chamaemelum
 259691,2024-04-28,2024-04-28,2024-04-28,12:12:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259690,2024-04-28,2024-04-28,2024-04-28,12:11:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
@@ -15,7 +16,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 259683,2024-04-28,2024-04-28,2024-04-28,11:57:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259682,2024-04-28,2024-04-28,2024-04-28,11:56:00,plantae,241180,species,Eriobotrya japonica,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Rosaceae,Eriobotrya
 259681,2024-04-28,2024-04-28,2024-04-28,11:53:00,plantae,252855,species,Passiflora caerulea,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Violales,Passifloraceae,Passiflora
-259680,2024-04-28,2024-04-28,2024-04-28,11:49:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
+259680,2024-04-28,2024-04-28,2024-04-28,11:49:00,plantae,248995,species,Foeniculum vulgare,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Apiales,Apiaceae,Foeniculum
 259679,2024-04-28,2024-04-28,2024-04-28,11:47:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259678,2024-04-28,2024-04-28,2024-04-28,11:45:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259677,2024-04-28,2024-04-28,2024-04-28,11:41:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
