@@ -6,7 +6,7 @@ project,city,observations,species,participants
 85,Sant Boi de Llobregat,0,0,0
 86,Santa Coloma de Cervelló,0,0,0
 87,Sant Vicenç dels Horts,0,0,0
-88,la Palma de Cervelló,27,7,1
+88,la Palma de Cervelló,27,6,1
 89,Corbera de Llobregat,0,0,0
 91,Sant Andreu de la Barca,0,0,0
 92,Castellbisbal,0,0,0
@@ -28,7 +28,7 @@ project,city,observations,species,participants
 224,Barcelona,991,266,24
 225,el Prat de Llobregat,58,34,2
 226,Pallejà,50,37,1
-227,Torrelles de Llobregat,82,50,2
+227,Torrelles de Llobregat,146,59,2
 228,Castelldefels,0,0,0
 229,Gavà,0,0,0
 230,Sant Joan Despí,0,0,0
