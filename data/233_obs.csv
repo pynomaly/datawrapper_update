@@ -13,7 +13,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 259686,2024-04-28,2024-04-28,2024-04-28,12:01:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259685,2024-04-28,2024-04-28,2024-04-28,11:58:00,plantae,253787,species,Zantedeschia aethiopica,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Araceae,Zantedeschia
 259684,2024-04-28,2024-04-28,2024-04-28,11:58:00,plantae,241180,species,Eriobotrya japonica,41.505124,2.15413,"Ripollet, Barcelona, España",research,1030,mingokt,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Rosaceae,Eriobotrya
-259683,2024-04-28,2024-04-28,2024-04-28,11:57:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
+259683,2024-04-28,2024-04-28,2024-04-28,11:57:00,plantae,248800,species,Ficus carica,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Urticales,Moraceae,Ficus
 259682,2024-04-28,2024-04-28,2024-04-28,11:56:00,plantae,241180,species,Eriobotrya japonica,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Rosaceae,Eriobotrya
 259681,2024-04-28,2024-04-28,2024-04-28,11:53:00,plantae,252855,species,Passiflora caerulea,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Violales,Passifloraceae,Passiflora
 259680,2024-04-28,2024-04-28,2024-04-28,11:49:00,plantae,248995,species,Foeniculum vulgare,41.505124,2.15413,"Ripollet, Barcelona, España",research,1030,mingokt,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Apiales,Apiaceae,Foeniculum
@@ -36,16 +36,16 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 259663,2024-04-28,2024-04-28,2024-04-28,10:47:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259662,2024-04-28,2024-04-28,2024-04-28,10:31:00,plantae,243104,species,Agave americana,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Asparagales,Asparagaceae,Agave
 259661,2024-04-28,2024-04-28,2024-04-28,10:28:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-259660,2024-04-28,2024-04-28,2024-04-28,10:26:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
+259660,2024-04-28,2024-04-28,2024-04-28,10:26:00,plantae,242032,species,Pinus halepensis,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Pinophyta,Pinopsida,Pinales,Pinaceae,Pinus
 259659,2024-04-28,2024-04-28,2024-04-28,10:26:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-259658,2024-04-28,2024-04-28,2024-04-28,10:24:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-259657,2024-04-28,2024-04-28,2024-04-28,10:24:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
+259658,2024-04-28,2024-04-28,2024-04-28,10:24:00,plantae,245852,species,Arbutus unedo,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Ericales,Ericaceae,Arbutus
+259657,2024-04-28,2024-04-28,2024-04-28,10:24:00,plantae,241779,species,Ilex aquifolium,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Celastrales,Aquifoliaceae,Ilex
 259656,2024-04-28,2024-04-28,2024-04-28,10:22:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259655,2024-04-28,2024-04-28,2024-04-28,10:21:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259654,2024-04-28,2024-04-28,2024-04-28,10:20:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-259653,2024-04-28,2024-04-28,2024-04-28,10:19:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-259652,2024-04-28,2024-04-28,2024-04-28,10:19:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-259651,2024-04-28,2024-04-28,2024-04-28,10:17:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
+259653,2024-04-28,2024-04-28,2024-04-28,10:19:00,plantae,4723,family,Platanaceae,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Hamamelidales,,
+259652,2024-04-28,2024-04-28,2024-04-28,10:19:00,plantae,242032,species,Pinus halepensis,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Pinophyta,Pinopsida,Pinales,Pinaceae,Pinus
+259651,2024-04-28,2024-04-28,2024-04-28,10:17:00,plantae,248800,species,Ficus carica,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Urticales,Moraceae,Ficus
 259650,2024-04-28,2024-04-28,2024-04-28,10:15:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259649,2024-04-28,2024-04-28,2024-04-28,10:14:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259648,2024-04-28,2024-04-28,2024-04-28,10:13:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
@@ -1063,7 +1063,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258513,2024-04-27,2024-04-28,2024-04-26,14:07:00,echinodermata,9659,genus,Holothuria,41.4100784977,2.2274796046,Spain,needs_id,180,ngoncubells,cc-by-nc,2,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,
 258512,2024-04-27,2024-04-28,2024-04-26,14:07:00,echinodermata,251873,species,Holothuria sanctori,41.4100784977,2.2274796046,Spain,research,180,ngoncubells,cc-by-nc,2,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria
 258511,2024-04-27,2024-04-28,2024-04-27,14:04:00,actinopterygii,35250,species,Parablennius pilicornis,41.4103007827,2.2273399477,Spain,research,180,ngoncubells,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
-258510,2024-04-27,2024-04-28,2024-04-27,14:04:00,cnidaria,254144,species,Aiptasia couchi,41.4103021515,2.2273390351,Spain,research,180,ngoncubells,cc-by-nc,2,1,Animalia,Cnidaria,Anthozoa,Actiniaria,Aiptasiidae,Aiptasia
+258510,2024-04-27,2024-04-28,2024-04-27,14:04:00,cnidaria,254144,species,Aiptasia couchi,41.4103021515,2.2273390351,Spain,research,180,ngoncubells,cc-by-nc,3,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Aiptasiidae,Aiptasia
 258509,2024-04-27,2024-04-28,2024-04-27,14:04:00,crustacea,35010,species,Eriphia verrucosa,41.4103029288,2.2273283886,Spain,research,180,ngoncubells,cc-by-nc,1,0,Animalia,Arthropoda,Malacostraca,Decapoda,Eriphiidae,Eriphia
 258508,2024-04-27,2024-04-27,2024-04-27,14:03:00,life,1,stateofmatter,Life,41.415716002,2.0801717512,Spain,casual,318,amaliacardenas,cc-by-nc,0,0,,,,,,
 258507,2024-04-27,2024-04-27,2024-04-27,13:57:00,life,1,stateofmatter,Life,41.41631698,2.08060121,Spain,casual,318,amaliacardenas,cc-by-nc,0,0,,,,,,
@@ -1177,7 +1177,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258131,2024-04-27,2024-04-27,2024-04-26,07:44:00,crustacea,237075,species,Perforatus perforatus,41.4092118676,2.2271221464,Forum,research,224,manelsalvador,cc-by-nc,1,0,Animalia,Arthropoda,,,Balanidae,Perforatus
 258130,2024-04-27,2024-04-28,2024-04-26,07:45:00,plantae,64,phylum,Rhodophyta,41.4092118676,2.2271221464,Forum,needs_id,224,manelsalvador,cc-by-nc,1,0,Plantae,,,,,
 258129,2024-04-27,2024-04-28,2024-04-26,07:45:00,plantae,253478,species,Ulva rigida,41.4092118676,2.2271221464,Forum,research,224,manelsalvador,cc-by-nc,1,0,Plantae,Chlorophyta,Ulvophyceae,Ulvales,Ulvaceae,Ulva
-258128,2024-04-27,2024-04-28,2024-04-26,07:45:00,actinopterygii,9783,genus,Gobius,41.4092118676,2.2271221464,Forum,needs_id,224,manelsalvador,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,
+258128,2024-04-27,2024-04-28,2024-04-26,07:45:00,actinopterygii,9783,genus,Gobius,41.4092118676,2.2271221464,Forum,needs_id,224,manelsalvador,cc-by-nc,3,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,
 258127,2024-04-27,2024-04-28,2024-04-26,07:46:00,actinopterygii,34798,species,Diplodus vulgaris,41.4092118676,2.2271221464,Forum,research,224,manelsalvador,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
 258126,2024-04-27,2024-04-27,2024-04-26,07:46:00,actinopterygii,34805,species,Sarpa salpa,41.4092118676,2.2271221464,Forum,research,224,manelsalvador,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
 258125,2024-04-27,2024-04-28,2024-04-26,07:47:00,chromista,35063,species,Dictyota dichotoma,41.4092118676,2.2271221464,Forum,research,224,manelsalvador,cc-by-nc,1,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota

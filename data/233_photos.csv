@@ -23,8 +23,8 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 259685,347613,plantae,Zantedeschia aethiopica,https://minka-sdg.org/attachments/local_photos/files/347613/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259685_347613.jpg
 259684,347592,plantae,Eriobotrya japonica,https://minka-sdg.org/attachments/local_photos/files/347592/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259684_347592.jpg
 259684,347614,plantae,Eriobotrya japonica,https://minka-sdg.org/attachments/local_photos/files/347614/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259684_347614.jpg
-259683,347591,,,https://minka-sdg.org/attachments/local_photos/files/347591/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259683_347591.jpg
-259683,347615,,,https://minka-sdg.org/attachments/local_photos/files/347615/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259683_347615.jpg
+259683,347591,plantae,Ficus carica,https://minka-sdg.org/attachments/local_photos/files/347591/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259683_347591.jpg
+259683,347615,plantae,Ficus carica,https://minka-sdg.org/attachments/local_photos/files/347615/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259683_347615.jpg
 259682,347590,plantae,Eriobotrya japonica,https://minka-sdg.org/attachments/local_photos/files/347590/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259682_347590.jpg
 259682,347616,plantae,Eriobotrya japonica,https://minka-sdg.org/attachments/local_photos/files/347616/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259682_347616.jpg
 259681,347589,plantae,Passiflora caerulea,https://minka-sdg.org/attachments/local_photos/files/347589/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259681_347589.jpg
@@ -65,18 +65,29 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 259662,347570,plantae,Agave americana,https://minka-sdg.org/attachments/local_photos/files/347570/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259662_347570.jpg
 259661,347569,,,https://minka-sdg.org/attachments/local_photos/files/347569/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259661_347569.jpg
 259661,347647,,,https://minka-sdg.org/attachments/local_photos/files/347647/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259661_347647.jpg
-259660,347568,,,https://minka-sdg.org/attachments/local_photos/files/347568/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259660_347568.jpg
-259660,347648,,,https://minka-sdg.org/attachments/local_photos/files/347648/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259660_347648.jpg
+259660,347568,plantae,Pinus halepensis,https://minka-sdg.org/attachments/local_photos/files/347568/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259660_347568.jpg
+259660,347648,plantae,Pinus halepensis,https://minka-sdg.org/attachments/local_photos/files/347648/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259660_347648.jpg
 259659,347567,,,https://minka-sdg.org/attachments/local_photos/files/347567/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259659_347567.jpg
-259658,347566,,,https://minka-sdg.org/attachments/local_photos/files/347566/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259658_347566.jpg
-259657,347565,,,https://minka-sdg.org/attachments/local_photos/files/347565/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259657_347565.jpg
+259659,347649,,,https://minka-sdg.org/attachments/local_photos/files/347649/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259659_347649.jpg
+259658,347566,plantae,Arbutus unedo,https://minka-sdg.org/attachments/local_photos/files/347566/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259658_347566.jpg
+259658,347650,plantae,Arbutus unedo,https://minka-sdg.org/attachments/local_photos/files/347650/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259658_347650.jpg
+259657,347565,plantae,Ilex aquifolium,https://minka-sdg.org/attachments/local_photos/files/347565/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259657_347565.jpg
+259657,347653,plantae,Ilex aquifolium,https://minka-sdg.org/attachments/local_photos/files/347653/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259657_347653.jpg
 259656,347564,,,https://minka-sdg.org/attachments/local_photos/files/347564/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259656_347564.jpg
+259656,347654,,,https://minka-sdg.org/attachments/local_photos/files/347654/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259656_347654.jpg
 259655,347563,,,https://minka-sdg.org/attachments/local_photos/files/347563/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259655_347563.jpg
+259655,347655,,,https://minka-sdg.org/attachments/local_photos/files/347655/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259655_347655.jpg
 259654,347562,,,https://minka-sdg.org/attachments/local_photos/files/347562/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259654_347562.jpg
-259653,347561,,,https://minka-sdg.org/attachments/local_photos/files/347561/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259653_347561.jpg
-259652,347560,,,https://minka-sdg.org/attachments/local_photos/files/347560/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259652_347560.jpg
-259651,347559,,,https://minka-sdg.org/attachments/local_photos/files/347559/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259651_347559.jpg
+259654,347657,,,https://minka-sdg.org/attachments/local_photos/files/347657/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259654_347657.jpg
+259653,347561,plantae,Platanaceae,https://minka-sdg.org/attachments/local_photos/files/347561/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259653_347561.jpg
+259653,347658,plantae,Platanaceae,https://minka-sdg.org/attachments/local_photos/files/347658/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259653_347658.jpg
+259652,347560,plantae,Pinus halepensis,https://minka-sdg.org/attachments/local_photos/files/347560/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259652_347560.jpg
+259652,347659,plantae,Pinus halepensis,https://minka-sdg.org/attachments/local_photos/files/347659/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259652_347659.jpg
+259651,347559,plantae,Ficus carica,https://minka-sdg.org/attachments/local_photos/files/347559/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259651_347559.jpg
+259651,347660,plantae,Ficus carica,https://minka-sdg.org/attachments/local_photos/files/347660/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259651_347660.jpg
 259650,347558,,,https://minka-sdg.org/attachments/local_photos/files/347558/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259650_347558.jpg
+259650,347662,,,https://minka-sdg.org/attachments/local_photos/files/347662/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259650_347662.jpg
+259650,347663,,,https://minka-sdg.org/attachments/local_photos/files/347663/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259650_347663.jpg
 259649,347557,,,https://minka-sdg.org/attachments/local_photos/files/347557/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259649_347557.jpg
 259648,347556,,,https://minka-sdg.org/attachments/local_photos/files/347556/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259648_347556.jpg
 259647,347555,,,https://minka-sdg.org/attachments/local_photos/files/347555/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259647_347555.jpg
