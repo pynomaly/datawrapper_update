@@ -1,10 +1,45 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
-259699,2024-04-28,2024-04-28,2024-04-28,12:20:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
+259763,2024-04-28,2024-04-28,2024-04-28,14:21:00,,nan,,,41.4321484967,2.1653004118,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+259762,2024-04-28,2024-04-28,2024-04-28,14:21:00,,nan,,,41.4321484967,2.1653004118,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+259761,2024-04-28,2024-04-28,2024-04-28,14:21:00,,nan,,,41.4321484967,2.1653004118,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+259760,2024-04-28,2024-04-28,2024-04-28,14:21:00,,nan,,,41.4321484967,2.1653004118,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+259759,2024-04-28,2024-04-28,2024-04-28,14:22:00,,nan,,,41.4321484967,2.1653004118,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+259758,2024-04-28,2024-04-28,2024-04-28,14:22:00,,nan,,,41.4321484967,2.1653004118,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+259757,2024-04-28,2024-04-28,2024-04-28,14:37:00,,nan,,,41.4321484967,2.1653004118,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+259756,2024-04-28,2024-04-28,2024-04-28,14:38:00,,nan,,,41.4321484967,2.1653004118,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+259755,2024-04-28,2024-04-28,2024-04-28,14:38:00,,nan,,,41.4321484967,2.1653004118,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+259754,2024-04-28,2024-04-28,2024-04-28,14:37:00,,nan,,,41.4321484967,2.1653004118,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+259753,2024-04-28,2024-04-28,2024-04-28,14:38:00,,nan,,,41.4321484967,2.1653004118,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+259752,2024-04-28,2024-04-28,2024-04-28,14:38:00,,nan,,,41.4321484967,2.1653004118,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+259751,2024-04-28,2024-04-28,2024-04-28,14:39:00,,nan,,,41.4321484967,2.1653004118,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+259750,2024-04-28,2024-04-28,2024-04-28,14:39:00,,nan,,,41.4321484967,2.1653004118,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+259749,2024-04-28,2024-04-28,2024-04-28,14:39:00,,nan,,,41.4321484967,2.1653004118,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+259748,2024-04-28,2024-04-28,2024-04-28,14:39:00,,nan,,,41.4321484967,2.1653004118,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+259747,2024-04-28,2024-04-28,2024-04-28,14:40:00,,nan,,,41.4321484967,2.1653004118,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+259746,2024-04-28,2024-04-28,2024-04-28,14:40:00,,nan,,,41.4321484967,2.1653004118,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+259745,2024-04-28,2024-04-28,2024-04-28,14:40:00,,nan,,,41.4321484967,2.1653004118,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+259744,2024-04-28,2024-04-28,2024-04-28,14:40:00,,nan,,,41.4330128114,2.1664485704,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+259743,2024-04-28,2024-04-28,2024-04-28,14:40:00,,nan,,,41.432969024,2.1664558708,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+259742,2024-04-28,2024-04-28,2024-04-28,14:41:00,,nan,,,41.4329781464,2.1664558708,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+259741,2024-04-28,2024-04-28,2024-04-28,14:41:00,,nan,,,41.4329854441,2.1663901667,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+259740,2024-04-28,2024-04-28,2024-04-28,14:41:00,,nan,,,41.4329781464,2.1663926002,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+259739,2024-04-28,2024-04-28,2024-04-28,14:42:00,,nan,,,41.4329781465,2.1663999005,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+259738,2024-04-28,2024-04-28,2024-04-28,14:43:00,,nan,,,41.4329909179,2.1664656048,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+259737,2024-04-28,2024-04-28,2024-04-28,14:43:00,,nan,,,41.4329453061,2.1664339695,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+259736,2024-04-28,2024-04-28,2024-04-28,14:43:00,,nan,,,41.4329781465,2.1664291024,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+259735,2024-04-28,2024-04-28,2024-04-28,14:45:00,plantae,12,kingdom,Plantae,41.4329599019,2.1664558708,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+259734,2024-04-28,2024-04-28,2024-04-28,14:49:00,,nan,,,41.4329562529,2.1664339695,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+259733,2024-04-28,2024-04-28,2024-04-28,14:49:00,,nan,,,41.4329617263,2.1664388364,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+259732,2024-04-28,2024-04-28,2024-04-28,14:53:00,,nan,,,41.4329599019,2.1663779992,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+259731,2024-04-28,2024-04-28,2024-04-28,15:18:00,,nan,,,41.4329416572,2.166402334,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+259730,2024-04-28,2024-04-28,2024-04-28,15:18:00,,nan,,,41.4329580774,2.1663585313,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+259729,2024-04-28,2024-04-28,2024-04-28,15:18:00,,nan,,,41.4329515203,2.1663001276,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+259699,2024-04-28,2024-04-28,2024-04-28,12:20:00,,nan,,,41.50134,2.147124,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259696,2024-04-28,2024-04-28,2024-04-28,12:29:00,plantae,242266,species,Pittosporum tobira,41.505124,2.15413,"Ripollet, Barcelona, España",research,1030,mingokt,cc-by-nc,2,0,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Pittosporaceae,Pittosporum
 259695,2024-04-28,2024-04-28,2024-04-28,12:27:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259694,2024-04-28,2024-04-28,2024-04-28,12:22:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-259693,2024-04-28,2024-04-28,2024-04-28,12:20:00,plantae,30846,genus,Lemna,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,1,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Araceae,
-259692,2024-04-28,2024-04-28,2024-04-28,12:19:00,plantae,250459,species,Chamaemelum nobile,41.505124,2.15413,"Ripollet, Barcelona, España",research,1030,mingokt,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Chamaemelum
+259693,2024-04-28,2024-04-28,2024-04-28,12:20:00,plantae,30846,genus,Lemna,41.50064,2.146834,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,1,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Araceae,
+259692,2024-04-28,2024-04-28,2024-04-28,12:19:00,plantae,250459,species,Chamaemelum nobile,41.499339,2.147864,"Ripollet, Barcelona, España",research,1030,mingokt,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Chamaemelum
 259691,2024-04-28,2024-04-28,2024-04-28,12:12:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259690,2024-04-28,2024-04-28,2024-04-28,12:11:00,plantae,250459,species,Chamaemelum nobile,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Chamaemelum
 259689,2024-04-28,2024-04-28,2024-04-28,12:09:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
@@ -48,10 +83,9 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 259651,2024-04-28,2024-04-28,2024-04-28,10:17:00,plantae,248800,species,Ficus carica,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Urticales,Moraceae,Ficus
 259650,2024-04-28,2024-04-28,2024-04-28,10:15:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259649,2024-04-28,2024-04-28,2024-04-28,10:14:00,plantae,250275,species,Onopordum acanthium,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Onopordum
-259648,2024-04-28,2024-04-28,2024-04-28,10:13:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
+259648,2024-04-28,2024-04-28,2024-04-28,10:13:00,plantae,246907,species,Borago officinalis,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Boraginaceae,Borago
 259647,2024-04-28,2024-04-28,2024-04-28,10:13:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259646,2024-04-28,2024-04-28,2024-04-28,10:12:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-259645,2024-04-28,2024-04-28,2024-04-28,10:11:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259644,2024-04-28,2024-04-28,2024-04-28,10:10:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259643,2024-04-28,2024-04-28,2024-04-28,10:10:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259640,2024-04-28,2024-04-28,2024-04-28,10:40:00,mammalia,102488,species,Oryctolagus cuniculus,41.5051244871,2.1541297646,"Ripollet, Barcelona, España",research,1030,mingokt,cc-by-nc,1,0,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Oryctolagus
@@ -679,10 +713,10 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258993,2024-04-28,2024-04-28,2024-04-28,10:23:00,plantae,12,kingdom,Plantae,41.4288026018,2.1943417573,"Sant Andreu de Palomar, Sant Andreu, 08030 Barcelona, Espanya",casual,180,ngoncubells,cc-by-nc,1,0,,,,,,
 258992,2024-04-28,2024-04-28,2024-04-28,10:23:00,plantae,263162,species,Calla palustris,41.4288026018,2.1943417573,"Sant Andreu de Palomar, Sant Andreu, 08030 Barcelona, Espanya",casual,180,ngoncubells,cc-by-nc,1,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Araceae,Calla
 258991,2024-04-28,2024-04-28,2024-04-28,10:23:00,plantae,262896,hybrid,Salvia × lavandulacea,41.4288026018,2.1943417573,"Sant Andreu de Palomar, Sant Andreu, 08030 Barcelona, Espanya",casual,180,ngoncubells,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Lamiaceae,Salvia
-258990,2024-04-28,2024-04-28,2024-04-28,10:22:00,plantae,12,kingdom,Plantae,41.4288026018,2.1943417573,"Sant Andreu de Palomar, Sant Andreu, 08030 Barcelona, Espanya",casual,180,ngoncubells,cc-by-nc,0,0,,,,,,
-258989,2024-04-28,2024-04-28,2024-04-28,10:22:00,plantae,42512,genus,Citrus,41.4288026018,2.1943417573,"Sant Andreu de Palomar, Sant Andreu, 08030 Barcelona, Espanya",casual,180,ngoncubells,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Sapindales,Rutaceae,
+258990,2024-04-28,2024-04-28,2024-04-28,10:22:00,plantae,12,kingdom,Plantae,41.4288026018,2.1943417573,"Sant Andreu de Palomar, Sant Andreu, 08030 Barcelona, Espanya",casual,180,ngoncubells,cc-by-nc,1,0,,,,,,
+258989,2024-04-28,2024-04-28,2024-04-28,10:22:00,plantae,42512,genus,Citrus,41.4288026018,2.1943417573,"Sant Andreu de Palomar, Sant Andreu, 08030 Barcelona, Espanya",casual,180,ngoncubells,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Sapindales,Rutaceae,
 258988,2024-04-28,2024-04-28,2024-04-28,10:22:00,plantae,248800,species,Ficus carica,41.4288026018,2.1943417573,"Sant Andreu de Palomar, Sant Andreu, 08030 Barcelona, Espanya",casual,180,ngoncubells,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Urticales,Moraceae,Ficus
-258987,2024-04-28,2024-04-28,2024-04-28,10:22:00,plantae,1053,family,Lamiaceae,41.4288026018,2.1943417573,"Sant Andreu de Palomar, Sant Andreu, 08030 Barcelona, Espanya",casual,180,ngoncubells,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,,
+258987,2024-04-28,2024-04-28,2024-04-28,10:22:00,plantae,1053,family,Lamiaceae,41.4288026018,2.1943417573,"Sant Andreu de Palomar, Sant Andreu, 08030 Barcelona, Espanya",casual,180,ngoncubells,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,,
 258986,2024-04-28,2024-04-28,2024-04-27,11:11:00,aves,245911,species,Ardea cinerea,41.38835,2.1874333333,"Sant Pere, Santa Caterina i la Ribera, Ciutat Vella, Barcelona, España",research,783,francismpp,cc-by-nc,1,0,Animalia,Chordata,Aves,Ciconiiformes,Ardeidae,Ardea
 258985,2024-04-28,2024-04-28,2024-04-27,10:13:00,aves,244592,species,Anas platyrhynchos,41.3894516667,2.1867966667,"Sant Pere, Santa Caterina i la Ribera, Ciutat Vella, Barcelona, España",research,783,francismpp,cc-by-nc,1,0,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas
 258941,2024-04-27,2024-04-28,2024-04-27,09:04:00,plantae,44511,species,Tamarix africana,41.2712573,2.0481613,"Carrer 1 Poligon 27, 8182, 08840 Viladecans, Barcelona, Espanya",research,988,elibonfill,C,1,0,Plantae,Magnoliophyta,Magnoliopsida,Violales,Tamaricaceae,Tamarix
