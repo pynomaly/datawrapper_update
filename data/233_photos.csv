@@ -1,7 +1,10 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+259640,347548,mammalia,Oryctolagus cuniculus,https://minka-sdg.org/attachments/local_photos/files/347548/medium.jpeg,mingokt,41.5051244871,2.1541297646,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259640_347548.jpg
+259639,347546,aves,Sturnus vulgaris,https://minka-sdg.org/attachments/local_photos/files/347546/medium.jpeg,mingokt,41.505012,2.15325,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259639_347546.jpg
+259639,347547,aves,Sturnus vulgaris,https://minka-sdg.org/attachments/local_photos/files/347547/medium.jpeg,mingokt,41.505012,2.15325,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259639_347547.jpg
 259638,347544,aves,Pica pica,https://minka-sdg.org/attachments/local_photos/files/347544/medium.jpeg,mingokt,41.505012,2.15325,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259638_347544.jpg
 259638,347545,aves,Pica pica,https://minka-sdg.org/attachments/local_photos/files/347545/medium.jpeg,mingokt,41.505012,2.15325,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259638_347545.jpg
-259637,347543,aves,Columbidae,https://minka-sdg.org/attachments/local_photos/files/347543/medium.jpeg,mingokt,41.505012,2.15325,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259637_347543.jpg
+259637,347543,aves,Columba livia,https://minka-sdg.org/attachments/local_photos/files/347543/medium.jpeg,mingokt,41.505012,2.15325,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259637_347543.jpg
 259636,347541,aves,Serinus serinus,https://minka-sdg.org/attachments/local_photos/files/347541/medium.jpeg,mingokt,41.505012,2.15325,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259636_347541.jpg
 259636,347542,aves,Serinus serinus,https://minka-sdg.org/attachments/local_photos/files/347542/medium.jpeg,mingokt,41.505012,2.15325,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259636_347542.jpg
 259635,347539,aves,Upupa epops,https://minka-sdg.org/attachments/local_photos/files/347539/medium.jpeg,mingokt,41.505012,2.15325,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259635_347539.jpg
@@ -20,7 +23,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 259615,347460,aves,Columba palumbus,https://minka-sdg.org/attachments/local_photos/files/347460/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259615_347460.jpg
 259614,347459,aves,Larus michahellis,https://minka-sdg.org/attachments/local_photos/files/347459/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259614_347459.jpg
 259613,347458,,,https://minka-sdg.org/attachments/local_photos/files/347458/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259613_347458.jpg
-259612,347457,insecta,Diptera,https://minka-sdg.org/attachments/local_photos/files/347457/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259612_347457.jpg
+259612,347457,insecta,Sarcophagidae,https://minka-sdg.org/attachments/local_photos/files/347457/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259612_347457.jpg
 259611,347456,aves,Carduelis carduelis,https://minka-sdg.org/attachments/local_photos/files/347456/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259611_347456.jpg
 259610,347455,aves,Passer domesticus,https://minka-sdg.org/attachments/local_photos/files/347455/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259610_347455.jpg
 259609,347454,,,https://minka-sdg.org/attachments/local_photos/files/347454/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259609_347454.jpg
@@ -29,7 +32,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 259606,347453,,,https://minka-sdg.org/attachments/local_photos/files/347453/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259606_347453.jpg
 259605,347450,,,https://minka-sdg.org/attachments/local_photos/files/347450/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259605_347450.jpg
 259604,347449,,,https://minka-sdg.org/attachments/local_photos/files/347449/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259604_347449.jpg
-259603,347448,,,https://minka-sdg.org/attachments/local_photos/files/347448/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259603_347448.jpg
+259603,347448,aves,Columba livia,https://minka-sdg.org/attachments/local_photos/files/347448/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259603_347448.jpg
 259602,347446,,,https://minka-sdg.org/attachments/local_photos/files/347446/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259602_347446.jpg
 259601,347445,,,https://minka-sdg.org/attachments/local_photos/files/347445/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259601_347445.jpg
 259600,347447,aves,Curruca melanocephala,https://minka-sdg.org/attachments/local_photos/files/347447/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259600_347447.jpg
@@ -40,8 +43,8 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 259595,347439,aves,Phylloscopus collybita,https://minka-sdg.org/attachments/local_photos/files/347439/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259595_347439.jpg
 259595,347440,aves,Phylloscopus collybita,https://minka-sdg.org/attachments/local_photos/files/347440/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259595_347440.jpg
 259594,347438,aves,Apus melba,https://minka-sdg.org/attachments/local_photos/files/347438/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259594_347438.jpg
-259593,347437,,,https://minka-sdg.org/attachments/local_photos/files/347437/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259593_347437.jpg
-259592,347436,,,https://minka-sdg.org/attachments/local_photos/files/347436/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259592_347436.jpg
+259593,347437,aves,Myiopsitta monachus,https://minka-sdg.org/attachments/local_photos/files/347437/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259593_347437.jpg
+259592,347436,aves,Columba livia,https://minka-sdg.org/attachments/local_photos/files/347436/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259592_347436.jpg
 259591,347435,aves,Columba palumbus,https://minka-sdg.org/attachments/local_photos/files/347435/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259591_347435.jpg
 259590,347434,aves,Serinus serinus,https://minka-sdg.org/attachments/local_photos/files/347434/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259590_347434.jpg
 259589,347433,aves,Larus michahellis,https://minka-sdg.org/attachments/local_photos/files/347433/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259589_347433.jpg
@@ -69,7 +72,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 259569,347411,,,https://minka-sdg.org/attachments/local_photos/files/347411/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259569_347411.jpg
 259568,347410,aves,Columba livia,https://minka-sdg.org/attachments/local_photos/files/347410/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259568_347410.jpg
 259567,347409,aves,Turdus merula,https://minka-sdg.org/attachments/local_photos/files/347409/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259567_347409.jpg
-259566,347408,,,https://minka-sdg.org/attachments/local_photos/files/347408/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259566_347408.jpg
+259566,347408,aves,Turdus merula,https://minka-sdg.org/attachments/local_photos/files/347408/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259566_347408.jpg
 259565,347407,,,https://minka-sdg.org/attachments/local_photos/files/347407/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259565_347407.jpg
 259564,347406,,,https://minka-sdg.org/attachments/local_photos/files/347406/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259564_347406.jpg
 259563,347405,,,https://minka-sdg.org/attachments/local_photos/files/347405/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259563_347405.jpg
@@ -80,8 +83,8 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 259559,347401,aves,Passer domesticus,https://minka-sdg.org/attachments/local_photos/files/347401/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259559_347401.jpg
 259558,347400,aves,Motacilla alba,https://minka-sdg.org/attachments/local_photos/files/347400/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259558_347400.jpg
 259557,347399,,,https://minka-sdg.org/attachments/local_photos/files/347399/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259557_347399.jpg
-259556,347398,,,https://minka-sdg.org/attachments/local_photos/files/347398/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259556_347398.jpg
-259555,347397,aves,Columba palumbus,https://minka-sdg.org/attachments/local_photos/files/347397/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259555_347397.jpg
+259556,347398,aves,Turdus merula,https://minka-sdg.org/attachments/local_photos/files/347398/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259556_347398.jpg
+259555,347397,aves,Columbidae,https://minka-sdg.org/attachments/local_photos/files/347397/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259555_347397.jpg
 259554,347396,aves,Pica pica,https://minka-sdg.org/attachments/local_photos/files/347396/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259554_347396.jpg
 259554,347392,aves,Pica pica,https://minka-sdg.org/attachments/local_photos/files/347392/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259554_347392.jpg
 259553,347395,aves,Myiopsitta monachus,https://minka-sdg.org/attachments/local_photos/files/347395/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259553_347395.jpg
@@ -97,8 +100,8 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 259544,347385,plantae,Papaver rhoeas,https://minka-sdg.org/attachments/local_photos/files/347385/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259544_347385.jpg
 259543,347383,,,https://minka-sdg.org/attachments/local_photos/files/347383/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259543_347383.jpg
 259542,347384,,,https://minka-sdg.org/attachments/local_photos/files/347384/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259542_347384.jpg
-259541,347381,,,https://minka-sdg.org/attachments/local_photos/files/347381/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259541_347381.jpg
-259541,347382,,,https://minka-sdg.org/attachments/local_photos/files/347382/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259541_347382.jpg
+259541,347381,insecta,Vespula germanica,https://minka-sdg.org/attachments/local_photos/files/347381/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259541_347381.jpg
+259541,347382,insecta,Vespula germanica,https://minka-sdg.org/attachments/local_photos/files/347382/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259541_347382.jpg
 259540,347380,aves,Columba palumbus,https://minka-sdg.org/attachments/local_photos/files/347380/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259540_347380.jpg
 259539,347379,,,https://minka-sdg.org/attachments/local_photos/files/347379/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259539_347379.jpg
 259538,347378,aves,Turdus merula,https://minka-sdg.org/attachments/local_photos/files/347378/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259538_347378.jpg
@@ -106,7 +109,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 259536,347377,,,https://minka-sdg.org/attachments/local_photos/files/347377/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259536_347377.jpg
 259535,347376,,,https://minka-sdg.org/attachments/local_photos/files/347376/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259535_347376.jpg
 259534,347375,aves,Myiopsitta monachus,https://minka-sdg.org/attachments/local_photos/files/347375/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259534_347375.jpg
-259533,347374,,,https://minka-sdg.org/attachments/local_photos/files/347374/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259533_347374.jpg
+259533,347374,aves,Serinus serinus,https://minka-sdg.org/attachments/local_photos/files/347374/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259533_347374.jpg
 259532,347373,,,https://minka-sdg.org/attachments/local_photos/files/347373/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259532_347373.jpg
 259531,347372,,,https://minka-sdg.org/attachments/local_photos/files/347372/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259531_347372.jpg
 259530,347371,,,https://minka-sdg.org/attachments/local_photos/files/347371/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259530_347371.jpg
@@ -119,7 +122,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 259523,347364,,,https://minka-sdg.org/attachments/local_photos/files/347364/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259523_347364.jpg
 259522,347363,,,https://minka-sdg.org/attachments/local_photos/files/347363/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259522_347363.jpg
 259521,347362,,,https://minka-sdg.org/attachments/local_photos/files/347362/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259521_347362.jpg
-259520,347361,,,https://minka-sdg.org/attachments/local_photos/files/347361/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259520_347361.jpg
+259520,347361,aves,Passer domesticus,https://minka-sdg.org/attachments/local_photos/files/347361/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259520_347361.jpg
 259519,347361,aves,Turdus merula,https://minka-sdg.org/attachments/local_photos/files/347361/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259519_347361.jpg
 259518,347359,aves,Turdus merula,https://minka-sdg.org/attachments/local_photos/files/347359/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259518_347359.jpg
 259517,347358,,,https://minka-sdg.org/attachments/local_photos/files/347358/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259517_347358.jpg
@@ -128,8 +131,8 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 259514,347354,,,https://minka-sdg.org/attachments/local_photos/files/347354/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259514_347354.jpg
 259513,347353,,,https://minka-sdg.org/attachments/local_photos/files/347353/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259513_347353.jpg
 259512,347352,aves,Columba livia,https://minka-sdg.org/attachments/local_photos/files/347352/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259512_347352.jpg
-259511,347351,,,https://minka-sdg.org/attachments/local_photos/files/347351/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259511_347351.jpg
-259510,347350,,,https://minka-sdg.org/attachments/local_photos/files/347350/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259510_347350.jpg
+259511,347351,plantae,Malva,https://minka-sdg.org/attachments/local_photos/files/347351/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259511_347351.jpg
+259510,347350,plantae,Malva,https://minka-sdg.org/attachments/local_photos/files/347350/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259510_347350.jpg
 259509,347349,,,https://minka-sdg.org/attachments/local_photos/files/347349/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259509_347349.jpg
 259508,347348,,,https://minka-sdg.org/attachments/local_photos/files/347348/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259508_347348.jpg
 259507,347347,aves,Columba livia,https://minka-sdg.org/attachments/local_photos/files/347347/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259507_347347.jpg
@@ -268,7 +271,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 259370,347182,annelida,Bonellia viridis,https://minka-sdg.org/attachments/local_photos/files/347182/medium.jpg,romu_freediving_photography,41.4082182165,2.2273289833,cc-by-nc,"(c) Romu, some rights reserved (CC BY-NC)",259370_347182.jpg
 259369,347181,plantae,Rhodophyta,https://minka-sdg.org/attachments/local_photos/files/347181/medium.jpg,romu_freediving_photography,41.4082182165,2.2273289833,cc-by-nc,"(c) Romu, some rights reserved (CC BY-NC)",259369_347181.jpg
 259368,347180,chromista,Colpomenia sinuosa,https://minka-sdg.org/attachments/local_photos/files/347180/medium.jpg,romu_freediving_photography,41.4082182165,2.2273289833,cc-by-nc,"(c) Romu, some rights reserved (CC BY-NC)",259368_347180.jpg
-259367,347179,,,https://minka-sdg.org/attachments/local_photos/files/347179/medium.jpg,romu_freediving_photography,41.4082182165,2.2273289833,cc-by-nc,"(c) Romu, some rights reserved (CC BY-NC)",259367_347179.jpg
+259367,347179,chromista,Colpomenia sinuosa,https://minka-sdg.org/attachments/local_photos/files/347179/medium.jpg,romu_freediving_photography,41.4082182165,2.2273289833,cc-by-nc,"(c) Romu, some rights reserved (CC BY-NC)",259367_347179.jpg
 259366,347178,crustacea,Chthamalus stellatus,https://minka-sdg.org/attachments/local_photos/files/347178/medium.jpg,romu_freediving_photography,41.4082182165,2.2273289833,cc-by-nc,"(c) Romu, some rights reserved (CC BY-NC)",259366_347178.jpg
 259365,347177,animalia,Lissoclinum perforatum,https://minka-sdg.org/attachments/local_photos/files/347177/medium.jpg,romu_freediving_photography,41.4082182165,2.2273289833,cc-by-nc,"(c) Romu, some rights reserved (CC BY-NC)",259365_347177.jpg
 259364,347176,chromista,Dictyota dichotoma,https://minka-sdg.org/attachments/local_photos/files/347176/medium.jpg,romu_freediving_photography,41.4082182165,2.2273289833,cc-by-nc,"(c) Romu, some rights reserved (CC BY-NC)",259364_347176.jpg
