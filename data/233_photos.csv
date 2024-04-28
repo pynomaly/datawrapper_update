@@ -1,7 +1,7 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
 259699,347626,,,https://minka-sdg.org/attachments/local_photos/files/347626/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259699_347626.jpg
-259696,347604,,,https://minka-sdg.org/attachments/local_photos/files/347604/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259696_347604.jpg
-259696,347605,,,https://minka-sdg.org/attachments/local_photos/files/347605/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259696_347605.jpg
+259696,347604,plantae,Pittosporum tobira,https://minka-sdg.org/attachments/local_photos/files/347604/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259696_347604.jpg
+259696,347605,plantae,Pittosporum tobira,https://minka-sdg.org/attachments/local_photos/files/347605/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259696_347605.jpg
 259695,347603,,,https://minka-sdg.org/attachments/local_photos/files/347603/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259695_347603.jpg
 259695,347606,,,https://minka-sdg.org/attachments/local_photos/files/347606/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259695_347606.jpg
 259694,347602,,,https://minka-sdg.org/attachments/local_photos/files/347602/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259694_347602.jpg
@@ -31,13 +31,18 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 259681,347617,plantae,Passiflora caerulea,https://minka-sdg.org/attachments/local_photos/files/347617/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259681_347617.jpg
 259680,347588,plantae,Foeniculum vulgare,https://minka-sdg.org/attachments/local_photos/files/347588/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259680_347588.jpg
 259680,347625,plantae,Foeniculum vulgare,https://minka-sdg.org/attachments/local_photos/files/347625/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259680_347625.jpg
-259679,347587,,,https://minka-sdg.org/attachments/local_photos/files/347587/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259679_347587.jpg
+259679,347587,plantae,Urtica dioica,https://minka-sdg.org/attachments/local_photos/files/347587/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259679_347587.jpg
+259679,347627,plantae,Urtica dioica,https://minka-sdg.org/attachments/local_photos/files/347627/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259679_347627.jpg
 259678,347586,,,https://minka-sdg.org/attachments/local_photos/files/347586/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259678_347586.jpg
-259677,347585,,,https://minka-sdg.org/attachments/local_photos/files/347585/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259677_347585.jpg
-259676,347583,,,https://minka-sdg.org/attachments/local_photos/files/347583/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259676_347583.jpg
+259677,347585,plantae,Borago officinalis,https://minka-sdg.org/attachments/local_photos/files/347585/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259677_347585.jpg
+259677,347628,plantae,Borago officinalis,https://minka-sdg.org/attachments/local_photos/files/347628/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259677_347628.jpg
+259676,347583,plantae,Taraxacum officinale,https://minka-sdg.org/attachments/local_photos/files/347583/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259676_347583.jpg
 259675,347584,,,https://minka-sdg.org/attachments/local_photos/files/347584/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259675_347584.jpg
-259674,347582,,,https://minka-sdg.org/attachments/local_photos/files/347582/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259674_347582.jpg
+259675,347629,,,https://minka-sdg.org/attachments/local_photos/files/347629/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259675_347629.jpg
+259674,347582,plantae,Rubus ulmifolius,https://minka-sdg.org/attachments/local_photos/files/347582/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259674_347582.jpg
+259674,347630,plantae,Rubus ulmifolius,https://minka-sdg.org/attachments/local_photos/files/347630/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259674_347630.jpg
 259673,347581,,,https://minka-sdg.org/attachments/local_photos/files/347581/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259673_347581.jpg
+259673,347631,,,https://minka-sdg.org/attachments/local_photos/files/347631/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259673_347631.jpg
 259672,347580,plantae,Papaver rhoeas,https://minka-sdg.org/attachments/local_photos/files/347580/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259672_347580.jpg
 259671,347579,,,https://minka-sdg.org/attachments/local_photos/files/347579/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259671_347579.jpg
 259670,347578,,,https://minka-sdg.org/attachments/local_photos/files/347578/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259670_347578.jpg
@@ -48,7 +53,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 259665,347573,,,https://minka-sdg.org/attachments/local_photos/files/347573/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259665_347573.jpg
 259664,347572,,,https://minka-sdg.org/attachments/local_photos/files/347572/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259664_347572.jpg
 259663,347571,,,https://minka-sdg.org/attachments/local_photos/files/347571/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259663_347571.jpg
-259662,347570,,,https://minka-sdg.org/attachments/local_photos/files/347570/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259662_347570.jpg
+259662,347570,plantae,Agave americana,https://minka-sdg.org/attachments/local_photos/files/347570/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259662_347570.jpg
 259661,347569,,,https://minka-sdg.org/attachments/local_photos/files/347569/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259661_347569.jpg
 259660,347568,,,https://minka-sdg.org/attachments/local_photos/files/347568/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259660_347568.jpg
 259659,347567,,,https://minka-sdg.org/attachments/local_photos/files/347567/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259659_347567.jpg
@@ -99,7 +104,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 259608,347452,,,https://minka-sdg.org/attachments/local_photos/files/347452/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259608_347452.jpg
 259607,347451,aves,Curruca melanocephala,https://minka-sdg.org/attachments/local_photos/files/347451/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259607_347451.jpg
 259606,347453,,,https://minka-sdg.org/attachments/local_photos/files/347453/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259606_347453.jpg
-259605,347450,,,https://minka-sdg.org/attachments/local_photos/files/347450/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259605_347450.jpg
+259605,347450,aves,Sylvia atricapilla,https://minka-sdg.org/attachments/local_photos/files/347450/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259605_347450.jpg
 259604,347449,,,https://minka-sdg.org/attachments/local_photos/files/347449/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259604_347449.jpg
 259603,347448,aves,Columba livia,https://minka-sdg.org/attachments/local_photos/files/347448/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259603_347448.jpg
 259602,347446,,,https://minka-sdg.org/attachments/local_photos/files/347446/medium.jpg,jaume-piera,41.40826265,2.1828373,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",259602_347446.jpg

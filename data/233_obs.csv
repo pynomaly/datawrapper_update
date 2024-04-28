@@ -1,30 +1,30 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
 259699,2024-04-28,2024-04-28,2024-04-28,12:20:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-259696,2024-04-28,2024-04-28,2024-04-28,12:29:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
+259696,2024-04-28,2024-04-28,2024-04-28,12:29:00,plantae,242266,species,Pittosporum tobira,41.505124,2.15413,"Ripollet, Barcelona, España",research,1030,mingokt,cc-by-nc,2,0,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Pittosporaceae,Pittosporum
 259695,2024-04-28,2024-04-28,2024-04-28,12:27:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259694,2024-04-28,2024-04-28,2024-04-28,12:22:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-259693,2024-04-28,2024-04-28,2024-04-28,12:20:00,plantae,30846,genus,Lemna,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Araceae,
-259692,2024-04-28,2024-04-28,2024-04-28,12:19:00,plantae,250459,species,Chamaemelum nobile,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Chamaemelum
+259693,2024-04-28,2024-04-28,2024-04-28,12:20:00,plantae,30846,genus,Lemna,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,1,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Araceae,
+259692,2024-04-28,2024-04-28,2024-04-28,12:19:00,plantae,250459,species,Chamaemelum nobile,41.505124,2.15413,"Ripollet, Barcelona, España",research,1030,mingokt,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Chamaemelum
 259691,2024-04-28,2024-04-28,2024-04-28,12:12:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259690,2024-04-28,2024-04-28,2024-04-28,12:11:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259689,2024-04-28,2024-04-28,2024-04-28,12:09:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-259688,2024-04-28,2024-04-28,2024-04-28,12:05:00,plantae,252738,species,Papaver rhoeas,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Papaverales,Papaveraceae,Papaver
+259688,2024-04-28,2024-04-28,2024-04-28,12:05:00,plantae,252738,species,Papaver rhoeas,41.505124,2.15413,"Ripollet, Barcelona, España",research,1030,mingokt,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Papaverales,Papaveraceae,Papaver
 259687,2024-04-28,2024-04-28,2024-04-28,12:02:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259686,2024-04-28,2024-04-28,2024-04-28,12:01:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259685,2024-04-28,2024-04-28,2024-04-28,11:58:00,plantae,253787,species,Zantedeschia aethiopica,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Araceae,Zantedeschia
-259684,2024-04-28,2024-04-28,2024-04-28,11:58:00,plantae,241180,species,Eriobotrya japonica,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Rosaceae,Eriobotrya
+259684,2024-04-28,2024-04-28,2024-04-28,11:58:00,plantae,241180,species,Eriobotrya japonica,41.505124,2.15413,"Ripollet, Barcelona, España",research,1030,mingokt,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Rosaceae,Eriobotrya
 259683,2024-04-28,2024-04-28,2024-04-28,11:57:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259682,2024-04-28,2024-04-28,2024-04-28,11:56:00,plantae,241180,species,Eriobotrya japonica,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Rosaceae,Eriobotrya
 259681,2024-04-28,2024-04-28,2024-04-28,11:53:00,plantae,252855,species,Passiflora caerulea,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Violales,Passifloraceae,Passiflora
-259680,2024-04-28,2024-04-28,2024-04-28,11:49:00,plantae,248995,species,Foeniculum vulgare,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Apiales,Apiaceae,Foeniculum
-259679,2024-04-28,2024-04-28,2024-04-28,11:47:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
+259680,2024-04-28,2024-04-28,2024-04-28,11:49:00,plantae,248995,species,Foeniculum vulgare,41.505124,2.15413,"Ripollet, Barcelona, España",research,1030,mingokt,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Apiales,Apiaceae,Foeniculum
+259679,2024-04-28,2024-04-28,2024-04-28,11:47:00,plantae,253508,species,Urtica dioica,41.505124,2.15413,"Ripollet, Barcelona, España",research,1030,mingokt,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Urticales,Urticaceae,Urtica
 259678,2024-04-28,2024-04-28,2024-04-28,11:45:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-259677,2024-04-28,2024-04-28,2024-04-28,11:41:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-259676,2024-04-28,2024-04-28,2024-04-28,11:34:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
+259677,2024-04-28,2024-04-28,2024-04-28,11:41:00,plantae,246907,species,Borago officinalis,41.505124,2.15413,"Ripollet, Barcelona, España",research,1030,mingokt,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Boraginaceae,Borago
+259676,2024-04-28,2024-04-28,2024-04-28,11:34:00,plantae,250710,species,Taraxacum officinale,41.505124,2.15413,"Ripollet, Barcelona, España",research,1030,mingokt,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Taraxacum
 259675,2024-04-28,2024-04-28,2024-04-28,11:39:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-259674,2024-04-28,2024-04-28,2024-04-28,11:22:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
+259674,2024-04-28,2024-04-28,2024-04-28,11:22:00,plantae,246657,species,Rubus ulmifolius,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Rosaceae,Rubus
 259673,2024-04-28,2024-04-28,2024-04-28,11:19:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-259672,2024-04-28,2024-04-28,2024-04-28,11:09:00,plantae,252738,species,Papaver rhoeas,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Papaverales,Papaveraceae,Papaver
+259672,2024-04-28,2024-04-28,2024-04-28,11:09:00,plantae,252738,species,Papaver rhoeas,41.505124,2.15413,"Ripollet, Barcelona, España",research,1030,mingokt,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Papaverales,Papaveraceae,Papaver
 259671,2024-04-28,2024-04-28,2024-04-28,11:06:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259670,2024-04-28,2024-04-28,2024-04-28,11:04:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259669,2024-04-28,2024-04-28,2024-04-28,10:57:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
@@ -34,7 +34,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 259665,2024-04-28,2024-04-28,2024-04-28,10:49:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259664,2024-04-28,2024-04-28,2024-04-28,10:48:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259663,2024-04-28,2024-04-28,2024-04-28,10:47:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-259662,2024-04-28,2024-04-28,2024-04-28,10:31:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
+259662,2024-04-28,2024-04-28,2024-04-28,10:31:00,plantae,243104,species,Agave americana,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Asparagales,Asparagaceae,Agave
 259661,2024-04-28,2024-04-28,2024-04-28,10:28:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259660,2024-04-28,2024-04-28,2024-04-28,10:26:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 259659,2024-04-28,2024-04-28,2024-04-28,10:26:00,,nan,,,41.505124,2.15413,"Ripollet, Barcelona, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
@@ -78,7 +78,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 259608,2024-04-28,2024-04-28,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
 259607,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,257136,species,Curruca melanocephala,41.40826265,2.1828373,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Sylviidae,
 259606,2024-04-28,2024-04-28,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
-259605,2024-04-28,2024-04-28,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
+259605,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,246236,species,Sylvia atricapilla,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Sylviidae,Sylvia
 259604,2024-04-28,2024-04-28,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
 259603,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,252264,species,Columba livia,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
 259602,2024-04-28,2024-04-28,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
