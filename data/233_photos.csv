@@ -12,7 +12,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 259692,347609,plantae,Chamaemelum nobile,https://minka-sdg.org/attachments/local_photos/files/347609/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259692_347609.jpg
 259691,347599,,,https://minka-sdg.org/attachments/local_photos/files/347599/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259691_347599.jpg
 259691,347610,,,https://minka-sdg.org/attachments/local_photos/files/347610/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259691_347610.jpg
-259690,347598,,,https://minka-sdg.org/attachments/local_photos/files/347598/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259690_347598.jpg
+259690,347598,plantae,Chamaemelum nobile,https://minka-sdg.org/attachments/local_photos/files/347598/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259690_347598.jpg
 259689,347597,,,https://minka-sdg.org/attachments/local_photos/files/347597/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259689_347597.jpg
 259688,347596,plantae,Papaver rhoeas,https://minka-sdg.org/attachments/local_photos/files/347596/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259688_347596.jpg
 259688,347611,plantae,Papaver rhoeas,https://minka-sdg.org/attachments/local_photos/files/347611/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259688_347611.jpg
@@ -88,7 +88,8 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 259650,347558,,,https://minka-sdg.org/attachments/local_photos/files/347558/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259650_347558.jpg
 259650,347662,,,https://minka-sdg.org/attachments/local_photos/files/347662/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259650_347662.jpg
 259650,347663,,,https://minka-sdg.org/attachments/local_photos/files/347663/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259650_347663.jpg
-259649,347557,,,https://minka-sdg.org/attachments/local_photos/files/347557/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259649_347557.jpg
+259649,347557,plantae,Onopordum acanthium,https://minka-sdg.org/attachments/local_photos/files/347557/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259649_347557.jpg
+259649,347668,plantae,Onopordum acanthium,https://minka-sdg.org/attachments/local_photos/files/347668/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259649_347668.jpg
 259648,347556,,,https://minka-sdg.org/attachments/local_photos/files/347556/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259648_347556.jpg
 259647,347555,,,https://minka-sdg.org/attachments/local_photos/files/347555/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259647_347555.jpg
 259646,347554,,,https://minka-sdg.org/attachments/local_photos/files/347554/medium.jpeg,mingokt,41.505124,2.15413,cc-by-nc,"(c) mingokt, some rights reserved (CC BY-NC)",259646_347554.jpg
