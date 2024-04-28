@@ -188,7 +188,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 260289,2024-04-28,2024-04-28,2024-04-27,17:44:00,plantae,12,kingdom,Plantae,41.4111618257,1.9658028507,"Barcelona, Espanya",needs_id,1047,laiamanyer,cc-by-nc,0,0,,,,,,
 260288,2024-04-28,2024-04-28,2024-04-27,17:44:00,plantae,12,kingdom,Plantae,41.4111618257,1.9658028507,"Barcelona, Espanya",needs_id,1047,laiamanyer,cc-by-nc,0,0,,,,,,
 260287,2024-04-28,2024-04-28,2024-04-27,17:44:00,plantae,171,class,Florideophyceae,41.4111618257,1.9658028507,"Barcelona, Espanya",needs_id,1047,laiamanyer,cc-by-nc,0,0,Plantae,Rhodophyta,,,,
-260286,2024-04-28,2024-04-28,2024-04-27,17:44:00,plantae,171,class,Florideophyceae,41.4111618257,1.9658028507,"Barcelona, Espanya",needs_id,1047,laiamanyer,cc-by-nc,0,0,Plantae,Rhodophyta,,,,
+260286,2024-04-28,2024-04-28,2024-04-27,17:44:00,,nan,,,41.4111618257,1.9658028507,"Barcelona, Espanya",needs_id,1047,laiamanyer,cc-by-nc,0,0,,,,,,
 260285,2024-04-28,2024-04-28,2024-04-27,17:44:00,plantae,12,kingdom,Plantae,41.4111618257,1.9658028507,"Barcelona, Espanya",needs_id,1047,laiamanyer,cc-by-nc,0,0,,,,,,
 260284,2024-04-28,2024-04-28,2024-04-27,17:44:00,plantae,171,class,Florideophyceae,41.4111618257,1.9658028507,"Barcelona, Espanya",needs_id,1047,laiamanyer,cc-by-nc,0,0,Plantae,Rhodophyta,,,,
 260283,2024-04-28,2024-04-28,2024-04-27,17:44:00,plantae,31,class,Magnoliopsida,41.4111618257,1.9658028507,"Barcelona, Espanya",needs_id,1047,laiamanyer,cc-by-nc,2,0,Plantae,Magnoliophyta,,,,
@@ -1683,7 +1683,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258663,2024-04-27,2024-04-28,2024-04-27,15:35:00,mollusca,250465,species,Chamelea gallina,41.2915724258,2.1089971088,,research,54,loreto_rodriguez,cc-by-nc,2,0,Animalia,Mollusca,Bivalvia,Venerida,Veneridae,Chamelea
 258662,2024-04-27,2024-04-28,2024-04-27,15:35:00,mollusca,249089,species,Glycymeris glycymeris,41.2915694258,2.1089941088,,research,54,loreto_rodriguez,cc-by-nc,2,0,Animalia,Mollusca,Bivalvia,Arcida,Glycymerididae,Glycymeris
 258661,2024-04-27,2024-04-27,2024-04-27,15:35:00,mollusca,241878,species,Acanthocardia tuberculata,41.2915664258,2.1089911088,,research,54,loreto_rodriguez,cc-by-nc,2,0,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Acanthocardia
-258660,2024-04-27,2024-04-28,2024-04-26,08:17:00,crustacea,251234,species,Chthamalus stellatus,41.4104320534,2.2274104902,"Barcelona, Espanya",research,9,andrea,cc-by-nc,2,0,Animalia,Arthropoda,,,Chthamalidae,Chthamalus
+258660,2024-04-27,2024-04-28,2024-04-26,08:17:00,crustacea,251234,species,Chthamalus stellatus,41.4104320534,2.2274104902,"Barcelona, Espanya",research,9,andrea,cc-by-nc,3,0,Animalia,Arthropoda,,,Chthamalidae,Chthamalus
 258659,2024-04-27,2024-04-28,2024-04-26,09:32:00,actinopterygii,34805,species,Sarpa salpa,41.409787437,2.2269867012,Spain,research,9,andrea,cc-by-nc,3,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
 258658,2024-04-27,2024-04-28,2024-04-26,09:32:00,actinopterygii,240394,species,Atherina boyeri,41.4099000894,2.2269564858,Spain,research,9,andrea,cc-by-nc,3,0,Animalia,Chordata,Actinopterygii,Atheriniformes,Atherinidae,Atherina
 258657,2024-04-27,2024-04-28,2024-04-26,09:32:00,annelida,34800,species,Branchiomma luctuosum,41.4101414867,2.2271227828,Spain,research,9,andrea,cc-by-nc,2,0,Animalia,Annelida,Polychaeta,Sabellida,Sabellidae,Branchiomma
