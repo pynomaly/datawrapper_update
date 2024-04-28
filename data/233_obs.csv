@@ -1,4 +1,5 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+260631,2024-04-28,2024-04-28,2024-04-27,09:06:00,mollusca,250214,species,Cerithium vulgatum,41.4112701,2.227734,"Zona de Banys Fòrum, Barcelona, España",needs_id,1582,claudialazarof,cc-by,0,0,Animalia,Mollusca,Gastropoda,,Cerithiidae,Cerithium
 260630,2024-04-28,2024-04-28,2024-04-27,10:02:00,crustacea,240789,subphylum,Crustacea,41.4094668764,2.2277573345,"El Besòs i el Maresme, Sant Martí, Barcelona, España",needs_id,653,ura4dive,cc-by-nc,0,0,Animalia,Arthropoda,,,,
 260629,2024-04-28,2024-04-28,2024-04-27,09:10:00,chromista,35063,species,Dictyota dichotoma,41.4112701,2.227734,"Zona de Banys Fòrum, Barcelona, España",needs_id,1582,claudialazarof,cc-by,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota
 260628,2024-04-28,2024-04-28,2024-04-28,13:21:00,mollusca,15,phylum,Mollusca,41.3623739134,1.9828538176,"Barcelona, España",needs_id,64,vicent,cc-by-nc,0,0,Animalia,,,,,
@@ -1885,7 +1886,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258504,2024-04-27,2024-04-27,2024-04-27,10:15:00,,nan,,,41.2719476701,2.0507155321,,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
 258503,2024-04-27,2024-04-27,2024-04-27,10:15:00,,nan,,,41.2719446701,2.0507125321,,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
 258502,2024-04-27,2024-04-27,2024-04-27,10:15:00,,nan,,,41.2719416701,2.0507095321,,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
-258501,2024-04-27,2024-04-27,2024-04-27,10:15:00,,nan,,,41.2719386701,2.0507065321,,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
+258501,2024-04-27,2024-04-28,2024-04-27,10:15:00,insecta,161,order,Diptera,41.2719386701,2.0507065321,,needs_id,817,marinatorresgi,cc0,0,0,Animalia,Arthropoda,Insecta,,,
 258500,2024-04-27,2024-04-27,2024-04-27,10:15:00,,nan,,,41.2719356701,2.0507035321,,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
 258499,2024-04-27,2024-04-27,2024-04-27,10:15:00,plantae,44508,genus,Tamarix,41.2719326701,2.0507005321,,needs_id,817,marinatorresgi,cc0,0,0,Plantae,Magnoliophyta,Magnoliopsida,Violales,Tamaricaceae,
 258498,2024-04-27,2024-04-28,2024-04-27,10:15:00,plantae,42982,species,Lantana camara,41.2719296701,2.0506975321,,research,817,marinatorresgi,cc0,2,0,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Verbenaceae,Lantana

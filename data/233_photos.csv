@@ -1,4 +1,5 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+260631,348972,mollusca,Cerithium vulgatum,https://minka-sdg.org/attachments/local_photos/files/348972/medium.jpeg,claudialazarof,41.4112701,2.227734,cc-by,"(c) Clàudia Lázaro Farré, some rights reserved (CC BY)",260631_348972.jpg
 260630,348938,crustacea,Crustacea,https://minka-sdg.org/attachments/local_photos/files/348938/medium.jpeg,ura4dive,41.4094668764,2.2277573345,cc-by-nc,"(c) @ura4dive, some rights reserved (CC BY-NC)",260630_348938.jpg
 260629,348937,chromista,Dictyota dichotoma,https://minka-sdg.org/attachments/local_photos/files/348937/medium.jpeg,claudialazarof,41.4112701,2.227734,cc-by,"(c) Clàudia Lázaro Farré, some rights reserved (CC BY)",260629_348937.jpg
 260628,348896,mollusca,Mollusca,https://minka-sdg.org/attachments/local_photos/files/348896/medium.jpeg,vicent,41.3623739134,1.9828538176,cc-by-nc,"(c) Vicenç Roig Vidal, some rights reserved (CC BY-NC)",260628_348896.jpg
@@ -2136,7 +2137,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 258504,346183,,,https://minka-sdg.org/attachments/local_photos/files/346183/medium.jpg,marinatorresgi,41.2719476701,2.0507155321,C,"(c) Marina Torres Gibert, all rights reserved",258504_346183.jpg
 258503,346182,,,https://minka-sdg.org/attachments/local_photos/files/346182/medium.jpg,marinatorresgi,41.2719446701,2.0507125321,C,"(c) Marina Torres Gibert, all rights reserved",258503_346182.jpg
 258502,346181,,,https://minka-sdg.org/attachments/local_photos/files/346181/medium.jpg,marinatorresgi,41.2719416701,2.0507095321,C,"(c) Marina Torres Gibert, all rights reserved",258502_346181.jpg
-258501,346180,,,https://minka-sdg.org/attachments/local_photos/files/346180/medium.jpg,marinatorresgi,41.2719386701,2.0507065321,C,"(c) Marina Torres Gibert, all rights reserved",258501_346180.jpg
+258501,346180,insecta,Diptera,https://minka-sdg.org/attachments/local_photos/files/346180/medium.jpg,marinatorresgi,41.2719386701,2.0507065321,C,"(c) Marina Torres Gibert, all rights reserved",258501_346180.jpg
 258500,346179,,,https://minka-sdg.org/attachments/local_photos/files/346179/medium.jpg,marinatorresgi,41.2719356701,2.0507035321,C,"(c) Marina Torres Gibert, all rights reserved",258500_346179.jpg
 258499,346178,plantae,Tamarix,https://minka-sdg.org/attachments/local_photos/files/346178/medium.jpg,marinatorresgi,41.2719326701,2.0507005321,C,"(c) Marina Torres Gibert, all rights reserved",258499_346178.jpg
 258498,346177,plantae,Lantana camara,https://minka-sdg.org/attachments/local_photos/files/346177/medium.jpg,marinatorresgi,41.2719296701,2.0506975321,C,"(c) Marina Torres Gibert, all rights reserved",258498_346177.jpg
