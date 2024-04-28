@@ -1,4 +1,6 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+260630,2024-04-28,2024-04-28,2024-04-27,10:02:00,crustacea,240789,subphylum,Crustacea,41.4094668764,2.2277573345,"El Besòs i el Maresme, Sant Martí, Barcelona, España",needs_id,653,ura4dive,cc-by-nc,0,0,Animalia,Arthropoda,,,,
+260629,2024-04-28,2024-04-28,2024-04-27,09:10:00,chromista,35063,species,Dictyota dichotoma,41.4112701,2.227734,"Zona de Banys Fòrum, Barcelona, España",needs_id,1582,claudialazarof,cc-by,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota
 260628,2024-04-28,2024-04-28,2024-04-28,13:21:00,mollusca,15,phylum,Mollusca,41.3623739134,1.9828538176,"Barcelona, España",needs_id,64,vicent,cc-by-nc,0,0,Animalia,,,,,
 260627,2024-04-28,2024-04-28,2024-04-28,13:20:00,mollusca,158199,species,Cornu aspersum,41.3623486948,1.9828415914,"Barcelona, España",research,64,vicent,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Stylommatophora,Helicidae,Cornu
 260626,2024-04-28,2024-04-28,2024-04-28,13:13:00,aves,252264,species,Columba livia,41.3599427131,1.9834908422,"Barcelona, España",research,64,vicent,cc-by-nc,1,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
@@ -365,7 +367,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 260175,2024-04-28,2024-04-28,2024-04-26,08:31:00,,nan,,,41.4094712535,2.2277393307,"Barcelona, forum",needs_id,55,yespi,cc-by-nc,0,0,,,,,,
 260174,2024-04-28,2024-04-28,2024-04-26,08:31:00,,nan,,,41.4094712535,2.2277393307,"Barcelona, forum",needs_id,55,yespi,cc-by-nc,0,0,,,,,,
 260173,2024-04-28,2024-04-28,2024-04-26,08:31:00,,nan,,,41.4094712535,2.2277393307,"Barcelona, forum",needs_id,55,yespi,cc-by-nc,0,0,,,,,,
-260172,2024-04-28,2024-04-28,2024-04-26,08:31:00,chromista,35106,species,Padina pavonica,41.4094712535,2.2277393307,"Barcelona, forum",needs_id,55,yespi,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
+260172,2024-04-28,2024-04-28,2024-04-26,08:31:00,chromista,35106,species,Padina pavonica,41.4094712535,2.2277393307,"Barcelona, forum",research,55,yespi,cc-by-nc,1,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
 260171,2024-04-28,2024-04-28,2024-04-26,08:31:00,,nan,,,41.4094712535,2.2277393307,"Barcelona, forum",needs_id,55,yespi,cc-by-nc,0,0,,,,,,
 260170,2024-04-28,2024-04-28,2024-04-26,08:31:00,,nan,,,41.4094712535,2.2277393307,"Barcelona, forum",needs_id,55,yespi,cc-by-nc,0,0,,,,,,
 260169,2024-04-28,2024-04-28,2024-04-26,08:31:00,,nan,,,41.4094712535,2.2277393307,"Barcelona, forum",needs_id,55,yespi,cc-by-nc,0,0,,,,,,
@@ -401,7 +403,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 260139,2024-04-28,2024-04-28,2024-04-26,08:31:00,,nan,,,41.4094712535,2.2277393307,"Barcelona, forum",needs_id,55,yespi,cc-by-nc,0,0,,,,,,
 260138,2024-04-28,2024-04-28,2024-04-26,08:31:00,,nan,,,41.4094712535,2.2277393307,"Barcelona, forum",needs_id,55,yespi,cc-by-nc,0,0,,,,,,
 260137,2024-04-28,2024-04-28,2024-04-26,08:31:00,,nan,,,41.4094712535,2.2277393307,"Barcelona, forum",needs_id,55,yespi,cc-by-nc,0,0,,,,,,
-260136,2024-04-28,2024-04-28,2024-04-26,08:31:00,chromista,35106,species,Padina pavonica,41.4094712535,2.2277393307,"Barcelona, forum",needs_id,55,yespi,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
+260136,2024-04-28,2024-04-28,2024-04-26,08:31:00,chromista,35106,species,Padina pavonica,41.4094712535,2.2277393307,"Barcelona, forum",research,55,yespi,cc-by-nc,1,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
 260135,2024-04-28,2024-04-28,2024-04-26,08:31:00,,nan,,,41.4094712535,2.2277393307,"Barcelona, forum",needs_id,55,yespi,cc-by-nc,0,0,,,,,,
 260134,2024-04-28,2024-04-28,2024-04-26,08:31:00,,nan,,,41.4094712535,2.2277393307,"Barcelona, forum",needs_id,55,yespi,cc-by-nc,0,0,,,,,,
 260133,2024-04-28,2024-04-28,2024-04-26,08:31:00,,nan,,,41.4094712535,2.2277393307,"Barcelona, forum",needs_id,55,yespi,cc-by-nc,0,0,,,,,,
