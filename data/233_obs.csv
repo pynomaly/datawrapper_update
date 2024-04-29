@@ -1,6 +1,6 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
 260830,2024-04-29,2024-04-29,2024-04-27,11:28:00,insecta,252125,species,Hyles euphorbiae,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Lepidoptera,Sphingidae,Hyles
-260829,2024-04-29,2024-04-29,2024-04-27,11:18:00,plantae,35128,species,Posidonia oceanica,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Posidoniaceae,Posidonia
+260829,2024-04-29,2024-04-29,2024-04-27,11:18:00,plantae,35128,species,Posidonia oceanica,41.2710356678,2.0486089352,"Barcelona, España",research,4,xasalva,cc-by-nc,1,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Posidoniaceae,Posidonia
 260828,2024-04-29,2024-04-29,2024-04-27,11:17:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
 260827,2024-04-29,2024-04-29,2024-04-27,11:03:00,insecta,18112,species,Lampyris noctiluca,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Coleoptera,Lampyridae,Lampyris
 260826,2024-04-29,2024-04-29,2024-04-27,09:47:00,insecta,7662,genus,Megachile,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Hymenoptera,Megachilidae,
