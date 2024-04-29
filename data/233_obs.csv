@@ -1,4 +1,12 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+260695,2024-04-29,2024-04-29,2024-04-29,12:10:00,life,1,stateofmatter,Life,41.4197212326,2.0974924378,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
+260694,2024-04-29,2024-04-29,2024-04-27,14:37:00,,nan,,,41.3771668204,2.1404738724,Spain,needs_id,26,carlosrodero,cc-by-nc,0,0,,,,,,
+260693,2024-04-29,2024-04-29,2024-04-29,12:09:00,life,1,stateofmatter,Life,41.4180385995,2.0966721982,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
+260692,2024-04-29,2024-04-29,2024-04-29,12:07:00,life,1,stateofmatter,Life,41.4199519841,2.0974913681,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
+260691,2024-04-29,2024-04-29,2024-04-27,14:32:00,aves,244592,species,Anas platyrhynchos,41.3768993875,2.1395236999,Spain,needs_id,26,carlosrodero,cc-by-nc,0,0,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas
+260690,2024-04-29,2024-04-29,2024-04-29,12:02:00,life,1,stateofmatter,Life,41.4200115163,2.0972359439,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
+260689,2024-04-29,2024-04-29,2024-04-29,12:01:00,life,1,stateofmatter,Life,41.4200084984,2.0973405704,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
+260688,2024-04-29,2024-04-29,2024-04-28,19:31:00,plantae,253309,species,Phytolacca dioica,41.3940138843,2.1821480244,Spain,needs_id,26,carlosrodero,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Phytolaccaceae,Phytolacca
 260687,2024-04-29,2024-04-29,2024-04-29,10:56:00,,nan,,,41.2644508702,2.0155935735,,needs_id,2288,susi,cc-by,0,0,,,,,,
 260686,2024-04-29,2024-04-29,2024-04-29,10:56:00,,nan,,,41.3972276,2.146148,Spain,needs_id,2288,susi,cc-by,0,0,,,,,,
 260685,2024-04-29,2024-04-29,2024-04-29,10:54:00,,nan,,,41.2698594603,2.0362365246,,needs_id,2288,susi,cc-by,0,0,,,,,,
