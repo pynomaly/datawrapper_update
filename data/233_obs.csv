@@ -3,7 +3,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 260686,2024-04-29,2024-04-29,2024-04-29,10:56:00,,nan,,,41.3972276,2.146148,Spain,needs_id,2288,susi,cc-by,0,0,,,,,,
 260685,2024-04-29,2024-04-29,2024-04-29,10:54:00,,nan,,,41.2698594603,2.0362365246,,needs_id,2288,susi,cc-by,0,0,,,,,,
 260684,2024-04-29,2024-04-29,2024-04-29,10:52:00,,nan,,,41.2680057418,2.0184119046,,needs_id,2288,susi,cc-by,0,0,,,,,,
-260682,2024-04-29,2024-04-29,2024-04-27,10:38:00,,nan,,,41.2716856592,2.0518630743,,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
+260682,2024-04-29,2024-04-29,2024-04-27,10:38:00,mollusca,241878,species,Acanthocardia tuberculata,41.2716856592,2.0518630743,,needs_id,817,marinatorresgi,cc0,0,0,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Acanthocardia
 260680,2024-04-29,2024-04-29,2024-04-26,14:17:00,,nan,,,41.4121915,2.2267845665,"Barcelona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,,,,,,
 260679,2024-04-29,2024-04-29,2024-04-26,14:16:00,,nan,,,41.4121915,2.2267845665,"Barcelona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,,,,,,
 260677,2024-04-29,2024-04-29,2024-04-26,14:17:00,,nan,,,41.4121915,2.2267845665,"Barcelona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,,,,,,
@@ -23,7 +23,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 260638,2024-04-29,2024-04-29,2024-04-27,09:03:00,plantae,42981,genus,Lantana,41.2717027778,2.0472972222,,needs_id,2284,cristi,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Verbenaceae,
 260637,2024-04-29,2024-04-29,2024-04-27,08:56:00,plantae,44508,genus,Tamarix,41.2716611111,2.0470166667,,needs_id,2284,cristi,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Violales,Tamaricaceae,
 260636,2024-04-29,2024-04-29,2024-04-27,09:00:00,,nan,,,41.2716833333,2.0472694444,,needs_id,2284,cristi,cc-by,0,0,,,,,,
-260635,2024-04-29,2024-04-29,2024-04-27,09:01:00,,nan,,,41.2717055556,2.0473305556,,needs_id,2284,cristi,cc-by,0,0,,,,,,
+260635,2024-04-29,2024-04-29,2024-04-27,09:01:00,plantae,43742,genus,Echium,41.2717055556,2.0473305556,,needs_id,2284,cristi,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Boraginaceae,
 260634,2024-04-29,2024-04-29,2024-04-27,10:15:00,cnidaria,240423,species,Aequorea forskalea,41.2715833333,2.0504055556,,needs_id,2284,cristi,cc-by,0,0,Animalia,Cnidaria,Hydrozoa,Leptothecata,Aequoreidae,Aequorea
 260631,2024-04-28,2024-04-28,2024-04-27,09:06:00,mollusca,250214,species,Cerithium vulgatum,41.4112701,2.227734,"Zona de Banys Fòrum, Barcelona, España",research,1582,claudialazarof,cc-by,1,0,Animalia,Mollusca,Gastropoda,,Cerithiidae,Cerithium
 260630,2024-04-28,2024-04-28,2024-04-27,10:02:00,,248096,species,Calcinus tubularis,41.4094668764,2.2277573345,"El Besòs i el Maresme, Sant Martí, Barcelona, España",needs_id,653,ura4dive,cc-by-nc,1,0,Animalia,Arthropoda,Malacostraca,Decapoda,Diogenidae,Calcinus
@@ -1583,7 +1583,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258887,2024-04-27,2024-04-29,2024-04-27,10:16:00,cnidaria,240423,species,Aequorea forskalea,41.2715956986,2.0512247086,,research,2285,elisabetd,cc-by,2,1,Animalia,Cnidaria,Hydrozoa,Leptothecata,Aequoreidae,Aequorea
 258886,2024-04-27,2024-04-29,2024-04-27,10:09:00,cnidaria,253561,species,Velella velella,41.2714031775,2.050983645,,research,2285,elisabetd,cc-by,3,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
 258885,2024-04-27,2024-04-27,2024-04-27,09:13:00,,nan,,,41.2715992264,2.0489180088,,needs_id,2285,elisabetd,cc-by,0,0,,,,,,
-258884,2024-04-27,2024-04-28,2024-04-27,09:13:00,plantae,247078,species,Eryngium maritimum,41.2718121581,2.050681226,,needs_id,2285,elisabetd,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Apiales,Apiaceae,Eryngium
+258884,2024-04-27,2024-04-29,2024-04-27,09:13:00,plantae,247078,species,Eryngium maritimum,41.2718121581,2.050681226,,research,2285,elisabetd,cc-by,2,0,Plantae,Magnoliophyta,Magnoliopsida,Apiales,Apiaceae,Eryngium
 258882,2024-04-27,2024-04-28,2024-04-27,09:35:00,plantae,244728,species,Lobularia maritima,41.2718809513,2.0507499576,,research,2285,elisabetd,cc-by,1,0,Plantae,Magnoliophyta,Magnoliopsida,Capparales,Brassicaceae,
 258881,2024-04-27,2024-04-29,2024-04-27,09:01:00,plantae,42982,species,Lantana camara,41.2715216133,2.0482109115,,research,2285,elisabetd,cc-by,2,0,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Verbenaceae,Lantana
 258877,2024-04-27,2024-04-27,2024-04-27,09:17:00,plantae,90169,species,Calystegia soldanella,41.2715251412,2.0482729375,,research,2285,elisabetd,cc-by,1,0,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Convolvulaceae,Calystegia
@@ -1689,7 +1689,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258751,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718864206,2.0500296623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258750,2024-04-27,2024-04-27,2024-04-27,09:22:00,plantae,247896,species,Euphorbia paralias,41.2718834206,2.0500266623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,Euphorbia
 258749,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718804206,2.0500236623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
-258748,2024-04-27,2024-04-27,2024-04-27,09:22:00,plantae,252707,species,Pancratium maritimum,41.2718774206,2.0500206623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Asparagales,Amaryllidaceae,Pancratium
+258748,2024-04-27,2024-04-29,2024-04-27,09:22:00,plantae,252707,species,Pancratium maritimum,41.2718774206,2.0500206623,,research,54,loreto_rodriguez,cc-by-nc,2,0,Plantae,Magnoliophyta,Liliopsida,Asparagales,Amaryllidaceae,Pancratium
 258747,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718744206,2.0500176623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258746,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718714206,2.0500146623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258745,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718684206,2.0500116623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
@@ -1711,7 +1711,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258729,2024-04-27,2024-04-27,2024-04-27,09:22:00,plantae,49271,genus,Xanthium,41.2718204206,2.0499636623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,
 258728,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718174206,2.0499606623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258727,2024-04-27,2024-04-28,2024-04-27,09:22:00,plantae,244728,species,Lobularia maritima,41.2718144206,2.0499576623,,research,54,loreto_rodriguez,cc-by-nc,2,0,Plantae,Magnoliophyta,Magnoliopsida,Capparales,Brassicaceae,
-258726,2024-04-27,2024-04-27,2024-04-27,09:22:00,plantae,247078,species,Eryngium maritimum,41.2718114206,2.0499546623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Apiales,Apiaceae,Eryngium
+258726,2024-04-27,2024-04-29,2024-04-27,09:22:00,plantae,247078,species,Eryngium maritimum,41.2718114206,2.0499546623,,research,54,loreto_rodriguez,cc-by-nc,2,0,Plantae,Magnoliophyta,Magnoliopsida,Apiales,Apiaceae,Eryngium
 258725,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718084206,2.0499516623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258724,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718054206,2.0499486623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258723,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718024206,2.0499456623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
@@ -1720,8 +1720,8 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258720,2024-04-27,2024-04-27,2024-04-27,10:13:00,cnidaria,253561,species,Velella velella,41.2717864206,2.0499296623,,research,54,loreto_rodriguez,cc-by-nc,2,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
 258719,2024-04-27,2024-04-29,2024-04-27,10:13:00,insecta,324,order,Coleoptera,41.2717834206,2.0499266623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,,,
 258718,2024-04-27,2024-04-27,2024-04-27,10:13:00,plantae,38944,genus,Cenchrus,41.2717804206,2.0499236623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Poales,Poaceae,
-258716,2024-04-27,2024-04-28,2024-04-27,10:13:00,plantae,246170,species,Medicago marina,41.2717774206,2.0499206623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Medicago
-258715,2024-04-27,2024-04-28,2024-04-27,10:13:00,plantae,246170,species,Medicago marina,41.2717744206,2.0499176623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Medicago
+258716,2024-04-27,2024-04-29,2024-04-27,10:13:00,plantae,246170,species,Medicago marina,41.2717774206,2.0499206623,,research,54,loreto_rodriguez,cc-by-nc,2,0,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Medicago
+258715,2024-04-27,2024-04-29,2024-04-27,10:13:00,plantae,246170,species,Medicago marina,41.2717744206,2.0499176623,,research,54,loreto_rodriguez,cc-by-nc,2,0,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Medicago
 258714,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717714206,2.0499146623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258713,2024-04-27,2024-04-29,2024-04-27,10:13:00,insecta,50251,species,Psilothrix viridicoerulea,41.2717684206,2.0499116623,,research,54,loreto_rodriguez,cc-by-nc,2,0,Animalia,Arthropoda,Insecta,Coleoptera,Dasytidae,Psilothrix
 258712,2024-04-27,2024-04-29,2024-04-27,10:13:00,insecta,1252,family,Sarcophagidae,41.2717654206,2.0499086623,,needs_id,54,loreto_rodriguez,cc-by-nc,2,0,Animalia,Arthropoda,Insecta,Diptera,,

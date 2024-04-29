@@ -3,7 +3,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 260686,349051,,,https://minka-sdg.org/attachments/local_photos/files/349051/medium.jpg,susi,41.3972276,2.146148,cc-by,"(c) Susana Rabadán Zurita, some rights reserved (CC BY)",260686_349051.jpg
 260685,349050,,,https://minka-sdg.org/attachments/local_photos/files/349050/medium.jpg,susi,41.2698594603,2.0362365246,cc-by,"(c) Susana Rabadán Zurita, some rights reserved (CC BY)",260685_349050.jpg
 260684,349049,,,https://minka-sdg.org/attachments/local_photos/files/349049/medium.jpg,susi,41.2680057418,2.0184119046,cc-by,"(c) Susana Rabadán Zurita, some rights reserved (CC BY)",260684_349049.jpg
-260682,349046,,,https://minka-sdg.org/attachments/local_photos/files/349046/medium.jpg,marinatorresgi,41.2716856592,2.0518630743,C,"(c) Marina Torres Gibert, all rights reserved",260682_349046.jpg
+260682,349046,mollusca,Acanthocardia tuberculata,https://minka-sdg.org/attachments/local_photos/files/349046/medium.jpg,marinatorresgi,41.2716856592,2.0518630743,C,"(c) Marina Torres Gibert, all rights reserved",260682_349046.jpg
 260680,349043,,,https://minka-sdg.org/attachments/local_photos/files/349043/medium.jpg,bertinhaco,41.4121915,2.2267845665,cc-by-nc,"(c) Berta Companys Oliva, some rights reserved (CC BY-NC)",260680_349043.jpg
 260679,349042,,,https://minka-sdg.org/attachments/local_photos/files/349042/medium.jpg,bertinhaco,41.4121915,2.2267845665,cc-by-nc,"(c) Berta Companys Oliva, some rights reserved (CC BY-NC)",260679_349042.jpg
 260677,349038,,,https://minka-sdg.org/attachments/local_photos/files/349038/medium.jpg,bertinhaco,41.4121915,2.2267845665,cc-by-nc,"(c) Berta Companys Oliva, some rights reserved (CC BY-NC)",260677_349038.jpg
@@ -23,7 +23,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 260638,348981,plantae,Lantana,https://minka-sdg.org/attachments/local_photos/files/348981/medium.jpg,cristi,41.2717027778,2.0472972222,cc-by,"(c) Cristina MC, some rights reserved (CC BY)",260638_348981.jpg
 260637,348980,plantae,Tamarix,https://minka-sdg.org/attachments/local_photos/files/348980/medium.jpg,cristi,41.2716611111,2.0470166667,cc-by,"(c) Cristina MC, some rights reserved (CC BY)",260637_348980.jpg
 260636,348979,,,https://minka-sdg.org/attachments/local_photos/files/348979/medium.jpg,cristi,41.2716833333,2.0472694444,cc-by,"(c) Cristina MC, some rights reserved (CC BY)",260636_348979.jpg
-260635,348978,,,https://minka-sdg.org/attachments/local_photos/files/348978/medium.jpg,cristi,41.2717055556,2.0473305556,cc-by,"(c) Cristina MC, some rights reserved (CC BY)",260635_348978.jpg
+260635,348978,plantae,Echium,https://minka-sdg.org/attachments/local_photos/files/348978/medium.jpg,cristi,41.2717055556,2.0473305556,cc-by,"(c) Cristina MC, some rights reserved (CC BY)",260635_348978.jpg
 260634,348977,cnidaria,Aequorea forskalea,https://minka-sdg.org/attachments/local_photos/files/348977/medium.jpg,cristi,41.2715833333,2.0504055556,cc-by,"(c) Cristina MC, some rights reserved (CC BY)",260634_348977.jpg
 260631,348972,mollusca,Cerithium vulgatum,https://minka-sdg.org/attachments/local_photos/files/348972/medium.jpeg,claudialazarof,41.4112701,2.227734,cc-by,"(c) Clàudia Lázaro Farré, some rights reserved (CC BY)",260631_348972.jpg
 260630,348938,,Calcinus tubularis,https://minka-sdg.org/attachments/local_photos/files/348938/medium.jpeg,ura4dive,41.4094668764,2.2277573345,cc-by-nc,"(c) @ura4dive, some rights reserved (CC BY-NC)",260630_348938.jpg
