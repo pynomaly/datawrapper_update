@@ -159,7 +159,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 260809,2024-04-29,2024-04-29,2024-04-27,09:14:00,plantae,247078,species,Eryngium maritimum,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Apiales,Apiaceae,Eryngium
 260808,2024-04-29,2024-04-29,2024-04-27,09:13:00,plantae,249924,species,Centaurea aspera,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Centaurea
 260807,2024-04-29,2024-04-29,2024-04-27,09:13:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
-260806,2024-04-29,2024-04-29,2024-04-27,09:11:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260806,2024-04-29,2024-04-29,2024-04-27,09:11:00,plantae,38723,genus,Achillea,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,
 260805,2024-04-29,2024-04-29,2024-04-27,09:11:00,plantae,38944,genus,Cenchrus,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Poales,Poaceae,
 260804,2024-04-29,2024-04-29,2024-04-27,09:10:00,insecta,46,order,Orthoptera,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,,,
 260803,2024-04-29,2024-04-29,2024-04-27,09:10:00,plantae,221647,species,Paronychia argentea,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,Paronychia
