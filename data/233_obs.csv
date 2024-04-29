@@ -1,4 +1,9 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+260723,2024-04-29,2024-04-29,2024-04-29,13:31:00,life,1,stateofmatter,Life,41.4196154355,2.0967203409,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
+260722,2024-04-29,2024-04-29,2024-04-29,13:31:00,life,1,stateofmatter,Life,41.4190410977,2.097205765,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
+260721,2024-04-29,2024-04-29,2024-04-29,13:30:00,life,1,stateofmatter,Life,41.4210479285,2.0956170353,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
+260720,2024-04-29,2024-04-29,2024-04-29,13:30:00,life,1,stateofmatter,Life,41.419842168,2.0970917408,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
+260719,2024-04-29,2024-04-29,2024-04-29,13:27:00,life,1,stateofmatter,Life,41.4190518693,2.0969888633,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
 260718,2024-04-29,2024-04-29,2024-04-29,13:17:00,life,1,stateofmatter,Life,41.4247580674,2.0948732959,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
 260717,2024-04-29,2024-04-29,2024-04-29,13:13:00,life,1,stateofmatter,Life,41.4249254541,2.0948732012,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
 260716,2024-04-29,2024-04-29,2024-04-29,13:07:00,,nan,,,41.4260935924,2.0974677572,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
