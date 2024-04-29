@@ -1,27 +1,111 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
-260746,2024-04-29,2024-04-29,2024-04-26,19:23:00,actinopterygii,34965,species,Scorpaena porcus,41.4103067642,2.2274868528,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,Scorpaena
-260745,2024-04-29,2024-04-29,2024-04-26,20:22:00,chromista,35214,species,Dictyota cyanoloma,41.4102997642,2.2274798528,Spain,needs_id,822,prema,C,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota
-260744,2024-04-29,2024-04-29,2024-04-26,20:22:00,actinopterygii,34796,species,Scorpaena notata,41.4102927642,2.2274728528,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,Scorpaena
-260743,2024-04-29,2024-04-29,2024-04-26,20:21:00,actinopterygii,34805,species,Sarpa salpa,41.4102857642,2.2274658528,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
-260742,2024-04-29,2024-04-29,2024-04-26,20:21:00,actinopterygii,240391,species,Gobius paganellus,41.4102787642,2.2274588528,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Gobius
-260741,2024-04-29,2024-04-29,2024-04-26,19:20:00,mollusca,34855,species,Sepia officinalis,41.4102717642,2.2274518528,Spain,needs_id,822,prema,C,1,0,Animalia,Mollusca,Cephalopoda,Sepiida,Sepiidae,Sepia
-260740,2024-04-29,2024-04-29,2024-04-26,20:19:00,actinopterygii,12553,species,Diplodus sargus,41.4102647642,2.2274448528,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
-260739,2024-04-29,2024-04-29,2024-04-26,21:19:00,echinodermata,240406,species,Arbacia lixula,41.4102577642,2.2274378528,Spain,needs_id,822,prema,C,0,0,Animalia,Echinodermata,Echinoidea,Arbacioida,Arbaciidae,Arbacia
-260738,2024-04-29,2024-04-29,2024-04-26,20:18:00,crustacea,12514,genus,Palaemon,41.4102507642,2.2274308528,Spain,needs_id,822,prema,C,0,0,Animalia,Arthropoda,Malacostraca,Decapoda,Palaemonidae,
-260737,2024-04-29,2024-04-29,2024-04-26,19:18:00,crustacea,35067,species,Palaemon elegans,41.4102437642,2.2274238528,Spain,needs_id,822,prema,C,0,0,Animalia,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Palaemon
+260830,2024-04-29,2024-04-29,2024-04-27,11:28:00,insecta,252125,species,Hyles euphorbiae,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Lepidoptera,Sphingidae,Hyles
+260829,2024-04-29,2024-04-29,2024-04-27,11:18:00,plantae,35128,species,Posidonia oceanica,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Posidoniaceae,Posidonia
+260828,2024-04-29,2024-04-29,2024-04-27,11:17:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260827,2024-04-29,2024-04-29,2024-04-27,11:03:00,insecta,18112,species,Lampyris noctiluca,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Coleoptera,Lampyridae,Lampyris
+260826,2024-04-29,2024-04-29,2024-04-27,09:47:00,insecta,7662,genus,Megachile,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Hymenoptera,Megachilidae,
+260825,2024-04-29,2024-04-29,2024-04-27,09:46:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260824,2024-04-29,2024-04-29,2024-04-27,09:46:00,insecta,1198,family,Megachilidae,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Hymenoptera,,
+260823,2024-04-29,2024-04-29,2024-04-27,09:45:00,arachnida,253765,species,Xysticus cristatus,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Arachnida,Araneae,Thomisidae,Xysticus
+260822,2024-04-29,2024-04-29,2024-04-27,09:45:00,insecta,13396,genus,Podalonia,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Hymenoptera,Sphecidae,
+260821,2024-04-29,2024-04-29,2024-04-27,09:44:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260820,2024-04-29,2024-04-29,2024-04-27,09:41:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260819,2024-04-29,2024-04-29,2024-04-27,09:40:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260818,2024-04-29,2024-04-29,2024-04-27,09:37:00,insecta,101933,genus,Tenebrio,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Coleoptera,Tenebrionidae,
+260817,2024-04-29,2024-04-29,2024-04-27,09:37:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260816,2024-04-29,2024-04-29,2024-04-27,09:29:00,insecta,1052,family,Braconidae,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Hymenoptera,,
+260815,2024-04-29,2024-04-29,2024-04-27,09:22:00,insecta,1252,family,Sarcophagidae,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Diptera,,
+260814,2024-04-29,2024-04-29,2024-04-27,09:19:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260813,2024-04-29,2024-04-29,2024-04-27,09:19:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260812,2024-04-29,2024-04-29,2024-04-27,09:19:00,plantae,90169,species,Calystegia soldanella,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Convolvulaceae,Calystegia
+260811,2024-04-29,2024-04-29,2024-04-27,09:14:00,plantae,221647,species,Paronychia argentea,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,Paronychia
+260810,2024-04-29,2024-04-29,2024-04-27,09:14:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260809,2024-04-29,2024-04-29,2024-04-27,09:14:00,plantae,247078,species,Eryngium maritimum,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Apiales,Apiaceae,Eryngium
+260808,2024-04-29,2024-04-29,2024-04-27,09:13:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260807,2024-04-29,2024-04-29,2024-04-27,09:13:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260806,2024-04-29,2024-04-29,2024-04-27,09:11:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260805,2024-04-29,2024-04-29,2024-04-27,09:11:00,plantae,38944,genus,Cenchrus,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Poales,Poaceae,
+260804,2024-04-29,2024-04-29,2024-04-27,09:10:00,insecta,46,order,Orthoptera,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,,,
+260803,2024-04-29,2024-04-29,2024-04-27,09:10:00,plantae,221647,species,Paronychia argentea,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,Paronychia
+260802,2024-04-29,2024-04-29,2024-04-27,09:09:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260801,2024-04-29,2024-04-29,2024-04-27,09:09:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260800,2024-04-29,2024-04-29,2024-04-27,09:08:00,insecta,50251,species,Psilothrix viridicoerulea,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Coleoptera,Dasytidae,Psilothrix
+260799,2024-04-29,2024-04-29,2024-04-27,09:08:00,plantae,245425,species,Echinophora spinosa,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Apiales,Apiaceae,Echinophora
+260798,2024-04-29,2024-04-29,2024-04-27,09:06:00,insecta,50251,species,Psilothrix viridicoerulea,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Coleoptera,Dasytidae,Psilothrix
+260797,2024-04-29,2024-04-29,2024-04-27,09:05:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260796,2024-04-29,2024-04-29,2024-04-27,09:05:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260795,2024-04-29,2024-04-29,2024-04-27,09:04:00,insecta,50251,species,Psilothrix viridicoerulea,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Coleoptera,Dasytidae,Psilothrix
+260794,2024-04-29,2024-04-29,2024-04-27,09:04:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260793,2024-04-29,2024-04-29,2024-04-27,09:04:00,plantae,42982,species,Lantana camara,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Verbenaceae,Lantana
+260792,2024-04-29,2024-04-29,2024-04-27,09:03:00,insecta,7702,genus,Sarcophaga,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Diptera,Tachinidae,
+260791,2024-04-29,2024-04-29,2024-04-27,09:03:00,insecta,1252,family,Sarcophagidae,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Diptera,,
+260790,2024-04-29,2024-04-29,2024-04-27,08:59:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260789,2024-04-29,2024-04-29,2024-04-27,09:03:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260788,2024-04-29,2024-04-29,2024-04-27,08:57:00,plantae,44508,genus,Tamarix,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Violales,Tamaricaceae,
+260787,2024-04-29,2024-04-29,2024-04-27,08:57:00,plantae,40169,genus,Avena,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Poales,Poaceae,
+260786,2024-04-29,2024-04-29,2024-04-27,08:56:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260785,2024-04-29,2024-04-29,2024-04-27,08:54:00,plantae,43791,genus,Fumaria,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Papaverales,Fumariaceae,
+260784,2024-04-29,2024-04-29,2024-04-27,08:49:00,insecta,101933,genus,Tenebrio,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Coleoptera,Tenebrionidae,
+260783,2024-04-29,2024-04-29,2024-04-27,08:13:00,insecta,246134,species,Episyrphus balteatus,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Diptera,Syrphidae,Episyrphus
+260782,2024-04-29,2024-04-29,2024-04-27,08:13:00,plantae,247078,species,Eryngium maritimum,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Apiales,Apiaceae,Eryngium
+260781,2024-04-29,2024-04-29,2024-04-27,08:11:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260780,2024-04-29,2024-04-29,2024-04-27,08:11:00,plantae,248549,species,Scirpoides holoschoenus,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Poales,Cyperaceae,Scirpoides
+260779,2024-04-29,2024-04-29,2024-04-27,08:11:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260778,2024-04-29,2024-04-29,2024-04-27,08:03:00,insecta,1054,family,Formicidae,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Hymenoptera,,
+260777,2024-04-29,2024-04-29,2024-04-27,07:50:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260776,2024-04-29,2024-04-29,2024-04-27,07:49:00,plantae,244728,species,Lobularia maritima,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Capparales,Brassicaceae,
+260775,2024-04-29,2024-04-29,2024-04-27,07:49:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260774,2024-04-29,2024-04-29,2024-04-27,07:49:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260773,2024-04-29,2024-04-29,2024-04-27,07:48:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260772,2024-04-29,2024-04-29,2024-04-27,07:48:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260771,2024-04-29,2024-04-29,2024-04-27,07:48:00,aves,250485,species,Sturnus vulgaris,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Sturnidae,Sturnus
+260770,2024-04-29,2024-04-29,2024-04-27,07:46:00,plantae,244342,species,Ammophila arenaria,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Poales,Poaceae,
+260769,2024-04-29,2024-04-29,2024-04-27,07:46:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260768,2024-04-29,2024-04-29,2024-04-27,07:46:00,plantae,247896,species,Euphorbia paralias,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,Euphorbia
+260767,2024-04-29,2024-04-29,2024-04-27,07:46:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260766,2024-04-29,2024-04-29,2024-04-27,07:45:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260765,2024-04-29,2024-04-29,2024-04-27,07:45:00,plantae,245425,species,Echinophora spinosa,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Apiales,Apiaceae,Echinophora
+260764,2024-04-29,2024-04-29,2024-04-27,07:44:00,plantae,38337,genus,Plantago,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Plantaginales,Plantaginaceae,
+260763,2024-04-29,2024-04-29,2024-04-27,07:44:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260762,2024-04-29,2024-04-29,2024-04-27,07:44:00,plantae,252707,species,Pancratium maritimum,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Asparagales,Amaryllidaceae,Pancratium
+260761,2024-04-29,2024-04-29,2024-04-27,07:43:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260760,2024-04-29,2024-04-29,2024-04-27,07:43:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260759,2024-04-29,2024-04-29,2024-04-27,07:43:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260758,2024-04-29,2024-04-29,2024-04-27,07:42:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260757,2024-04-29,2024-04-29,2024-04-27,07:42:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260756,2024-04-29,2024-04-29,2024-04-27,07:42:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260755,2024-04-29,2024-04-29,2024-04-27,07:41:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260754,2024-04-29,2024-04-29,2024-04-27,07:41:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260753,2024-04-29,2024-04-29,2024-04-27,07:40:00,plantae,44508,genus,Tamarix,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Violales,Tamaricaceae,
+260752,2024-04-29,2024-04-29,2024-04-27,07:39:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260751,2024-04-29,2024-04-29,2024-04-27,07:39:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260750,2024-04-29,2024-04-29,2024-04-27,07:39:00,aves,253889,species,Pica pica,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Corvidae,Pica
+260749,2024-04-29,2024-04-29,2024-04-27,07:37:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260748,2024-04-29,2024-04-29,2024-04-27,07:37:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260747,2024-04-29,2024-04-29,2024-04-27,07:37:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260746,2024-04-29,2024-04-29,2024-04-26,19:23:00,actinopterygii,34965,species,Scorpaena porcus,41.4103067642,2.2274868528,Spain,research,822,prema,C,2,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,Scorpaena
+260745,2024-04-29,2024-04-29,2024-04-26,20:22:00,chromista,35214,species,Dictyota cyanoloma,41.4102997642,2.2274798528,Spain,research,822,prema,C,2,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota
+260744,2024-04-29,2024-04-29,2024-04-26,20:22:00,actinopterygii,34796,species,Scorpaena notata,41.4102927642,2.2274728528,Spain,research,822,prema,C,2,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,Scorpaena
+260743,2024-04-29,2024-04-29,2024-04-26,20:21:00,actinopterygii,34805,species,Sarpa salpa,41.4102857642,2.2274658528,Spain,research,822,prema,C,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
+260742,2024-04-29,2024-04-29,2024-04-26,20:21:00,actinopterygii,240391,species,Gobius paganellus,41.4102787642,2.2274588528,Spain,research,822,prema,C,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Gobius
+260741,2024-04-29,2024-04-29,2024-04-26,19:20:00,mollusca,34855,species,Sepia officinalis,41.4102717642,2.2274518528,Spain,research,822,prema,C,2,0,Animalia,Mollusca,Cephalopoda,Sepiida,Sepiidae,Sepia
+260740,2024-04-29,2024-04-29,2024-04-26,20:19:00,actinopterygii,12553,species,Diplodus sargus,41.4102647642,2.2274448528,Spain,research,822,prema,C,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+260739,2024-04-29,2024-04-29,2024-04-26,21:19:00,echinodermata,240406,species,Arbacia lixula,41.4102577642,2.2274378528,Spain,research,822,prema,C,2,0,Animalia,Echinodermata,Echinoidea,Arbacioida,Arbaciidae,Arbacia
+260738,2024-04-29,2024-04-29,2024-04-26,20:18:00,crustacea,12514,genus,Palaemon,41.4102507642,2.2274308528,Spain,needs_id,822,prema,C,2,0,Animalia,Arthropoda,Malacostraca,Decapoda,Palaemonidae,
+260737,2024-04-29,2024-04-29,2024-04-26,19:18:00,crustacea,35067,species,Palaemon elegans,41.4102437642,2.2274238528,Spain,research,822,prema,C,2,0,Animalia,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Palaemon
 260736,2024-04-29,2024-04-29,2024-04-26,20:17:00,,nan,,,41.4102367642,2.2274168528,Spain,needs_id,822,prema,C,0,0,,,,,,
-260735,2024-04-29,2024-04-29,2024-04-26,19:16:00,cnidaria,34999,species,Actinia mediterranea,41.4102297642,2.2274098528,Spain,needs_id,822,prema,C,0,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Actinia
+260735,2024-04-29,2024-04-29,2024-04-26,19:16:00,cnidaria,34999,species,Actinia mediterranea,41.4102297642,2.2274098528,Spain,research,822,prema,C,2,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Actinia
 260734,2024-04-29,2024-04-29,2024-04-26,19:15:00,actinopterygii,35213,species,Diplodus puntazzo,41.4102227642,2.2274028528,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
-260733,2024-04-29,2024-04-29,2024-04-26,19:15:00,actinopterygii,35120,species,Gobius incognitus,41.4102157642,2.2273958528,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Gobius
+260733,2024-04-29,2024-04-29,2024-04-26,19:15:00,actinopterygii,35120,species,Gobius incognitus,41.4102157642,2.2273958528,Spain,research,822,prema,C,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Gobius
 260732,2024-04-29,2024-04-29,2024-04-26,21:14:00,porifera,255638,species,Plakina monolopha,41.4102087642,2.2273888528,Spain,needs_id,822,prema,C,0,0,Animalia,Porifera,Homoscleromorpha,Homosclerophorida,Plakinidae,Plakina
 260731,2024-04-29,2024-04-29,2024-04-26,19:14:00,fungi,41208,genus,Thelohania,41.4102017642,2.2273818528,Spain,needs_id,822,prema,C,0,0,Fungi,Microspora,Microsporea,Microsporida,Thelohaniidae,
 260730,2024-04-29,2024-04-29,2024-04-26,20:13:00,animalia,35219,species,Phallusia fumigata,41.4101947642,2.2273748528,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Ascidiacea,Enterogona,Ascidiidae,Phallusia
 260729,2024-04-29,2024-04-29,2024-04-26,18:13:00,animalia,3232,family,Ascidiidae,41.4101877642,2.2273678528,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Ascidiacea,Enterogona,,
-260728,2024-04-29,2024-04-29,2024-04-26,19:12:00,actinopterygii,34965,species,Scorpaena porcus,41.4101807642,2.2273608528,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,Scorpaena
-260727,2024-04-29,2024-04-29,2024-04-26,19:12:00,actinopterygii,35216,species,Symphodus tinca,41.4101737642,2.2273538528,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
-260726,2024-04-29,2024-04-29,2024-04-26,19:11:00,plantae,246914,species,Asparagopsis taxiformis,41.4101667642,2.2273468528,Spain,needs_id,822,prema,C,0,0,Plantae,Rhodophyta,Florideophyceae,Bonnemaisoniales,Bonnemaisoniaceae,Asparagopsis
-260725,2024-04-29,2024-04-29,2024-04-26,19:11:00,chromista,35541,genus,Dictyota,41.4101597642,2.2273398528,Spain,needs_id,822,prema,C,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,
-260724,2024-04-29,2024-04-29,2024-04-26,20:09:00,cnidaria,253561,species,Velella velella,41.4101527642,2.2273328528,Spain,needs_id,822,prema,C,1,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
+260728,2024-04-29,2024-04-29,2024-04-26,19:12:00,actinopterygii,34965,species,Scorpaena porcus,41.4101807642,2.2273608528,Spain,research,822,prema,C,2,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,Scorpaena
+260727,2024-04-29,2024-04-29,2024-04-26,19:12:00,actinopterygii,35216,species,Symphodus tinca,41.4101737642,2.2273538528,Spain,research,822,prema,C,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
+260726,2024-04-29,2024-04-29,2024-04-26,19:11:00,plantae,246914,species,Asparagopsis taxiformis,41.4101667642,2.2273468528,Spain,research,822,prema,C,2,0,Plantae,Rhodophyta,Florideophyceae,Bonnemaisoniales,Bonnemaisoniaceae,Asparagopsis
+260725,2024-04-29,2024-04-29,2024-04-26,19:11:00,chromista,35541,genus,Dictyota,41.4101597642,2.2273398528,Spain,needs_id,822,prema,C,2,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,
+260724,2024-04-29,2024-04-29,2024-04-26,20:09:00,cnidaria,253561,species,Velella velella,41.4101527642,2.2273328528,Spain,research,822,prema,C,2,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
 260723,2024-04-29,2024-04-29,2024-04-29,13:31:00,plantae,46939,genus,Hedera,41.4196154355,2.0967203409,Spain,needs_id,318,amaliacardenas,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Apiales,Araliaceae,
 260722,2024-04-29,2024-04-29,2024-04-29,13:31:00,life,1,stateofmatter,Life,41.4190410977,2.097205765,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
 260721,2024-04-29,2024-04-29,2024-04-29,13:30:00,plantae,251521,species,Cistus albidus,41.4210479285,2.0956170353,Spain,needs_id,318,amaliacardenas,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Violales,Cistaceae,Cistus
@@ -187,10 +271,10 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 260528,2024-04-28,2024-04-28,2024-04-26,10:14:00,actinopterygii,35216,species,Symphodus tinca,41.4094515586,2.227176091,"Zona de Banys Fòrum, Barcelona, Spain",research,540,lauracoro,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
 260527,2024-04-28,2024-04-28,2024-04-26,10:14:00,plantae,244641,species,Lithophyllum incrustans,41.4094515586,2.227176091,"Zona de Banys Fòrum, Barcelona, Spain",research,540,lauracoro,cc-by-nc,1,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,Lithophyllum
 260526,2024-04-28,2024-04-28,2024-04-26,10:14:00,,nan,,,41.4094515586,2.227176091,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,540,lauracoro,cc-by-nc,0,0,,,,,,
-260525,2024-04-28,2024-04-28,2024-04-26,10:14:00,actinopterygii,35120,species,Gobius incognitus,41.4094515586,2.227176091,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,540,lauracoro,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Gobius
+260525,2024-04-28,2024-04-29,2024-04-26,10:14:00,actinopterygii,35120,species,Gobius incognitus,41.4094515586,2.227176091,"Zona de Banys Fòrum, Barcelona, Spain",research,540,lauracoro,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Gobius
 260524,2024-04-28,2024-04-28,2024-04-26,10:14:00,plantae,244641,species,Lithophyllum incrustans,41.4094515586,2.227176091,"Zona de Banys Fòrum, Barcelona, Spain",research,540,lauracoro,cc-by-nc,1,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,Lithophyllum
 260523,2024-04-28,2024-04-28,2024-04-26,10:14:00,echinodermata,34848,species,Paracentrotus lividus,41.4094515586,2.227176091,"Zona de Banys Fòrum, Barcelona, Spain",research,540,lauracoro,cc-by-nc,1,0,Animalia,Echinodermata,Echinoidea,Camarodonta,Parechinidae,Paracentrotus
-260522,2024-04-28,2024-04-28,2024-04-26,10:13:00,echinodermata,251875,species,Holothuria tubulosa,41.4094515586,2.227176091,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,540,lauracoro,cc-by-nc,0,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria
+260522,2024-04-28,2024-04-29,2024-04-26,10:13:00,echinodermata,251875,species,Holothuria tubulosa,41.4094515586,2.227176091,"Zona de Banys Fòrum, Barcelona, Spain",research,540,lauracoro,cc-by-nc,1,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria
 260521,2024-04-28,2024-04-28,2024-04-26,10:12:00,actinopterygii,35120,species,Gobius incognitus,41.4094515586,2.227176091,"Zona de Banys Fòrum, Barcelona, Spain",research,540,lauracoro,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Gobius
 260520,2024-04-28,2024-04-28,2024-04-26,10:12:00,actinopterygii,35250,species,Parablennius pilicornis,41.4094515586,2.227176091,"Zona de Banys Fòrum, Barcelona, Spain",research,540,lauracoro,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
 260519,2024-04-28,2024-04-28,2024-04-26,10:11:00,mollusca,250214,species,Cerithium vulgatum,41.4094515586,2.227176091,"Zona de Banys Fòrum, Barcelona, Spain",research,540,lauracoro,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,,Cerithiidae,Cerithium
@@ -238,7 +322,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 260475,2024-04-28,2024-04-28,2024-04-26,09:48:00,mollusca,34875,species,Hexaplex trunculus,41.4094596204,2.2270795387,"Zona de Banys Fòrum, Barcelona, Spain",research,540,lauracoro,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Neogastropoda,Muricidae,Hexaplex
 260474,2024-04-28,2024-04-28,2024-04-26,09:47:00,echinodermata,251875,species,Holothuria tubulosa,41.4094596204,2.2270795387,"Zona de Banys Fòrum, Barcelona, Spain",research,540,lauracoro,cc-by-nc,1,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria
 260473,2024-04-28,2024-04-28,2024-04-26,09:46:00,actinopterygii,35250,species,Parablennius pilicornis,41.4094596204,2.2270795387,"Zona de Banys Fòrum, Barcelona, Spain",research,540,lauracoro,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
-260472,2024-04-28,2024-04-28,2024-04-26,09:44:00,echinodermata,9659,genus,Holothuria,41.4094596204,2.2270795387,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,540,lauracoro,cc-by-nc,2,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,
+260472,2024-04-28,2024-04-29,2024-04-26,09:44:00,echinodermata,9659,genus,Holothuria,41.4094596204,2.2270795387,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,540,lauracoro,cc-by-nc,3,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,
 260471,2024-04-28,2024-04-28,2024-04-26,09:44:00,echinodermata,34848,species,Paracentrotus lividus,41.4094596204,2.2270795387,"Zona de Banys Fòrum, Barcelona, Spain",research,540,lauracoro,cc-by-nc,1,0,Animalia,Echinodermata,Echinoidea,Camarodonta,Parechinidae,Paracentrotus
 260470,2024-04-28,2024-04-28,2024-04-26,09:44:00,plantae,244641,species,Lithophyllum incrustans,41.4094596204,2.2270795387,"Zona de Banys Fòrum, Barcelona, Spain",research,540,lauracoro,cc-by-nc,1,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,Lithophyllum
 260469,2024-04-28,2024-04-28,2024-04-26,09:43:00,actinopterygii,35225,species,Chromis chromis,41.4094596204,2.2270795387,"Zona de Banys Fòrum, Barcelona, Spain",research,540,lauracoro,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
@@ -2255,7 +2339,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 257933,2024-04-27,2024-04-28,2024-04-26,07:22:00,actinopterygii,34871,species,Tripterygion delaisi,41.4086948244,2.227583462,Piscines del forum,research,51,bertinhaco,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Tripterygiidae,Tripterygion
 257932,2024-04-27,2024-04-27,2024-04-26,07:22:00,chromista,35214,species,Dictyota cyanoloma,41.4086948244,2.227583462,Piscines del forum,research,51,bertinhaco,cc-by-nc,1,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota
 257931,2024-04-27,2024-04-27,2024-04-26,07:21:00,mollusca,138559,species,Rocellaria dubia,41.4086948244,2.227583462,Piscines del forum,research,51,bertinhaco,cc-by-nc,1,0,Animalia,Mollusca,Bivalvia,,Gastrochaenidae,Rocellaria
-257930,2024-04-27,2024-04-28,2024-04-26,07:21:00,actinopterygii,35035,genus,Parablennius,41.4086948244,2.227583462,Piscines del forum,needs_id,51,bertinhaco,cc-by-nc,3,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,
+257930,2024-04-27,2024-04-29,2024-04-26,07:21:00,actinopterygii,35012,species,Parablennius rouxi,41.4086948244,2.227583462,Piscines del forum,research,51,bertinhaco,cc-by-nc,2,1,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
 257929,2024-04-27,2024-04-28,2024-04-26,07:16:00,mollusca,1678,superfamily,Fissurelloidea,41.4086948244,2.227583462,Piscines del forum,needs_id,51,bertinhaco,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Lepetellida,,
 257928,2024-04-27,2024-04-27,2024-04-26,07:21:00,actinopterygii,34835,species,Coris julis,41.4086948244,2.227583462,Piscines del forum,research,51,bertinhaco,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
 257927,2024-04-27,2024-04-27,2024-04-26,07:19:00,actinopterygii,34871,species,Tripterygion delaisi,41.4086948244,2.227583462,Piscines del forum,research,51,bertinhaco,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Tripterygiidae,Tripterygion
