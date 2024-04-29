@@ -1,4 +1,8 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+260718,2024-04-29,2024-04-29,2024-04-29,13:17:00,life,1,stateofmatter,Life,41.4247580674,2.0948732959,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
+260717,2024-04-29,2024-04-29,2024-04-29,13:13:00,life,1,stateofmatter,Life,41.4249254541,2.0948732012,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
+260716,2024-04-29,2024-04-29,2024-04-29,13:07:00,,nan,,,41.4260935924,2.0974677572,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
+260715,2024-04-29,2024-04-29,2024-04-29,13:02:00,life,1,stateofmatter,Life,41.4262209448,2.0972360508,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
 260714,2024-04-29,2024-04-29,2024-04-29,12:57:00,plantae,43543,genus,Phyllostachys,41.4257507232,2.0986906658,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Poales,Poaceae,
 260713,2024-04-29,2024-04-29,2024-04-29,12:40:00,life,1,stateofmatter,Life,41.4261842344,2.0976308979,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
 260712,2024-04-29,2024-04-29,2024-04-29,12:38:00,life,1,stateofmatter,Life,41.4260036675,2.095954165,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
