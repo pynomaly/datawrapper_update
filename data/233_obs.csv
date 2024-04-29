@@ -2,20 +2,20 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 260746,2024-04-29,2024-04-29,2024-04-26,19:23:00,actinopterygii,34965,species,Scorpaena porcus,41.4103067642,2.2274868528,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,Scorpaena
 260745,2024-04-29,2024-04-29,2024-04-26,20:22:00,chromista,35214,species,Dictyota cyanoloma,41.4102997642,2.2274798528,Spain,needs_id,822,prema,C,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota
 260744,2024-04-29,2024-04-29,2024-04-26,20:22:00,actinopterygii,34796,species,Scorpaena notata,41.4102927642,2.2274728528,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,Scorpaena
-260743,2024-04-29,2024-04-29,2024-04-26,20:21:00,,nan,,,41.4102857642,2.2274658528,Spain,needs_id,822,prema,C,0,0,,,,,,
-260742,2024-04-29,2024-04-29,2024-04-26,20:21:00,,nan,,,41.4102787642,2.2274588528,Spain,needs_id,822,prema,C,0,0,,,,,,
+260743,2024-04-29,2024-04-29,2024-04-26,20:21:00,actinopterygii,34805,species,Sarpa salpa,41.4102857642,2.2274658528,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
+260742,2024-04-29,2024-04-29,2024-04-26,20:21:00,actinopterygii,240391,species,Gobius paganellus,41.4102787642,2.2274588528,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Gobius
 260741,2024-04-29,2024-04-29,2024-04-26,19:20:00,mollusca,34855,species,Sepia officinalis,41.4102717642,2.2274518528,Spain,needs_id,822,prema,C,1,0,Animalia,Mollusca,Cephalopoda,Sepiida,Sepiidae,Sepia
 260740,2024-04-29,2024-04-29,2024-04-26,20:19:00,actinopterygii,12553,species,Diplodus sargus,41.4102647642,2.2274448528,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
 260739,2024-04-29,2024-04-29,2024-04-26,21:19:00,echinodermata,240406,species,Arbacia lixula,41.4102577642,2.2274378528,Spain,needs_id,822,prema,C,0,0,Animalia,Echinodermata,Echinoidea,Arbacioida,Arbaciidae,Arbacia
 260738,2024-04-29,2024-04-29,2024-04-26,20:18:00,crustacea,12514,genus,Palaemon,41.4102507642,2.2274308528,Spain,needs_id,822,prema,C,0,0,Animalia,Arthropoda,Malacostraca,Decapoda,Palaemonidae,
-260737,2024-04-29,2024-04-29,2024-04-26,19:18:00,,nan,,,41.4102437642,2.2274238528,Spain,needs_id,822,prema,C,0,0,,,,,,
+260737,2024-04-29,2024-04-29,2024-04-26,19:18:00,crustacea,35067,species,Palaemon elegans,41.4102437642,2.2274238528,Spain,needs_id,822,prema,C,0,0,Animalia,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Palaemon
 260736,2024-04-29,2024-04-29,2024-04-26,20:17:00,,nan,,,41.4102367642,2.2274168528,Spain,needs_id,822,prema,C,0,0,,,,,,
 260735,2024-04-29,2024-04-29,2024-04-26,19:16:00,cnidaria,34999,species,Actinia mediterranea,41.4102297642,2.2274098528,Spain,needs_id,822,prema,C,0,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Actinia
 260734,2024-04-29,2024-04-29,2024-04-26,19:15:00,actinopterygii,35213,species,Diplodus puntazzo,41.4102227642,2.2274028528,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
 260733,2024-04-29,2024-04-29,2024-04-26,19:15:00,actinopterygii,35120,species,Gobius incognitus,41.4102157642,2.2273958528,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Gobius
 260732,2024-04-29,2024-04-29,2024-04-26,21:14:00,porifera,255638,species,Plakina monolopha,41.4102087642,2.2273888528,Spain,needs_id,822,prema,C,0,0,Animalia,Porifera,Homoscleromorpha,Homosclerophorida,Plakinidae,Plakina
 260731,2024-04-29,2024-04-29,2024-04-26,19:14:00,fungi,41208,genus,Thelohania,41.4102017642,2.2273818528,Spain,needs_id,822,prema,C,0,0,Fungi,Microspora,Microsporea,Microsporida,Thelohaniidae,
-260730,2024-04-29,2024-04-29,2024-04-26,20:13:00,,nan,,,41.4101947642,2.2273748528,Spain,needs_id,822,prema,C,0,0,,,,,,
+260730,2024-04-29,2024-04-29,2024-04-26,20:13:00,animalia,35219,species,Phallusia fumigata,41.4101947642,2.2273748528,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Ascidiacea,Enterogona,Ascidiidae,Phallusia
 260729,2024-04-29,2024-04-29,2024-04-26,18:13:00,animalia,3232,family,Ascidiidae,41.4101877642,2.2273678528,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Ascidiacea,Enterogona,,
 260728,2024-04-29,2024-04-29,2024-04-26,19:12:00,actinopterygii,34965,species,Scorpaena porcus,41.4101807642,2.2273608528,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,Scorpaena
 260727,2024-04-29,2024-04-29,2024-04-26,19:12:00,actinopterygii,35216,species,Symphodus tinca,41.4101737642,2.2273538528,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
@@ -24,19 +24,19 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 260724,2024-04-29,2024-04-29,2024-04-26,20:09:00,cnidaria,253561,species,Velella velella,41.4101527642,2.2273328528,Spain,needs_id,822,prema,C,1,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
 260723,2024-04-29,2024-04-29,2024-04-29,13:31:00,plantae,46939,genus,Hedera,41.4196154355,2.0967203409,Spain,needs_id,318,amaliacardenas,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Apiales,Araliaceae,
 260722,2024-04-29,2024-04-29,2024-04-29,13:31:00,life,1,stateofmatter,Life,41.4190410977,2.097205765,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
-260721,2024-04-29,2024-04-29,2024-04-29,13:30:00,life,1,stateofmatter,Life,41.4210479285,2.0956170353,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
+260721,2024-04-29,2024-04-29,2024-04-29,13:30:00,plantae,251521,species,Cistus albidus,41.4210479285,2.0956170353,Spain,needs_id,318,amaliacardenas,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Violales,Cistaceae,Cistus
 260720,2024-04-29,2024-04-29,2024-04-29,13:30:00,life,1,stateofmatter,Life,41.419842168,2.0970917408,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
-260719,2024-04-29,2024-04-29,2024-04-29,13:27:00,life,1,stateofmatter,Life,41.4190518693,2.0969888633,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
-260718,2024-04-29,2024-04-29,2024-04-29,13:17:00,life,1,stateofmatter,Life,41.4247580674,2.0948732959,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
-260717,2024-04-29,2024-04-29,2024-04-29,13:13:00,life,1,stateofmatter,Life,41.4249254541,2.0948732012,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
+260719,2024-04-29,2024-04-29,2024-04-29,13:27:00,plantae,43544,genus,Cistus,41.4190518693,2.0969888633,Spain,needs_id,318,amaliacardenas,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Violales,Cistaceae,
+260718,2024-04-29,2024-04-29,2024-04-29,13:17:00,plantae,1141,family,Polygonaceae,41.4247580674,2.0948732959,Spain,needs_id,318,amaliacardenas,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Polygonales,,
+260717,2024-04-29,2024-04-29,2024-04-29,13:13:00,plantae,91140,species,Ailanthus altissima,41.4249254541,2.0948732012,Spain,needs_id,318,amaliacardenas,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Sapindales,Simaroubaceae,Ailanthus
 260716,2024-04-29,2024-04-29,2024-04-29,13:07:00,,nan,,,41.4260935924,2.0974677572,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
 260715,2024-04-29,2024-04-29,2024-04-29,13:02:00,life,1,stateofmatter,Life,41.4262209448,2.0972360508,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
 260714,2024-04-29,2024-04-29,2024-04-29,12:57:00,plantae,43543,genus,Phyllostachys,41.4257507232,2.0986906658,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Poales,Poaceae,
-260713,2024-04-29,2024-04-29,2024-04-29,12:40:00,life,1,stateofmatter,Life,41.4261842344,2.0976308979,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
+260713,2024-04-29,2024-04-29,2024-04-29,12:40:00,mammalia,246192,species,Sus scrofa,41.4261842344,2.0976308979,Spain,needs_id,318,amaliacardenas,cc-by-nc,1,0,Animalia,Chordata,Mammalia,Artiodactyla,Suidae,Sus
 260712,2024-04-29,2024-04-29,2024-04-29,12:38:00,life,1,stateofmatter,Life,41.4260036675,2.095954165,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
 260711,2024-04-29,2024-04-29,2024-04-29,12:32:00,,nan,,,41.4238178792,2.0943995639,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
-260710,2024-04-29,2024-04-29,2024-04-27,14:53:00,plantae,244141,species,Prunus cerasifera,41.3776896071,2.1412808821,Spain,needs_id,26,carlosrodero,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Rosaceae,Prunus
-260709,2024-04-29,2024-04-29,2024-04-29,12:30:00,,nan,,,41.42346835,2.0944674871,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
+260710,2024-04-29,2024-04-29,2024-04-27,14:53:00,plantae,244141,species,Prunus cerasifera,41.3776896071,2.1412808821,Spain,casual,26,carlosrodero,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Rosaceae,Prunus
+260709,2024-04-29,2024-04-29,2024-04-29,12:30:00,plantae,39929,genus,Pittosporum,41.42346835,2.0944674871,Spain,casual,318,amaliacardenas,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Pittosporaceae,
 260708,2024-04-29,2024-04-29,2024-04-29,12:30:00,,nan,,,41.423402223,2.0946584523,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
 260707,2024-04-29,2024-04-29,2024-04-29,12:26:00,,nan,,,41.4225041828,2.095139817,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
 260706,2024-04-29,2024-04-29,2024-04-27,14:52:00,plantae,248455,species,Schinus molle,41.3771753742,2.1405647323,Spain,needs_id,26,carlosrodero,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Sapindales,Anacardiaceae,Schinus
@@ -47,9 +47,9 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 260701,2024-04-29,2024-04-29,2024-04-29,12:18:00,life,1,stateofmatter,Life,41.4207632005,2.0963939116,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
 260700,2024-04-29,2024-04-29,2024-04-29,12:15:00,life,1,stateofmatter,Life,41.4193085487,2.0973557334,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
 260699,2024-04-29,2024-04-29,2024-04-29,12:14:00,life,1,stateofmatter,Life,41.4205242822,2.0963120732,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
-260698,2024-04-29,2024-04-29,2024-04-27,14:37:00,plantae,83600,genus,Bougainvillea,41.3771220387,2.1405244991,Spain,needs_id,26,carlosrodero,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Nyctaginaceae,
+260698,2024-04-29,2024-04-29,2024-04-27,14:37:00,plantae,83600,genus,Bougainvillea,41.3771220387,2.1405244991,Spain,casual,26,carlosrodero,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Nyctaginaceae,
 260697,2024-04-29,2024-04-29,2024-04-29,12:13:00,life,1,stateofmatter,Life,41.4200480595,2.0965583609,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
-260696,2024-04-29,2024-04-29,2024-04-29,12:11:00,life,1,stateofmatter,Life,41.4198120445,2.0979295476,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
+260696,2024-04-29,2024-04-29,2024-04-29,12:11:00,plantae,43791,genus,Fumaria,41.4198120445,2.0979295476,Spain,needs_id,318,amaliacardenas,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Papaverales,Fumariaceae,
 260695,2024-04-29,2024-04-29,2024-04-29,12:10:00,life,1,stateofmatter,Life,41.4197212326,2.0974924378,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
 260694,2024-04-29,2024-04-29,2024-04-27,14:37:00,plantae,253900,species,Platanus hispanica,41.3771668204,2.1404738724,Spain,needs_id,26,carlosrodero,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Hamamelidales,Platanaceae,Platanus
 260693,2024-04-29,2024-04-29,2024-04-29,12:09:00,life,1,stateofmatter,Life,41.4180385995,2.0966721982,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
