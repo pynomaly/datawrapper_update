@@ -1,4 +1,8 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+260687,2024-04-29,2024-04-29,2024-04-29,10:56:00,,nan,,,41.2644508702,2.0155935735,,needs_id,2288,susi,cc-by,0,0,,,,,,
+260686,2024-04-29,2024-04-29,2024-04-29,10:56:00,,nan,,,41.3972276,2.146148,Spain,needs_id,2288,susi,cc-by,0,0,,,,,,
+260685,2024-04-29,2024-04-29,2024-04-29,10:54:00,,nan,,,41.2698594603,2.0362365246,,needs_id,2288,susi,cc-by,0,0,,,,,,
+260684,2024-04-29,2024-04-29,2024-04-29,10:52:00,,nan,,,41.2680057418,2.0184119046,,needs_id,2288,susi,cc-by,0,0,,,,,,
 260682,2024-04-29,2024-04-29,2024-04-27,10:38:00,,nan,,,41.2716856592,2.0518630743,,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
 260680,2024-04-29,2024-04-29,2024-04-26,14:17:00,,nan,,,41.4121915,2.2267845665,"Barcelona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,,,,,,
 260679,2024-04-29,2024-04-29,2024-04-26,14:16:00,,nan,,,41.4121915,2.2267845665,"Barcelona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,,,,,,
