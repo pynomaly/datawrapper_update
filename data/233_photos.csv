@@ -1,4 +1,7 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+261095,349790,cnidaria,Velella velella,https://minka-sdg.org/attachments/local_photos/files/349790/medium.jpg,davidt,41.4036777778,2.2170333333,cc-by,"(c) David Tarrason Cerdà, some rights reserved (CC BY)",261095_349790.jpg
+261094,349788,cnidaria,Velella velella,https://minka-sdg.org/attachments/local_photos/files/349788/medium.jpg,davidt,41.4036777778,2.2170333333,cc-by,"(c) David Tarrason Cerdà, some rights reserved (CC BY)",261094_349788.jpg
+261094,349789,cnidaria,Velella velella,https://minka-sdg.org/attachments/local_photos/files/349789/medium.jpg,davidt,41.4036777778,2.2170333333,cc-by,"(c) David Tarrason Cerdà, some rights reserved (CC BY)",261094_349789.jpg
 261092,349785,insecta,Chrysopidae,https://minka-sdg.org/attachments/local_photos/files/349785/medium.jpg,anasil,41.424415,2.1893389722,cc-by,"(c) ana silanes, some rights reserved (CC BY)",261092_349785.jpg
 261091,349784,aves,Pica pica,https://minka-sdg.org/attachments/local_photos/files/349784/medium.jpg,marinatorresgi,41.2715742794,2.0466066152,C,"(c) Marina Torres Gibert, all rights reserved",261091_349784.jpg
 261090,349782,insecta,Insecta,https://minka-sdg.org/attachments/local_photos/files/349782/medium.jpg,anasil,41.424415,2.1893389722,cc-by,"(c) ana silanes, some rights reserved (CC BY)",261090_349782.jpg
@@ -2700,7 +2703,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 258505,346184,,,https://minka-sdg.org/attachments/local_photos/files/346184/medium.jpg,marinatorresgi,41.2719506701,2.0507185321,C,"(c) Marina Torres Gibert, all rights reserved",258505_346184.jpg
 258504,346183,,,https://minka-sdg.org/attachments/local_photos/files/346183/medium.jpg,marinatorresgi,41.2719476701,2.0507155321,C,"(c) Marina Torres Gibert, all rights reserved",258504_346183.jpg
 258503,346182,,,https://minka-sdg.org/attachments/local_photos/files/346182/medium.jpg,marinatorresgi,41.2719446701,2.0507125321,C,"(c) Marina Torres Gibert, all rights reserved",258503_346182.jpg
-258502,346181,,,https://minka-sdg.org/attachments/local_photos/files/346181/medium.jpg,marinatorresgi,41.2719416701,2.0507095321,C,"(c) Marina Torres Gibert, all rights reserved",258502_346181.jpg
+258502,346181,plantae,Silybum,https://minka-sdg.org/attachments/local_photos/files/346181/medium.jpg,marinatorresgi,41.2719416701,2.0507095321,C,"(c) Marina Torres Gibert, all rights reserved",258502_346181.jpg
 258501,346180,insecta,Culex,https://minka-sdg.org/attachments/local_photos/files/346180/medium.jpg,marinatorresgi,41.2719386701,2.0507065321,C,"(c) Marina Torres Gibert, all rights reserved",258501_346180.jpg
 258500,346179,,,https://minka-sdg.org/attachments/local_photos/files/346179/medium.jpg,marinatorresgi,41.2719356701,2.0507035321,C,"(c) Marina Torres Gibert, all rights reserved",258500_346179.jpg
 258499,346178,plantae,Tamarix,https://minka-sdg.org/attachments/local_photos/files/346178/medium.jpg,marinatorresgi,41.2719326701,2.0507005321,C,"(c) Marina Torres Gibert, all rights reserved",258499_346178.jpg
@@ -2719,7 +2722,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 258485,nan,,,,sergggio,41.2712892,2.0467815,,,258485_nan.jpg
 258484,346166,cnidaria,Velella velella,https://minka-sdg.org/attachments/local_photos/files/346166/medium.jpg,sergggio,41.2712862,2.0467785,cc-by,"(c) sergio pardina, some rights reserved (CC BY)",258484_346166.jpg
 258221,345855,plantae,Lantana camara,https://minka-sdg.org/attachments/local_photos/files/345855/medium.jpg,keco,41.2716395,2.0473142,cc-by,"(c) Sergio, some rights reserved (CC BY)",258221_345855.jpg
-258220,345854,,,https://minka-sdg.org/attachments/local_photos/files/345854/medium.jpg,marinatorresgi,41.2713831985,2.0474229601,C,"(c) Marina Torres Gibert, all rights reserved",258220_345854.jpg
+258220,345854,plantae,Plantago,https://minka-sdg.org/attachments/local_photos/files/345854/medium.jpg,marinatorresgi,41.2713831985,2.0474229601,C,"(c) Marina Torres Gibert, all rights reserved",258220_345854.jpg
 258219,345853,,,https://minka-sdg.org/attachments/local_photos/files/345853/medium.jpg,marinatorresgi,41.2713801985,2.0474199601,C,"(c) Marina Torres Gibert, all rights reserved",258219_345853.jpg
 258218,345852,,,https://minka-sdg.org/attachments/local_photos/files/345852/medium.jpg,marinatorresgi,41.2713771985,2.0474169601,C,"(c) Marina Torres Gibert, all rights reserved",258218_345852.jpg
 258217,345851,,,https://minka-sdg.org/attachments/local_photos/files/345851/medium.jpg,marinatorresgi,41.2713741985,2.0474139601,C,"(c) Marina Torres Gibert, all rights reserved",258217_345851.jpg

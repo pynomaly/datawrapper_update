@@ -1,4 +1,6 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+261095,2024-04-29,2024-04-29,2024-04-29,07:22:00,cnidaria,253561,species,Velella velella,41.4036777778,2.2170333333,Spain,needs_id,2344,davidt,cc-by,0,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
+261094,2024-04-29,2024-04-29,2024-04-29,07:22:00,cnidaria,253561,species,Velella velella,41.4036777778,2.2170333333,Spain,needs_id,2344,davidt,cc-by,0,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
 261092,2024-04-29,2024-04-29,2024-04-29,17:28:00,insecta,1260,family,Chrysopidae,41.424415,2.1893389722,Spain,needs_id,2340,anasil,cc-by,2,0,Animalia,Arthropoda,Insecta,Neuroptera,,
 261091,2024-04-29,2024-04-29,2024-04-27,11:43:00,aves,253889,species,Pica pica,41.2715742794,2.0466066152,,research,817,marinatorresgi,cc0,2,0,Animalia,Chordata,Aves,Passeriformes,Corvidae,Pica
 261090,2024-04-29,2024-04-29,2024-04-29,17:28:00,insecta,11,class,Insecta,41.424415,2.1893389722,Spain,casual,2340,anasil,cc-by,0,0,Animalia,Arthropoda,,,,
@@ -2223,7 +2225,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258505,2024-04-27,2024-04-27,2024-04-27,10:15:00,,nan,,,41.2719506701,2.0507185321,,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
 258504,2024-04-27,2024-04-27,2024-04-27,10:15:00,,nan,,,41.2719476701,2.0507155321,,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
 258503,2024-04-27,2024-04-27,2024-04-27,10:15:00,,nan,,,41.2719446701,2.0507125321,,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
-258502,2024-04-27,2024-04-27,2024-04-27,10:15:00,,nan,,,41.2719416701,2.0507095321,,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
+258502,2024-04-27,2024-04-29,2024-04-27,10:15:00,plantae,103685,genus,Silybum,41.2719416701,2.0507095321,,needs_id,817,marinatorresgi,cc0,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,
 258501,2024-04-27,2024-04-29,2024-04-27,10:15:00,insecta,7710,genus,Culex,41.2719386701,2.0507065321,,needs_id,817,marinatorresgi,cc0,1,0,Animalia,Arthropoda,Insecta,Diptera,Culicidae,
 258500,2024-04-27,2024-04-27,2024-04-27,10:15:00,,nan,,,41.2719356701,2.0507035321,,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
 258499,2024-04-27,2024-04-27,2024-04-27,10:15:00,plantae,44508,genus,Tamarix,41.2719326701,2.0507005321,,needs_id,817,marinatorresgi,cc0,0,0,Plantae,Magnoliophyta,Magnoliopsida,Violales,Tamaricaceae,
@@ -2242,7 +2244,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258485,2024-04-27,2024-04-27,2024-04-27,10:10:00,,nan,,,41.2712892,2.0467815,,casual,2294,sergggio,cc-by,0,0,,,,,,
 258484,2024-04-27,2024-04-29,2024-04-27,10:10:00,cnidaria,253561,species,Velella velella,41.2712862,2.0467785,,research,2294,sergggio,cc-by,3,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
 258221,2024-04-27,2024-04-29,2024-04-27,09:02:00,plantae,42982,species,Lantana camara,41.2716395,2.0473142,,research,2292,keco,cc-by,2,0,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Verbenaceae,Lantana
-258220,2024-04-27,2024-04-27,2024-04-27,08:17:00,,nan,,,41.2713831985,2.0474229601,,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
+258220,2024-04-27,2024-04-29,2024-04-27,08:17:00,plantae,38337,genus,Plantago,41.2713831985,2.0474229601,,needs_id,817,marinatorresgi,cc0,0,0,Plantae,Magnoliophyta,Magnoliopsida,Plantaginales,Plantaginaceae,
 258219,2024-04-27,2024-04-27,2024-04-27,08:17:00,,nan,,,41.2713801985,2.0474199601,,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
 258218,2024-04-27,2024-04-27,2024-04-27,08:17:00,,nan,,,41.2713771985,2.0474169601,,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
 258217,2024-04-27,2024-04-27,2024-04-27,08:17:00,,nan,,,41.2713741985,2.0474139601,,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
