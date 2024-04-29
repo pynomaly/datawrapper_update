@@ -1,6 +1,23 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+260712,2024-04-29,2024-04-29,2024-04-29,12:38:00,life,1,stateofmatter,Life,41.4260036675,2.095954165,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
+260711,2024-04-29,2024-04-29,2024-04-29,12:32:00,,nan,,,41.4238178792,2.0943995639,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
+260710,2024-04-29,2024-04-29,2024-04-27,14:53:00,plantae,244141,species,Prunus cerasifera,41.3776896071,2.1412808821,Spain,needs_id,26,carlosrodero,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Rosaceae,Prunus
+260709,2024-04-29,2024-04-29,2024-04-29,12:30:00,,nan,,,41.42346835,2.0944674871,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
+260708,2024-04-29,2024-04-29,2024-04-29,12:30:00,,nan,,,41.423402223,2.0946584523,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
+260707,2024-04-29,2024-04-29,2024-04-29,12:26:00,,nan,,,41.4225041828,2.095139817,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
+260706,2024-04-29,2024-04-29,2024-04-27,14:52:00,plantae,248455,species,Schinus molle,41.3771753742,2.1405647323,Spain,needs_id,26,carlosrodero,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Sapindales,Anacardiaceae,Schinus
+260705,2024-04-29,2024-04-29,2024-04-29,12:23:00,life,1,stateofmatter,Life,41.4215087105,2.0949301598,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
+260704,2024-04-29,2024-04-29,2024-04-29,12:22:00,life,1,stateofmatter,Life,41.4195598991,2.0972934848,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
+260703,2024-04-29,2024-04-29,2024-04-27,15:01:00,plantae,38169,genus,Salvia,41.3771836765,2.1406344697,Spain,needs_id,26,carlosrodero,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Lamiaceae,
+260702,2024-04-29,2024-04-29,2024-04-29,12:20:00,life,1,stateofmatter,Life,41.4206939491,2.0948320707,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
+260701,2024-04-29,2024-04-29,2024-04-29,12:18:00,life,1,stateofmatter,Life,41.4207632005,2.0963939116,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
+260700,2024-04-29,2024-04-29,2024-04-29,12:15:00,life,1,stateofmatter,Life,41.4193085487,2.0973557334,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
+260699,2024-04-29,2024-04-29,2024-04-29,12:14:00,life,1,stateofmatter,Life,41.4205242822,2.0963120732,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
+260698,2024-04-29,2024-04-29,2024-04-27,14:37:00,plantae,83600,genus,Bougainvillea,41.3771220387,2.1405244991,Spain,needs_id,26,carlosrodero,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Nyctaginaceae,
+260697,2024-04-29,2024-04-29,2024-04-29,12:13:00,life,1,stateofmatter,Life,41.4200480595,2.0965583609,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
+260696,2024-04-29,2024-04-29,2024-04-29,12:11:00,life,1,stateofmatter,Life,41.4198120445,2.0979295476,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
 260695,2024-04-29,2024-04-29,2024-04-29,12:10:00,life,1,stateofmatter,Life,41.4197212326,2.0974924378,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
-260694,2024-04-29,2024-04-29,2024-04-27,14:37:00,,nan,,,41.3771668204,2.1404738724,Spain,needs_id,26,carlosrodero,cc-by-nc,0,0,,,,,,
+260694,2024-04-29,2024-04-29,2024-04-27,14:37:00,plantae,253900,species,Platanus hispanica,41.3771668204,2.1404738724,Spain,needs_id,26,carlosrodero,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Hamamelidales,Platanaceae,Platanus
 260693,2024-04-29,2024-04-29,2024-04-29,12:09:00,life,1,stateofmatter,Life,41.4180385995,2.0966721982,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
 260692,2024-04-29,2024-04-29,2024-04-29,12:07:00,life,1,stateofmatter,Life,41.4199519841,2.0974913681,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
 260691,2024-04-29,2024-04-29,2024-04-27,14:32:00,aves,244592,species,Anas platyrhynchos,41.3768993875,2.1395236999,Spain,needs_id,26,carlosrodero,cc-by-nc,0,0,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas
@@ -350,7 +367,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 260227,2024-04-28,2024-04-28,2024-04-26,08:31:00,actinopterygii,12553,species,Diplodus sargus,41.4094712535,2.2277393307,"Barcelona, forum",research,55,yespi,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
 260226,2024-04-28,2024-04-28,2024-04-26,08:31:00,actinopterygii,34798,species,Diplodus vulgaris,41.4094712535,2.2277393307,"Barcelona, forum",research,55,yespi,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
 260225,2024-04-28,2024-04-28,2024-04-26,08:31:00,mollusca,34875,species,Hexaplex trunculus,41.4094712535,2.2277393307,"Barcelona, forum",research,55,yespi,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Neogastropoda,Muricidae,Hexaplex
-260224,2024-04-28,2024-04-28,2024-04-26,08:31:00,chromista,2847,family,Dictyotaceae,41.4094712535,2.2277393307,"Barcelona, forum",needs_id,55,yespi,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,,
+260224,2024-04-28,2024-04-29,2024-04-26,08:31:00,chromista,2847,family,Dictyotaceae,41.4094712535,2.2277393307,"Barcelona, forum",needs_id,55,yespi,cc-by-nc,1,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,,
 260223,2024-04-28,2024-04-28,2024-04-26,08:31:00,plantae,244641,species,Lithophyllum incrustans,41.4094712535,2.2277393307,"Barcelona, forum",research,55,yespi,cc-by-nc,1,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,Lithophyllum
 260222,2024-04-28,2024-04-28,2024-04-26,08:31:00,chromista,2847,family,Dictyotaceae,41.4094712535,2.2277393307,"Barcelona, forum",needs_id,55,yespi,cc-by-nc,1,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,,
 260221,2024-04-28,2024-04-29,2024-04-26,08:31:00,actinopterygii,12553,species,Diplodus sargus,41.4094712535,2.2277393307,"Barcelona, forum",research,55,yespi,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
@@ -371,7 +388,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 260206,2024-04-28,2024-04-28,2024-04-26,08:31:00,,nan,,,41.4094712535,2.2277393307,"Barcelona, forum",needs_id,55,yespi,cc-by-nc,0,0,,,,,,
 260205,2024-04-28,2024-04-28,2024-04-26,08:31:00,,nan,,,41.4094712535,2.2277393307,"Barcelona, forum",needs_id,55,yespi,cc-by-nc,0,0,,,,,,
 260204,2024-04-28,2024-04-28,2024-04-26,08:31:00,,nan,,,41.4094712535,2.2277393307,"Barcelona, forum",needs_id,55,yespi,cc-by-nc,0,0,,,,,,
-260203,2024-04-28,2024-04-29,2024-04-26,08:31:00,actinopterygii,12553,species,Diplodus sargus,41.4094712535,2.2277393307,"Barcelona, forum",needs_id,55,yespi,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+260203,2024-04-28,2024-04-29,2024-04-26,08:31:00,actinopterygii,12553,species,Diplodus sargus,41.4094712535,2.2277393307,"Barcelona, forum",research,55,yespi,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
 260202,2024-04-28,2024-04-28,2024-04-26,08:31:00,,nan,,,41.4094712535,2.2277393307,"Barcelona, forum",needs_id,55,yespi,cc-by-nc,0,0,,,,,,
 260201,2024-04-28,2024-04-28,2024-04-26,08:31:00,actinopterygii,34835,species,Coris julis,41.4094712535,2.2277393307,"Barcelona, forum",research,55,yespi,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
 260200,2024-04-28,2024-04-29,2024-04-26,08:31:00,actinopterygii,35216,species,Symphodus tinca,41.4094712535,2.2277393307,"Barcelona, forum",research,55,yespi,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
@@ -426,7 +443,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 260151,2024-04-28,2024-04-28,2024-04-26,08:31:00,plantae,246914,species,Asparagopsis taxiformis,41.4094712535,2.2277393307,"Barcelona, forum",needs_id,55,yespi,cc-by-nc,0,0,Plantae,Rhodophyta,Florideophyceae,Bonnemaisoniales,Bonnemaisoniaceae,Asparagopsis
 260150,2024-04-28,2024-04-28,2024-04-26,08:31:00,,nan,,,41.4094712535,2.2277393307,"Barcelona, forum",needs_id,55,yespi,cc-by-nc,0,0,,,,,,
 260149,2024-04-28,2024-04-28,2024-04-26,08:31:00,mollusca,35036,species,Cratena peregrina,41.4094712535,2.2277393307,"Barcelona, forum",research,55,yespi,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Facelinidae,Cratena
-260148,2024-04-28,2024-04-28,2024-04-26,08:31:00,mollusca,34875,species,Hexaplex trunculus,41.4094712535,2.2277393307,"Barcelona, forum",needs_id,55,yespi,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Neogastropoda,Muricidae,Hexaplex
+260148,2024-04-28,2024-04-29,2024-04-26,08:31:00,mollusca,34875,species,Hexaplex trunculus,41.4094712535,2.2277393307,"Barcelona, forum",research,55,yespi,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Neogastropoda,Muricidae,Hexaplex
 260147,2024-04-28,2024-04-28,2024-04-26,08:31:00,,nan,,,41.4094712535,2.2277393307,"Barcelona, forum",needs_id,55,yespi,cc-by-nc,0,0,,,,,,
 260146,2024-04-28,2024-04-28,2024-04-26,08:31:00,,nan,,,41.4094712535,2.2277393307,"Barcelona, forum",needs_id,55,yespi,cc-by-nc,0,0,,,,,,
 260145,2024-04-28,2024-04-28,2024-04-26,08:31:00,,nan,,,41.4094712535,2.2277393307,"Barcelona, forum",needs_id,55,yespi,cc-by-nc,0,0,,,,,,
