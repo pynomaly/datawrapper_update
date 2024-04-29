@@ -1,4 +1,5 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+260682,349046,,,https://minka-sdg.org/attachments/local_photos/files/349046/medium.jpg,marinatorresgi,41.2716856592,2.0518630743,C,"(c) Marina Torres Gibert, all rights reserved",260682_349046.jpg
 260680,349043,,,https://minka-sdg.org/attachments/local_photos/files/349043/medium.jpg,bertinhaco,41.4121915,2.2267845665,cc-by-nc,"(c) Berta Companys Oliva, some rights reserved (CC BY-NC)",260680_349043.jpg
 260679,349042,,,https://minka-sdg.org/attachments/local_photos/files/349042/medium.jpg,bertinhaco,41.4121915,2.2267845665,cc-by-nc,"(c) Berta Companys Oliva, some rights reserved (CC BY-NC)",260679_349042.jpg
 260677,349038,,,https://minka-sdg.org/attachments/local_photos/files/349038/medium.jpg,bertinhaco,41.4121915,2.2267845665,cc-by-nc,"(c) Berta Companys Oliva, some rights reserved (CC BY-NC)",260677_349038.jpg
@@ -601,7 +602,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 260036,348065,cnidaria,Velella velella,https://minka-sdg.org/attachments/local_photos/files/348065/medium.jpeg,juliavivero,41.4112701,2.227734,cc-by-nc,"(c) juliavivero, some rights reserved (CC BY-NC)",260036_348065.jpg
 260035,348063,cnidaria,Velella velella,https://minka-sdg.org/attachments/local_photos/files/348063/medium.jpeg,juliavivero,41.4112701,2.227734,cc-by-nc,"(c) juliavivero, some rights reserved (CC BY-NC)",260035_348063.jpg
 260034,348059,,,https://minka-sdg.org/attachments/local_photos/files/348059/medium.jpeg,juliavivero,41.4112701,2.227734,cc-by-nc,"(c) juliavivero, some rights reserved (CC BY-NC)",260034_348059.jpg
-260033,348109,life,Life,https://minka-sdg.org/attachments/local_photos/files/348109/medium.jpg,ngoncubells,41.4320823887,2.1652605768,cc-by-nc,"(c) Núria Cubells, some rights reserved (CC BY-NC)",260033_348109.jpg
+260033,348109,mollusca,Rumina decollata,https://minka-sdg.org/attachments/local_photos/files/348109/medium.jpg,ngoncubells,41.4320823887,2.1652605768,cc-by-nc,"(c) Núria Cubells, some rights reserved (CC BY-NC)",260033_348109.jpg
 260032,348106,plantae,Rosaceae,https://minka-sdg.org/attachments/local_photos/files/348106/medium.jpg,ngoncubells,41.4320823887,2.1652605768,cc-by-nc,"(c) Núria Cubells, some rights reserved (CC BY-NC)",260032_348106.jpg
 260031,348104,plantae,Borago officinalis,https://minka-sdg.org/attachments/local_photos/files/348104/medium.jpg,ngoncubells,41.4320823887,2.1652605768,cc-by-nc,"(c) Núria Cubells, some rights reserved (CC BY-NC)",260031_348104.jpg
 260030,348101,plantae,Ipomoea,https://minka-sdg.org/attachments/local_photos/files/348101/medium.jpg,ngoncubells,41.4320823887,2.1652605768,cc-by-nc,"(c) Núria Cubells, some rights reserved (CC BY-NC)",260030_348101.jpg

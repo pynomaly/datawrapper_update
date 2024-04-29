@@ -1,4 +1,5 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+260682,2024-04-29,2024-04-29,2024-04-27,10:38:00,,nan,,,41.2716856592,2.0518630743,,needs_id,817,marinatorresgi,cc0,0,0,,,,,,
 260680,2024-04-29,2024-04-29,2024-04-26,14:17:00,,nan,,,41.4121915,2.2267845665,"Barcelona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,,,,,,
 260679,2024-04-29,2024-04-29,2024-04-26,14:16:00,,nan,,,41.4121915,2.2267845665,"Barcelona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,,,,,,
 260677,2024-04-29,2024-04-29,2024-04-26,14:17:00,,nan,,,41.4121915,2.2267845665,"Barcelona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,,,,,,
@@ -523,7 +524,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 260036,2024-04-28,2024-04-29,2024-04-26,16:13:00,cnidaria,253561,species,Velella velella,41.4112701,2.227734,"Zona de Banys Fòrum, Barcelona, España",research,237,juliavivero,cc-by-nc,2,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
 260035,2024-04-28,2024-04-28,2024-04-26,16:12:00,cnidaria,253561,species,Velella velella,41.4112701,2.227734,"Zona de Banys Fòrum, Barcelona, España",research,237,juliavivero,cc-by-nc,1,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
 260034,2024-04-28,2024-04-28,2024-04-26,15:39:00,,nan,,,41.4112701,2.227734,"Zona de Banys Fòrum, Barcelona, España",casual,237,juliavivero,cc-by-nc,0,0,,,,,,
-260033,2024-04-28,2024-04-28,2024-04-28,13:10:00,life,1,stateofmatter,Life,41.4320823887,2.1652605768,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,2,0,,,,,,
+260033,2024-04-28,2024-04-29,2024-04-28,13:10:00,mollusca,246812,species,Rumina decollata,41.4320823887,2.1652605768,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",research,180,ngoncubells,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Stylommatophora,Subulinidae,Rumina
 260032,2024-04-28,2024-04-28,2024-04-28,13:11:00,plantae,1044,family,Rosaceae,41.4320823887,2.1652605768,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",casual,180,ngoncubells,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Rosales,,
 260031,2024-04-28,2024-04-28,2024-04-28,13:11:00,plantae,246907,species,Borago officinalis,41.4320823887,2.1652605768,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Boraginaceae,Borago
 260030,2024-04-28,2024-04-28,2024-04-28,13:11:00,plantae,38106,genus,Ipomoea,41.4320823887,2.1652605768,"El Turó de la Peira, Nou Barris, 08031 Barcelona, Espanya",casual,180,ngoncubells,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Convolvulaceae,
