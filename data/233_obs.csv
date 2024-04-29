@@ -1,4 +1,9 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+260680,2024-04-29,2024-04-29,2024-04-26,14:17:00,,nan,,,41.4121915,2.2267845665,"Barcelona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,,,,,,
+260679,2024-04-29,2024-04-29,2024-04-26,14:16:00,,nan,,,41.4121915,2.2267845665,"Barcelona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,,,,,,
+260677,2024-04-29,2024-04-29,2024-04-26,14:17:00,,nan,,,41.4121915,2.2267845665,"Barcelona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,,,,,,
+260676,2024-04-29,2024-04-29,2024-04-26,14:17:00,,nan,,,41.4121915,2.2267845665,"Barcelona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,,,,,,
+260675,2024-04-29,2024-04-29,2024-04-26,14:17:00,,nan,,,41.4121915,2.2267845665,"Barcelona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,,,,,,
 260649,2024-04-29,2024-04-29,2024-04-27,06:03:00,echinodermata,34848,species,Paracentrotus lividus,41.4094668764,2.2277573345,"El Besòs i el Maresme, Sant Martí, Barcelona, España",research,653,ura4dive,cc-by-nc,2,0,Animalia,Echinodermata,Echinoidea,Camarodonta,Parechinidae,Paracentrotus
 260648,2024-04-29,2024-04-29,2024-04-27,06:03:00,actinopterygii,35250,species,Parablennius pilicornis,41.4094668764,2.2277573345,"El Besòs i el Maresme, Sant Martí, Barcelona, España",needs_id,653,ura4dive,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
 260647,2024-04-29,2024-04-29,2024-04-27,06:03:00,actinopterygii,35250,species,Parablennius pilicornis,41.4094668764,2.2277573345,"El Besòs i el Maresme, Sant Martí, Barcelona, España",research,653,ura4dive,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius

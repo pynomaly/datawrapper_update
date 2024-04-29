@@ -1,4 +1,9 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+260680,349043,,,https://minka-sdg.org/attachments/local_photos/files/349043/medium.jpg,bertinhaco,41.4121915,2.2267845665,cc-by-nc,"(c) Berta Companys Oliva, some rights reserved (CC BY-NC)",260680_349043.jpg
+260679,349042,,,https://minka-sdg.org/attachments/local_photos/files/349042/medium.jpg,bertinhaco,41.4121915,2.2267845665,cc-by-nc,"(c) Berta Companys Oliva, some rights reserved (CC BY-NC)",260679_349042.jpg
+260677,349038,,,https://minka-sdg.org/attachments/local_photos/files/349038/medium.jpg,bertinhaco,41.4121915,2.2267845665,cc-by-nc,"(c) Berta Companys Oliva, some rights reserved (CC BY-NC)",260677_349038.jpg
+260676,349037,,,https://minka-sdg.org/attachments/local_photos/files/349037/medium.jpg,bertinhaco,41.4121915,2.2267845665,cc-by-nc,"(c) Berta Companys Oliva, some rights reserved (CC BY-NC)",260676_349037.jpg
+260675,349036,,,https://minka-sdg.org/attachments/local_photos/files/349036/medium.jpg,bertinhaco,41.4121915,2.2267845665,cc-by-nc,"(c) Berta Companys Oliva, some rights reserved (CC BY-NC)",260675_349036.jpg
 260649,348991,echinodermata,Paracentrotus lividus,https://minka-sdg.org/attachments/local_photos/files/348991/medium.jpeg,ura4dive,41.4094668764,2.2277573345,cc-by-nc,"(c) @ura4dive, some rights reserved (CC BY-NC)",260649_348991.jpg
 260648,348992,actinopterygii,Parablennius pilicornis,https://minka-sdg.org/attachments/local_photos/files/348992/medium.jpeg,ura4dive,41.4094668764,2.2277573345,cc-by-nc,"(c) @ura4dive, some rights reserved (CC BY-NC)",260648_348992.jpg
 260647,348990,actinopterygii,Parablennius pilicornis,https://minka-sdg.org/attachments/local_photos/files/348990/medium.jpeg,ura4dive,41.4094668764,2.2277573345,cc-by-nc,"(c) @ura4dive, some rights reserved (CC BY-NC)",260647_348990.jpg
@@ -3158,5 +3163,5 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 257153,344406,plantae,Silybum,https://minka-sdg.org/attachments/local_photos/files/344406/medium.jpg,patopi,41.4118200956,2.0087752022,cc-by-nc-sa,"(c) Cristina, some rights reserved (CC BY-NC-SA)",257153_344406.jpg
 257153,344407,plantae,Silybum,https://minka-sdg.org/attachments/local_photos/files/344407/medium.jpg,patopi,41.4118200956,2.0087752022,cc-by-nc-sa,"(c) Cristina, some rights reserved (CC BY-NC-SA)",257153_344407.jpg
 257152,344405,plantae,Erodium,https://minka-sdg.org/attachments/local_photos/files/344405/medium.jpg,patopi,41.4118130956,2.0087682022,cc-by-nc-sa,"(c) Cristina, some rights reserved (CC BY-NC-SA)",257152_344405.jpg
-257151,344403,plantae,Hirschfeldia incana,,patopi,41.4118060956,2.0087612022,,"(c) Cristina, some rights reserved (CC BY-NC-SA)",257151_344403.jpg
-257151,344404,plantae,Hirschfeldia incana,,patopi,41.4118060956,2.0087612022,,"(c) Cristina, some rights reserved (CC BY-NC-SA)",257151_344404.jpg
+257151,344403,plantae,Hirschfeldia incana,https://minka-sdg.org/attachments/local_photos/files/344403/medium.jpg,patopi,41.4118060956,2.0087612022,cc-by-nc-sa,"(c) Cristina, some rights reserved (CC BY-NC-SA)",257151_344403.jpg
+257151,344404,plantae,Hirschfeldia incana,https://minka-sdg.org/attachments/local_photos/files/344404/medium.jpg,patopi,41.4118060956,2.0087612022,cc-by-nc-sa,"(c) Cristina, some rights reserved (CC BY-NC-SA)",257151_344404.jpg
