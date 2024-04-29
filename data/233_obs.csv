@@ -1,5 +1,28 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
-260723,2024-04-29,2024-04-29,2024-04-29,13:31:00,life,1,stateofmatter,Life,41.4196154355,2.0967203409,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
+260746,2024-04-29,2024-04-29,2024-04-26,19:23:00,actinopterygii,34965,species,Scorpaena porcus,41.4103067642,2.2274868528,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,Scorpaena
+260745,2024-04-29,2024-04-29,2024-04-26,20:22:00,chromista,35214,species,Dictyota cyanoloma,41.4102997642,2.2274798528,Spain,needs_id,822,prema,C,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota
+260744,2024-04-29,2024-04-29,2024-04-26,20:22:00,actinopterygii,34796,species,Scorpaena notata,41.4102927642,2.2274728528,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,Scorpaena
+260743,2024-04-29,2024-04-29,2024-04-26,20:21:00,,nan,,,41.4102857642,2.2274658528,Spain,needs_id,822,prema,C,0,0,,,,,,
+260742,2024-04-29,2024-04-29,2024-04-26,20:21:00,,nan,,,41.4102787642,2.2274588528,Spain,needs_id,822,prema,C,0,0,,,,,,
+260741,2024-04-29,2024-04-29,2024-04-26,19:20:00,mollusca,34855,species,Sepia officinalis,41.4102717642,2.2274518528,Spain,needs_id,822,prema,C,1,0,Animalia,Mollusca,Cephalopoda,Sepiida,Sepiidae,Sepia
+260740,2024-04-29,2024-04-29,2024-04-26,20:19:00,actinopterygii,12553,species,Diplodus sargus,41.4102647642,2.2274448528,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+260739,2024-04-29,2024-04-29,2024-04-26,21:19:00,echinodermata,240406,species,Arbacia lixula,41.4102577642,2.2274378528,Spain,needs_id,822,prema,C,0,0,Animalia,Echinodermata,Echinoidea,Arbacioida,Arbaciidae,Arbacia
+260738,2024-04-29,2024-04-29,2024-04-26,20:18:00,crustacea,12514,genus,Palaemon,41.4102507642,2.2274308528,Spain,needs_id,822,prema,C,0,0,Animalia,Arthropoda,Malacostraca,Decapoda,Palaemonidae,
+260737,2024-04-29,2024-04-29,2024-04-26,19:18:00,,nan,,,41.4102437642,2.2274238528,Spain,needs_id,822,prema,C,0,0,,,,,,
+260736,2024-04-29,2024-04-29,2024-04-26,20:17:00,,nan,,,41.4102367642,2.2274168528,Spain,needs_id,822,prema,C,0,0,,,,,,
+260735,2024-04-29,2024-04-29,2024-04-26,19:16:00,cnidaria,34999,species,Actinia mediterranea,41.4102297642,2.2274098528,Spain,needs_id,822,prema,C,0,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Actinia
+260734,2024-04-29,2024-04-29,2024-04-26,19:15:00,actinopterygii,35213,species,Diplodus puntazzo,41.4102227642,2.2274028528,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+260733,2024-04-29,2024-04-29,2024-04-26,19:15:00,actinopterygii,35120,species,Gobius incognitus,41.4102157642,2.2273958528,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Gobius
+260732,2024-04-29,2024-04-29,2024-04-26,21:14:00,porifera,255638,species,Plakina monolopha,41.4102087642,2.2273888528,Spain,needs_id,822,prema,C,0,0,Animalia,Porifera,Homoscleromorpha,Homosclerophorida,Plakinidae,Plakina
+260731,2024-04-29,2024-04-29,2024-04-26,19:14:00,fungi,41208,genus,Thelohania,41.4102017642,2.2273818528,Spain,needs_id,822,prema,C,0,0,Fungi,Microspora,Microsporea,Microsporida,Thelohaniidae,
+260730,2024-04-29,2024-04-29,2024-04-26,20:13:00,,nan,,,41.4101947642,2.2273748528,Spain,needs_id,822,prema,C,0,0,,,,,,
+260729,2024-04-29,2024-04-29,2024-04-26,18:13:00,animalia,3232,family,Ascidiidae,41.4101877642,2.2273678528,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Ascidiacea,Enterogona,,
+260728,2024-04-29,2024-04-29,2024-04-26,19:12:00,actinopterygii,34965,species,Scorpaena porcus,41.4101807642,2.2273608528,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,Scorpaena
+260727,2024-04-29,2024-04-29,2024-04-26,19:12:00,actinopterygii,35216,species,Symphodus tinca,41.4101737642,2.2273538528,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
+260726,2024-04-29,2024-04-29,2024-04-26,19:11:00,plantae,246914,species,Asparagopsis taxiformis,41.4101667642,2.2273468528,Spain,needs_id,822,prema,C,0,0,Plantae,Rhodophyta,Florideophyceae,Bonnemaisoniales,Bonnemaisoniaceae,Asparagopsis
+260725,2024-04-29,2024-04-29,2024-04-26,19:11:00,chromista,35541,genus,Dictyota,41.4101597642,2.2273398528,Spain,needs_id,822,prema,C,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,
+260724,2024-04-29,2024-04-29,2024-04-26,20:09:00,cnidaria,253561,species,Velella velella,41.4101527642,2.2273328528,Spain,needs_id,822,prema,C,1,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
+260723,2024-04-29,2024-04-29,2024-04-29,13:31:00,plantae,46939,genus,Hedera,41.4196154355,2.0967203409,Spain,needs_id,318,amaliacardenas,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Apiales,Araliaceae,
 260722,2024-04-29,2024-04-29,2024-04-29,13:31:00,life,1,stateofmatter,Life,41.4190410977,2.097205765,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
 260721,2024-04-29,2024-04-29,2024-04-29,13:30:00,life,1,stateofmatter,Life,41.4210479285,2.0956170353,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
 260720,2024-04-29,2024-04-29,2024-04-29,13:30:00,life,1,stateofmatter,Life,41.419842168,2.0970917408,Spain,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
@@ -39,7 +62,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 260686,2024-04-29,2024-04-29,2024-04-29,10:56:00,,nan,,,41.3972276,2.146148,Spain,needs_id,2288,susi,cc-by,0,0,,,,,,
 260685,2024-04-29,2024-04-29,2024-04-29,10:54:00,,nan,,,41.2698594603,2.0362365246,,needs_id,2288,susi,cc-by,0,0,,,,,,
 260684,2024-04-29,2024-04-29,2024-04-29,10:52:00,,nan,,,41.2680057418,2.0184119046,,needs_id,2288,susi,cc-by,0,0,,,,,,
-260682,2024-04-29,2024-04-29,2024-04-27,10:38:00,mollusca,241878,species,Acanthocardia tuberculata,41.2716856592,2.0518630743,,needs_id,817,marinatorresgi,cc0,0,0,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Acanthocardia
+260682,2024-04-29,2024-04-29,2024-04-27,10:38:00,mollusca,241878,species,Acanthocardia tuberculata,41.2716856592,2.0518630743,,research,817,marinatorresgi,cc0,2,0,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Acanthocardia
 260680,2024-04-29,2024-04-29,2024-04-26,14:17:00,,nan,,,41.4121915,2.2267845665,"Barcelona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,,,,,,
 260679,2024-04-29,2024-04-29,2024-04-26,14:16:00,,nan,,,41.4121915,2.2267845665,"Barcelona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,,,,,,
 260677,2024-04-29,2024-04-29,2024-04-26,14:17:00,,nan,,,41.4121915,2.2267845665,"Barcelona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,,,,,,
