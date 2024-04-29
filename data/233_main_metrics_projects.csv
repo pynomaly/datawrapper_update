@@ -1,9 +1,9 @@
 project,city,observations,species,participants
 79,Begues,0,0,0
-80,Viladecans,134,54,9
+80,Viladecans,141,59,9
 81,Sant Climent de Llobregat,0,0,0
 83,Cervelló,0,0,0
-85,Sant Boi de Llobregat,0,0,0
+85,Sant Boi de Llobregat,22,10,1
 86,Santa Coloma de Cervelló,0,0,0
 87,Sant Vicenç dels Horts,0,0,0
 88,la Palma de Cervelló,27,6,1
@@ -25,7 +25,7 @@ project,city,observations,species,participants
 107,Badalona,0,0,0
 108,Tiana,0,0,0
 109,Montgat,0,0,0
-224,Barcelona,1050,279,29
+224,Barcelona,1051,279,30
 225,el Prat de Llobregat,140,62,3
 226,Pallejà,50,37,1
 227,Torrelles de Llobregat,151,59,2
