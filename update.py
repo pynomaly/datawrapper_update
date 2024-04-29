@@ -1,4 +1,5 @@
 import datetime
+import math
 
 import pandas as pd
 import requests
@@ -222,15 +223,14 @@ def get_participation_df(main_project):
 
 
 def get_marine_df(df_obs) -> pd.DataFrame:
-    df_obs_filtered = df_obs[df_obs["taxon_rank"].isin(["species"])]
     df_marines = (
-        df_obs_filtered.groupby("marine")
+        df_obs.groupby("marine")
         .size()
         .reset_index()
         .rename(columns={"marine": "entorn", 0: "observacions"})
     )
 
-    df_spe = df_obs_filtered.groupby("marine")["taxon_name"].nunique().reset_index()
+    df_spe = df_obs.groupby("marine")["taxon_name"].nunique().reset_index()
     especies_terrestres = df_spe.loc[df_spe.marine == False, "taxon_name"].item()
     especies_marinas = df_spe.loc[df_spe.marine == True, "taxon_name"].item()
 
@@ -272,6 +272,80 @@ def get_marine(taxon_name):
     return result
 
 
+def get_species_df(proj_id):
+    total_sp = []
+
+    species = f"{API_PATH}/observations/species_counts?"
+    url1 = f"{species}&project_id={proj_id}"
+
+    total_num = requests.get(url1).json()["total_results"]
+
+    pages = math.ceil(total_num / 500)
+
+    for i in range(pages):
+        especie = {}
+        page = i + 1
+        url = f"{species}&project_id={proj_id}&page={page}"
+        results = requests.get(url).json()["results"]
+        for result in results:
+            especie = {}
+            especie["taxon_id"] = result["taxon"]["id"]
+            especie["taxon_name"] = result["taxon"]["name"]
+            especie["rank"] = result["taxon"]["rank"]
+            especie["ancestry"] = result["taxon"]["ancestry"]
+            total_sp.append(especie)
+
+    df_species = pd.DataFrame(total_sp)
+
+    # Añadimos columna de marine
+    taxon_url = "https://raw.githubusercontent.com/eosc-cos4cloud/mecoda-orange/master/mecoda_orange/data/taxon_tree_with_marines.csv"
+    taxon_tree = pd.read_csv(taxon_url)
+
+    df_species = pd.merge(
+        df_species,
+        taxon_tree[["taxon_id", "marine"]],
+        on="taxon_id",
+        how="left",
+    )
+    return df_species
+
+
+def get_marine_species(proj_id):
+    total_sp = []
+
+    species = f"{API_PATH}/observations/species_counts?"
+    url1 = f"{species}&project_id={proj_id}"
+
+    total_num = requests.get(url1).json()["total_results"]
+
+    pages = math.ceil(total_num / 500)
+
+    for i in range(pages):
+        especie = {}
+        page = i + 1
+        url = f"{species}&project_id={proj_id}&page={page}"
+        results = requests.get(url).json()["results"]
+        for result in results:
+            especie = {}
+            especie["taxon_id"] = result["taxon"]["id"]
+            especie["taxon_name"] = result["taxon"]["name"]
+            especie["rank"] = result["taxon"]["rank"]
+            especie["ancestry"] = result["taxon"]["ancestry"]
+            total_sp.append(especie)
+
+    df_species = pd.DataFrame(total_sp)
+    taxon_url = "https://raw.githubusercontent.com/eosc-cos4cloud/mecoda-orange/master/mecoda_orange/data/taxon_tree_with_marines.csv"
+    taxon_tree = pd.read_csv(taxon_url)
+
+    df_species = pd.merge(
+        df_species,
+        taxon_tree[["taxon_id", "marine"]],
+        on="taxon_id",
+        how="left",
+    )
+    return df_species
+
+
 if __name__ == "__main__":
 
     # BioDiverCiutat
@@ -290,51 +364,39 @@ if __name__ == "__main__":
     obs = get_obs(id_project=main_project_bdc)
     if len(obs) > 0:
         df_obs, df_photos = get_dfs(obs)
-        # Completar campos de taxonomías
-        try:
-            cols = ["class", "order", "family", "genus"]
-            for col in cols:
-                df_obs.loc[df_obs[col].isnull(), col] = df_obs[df_obs[col].isnull()][
-                    "taxon_id"
-                ].apply(lambda x: get_missing_taxon(x, col))
-        except:
-            pass
 
         df_obs.to_csv(f"data/{main_project_bdc}_obs.csv", index=False)
         df_photos.to_csv(f"data/{main_project_bdc}_photos.csv", index=False)
 
-        df_filtered = df_obs[df_obs["taxon_rank"].isin(["species"])].copy()
+        print("Sacando columna marine")
 
+        df_obs["taxon_id"] = df_obs["taxon_id"].replace("nan", None)
+        df_filtered = df_obs[df_obs["taxon_id"].notnull()].copy()
         df_filtered["taxon_id"] = df_filtered["taxon_id"].astype(int)
 
-        # Sacar columna marino
-        taxon_url = "https://raw.githubusercontent.com/eosc-cos4cloud/mecoda-orange/master/mecoda_orange/data/taxon_tree_with_marines.csv"
-        taxon_tree = pd.read_csv(taxon_url)
+        # sacamos listado de especies incluidas en el proyecto con col marina
+        df_species = get_marine_species(main_project_bdc)
 
         df_filtered = pd.merge(
             df_filtered,
-            taxon_tree[["taxon_id", "marine"]],
+            df_species[["taxon_id", "marine"]],
             on="taxon_id",
             how="left",
         )
-        if len(df_filtered[df_filtered.marine.isnull()]) > 0:
-            df_filtered.loc[df_filtered.marine.isnull(), "marine"] = df_filtered.loc[
-                df_filtered.marine.isnull(), "taxon_name"
-            ].apply(get_marine)
 
         # Dataframe de participantes
+        print("Dataframe de participantes")
         df_users = get_participation_df(main_project_bdc)
         df_users.to_csv(f"data/{main_project_bdc}_users.csv", index=False)
 
         # Dataframe de marino/terrestre
-        try:
-            df_marine = get_marine_df(df_filtered)
-            df_marine.to_csv(f"data/{main_project_bdc}_marines.csv", index=False)
-        except:
-            df_obs["marine"] = None
-            df_obs.to_csv(f"data/{main_project_bdc}_marines.csv", index=False)
+        print("Cuenta de marinos/terrestres")
+
+        df_marine = get_marine_df(df_filtered)
+        df_marine.to_csv(f"data/{main_project_bdc}_marines.csv", index=False)
 
     # Dataframe métricas totales
+    print("Dataframe métricas tiempo real")
     total_species, total_participants, total_obs = get_main_metrics(main_project_bdc)
     df = pd.DataFrame(
         {
@@ -343,6 +405,7 @@ if __name__ == "__main__":
         }
     )
     df.to_csv(f"data/{main_project_bdc}_metrics_tiempo_real.csv", index=False)
+
 
 """    # BioMARató 2024
 
