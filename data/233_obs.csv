@@ -2099,7 +2099,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258739,2024-04-27,2024-04-27,2024-04-27,09:22:00,plantae,44508,genus,Tamarix,41.2718504206,2.0499936623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Violales,Tamaricaceae,
 258738,2024-04-27,2024-04-29,2024-04-27,09:22:00,plantae,42982,species,Lantana camara,41.2718474206,2.0499906623,,research,54,loreto_rodriguez,cc-by-nc,3,0,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Verbenaceae,Lantana
 258737,2024-04-27,2024-04-30,2024-04-27,09:22:00,plantae,262854,species,Plantago lagopus,41.2718444206,2.0499876623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Plantaginales,Plantaginaceae,Plantago
-258736,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718414206,2.0499846623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258736,2024-04-27,2024-04-30,2024-04-27,09:22:00,mollusca,261928,suborder,Helicina,41.2718414206,2.0499846623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Stylommatophora,,
 258735,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718384206,2.0499816623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258734,2024-04-27,2024-04-30,2024-04-27,09:22:00,plantae,253501,species,Urospermum dalechampii,41.2718354206,2.0499786623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Urospermum
 258733,2024-04-27,2024-04-28,2024-04-27,09:22:00,plantae,242032,species,Pinus halepensis,41.2718324206,2.0499756623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Pinophyta,Pinopsida,Pinales,Pinaceae,Pinus
@@ -2110,8 +2110,8 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258728,2024-04-27,2024-04-30,2024-04-27,09:22:00,insecta,11,class,Insecta,41.2718174206,2.0499606623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Arthropoda,,,,
 258727,2024-04-27,2024-04-28,2024-04-27,09:22:00,plantae,244728,species,Lobularia maritima,41.2718144206,2.0499576623,,research,54,loreto_rodriguez,cc-by-nc,2,0,Plantae,Magnoliophyta,Magnoliopsida,Capparales,Brassicaceae,
 258726,2024-04-27,2024-04-29,2024-04-27,09:22:00,plantae,247078,species,Eryngium maritimum,41.2718114206,2.0499546623,,research,54,loreto_rodriguez,cc-by-nc,2,0,Plantae,Magnoliophyta,Magnoliopsida,Apiales,Apiaceae,Eryngium
-258725,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718084206,2.0499516623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
-258724,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718054206,2.0499486623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258725,2024-04-27,2024-04-30,2024-04-27,09:22:00,mollusca,251080,species,Theba pisana,41.2718084206,2.0499516623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Stylommatophora,Helicidae,Theba
+258724,2024-04-27,2024-04-30,2024-04-27,09:22:00,mollusca,251080,species,Theba pisana,41.2718054206,2.0499486623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Stylommatophora,Helicidae,Theba
 258723,2024-04-27,2024-04-30,2024-04-27,09:22:00,insecta,1052,family,Braconidae,41.2718024206,2.0499456623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Hymenoptera,,
 258722,2024-04-27,2024-04-28,2024-04-27,10:13:00,plantae,90169,species,Calystegia soldanella,41.2717924206,2.0499356623,,research,54,loreto_rodriguez,cc-by-nc,2,0,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Convolvulaceae,Calystegia
 258721,2024-04-27,2024-04-30,2024-04-27,10:13:00,mollusca,245950,species,Eobania vermiculata,41.2717894206,2.0499326623,,research,54,loreto_rodriguez,cc-by-nc,2,0,Animalia,Mollusca,Gastropoda,Stylommatophora,Helicidae,Eobania
@@ -2166,7 +2166,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258670,2024-04-27,2024-04-28,2024-04-27,15:35:00,insecta,252114,species,Clonopsis gallica,41.2915934258,2.1090181088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Phasmida,Bacillidae,Clonopsis
 258669,2024-04-27,2024-04-28,2024-04-27,15:35:00,insecta,253719,species,Xanthogaleruca luteola,41.2915904258,2.1090151088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Xanthogaleruca
 258668,2024-04-27,2024-04-27,2024-04-27,15:35:00,insecta,40510,genus,Lachnaia,41.2915874258,2.1090121088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Coleoptera,Chrysomelidae,
-258667,2024-04-27,2024-04-27,2024-04-27,15:35:00,,nan,,,41.2915844258,2.1090091088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258667,2024-04-27,2024-04-30,2024-04-27,15:35:00,insecta,325,order,Lepidoptera,41.2915844258,2.1090091088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,,,
 258666,2024-04-27,2024-04-28,2024-04-27,15:35:00,crustacea,243588,species,Lepas pectinata,41.2915814258,2.1090061088,,research,54,loreto_rodriguez,cc-by-nc,2,0,Animalia,Arthropoda,,,Lepadidae,Lepas
 258665,2024-04-27,2024-04-28,2024-04-27,15:35:00,mollusca,251218,species,Spisula subtruncata,41.2915784258,2.1090031088,,research,54,loreto_rodriguez,cc-by-nc,2,0,Animalia,Mollusca,Bivalvia,Venerida,Mactridae,Spisula
 258664,2024-04-27,2024-04-27,2024-04-27,15:35:00,mollusca,34855,species,Sepia officinalis,41.2915754258,2.1090001088,,research,54,loreto_rodriguez,cc-by-nc,2,0,Animalia,Mollusca,Cephalopoda,Sepiida,Sepiidae,Sepia
@@ -2325,7 +2325,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258485,2024-04-27,2024-04-27,2024-04-27,10:10:00,,nan,,,41.2712892,2.0467815,,casual,2294,sergggio,cc-by,0,0,,,,,,
 258484,2024-04-27,2024-04-29,2024-04-27,10:10:00,cnidaria,253561,species,Velella velella,41.2712862,2.0467785,,research,2294,sergggio,cc-by,3,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
 258221,2024-04-27,2024-04-29,2024-04-27,09:02:00,plantae,42982,species,Lantana camara,41.2716395,2.0473142,,research,2292,keco,cc-by,2,0,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Verbenaceae,Lantana
-258220,2024-04-27,2024-04-29,2024-04-27,08:17:00,plantae,38337,genus,Plantago,41.2713831985,2.0474229601,,needs_id,817,marinatorresgi,cc0,0,0,Plantae,Magnoliophyta,Magnoliopsida,Plantaginales,Plantaginaceae,
+258220,2024-04-27,2024-04-30,2024-04-27,08:17:00,plantae,262854,species,Plantago lagopus,41.2713831985,2.0474229601,,needs_id,817,marinatorresgi,cc0,1,0,Plantae,Magnoliophyta,Magnoliopsida,Plantaginales,Plantaginaceae,Plantago
 258218,2024-04-27,2024-04-27,2024-04-27,08:17:00,,nan,,,41.2713771985,2.0474169601,,casual,817,marinatorresgi,cc0,0,0,,,,,,
 258217,2024-04-27,2024-04-27,2024-04-27,08:17:00,,nan,,,41.2713741985,2.0474139601,,casual,817,marinatorresgi,cc0,0,0,,,,,,
 258216,2024-04-27,2024-04-27,2024-04-26,17:20:00,aves,245911,species,Ardea cinerea,41.410021253,2.2272889316,Spain,research,9,andrea,cc-by-nc,1,0,Animalia,Chordata,Aves,Ciconiiformes,Ardeidae,Ardea
@@ -2648,8 +2648,8 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 257870,2024-04-26,2024-04-27,2024-04-26,08:20:00,actinopterygii,34798,species,Diplodus vulgaris,41.4088585124,2.226973772,Spain,research,1030,mingokt,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
 257869,2024-04-26,2024-04-27,2024-04-26,08:19:00,actinopterygii,12553,species,Diplodus sargus,41.4088585124,2.226973772,Spain,research,1030,mingokt,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
 257868,2024-04-26,2024-04-27,2024-04-26,08:19:00,plantae,246914,species,Asparagopsis taxiformis,41.4088585124,2.226973772,Spain,research,1030,mingokt,cc-by-nc,2,0,Plantae,Rhodophyta,Florideophyceae,Bonnemaisoniales,Bonnemaisoniaceae,Asparagopsis
-257867,2024-04-26,2024-04-26,2024-04-26,15:29:00,life,1,stateofmatter,Life,41.4398131587,2.0124714822,Spain,needs_id,2242,anyeve,cc-by,0,0,,,,,,
-257866,2024-04-26,2024-04-26,2024-04-26,15:49:00,life,1,stateofmatter,Life,41.4369500793,2.01596573,Spain,needs_id,2242,anyeve,cc-by,0,0,,,,,,
+257867,2024-04-26,2024-04-30,2024-04-26,15:29:00,insecta,242674,species,Plumbago auriculata,41.4398131587,2.0124714822,Spain,casual,2242,anyeve,cc-by,1,0,Animalia,Arthropoda,Insecta,Lepidoptera,Hesperiidae,Plumbago
+257866,2024-04-26,2024-04-30,2024-04-26,15:49:00,plantae,1064,family,Apocynaceae,41.4369500793,2.01596573,Spain,casual,2242,anyeve,cc-by,1,0,Plantae,Magnoliophyta,Magnoliopsida,Gentianales,,
 257863,2024-04-26,2024-04-28,2024-04-26,09:01:00,cnidaria,34999,species,Actinia mediterranea,41.4102807241,2.22719726,Spain,research,540,lauracoro,cc-by-nc,2,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Actinia
 257862,2024-04-26,2024-04-26,2024-04-26,17:49:00,plantae,39929,genus,Pittosporum,41.3833370477,2.1245078763,Spain,casual,2258,lydiat,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Pittosporaceae,
 257861,2024-04-26,2024-04-26,2024-04-26,17:47:00,life,1,stateofmatter,Life,41.3828124166,2.1244872885,Spain,casual,2258,lydiat,cc-by,0,0,,,,,,
