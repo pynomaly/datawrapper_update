@@ -1,5 +1,5 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
-261230,2024-04-30,2024-04-30,2024-04-26,19:31:00,mollusca,254607,species,Dendrodoris temarana,41.4096958943,2.227576503,"Barcelona, España",needs_id,502,jastals,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Dendrodorididae,Dendrodoris
+261230,2024-04-30,2024-04-30,2024-04-26,19:31:00,mollusca,254607,species,Dendrodoris temarana,41.4096958943,2.227576503,"Barcelona, España",research,502,jastals,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Dendrodorididae,Dendrodoris
 261229,2024-04-30,2024-04-30,2024-04-29,05:57:00,aves,247515,species,Bubulcus ibis,41.3417297581,2.0796562117,Camí del Sorral,research,15,mediambient_ajelprat,cc-by-nc,1,0,Animalia,Chordata,Aves,Ciconiiformes,Ardeidae,Bubulcus
 261228,2024-04-30,2024-04-30,2024-04-29,06:03:00,aves,247515,species,Bubulcus ibis,41.3406276585,2.0778018029,Camí de la Ribera,research,15,mediambient_ajelprat,cc-by-nc,1,0,Animalia,Chordata,Aves,Ciconiiformes,Ardeidae,Bubulcus
 261227,2024-04-30,2024-04-30,2024-04-29,05:46:00,aves,247994,species,Saxicola rubicola,41.3408852357,2.084523478,Camí del Sorral,research,15,mediambient_ajelprat,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Saxicola
@@ -1401,8 +1401,8 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 259503,2024-04-28,2024-04-28,2024-04-28,07:46:00,plantae,8891,genus,Kalanchoe,41.40826265,2.1828373,Spain,casual,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Crassulaceae,
 259502,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,252264,species,Columba livia,41.40826265,2.1828373,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
 259501,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,252264,species,Columba livia,41.40826265,2.1828373,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
-259499,2024-04-28,2024-04-28,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
-259498,2024-04-28,2024-04-28,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
+259499,2024-04-28,2024-04-30,2024-04-28,07:46:00,plantae,246451,species,Melia azedarach,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Sapindales,Meliaceae,Melia
+259498,2024-04-28,2024-04-30,2024-04-28,07:46:00,plantae,41172,genus,Melia,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Sapindales,Meliaceae,
 259497,2024-04-28,2024-04-29,2024-04-28,07:46:00,plantae,262699,species,Chenopodiastrum murale,41.40826265,2.1828373,Spain,research,11,jaume-piera,cc-by-nc,2,0,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,Chenopodiastrum
 259496,2024-04-28,2024-04-29,2024-04-28,07:46:00,plantae,262699,species,Chenopodiastrum murale,41.40826265,2.1828373,Spain,research,11,jaume-piera,cc-by-nc,2,0,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,Chenopodiastrum
 259495,2024-04-28,2024-04-28,2024-04-28,07:46:00,plantae,39958,genus,Sonchus,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,
