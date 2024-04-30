@@ -101,9 +101,9 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 260939,2024-04-29,2024-04-30,2024-04-29,06:28:00,insecta,324,order,Coleoptera,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,,,
 260938,2024-04-29,2024-04-30,2024-04-29,06:14:00,aves,242811,species,Aegithalos caudatus,41.2790703658,2.0653653084,"Barcelona, España",research,4,xasalva,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Aegithalidae,Aegithalos
 260937,2024-04-29,2024-04-29,2024-04-29,06:12:00,,nan,,,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
-260936,2024-04-29,2024-04-29,2024-04-29,06:12:00,,nan,,,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260936,2024-04-29,2024-04-30,2024-04-29,06:12:00,mollusca,191457,species,Pseudotachea splendida,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Stylommatophora,Helicidae,Pseudotachea
 260935,2024-04-29,2024-04-29,2024-04-29,06:12:00,,nan,,,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
-260934,2024-04-29,2024-04-29,2024-04-29,06:11:00,,nan,,,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260934,2024-04-29,2024-04-30,2024-04-29,06:11:00,mollusca,191457,species,Pseudotachea splendida,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Stylommatophora,Helicidae,Pseudotachea
 260933,2024-04-29,2024-04-29,2024-04-29,06:11:00,plantae,248995,species,Foeniculum vulgare,41.2790703658,2.0653653084,"Barcelona, España",research,4,xasalva,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Apiales,Apiaceae,Foeniculum
 260932,2024-04-29,2024-04-29,2024-04-29,06:08:00,plantae,39525,genus,Asparagus,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Asparagales,Asparagaceae,
 260931,2024-04-29,2024-04-29,2024-04-29,06:08:00,plantae,251660,species,Cistus salviifolius,41.2790703658,2.0653653084,"Barcelona, España",research,4,xasalva,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Violales,Cistaceae,Cistus
@@ -120,7 +120,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 260920,2024-04-29,2024-04-29,2024-04-29,06:02:00,plantae,43126,genus,Cytisus,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,
 260919,2024-04-29,2024-04-29,2024-04-29,06:01:00,plantae,246522,species,Bituminaria bituminosa,41.2790703658,2.0653653084,"Barcelona, España",research,4,xasalva,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Bituminaria
 260918,2024-04-29,2024-04-29,2024-04-29,06:01:00,plantae,262746,species,Genista aetnensis,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Genista
-260917,2024-04-29,2024-04-29,2024-04-29,06:01:00,,nan,,,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260917,2024-04-29,2024-04-30,2024-04-29,06:01:00,mollusca,191457,species,Pseudotachea splendida,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Stylommatophora,Helicidae,Pseudotachea
 260914,2024-04-29,2024-04-29,2024-04-29,15:07:00,plantae,1041,family,Poaceae,41.410330387,2.1795933956,"El Camp de l'Arpa del Clot, Sant Martí, Barcelona, Espanya",needs_id,2339,maria-josep,cc-by,1,0,Plantae,Magnoliophyta,Liliopsida,Poales,,
 260913,2024-04-29,2024-04-29,2024-04-29,11:51:00,aves,249670,species,Serinus serinus,41.3012535957,2.1059121942,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Serinus
 260912,2024-04-29,2024-04-29,2024-04-29,11:49:00,plantae,25747,species,Dittrichia viscosa,41.3012535957,2.1059121942,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Dittrichia
@@ -144,7 +144,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 260894,2024-04-29,2024-04-29,2024-04-27,15:05:00,aves,250773,species,Chloris chloris,41.2899564897,2.1081191607,"Barcelona, España",research,4,xasalva,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Chloris
 260893,2024-04-29,2024-04-29,2024-04-27,15:03:00,insecta,325,order,Lepidoptera,41.2899564897,2.1081191607,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,,,
 260892,2024-04-29,2024-04-29,2024-04-27,15:01:00,aves,250773,species,Chloris chloris,41.2899564897,2.1081191607,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Chloris
-260891,2024-04-29,2024-04-29,2024-04-27,14:59:00,,nan,,,41.2899564897,2.1081191607,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260891,2024-04-29,2024-04-30,2024-04-27,14:59:00,mollusca,191457,species,Pseudotachea splendida,41.2899564897,2.1081191607,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Stylommatophora,Helicidae,Pseudotachea
 260890,2024-04-29,2024-04-29,2024-04-27,14:57:00,fungi,13,kingdom,Fungi,41.2899564897,2.1081191607,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
 260889,2024-04-29,2024-04-29,2024-04-27,14:56:00,plantae,1143,family,Convolvulaceae,41.2899564897,2.1081191607,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Solanales,,
 260888,2024-04-29,2024-04-29,2024-04-27,14:53:00,plantae,251480,species,Cirsium monspessulanum,41.2899564897,2.1081191607,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Cirsium
@@ -221,8 +221,8 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 260817,2024-04-29,2024-04-29,2024-04-27,09:37:00,plantae,246164,species,Medicago littoralis,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Medicago
 260816,2024-04-29,2024-04-29,2024-04-27,09:29:00,insecta,1052,family,Braconidae,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Hymenoptera,,
 260815,2024-04-29,2024-04-29,2024-04-27,09:22:00,insecta,1252,family,Sarcophagidae,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Diptera,,
-260814,2024-04-29,2024-04-29,2024-04-27,09:19:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
-260813,2024-04-29,2024-04-29,2024-04-27,09:19:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260814,2024-04-29,2024-04-30,2024-04-27,09:19:00,mollusca,251080,species,Theba pisana,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Stylommatophora,Helicidae,Theba
+260813,2024-04-29,2024-04-30,2024-04-27,09:19:00,mollusca,252178,species,Cochlicella barbara,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Stylommatophora,Hygromiidae,Cochlicella
 260812,2024-04-29,2024-04-29,2024-04-27,09:19:00,plantae,90169,species,Calystegia soldanella,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Convolvulaceae,Calystegia
 260811,2024-04-29,2024-04-29,2024-04-27,09:14:00,plantae,221647,species,Paronychia argentea,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,Paronychia
 260810,2024-04-29,2024-04-29,2024-04-27,09:14:00,plantae,1041,family,Poaceae,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Poales,,
@@ -347,9 +347,9 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 260690,2024-04-29,2024-04-30,2024-04-29,12:02:00,plantae,45455,genus,Sambucus,41.4200115163,2.0972359439,Spain,needs_id,318,amaliacardenas,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Dipsacales,Caprifoliaceae,
 260689,2024-04-29,2024-04-30,2024-04-29,12:01:00,plantae,38964,genus,Carduus,41.4200084984,2.0973405704,Spain,needs_id,318,amaliacardenas,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,
 260688,2024-04-29,2024-04-30,2024-04-28,19:31:00,plantae,253309,species,Phytolacca dioica,41.3940138843,2.1821480244,Spain,casual,26,carlosrodero,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Phytolaccaceae,Phytolacca
-260687,2024-04-29,2024-04-30,2024-04-29,10:56:00,arachnida,253765,species,Xysticus cristatus,41.2644508702,2.0155935735,,needs_id,2288,susi,cc-by,0,0,Animalia,Arthropoda,Arachnida,Araneae,Thomisidae,Xysticus
+260687,2024-04-29,2024-04-30,2024-04-29,10:56:00,arachnida,253765,species,Xysticus cristatus,41.2644508702,2.0155935735,,research,2288,susi,cc-by,2,0,Animalia,Arthropoda,Arachnida,Araneae,Thomisidae,Xysticus
 260686,2024-04-29,2024-04-30,2024-04-29,10:56:00,insecta,8048,genus,Polistes,41.3972276,2.146148,Spain,needs_id,2288,susi,cc-by,0,0,Animalia,Arthropoda,Insecta,Hymenoptera,Eumenidae,
-260685,2024-04-29,2024-04-30,2024-04-29,10:54:00,reptilia,244235,species,Psammodromus algirus,41.2698594603,2.0362365246,,needs_id,2288,susi,cc-by,0,0,Animalia,Chordata,Reptilia,Squamata,Lacertidae,Psammodromus
+260685,2024-04-29,2024-04-30,2024-04-29,10:54:00,reptilia,244235,species,Psammodromus algirus,41.2698594603,2.0362365246,,research,2288,susi,cc-by,2,0,Animalia,Chordata,Reptilia,Squamata,Lacertidae,Psammodromus
 260684,2024-04-29,2024-04-30,2024-04-29,10:52:00,insecta,10305,genus,Pimelia,41.2680057418,2.0184119046,,needs_id,2288,susi,cc-by,0,0,Animalia,Arthropoda,Insecta,Coleoptera,Tenebrionidae,
 260682,2024-04-29,2024-04-29,2024-04-27,10:38:00,mollusca,241878,species,Acanthocardia tuberculata,41.2716856592,2.0518630743,,research,817,marinatorresgi,cc0,2,0,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Acanthocardia
 260680,2024-04-29,2024-04-30,2024-04-26,14:17:00,plantae,1061,family,Brassicaceae,41.4121915,2.2267845665,"Barcelona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Capparales,,
@@ -375,7 +375,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 260631,2024-04-28,2024-04-28,2024-04-27,09:06:00,mollusca,250214,species,Cerithium vulgatum,41.4112701,2.227734,"Zona de Banys Fòrum, Barcelona, España",research,1582,claudialazarof,cc-by,1,0,Animalia,Mollusca,Gastropoda,,Cerithiidae,Cerithium
 260630,2024-04-28,2024-04-29,2024-04-27,10:02:00,,248096,species,Calcinus tubularis,41.4094668764,2.2277573345,"El Besòs i el Maresme, Sant Martí, Barcelona, España",research,653,ura4dive,cc-by-nc,2,0,Animalia,Arthropoda,Malacostraca,Decapoda,Diogenidae,Calcinus
 260629,2024-04-28,2024-04-28,2024-04-27,09:10:00,chromista,35063,species,Dictyota dichotoma,41.4112701,2.227734,"Zona de Banys Fòrum, Barcelona, España",research,1582,claudialazarof,cc-by,1,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota
-260628,2024-04-28,2024-04-28,2024-04-28,13:21:00,mollusca,15,phylum,Mollusca,41.3623739134,1.9828538176,"Barcelona, España",needs_id,64,vicent,cc-by-nc,0,0,Animalia,,,,,
+260628,2024-04-28,2024-04-30,2024-04-28,13:21:00,mollusca,88566,species,Xerosecta cespitum,41.3623739134,1.9828538176,"Barcelona, España",needs_id,64,vicent,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Stylommatophora,Geomitridae,
 260627,2024-04-28,2024-04-28,2024-04-28,13:20:00,mollusca,158199,species,Cornu aspersum,41.3623486948,1.9828415914,"Barcelona, España",research,64,vicent,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Stylommatophora,Helicidae,Cornu
 260626,2024-04-28,2024-04-29,2024-04-28,13:13:00,aves,252264,species,Columba livia,41.3599427131,1.9834908422,"Barcelona, España",research,64,vicent,cc-by-nc,2,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
 260625,2024-04-28,2024-04-28,2024-04-28,13:12:00,aves,247528,species,Motacilla alba,41.3586824413,1.9838502583,"Barcelona, España",research,64,vicent,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Motacillidae,Motacilla
@@ -682,7 +682,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 260284,2024-04-28,2024-04-30,2024-04-27,17:44:00,plantae,38671,genus,Valeriana,41.4111618257,1.9658028507,"Barcelona, Espanya",needs_id,1047,laiamanyer,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Dipsacales,Valerianaceae,
 260283,2024-04-28,2024-04-28,2024-04-27,17:44:00,plantae,31,class,Magnoliopsida,41.4111618257,1.9658028507,"Barcelona, Espanya",needs_id,1047,laiamanyer,cc-by-nc,2,0,Plantae,Magnoliophyta,,,,
 260282,2024-04-28,2024-04-30,2024-04-27,17:44:00,plantae,31,class,Magnoliopsida,41.4111618257,1.9658028507,"Barcelona, Espanya",needs_id,1047,laiamanyer,cc-by-nc,2,0,Plantae,Magnoliophyta,,,,
-260281,2024-04-28,2024-04-28,2024-04-27,17:44:00,mollusca,250224,species,Cernuella virgata,41.4111618257,1.9658028507,"Barcelona, Espanya",needs_id,1047,laiamanyer,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Stylommatophora,Hygromiidae,Cernuella
+260281,2024-04-28,2024-04-30,2024-04-27,17:44:00,mollusca,334,order,Stylommatophora,41.4111618257,1.9658028507,"Barcelona, Espanya",needs_id,1047,laiamanyer,cc-by-nc,2,0,Animalia,Mollusca,Gastropoda,,,
 260280,2024-04-28,2024-04-28,2024-04-27,17:44:00,plantae,12,kingdom,Plantae,41.4111618257,1.9658028507,"Barcelona, Espanya",needs_id,1047,laiamanyer,cc-by-nc,2,0,,,,,,
 260279,2024-04-28,2024-04-28,2024-04-27,17:44:00,plantae,12,kingdom,Plantae,41.4111618257,1.9658028507,"Barcelona, Espanya",needs_id,1047,laiamanyer,cc-by-nc,2,0,,,,,,
 260278,2024-04-28,2024-04-28,2024-04-27,17:44:00,plantae,115,class,Liliopsida,41.4111618257,1.9658028507,"Barcelona, Espanya",needs_id,1047,laiamanyer,cc-by-nc,2,0,Plantae,Magnoliophyta,,,,
