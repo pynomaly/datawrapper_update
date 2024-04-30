@@ -1,12 +1,12 @@
 project,city,observations,species,participants
 79,Begues,0,0,0
-80,Viladecans,141,61,9
+80,Viladecans,139,63,9
 81,Sant Climent de Llobregat,0,0,0
 83,Cervelló,0,0,0
 85,Sant Boi de Llobregat,22,13,1
 86,Santa Coloma de Cervelló,0,0,0
 87,Sant Vicenç dels Horts,0,0,0
-88,la Palma de Cervelló,27,6,1
+88,la Palma de Cervelló,27,12,1
 89,Corbera de Llobregat,0,0,0
 91,Sant Andreu de la Barca,0,0,0
 92,Castellbisbal,0,0,0
@@ -19,7 +19,7 @@ project,city,observations,species,participants
 100,Sant Just Desvern,0,0,0
 101,Sant Cugat del Vallès,1,1,1
 102,Barberà del Vallès,8,8,1
-103,Ripollet,58,47,1
+103,Ripollet,66,51,2
 104,Montcada i Reixac,3,3,1
 106,Sant Adrià de Besòs,0,0,0
 107,Badalona,0,0,0
@@ -33,4 +33,4 @@ project,city,observations,species,participants
 229,Gavà,2,2,1
 230,Sant Joan Despí,0,0,0
 231,Santa Coloma de Gramenet,0,0,0
-232,Àrea marina Barcelona,2317,448,35
+232,Àrea marina Barcelona,2315,448,35
