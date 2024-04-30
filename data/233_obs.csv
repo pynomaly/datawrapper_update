@@ -167,7 +167,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 260871,2024-04-29,2024-04-29,2024-04-27,14:33:00,fungi,13,kingdom,Fungi,41.2899564897,2.1081191607,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
 260870,2024-04-29,2024-04-29,2024-04-27,14:31:00,insecta,324,order,Coleoptera,41.2899564897,2.1081191607,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,,,
 260869,2024-04-29,2024-04-29,2024-04-27,14:31:00,insecta,263173,species,Anthomyia illocata,41.2899564897,2.1081191607,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Diptera,Muscidae,Anthomyia
-260868,2024-04-29,2024-04-29,2024-04-27,14:29:00,,nan,,,41.2899564897,2.1081191607,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260868,2024-04-29,2024-04-30,2024-04-27,14:29:00,insecta,11,class,Insecta,41.2899564897,2.1081191607,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,,,,
 260867,2024-04-29,2024-04-29,2024-04-27,14:27:00,insecta,161,order,Diptera,41.2899564897,2.1081191607,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,,,
 260866,2024-04-29,2024-04-29,2024-04-27,14:27:00,insecta,101823,genus,Hyalopterus,41.2899564897,2.1081191607,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Hemiptera,Aphididae,
 260865,2024-04-29,2024-04-29,2024-04-27,14:24:00,insecta,263172,species,Rhyzobius chrysomeloides,41.2899564897,2.1081191607,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Coleoptera,Coccinellidae,Rhyzobius
@@ -177,7 +177,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 260861,2024-04-29,2024-04-30,2024-04-27,14:20:00,plantae,39189,genus,Ononis,41.2899564897,2.1081191607,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,
 260860,2024-04-29,2024-04-30,2024-04-27,14:19:00,plantae,25747,species,Dittrichia viscosa,41.2899564897,2.1081191607,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Dittrichia
 260859,2024-04-29,2024-04-29,2024-04-27,14:16:00,plantae,242219,species,Pistacia lentiscus,41.2899564897,2.1081191607,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Sapindales,Anacardiaceae,Pistacia
-260858,2024-04-29,2024-04-29,2024-04-27,14:16:00,,nan,,,41.2899564897,2.1081191607,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260858,2024-04-29,2024-04-30,2024-04-27,14:16:00,insecta,161,order,Diptera,41.2899564897,2.1081191607,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,,,
 260857,2024-04-29,2024-04-29,2024-04-27,14:15:00,insecta,245563,species,Apis mellifera,41.2899564897,2.1081191607,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Apis
 260856,2024-04-29,2024-04-30,2024-04-27,14:14:00,insecta,9186,genus,Tinea,41.2899564897,2.1081191607,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Lepidoptera,Tineidae,
 260855,2024-04-29,2024-04-29,2024-04-27,14:15:00,insecta,245563,species,Apis mellifera,41.2899564897,2.1081191607,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Apis
@@ -228,7 +228,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 260810,2024-04-29,2024-04-29,2024-04-27,09:14:00,plantae,1041,family,Poaceae,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Poales,,
 260809,2024-04-29,2024-04-29,2024-04-27,09:14:00,plantae,247078,species,Eryngium maritimum,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Apiales,Apiaceae,Eryngium
 260808,2024-04-29,2024-04-29,2024-04-27,09:13:00,plantae,249924,species,Centaurea aspera,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Centaurea
-260807,2024-04-29,2024-04-29,2024-04-27,09:13:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260807,2024-04-29,2024-04-30,2024-04-27,09:13:00,insecta,263189,species,Sitona discoideus,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Coleoptera,Curculionidae,Sitona
 260806,2024-04-29,2024-04-29,2024-04-27,09:11:00,plantae,38723,genus,Achillea,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,
 260805,2024-04-29,2024-04-29,2024-04-27,09:11:00,plantae,38944,genus,Cenchrus,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Poales,Poaceae,
 260804,2024-04-29,2024-04-29,2024-04-27,09:10:00,insecta,46,order,Orthoptera,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,,,
@@ -239,7 +239,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 260799,2024-04-29,2024-04-29,2024-04-27,09:08:00,plantae,245425,species,Echinophora spinosa,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Apiales,Apiaceae,Echinophora
 260798,2024-04-29,2024-04-29,2024-04-27,09:06:00,insecta,50251,species,Psilothrix viridicoerulea,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Coleoptera,Dasytidae,Psilothrix
 260797,2024-04-29,2024-04-29,2024-04-27,09:05:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
-260796,2024-04-29,2024-04-29,2024-04-27,09:05:00,,nan,,,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+260796,2024-04-29,2024-04-30,2024-04-27,09:05:00,insecta,82,order,Hemiptera,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,,,
 260795,2024-04-29,2024-04-29,2024-04-27,09:04:00,insecta,50251,species,Psilothrix viridicoerulea,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Coleoptera,Dasytidae,Psilothrix
 260794,2024-04-29,2024-04-30,2024-04-27,09:04:00,plantae,249924,species,Centaurea aspera,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Centaurea
 260793,2024-04-29,2024-04-29,2024-04-27,09:04:00,plantae,42982,species,Lantana camara,41.2710356678,2.0486089352,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Verbenaceae,Lantana
@@ -2113,7 +2113,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258724,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718054206,2.0499486623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258723,2024-04-27,2024-04-30,2024-04-27,09:22:00,insecta,1052,family,Braconidae,41.2718024206,2.0499456623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Hymenoptera,,
 258722,2024-04-27,2024-04-28,2024-04-27,10:13:00,plantae,90169,species,Calystegia soldanella,41.2717924206,2.0499356623,,research,54,loreto_rodriguez,cc-by-nc,2,0,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Convolvulaceae,Calystegia
-258721,2024-04-27,2024-04-29,2024-04-27,10:13:00,mollusca,245950,species,Eobania vermiculata,41.2717894206,2.0499326623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Stylommatophora,Helicidae,Eobania
+258721,2024-04-27,2024-04-30,2024-04-27,10:13:00,mollusca,245950,species,Eobania vermiculata,41.2717894206,2.0499326623,,research,54,loreto_rodriguez,cc-by-nc,2,0,Animalia,Mollusca,Gastropoda,Stylommatophora,Helicidae,Eobania
 258720,2024-04-27,2024-04-27,2024-04-27,10:13:00,cnidaria,253561,species,Velella velella,41.2717864206,2.0499296623,,research,54,loreto_rodriguez,cc-by-nc,2,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
 258719,2024-04-27,2024-04-30,2024-04-27,10:13:00,insecta,1102,superfamily,Tenebrionoidea,41.2717834206,2.0499266623,,needs_id,54,loreto_rodriguez,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,Coleoptera,,
 258718,2024-04-27,2024-04-27,2024-04-27,10:13:00,plantae,38944,genus,Cenchrus,41.2717804206,2.0499236623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Poales,Poaceae,
