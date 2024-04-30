@@ -1,7 +1,10 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+261503,2024-04-30,2024-04-30,2024-04-26,06:55:00,insecta,252748,species,Papilio machaon,41.4369502928,2.0174865017,Spain,needs_id,2242,anyeve,cc-by,0,0,Animalia,Arthropoda,Insecta,Lepidoptera,Papilionidae,Papilio
+261501,2024-04-30,2024-04-30,2024-04-29,12:01:00,plantae,252413,species,Convolvulus althaeoides,41.4369432928,2.0174795017,Spain,needs_id,2242,anyeve,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Convolvulaceae,Convolvulus
+261497,2024-04-30,2024-04-30,2024-04-29,12:01:00,plantae,247970,species,Euphorbia serrata,41.436937009,2.0174922422,Spain,needs_id,2242,anyeve,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,Euphorbia
+261495,2024-04-30,2024-04-30,2024-04-29,12:00:00,plantae,41728,genus,Cymbopogon,41.4369279604,2.0175190642,Spain,needs_id,2242,anyeve,cc-by,0,0,Plantae,Magnoliophyta,Liliopsida,Poales,Poaceae,
 261494,2024-04-30,2024-04-30,2024-04-27,16:04:00,plantae,247427,species,Salvia rosmarinus,41.4463240515,2.017756775,Spain,needs_id,2242,anyeve,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Lamiaceae,Rosmarinus
 261493,2024-04-30,2024-04-30,2024-04-27,16:00:00,,nan,,,41.4464273261,2.0185959537,Spain,needs_id,2242,anyeve,cc-by,0,0,,,,,,
-261492,2024-04-30,2024-04-30,2024-04-27,16:00:00,,nan,,,41.4464243261,2.0185929537,Spain,needs_id,2242,anyeve,cc-by,0,0,,,,,,
 261491,2024-04-30,2024-04-30,2024-04-27,15:47:00,insecta,1054,family,Formicidae,41.4457171229,2.0180095732,Spain,needs_id,2242,anyeve,cc-by,0,0,Animalia,Arthropoda,Insecta,Hymenoptera,,
 261490,2024-04-30,2024-04-30,2024-04-27,15:43:00,plantae,242219,species,Pistacia lentiscus,41.4464547351,2.0179666579,Spain,needs_id,2242,anyeve,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Sapindales,Anacardiaceae,Pistacia
 261489,2024-04-30,2024-04-30,2024-04-27,15:43:00,plantae,244842,species,Lonicera implexa,41.4459196844,2.017952241,Spain,needs_id,2242,anyeve,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Dipsacales,Caprifoliaceae,Lonicera
