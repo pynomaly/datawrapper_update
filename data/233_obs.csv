@@ -1365,38 +1365,38 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 259539,2024-04-28,2024-04-30,2024-04-28,07:46:00,plantae,29279,genus,Rumex,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Polygonales,Polygonaceae,
 259538,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,253420,species,Turdus merula,41.40826265,2.1828373,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus
 259537,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,252272,species,Columba palumbus,41.40826265,2.1828373,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
-259536,2024-04-28,2024-04-28,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
+259536,2024-04-28,2024-04-30,2024-04-28,07:46:00,plantae,244804,species,Diplotaxis erucoides,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Capparales,Brassicaceae,
 259535,2024-04-28,2024-04-29,2024-04-28,07:46:00,plantae,254486,species,Cirsium vulgare,41.40826265,2.1828373,Spain,research,11,jaume-piera,cc-by-nc,2,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Cirsium
 259534,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,247963,species,Myiopsitta monachus,41.40826265,2.1828373,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Myiopsitta
 259533,2024-04-28,2024-04-29,2024-04-28,07:46:00,aves,249670,species,Serinus serinus,41.40826265,2.1828373,Spain,research,11,jaume-piera,cc-by-nc,2,0,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Serinus
 259532,2024-04-28,2024-04-29,2024-04-28,07:46:00,plantae,254486,species,Cirsium vulgare,41.40826265,2.1828373,Spain,research,11,jaume-piera,cc-by-nc,2,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Cirsium
-259531,2024-04-28,2024-04-28,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
-259530,2024-04-28,2024-04-28,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
+259531,2024-04-28,2024-04-30,2024-04-28,07:46:00,plantae,262716,species,Lomelosia cretica,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Dipsacales,Caprifoliaceae,Lomelosia
+259530,2024-04-28,2024-04-30,2024-04-28,07:46:00,plantae,244804,species,Diplotaxis erucoides,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Capparales,Brassicaceae,
 259529,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,249670,species,Serinus serinus,41.40826265,2.1828373,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Serinus
 259528,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,249670,species,Serinus serinus,41.40826265,2.1828373,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Serinus
 259527,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,249670,species,Serinus serinus,41.40826265,2.1828373,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Serinus
 259526,2024-04-28,2024-04-29,2024-04-28,07:46:00,aves,253420,species,Turdus merula,41.40826265,2.1828373,Spain,research,11,jaume-piera,cc-by-nc,2,0,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus
-259525,2024-04-28,2024-04-28,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
-259524,2024-04-28,2024-04-28,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
+259525,2024-04-28,2024-04-30,2024-04-28,07:46:00,plantae,244804,species,Diplotaxis erucoides,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Capparales,Brassicaceae,
+259524,2024-04-28,2024-04-30,2024-04-28,07:46:00,plantae,262716,species,Lomelosia cretica,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Dipsacales,Caprifoliaceae,Lomelosia
 259523,2024-04-28,2024-04-28,2024-04-28,07:46:00,plantae,244452,species,Anacyclus valentinus,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Anacyclus
-259522,2024-04-28,2024-04-28,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
+259522,2024-04-28,2024-04-30,2024-04-28,07:46:00,plantae,254486,species,Cirsium vulgare,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Cirsium
 259521,2024-04-28,2024-04-28,2024-04-28,07:46:00,plantae,262716,species,Lomelosia cretica,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Dipsacales,Caprifoliaceae,Lomelosia
 259520,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,252848,species,Passer domesticus,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer
 259519,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,253420,species,Turdus merula,41.40826265,2.1828373,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus
 259518,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,253420,species,Turdus merula,41.40826265,2.1828373,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus
-259517,2024-04-28,2024-04-28,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
-259516,2024-04-28,2024-04-28,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
-259515,2024-04-28,2024-04-28,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
+259517,2024-04-28,2024-04-30,2024-04-28,07:46:00,plantae,47100,genus,Lavandula,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Lamiaceae,
+259516,2024-04-28,2024-04-30,2024-04-28,07:46:00,plantae,366,family,Asteraceae,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,,
+259515,2024-04-28,2024-04-30,2024-04-28,07:46:00,plantae,37995,genus,Rosa,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Rosaceae,
 259514,2024-04-28,2024-04-28,2024-04-28,07:46:00,plantae,38026,genus,Quercus,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Fagales,Fagaceae,
 259513,2024-04-28,2024-04-28,2024-04-28,07:46:00,plantae,38026,genus,Quercus,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Fagales,Fagaceae,
 259512,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,252264,species,Columba livia,41.40826265,2.1828373,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
 259511,2024-04-28,2024-04-28,2024-04-28,07:46:00,plantae,40121,genus,Malva,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Malvales,Malvaceae,
 259510,2024-04-28,2024-04-28,2024-04-28,07:46:00,plantae,40121,genus,Malva,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Malvales,Malvaceae,
 259509,2024-04-28,2024-04-28,2024-04-28,07:46:00,plantae,250500,species,Sonchus oleraceus,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Sonchus
-259508,2024-04-28,2024-04-28,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
+259508,2024-04-28,2024-04-30,2024-04-28,07:46:00,plantae,37995,genus,Rosa,41.40826265,2.1828373,Spain,casual,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Rosaceae,
 259507,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,252264,species,Columba livia,41.40826265,2.1828373,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
-259506,2024-04-28,2024-04-28,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
-259505,2024-04-28,2024-04-28,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
+259506,2024-04-28,2024-04-30,2024-04-28,07:46:00,plantae,39958,genus,Sonchus,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,
+259505,2024-04-28,2024-04-30,2024-04-28,07:46:00,plantae,39958,genus,Sonchus,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,
 259504,2024-04-28,2024-04-28,2024-04-28,07:46:00,plantae,8891,genus,Kalanchoe,41.40826265,2.1828373,Spain,casual,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Crassulaceae,
 259503,2024-04-28,2024-04-28,2024-04-28,07:46:00,plantae,8891,genus,Kalanchoe,41.40826265,2.1828373,Spain,casual,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Crassulaceae,
 259502,2024-04-28,2024-04-28,2024-04-28,07:46:00,aves,252264,species,Columba livia,41.40826265,2.1828373,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
@@ -2082,26 +2082,26 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258737,2024-04-27,2024-04-30,2024-04-27,09:22:00,plantae,262854,species,Plantago lagopus,41.2718444206,2.0499876623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Plantaginales,Plantaginaceae,Plantago
 258736,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718414206,2.0499846623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258735,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718384206,2.0499816623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
-258734,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718354206,2.0499786623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258734,2024-04-27,2024-04-30,2024-04-27,09:22:00,plantae,253501,species,Urospermum dalechampii,41.2718354206,2.0499786623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Urospermum
 258733,2024-04-27,2024-04-28,2024-04-27,09:22:00,plantae,242032,species,Pinus halepensis,41.2718324206,2.0499756623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Pinophyta,Pinopsida,Pinales,Pinaceae,Pinus
-258732,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718294206,2.0499726623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258732,2024-04-27,2024-04-30,2024-04-27,09:22:00,plantae,1041,family,Poaceae,41.2718294206,2.0499726623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Poales,,
 258731,2024-04-27,2024-04-28,2024-04-27,09:22:00,plantae,221647,species,Paronychia argentea,41.2718264206,2.0499696623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,Paronychia
 258730,2024-04-27,2024-04-28,2024-04-27,09:22:00,plantae,242032,species,Pinus halepensis,41.2718234206,2.0499666623,,needs_id,54,loreto_rodriguez,cc-by-nc,1,0,Plantae,Pinophyta,Pinopsida,Pinales,Pinaceae,Pinus
 258729,2024-04-27,2024-04-27,2024-04-27,09:22:00,plantae,49271,genus,Xanthium,41.2718204206,2.0499636623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,
-258728,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718174206,2.0499606623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258728,2024-04-27,2024-04-30,2024-04-27,09:22:00,insecta,11,class,Insecta,41.2718174206,2.0499606623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Arthropoda,,,,
 258727,2024-04-27,2024-04-28,2024-04-27,09:22:00,plantae,244728,species,Lobularia maritima,41.2718144206,2.0499576623,,research,54,loreto_rodriguez,cc-by-nc,2,0,Plantae,Magnoliophyta,Magnoliopsida,Capparales,Brassicaceae,
 258726,2024-04-27,2024-04-29,2024-04-27,09:22:00,plantae,247078,species,Eryngium maritimum,41.2718114206,2.0499546623,,research,54,loreto_rodriguez,cc-by-nc,2,0,Plantae,Magnoliophyta,Magnoliopsida,Apiales,Apiaceae,Eryngium
 258725,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718084206,2.0499516623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258724,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718054206,2.0499486623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
-258723,2024-04-27,2024-04-27,2024-04-27,09:22:00,,nan,,,41.2718024206,2.0499456623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258723,2024-04-27,2024-04-30,2024-04-27,09:22:00,insecta,1052,family,Braconidae,41.2718024206,2.0499456623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Hymenoptera,,
 258722,2024-04-27,2024-04-28,2024-04-27,10:13:00,plantae,90169,species,Calystegia soldanella,41.2717924206,2.0499356623,,research,54,loreto_rodriguez,cc-by-nc,2,0,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Convolvulaceae,Calystegia
 258721,2024-04-27,2024-04-29,2024-04-27,10:13:00,mollusca,245950,species,Eobania vermiculata,41.2717894206,2.0499326623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Stylommatophora,Helicidae,Eobania
 258720,2024-04-27,2024-04-27,2024-04-27,10:13:00,cnidaria,253561,species,Velella velella,41.2717864206,2.0499296623,,research,54,loreto_rodriguez,cc-by-nc,2,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
-258719,2024-04-27,2024-04-29,2024-04-27,10:13:00,insecta,324,order,Coleoptera,41.2717834206,2.0499266623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,,,
+258719,2024-04-27,2024-04-30,2024-04-27,10:13:00,insecta,1102,superfamily,Tenebrionoidea,41.2717834206,2.0499266623,,needs_id,54,loreto_rodriguez,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,Coleoptera,,
 258718,2024-04-27,2024-04-27,2024-04-27,10:13:00,plantae,38944,genus,Cenchrus,41.2717804206,2.0499236623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Poales,Poaceae,
 258716,2024-04-27,2024-04-29,2024-04-27,10:13:00,plantae,246170,species,Medicago marina,41.2717774206,2.0499206623,,research,54,loreto_rodriguez,cc-by-nc,2,0,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Medicago
 258715,2024-04-27,2024-04-29,2024-04-27,10:13:00,plantae,246170,species,Medicago marina,41.2717744206,2.0499176623,,research,54,loreto_rodriguez,cc-by-nc,2,0,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Medicago
-258714,2024-04-27,2024-04-27,2024-04-27,10:13:00,,nan,,,41.2717714206,2.0499146623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258714,2024-04-27,2024-04-30,2024-04-27,10:13:00,plantae,221647,species,Paronychia argentea,41.2717714206,2.0499146623,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,Paronychia
 258713,2024-04-27,2024-04-29,2024-04-27,10:13:00,insecta,50251,species,Psilothrix viridicoerulea,41.2717684206,2.0499116623,,research,54,loreto_rodriguez,cc-by-nc,2,0,Animalia,Arthropoda,Insecta,Coleoptera,Dasytidae,Psilothrix
 258712,2024-04-27,2024-04-29,2024-04-27,10:13:00,insecta,1252,family,Sarcophagidae,41.2717654206,2.0499086623,,needs_id,54,loreto_rodriguez,cc-by-nc,2,0,Animalia,Arthropoda,Insecta,Diptera,,
 258711,2024-04-27,2024-04-29,2024-04-27,10:13:00,plantae,25747,species,Dittrichia viscosa,41.2717624206,2.0499056623,,research,54,loreto_rodriguez,cc-by-nc,2,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Dittrichia
@@ -2109,16 +2109,16 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 258709,2024-04-27,2024-04-29,2024-04-27,10:13:00,cnidaria,253561,species,Velella velella,41.2717564206,2.0498996623,,research,54,loreto_rodriguez,cc-by-nc,3,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Porpitidae,Velella
 258708,2024-04-27,2024-04-29,2024-04-27,10:13:00,mollusca,241878,species,Acanthocardia tuberculata,41.2717534206,2.0498966623,,research,54,loreto_rodriguez,cc-by-nc,3,0,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Acanthocardia
 258707,2024-04-27,2024-04-29,2024-04-27,10:13:00,mollusca,241878,species,Acanthocardia tuberculata,41.2717504206,2.0498936623,,research,54,loreto_rodriguez,cc-by-nc,3,0,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Acanthocardia
-258705,2024-04-27,2024-04-27,2024-04-27,13:56:00,,nan,,,41.2917194258,2.1091441088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258705,2024-04-27,2024-04-30,2024-04-27,13:56:00,plantae,262854,species,Plantago lagopus,41.2917194258,2.1091441088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Plantaginales,Plantaginaceae,Plantago
 258704,2024-04-27,2024-04-28,2024-04-27,13:56:00,plantae,246991,species,Asphodelus fistulosus,41.2917164258,2.1091411088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Asparagales,Xanthorrhoeaceae,Asphodelus
 258703,2024-04-27,2024-04-28,2024-04-27,13:56:00,insecta,18481,genus,Oedemera,41.2917134258,2.1091381088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Coleoptera,Oedemeridae,
 258702,2024-04-27,2024-04-28,2024-04-27,13:56:00,plantae,252413,species,Convolvulus althaeoides,41.2917104258,2.1091351088,,research,54,loreto_rodriguez,cc-by-nc,2,0,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Convolvulaceae,Convolvulus
-258701,2024-04-27,2024-04-27,2024-04-27,13:56:00,,nan,,,41.2917074258,2.1091321088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258701,2024-04-27,2024-04-30,2024-04-27,13:56:00,insecta,746,superfamily,Noctuoidea,41.2917074258,2.1091321088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Lepidoptera,,
 258700,2024-04-27,2024-04-28,2024-04-27,13:56:00,plantae,258628,species,Lysimachia arvensis,41.2917044258,2.1091291088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Primulales,Primulaceae,Lysimachia
 258699,2024-04-27,2024-04-28,2024-04-27,13:56:00,plantae,262739,species,Galactites tomentosus,41.2917014258,2.1091261088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Galactites
 258698,2024-04-27,2024-04-28,2024-04-27,14:14:00,plantae,35545,genus,Rubus,41.2916914258,2.1091161088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Rosaceae,
-258697,2024-04-27,2024-04-27,2024-04-27,14:14:00,,nan,,,41.2916884258,2.1091131088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
-258696,2024-04-27,2024-04-27,2024-04-27,14:14:00,,nan,,,41.2916854258,2.1091101088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
+258697,2024-04-27,2024-04-30,2024-04-27,14:14:00,plantae,25747,species,Dittrichia viscosa,41.2916884258,2.1091131088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Dittrichia
+258696,2024-04-27,2024-04-30,2024-04-27,14:14:00,plantae,24979,genus,Centaurea,41.2916854258,2.1091101088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,
 258695,2024-04-27,2024-04-27,2024-04-27,14:14:00,,nan,,,41.2916824258,2.1091071088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,,,,,,
 258694,2024-04-27,2024-04-28,2024-04-27,14:14:00,plantae,248995,species,Foeniculum vulgare,41.2916794258,2.1091041088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Apiales,Apiaceae,Foeniculum
 258693,2024-04-27,2024-04-28,2024-04-27,14:14:00,plantae,246991,species,Asphodelus fistulosus,41.2916764258,2.1091011088,,needs_id,54,loreto_rodriguez,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Asparagales,Xanthorrhoeaceae,Asphodelus
