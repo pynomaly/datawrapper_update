@@ -1,4 +1,22 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+261194,2024-04-30,2024-04-30,2024-04-26,20:00:00,,nan,,,41.4087077257,2.2262699818,Spain,needs_id,2313,lordmansio,cc-by,0,0,,,,,,
+261193,2024-04-30,2024-04-30,2024-04-26,20:14:00,,nan,,,41.4086991222,2.2262496066,Spain,needs_id,2313,lordmansio,cc-by,0,0,,,,,,
+261192,2024-04-30,2024-04-30,2024-04-26,19:51:00,,nan,,,41.4087405751,2.2262898758,Spain,needs_id,2313,lordmansio,cc-by,0,0,,,,,,
+261191,2024-04-30,2024-04-30,2024-04-26,20:16:00,,nan,,,41.4086023987,2.2261825777,Spain,needs_id,2313,lordmansio,cc-by,0,0,,,,,,
+261190,2024-04-30,2024-04-30,2024-04-26,20:14:00,,nan,,,41.4086753976,2.2262740256,Spain,needs_id,2313,lordmansio,cc-by,0,0,,,,,,
+261189,2024-04-30,2024-04-30,2024-04-26,20:20:00,,nan,,,41.4085805784,2.2262432221,Spain,needs_id,2313,lordmansio,cc-by,0,0,,,,,,
+261188,2024-04-30,2024-04-30,2024-04-26,20:22:00,,nan,,,41.4086021152,2.2262700147,Spain,needs_id,2313,lordmansio,cc-by,0,0,,,,,,
+261187,2024-04-30,2024-04-30,2024-04-26,19:53:00,,nan,,,41.4087317904,2.2262547734,Spain,needs_id,2313,lordmansio,cc-by,0,0,,,,,,
+261186,2024-04-30,2024-04-30,2024-04-26,20:17:00,,nan,,,41.4086594716,2.2263057917,Spain,needs_id,2313,lordmansio,cc-by,0,0,,,,,,
+261185,2024-04-30,2024-04-30,2024-04-26,20:21:00,,nan,,,41.4088190262,2.2263502322,Spain,needs_id,2313,lordmansio,cc-by,0,0,,,,,,
+261184,2024-04-30,2024-04-30,2024-04-26,20:13:00,cnidaria,34999,species,Actinia mediterranea,41.4086400884,2.2262356817,Spain,needs_id,2313,lordmansio,cc-by,0,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Actinia
+261183,2024-04-30,2024-04-30,2024-04-26,20:04:00,,nan,,,41.4086139039,2.2262178734,Spain,needs_id,2313,lordmansio,cc-by,0,0,,,,,,
+261182,2024-04-30,2024-04-30,2024-04-26,20:20:00,,nan,,,41.4087109677,2.2262993743,Spain,needs_id,2313,lordmansio,cc-by,0,0,,,,,,
+261181,2024-04-30,2024-04-30,2024-04-26,19:40:00,,nan,,,41.4086799432,2.2262374464,"El Besòs i el Maresme, Sant Martí, Barcelona, Espanya",needs_id,2313,lordmansio,cc-by,0,0,,,,,,
+261180,2024-04-30,2024-04-30,2024-04-26,19:51:00,,nan,,,41.4087813595,2.2263083587,Spain,needs_id,2313,lordmansio,cc-by,0,0,,,,,,
+261179,2024-04-30,2024-04-30,2024-04-26,19:50:00,,nan,,,41.408782663,2.2263149365,Spain,needs_id,2313,lordmansio,cc-by,0,0,,,,,,
+261178,2024-04-30,2024-04-30,2024-04-26,19:41:00,,nan,,,41.4087784917,2.2262961656,Spain,needs_id,2313,lordmansio,cc-by,0,0,,,,,,
+261177,2024-04-30,2024-04-30,2024-04-26,19:29:00,,nan,,,41.4087787355,2.2262911921,Spain,needs_id,2313,lordmansio,cc-by,0,0,,,,,,
 261103,2024-04-29,2024-04-29,2024-04-26,13:22:00,plantae,38161,genus,Cirsium,41.4033092,2.1941989997,"El Parc i la Llacuna del Poblenou, Sant Martí, Barcelona, Spain",needs_id,218,bernatgel,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,
 261102,2024-04-29,2024-04-29,2024-04-26,13:15:00,plantae,248800,species,Ficus carica,41.4016518,2.195567,"El Parc i la Llacuna del Poblenou, Sant Martí, Barcelona, Spain",research,218,bernatgel,cc-by,1,0,Plantae,Magnoliophyta,Magnoliopsida,Urticales,Moraceae,Ficus
 261101,2024-04-29,2024-04-29,2024-04-26,13:19:00,plantae,249080,species,Nicotiana glauca,41.4019119,2.1948392,"El Parc i la Llacuna del Poblenou, Sant Martí, Barcelona, Spain",research,218,bernatgel,cc-by,1,0,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Solanaceae,Nicotiana
@@ -36,42 +54,42 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 261065,2024-04-29,2024-04-29,2024-04-27,17:13:00,aves,247963,species,Myiopsitta monachus,41.43928,2.14809,"Horta, Horta-Guinardó, Barcelona, España",research,937,gkallis,C,2,0,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Myiopsitta
 261063,2024-04-29,2024-04-29,2024-04-29,07:19:00,insecta,252648,species,Oxythyrea funesta,41.2798542467,2.0606795115,"Barcelona, España",research,4,xasalva,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,Coleoptera,Cetoniidae,Oxythyrea
 261062,2024-04-29,2024-04-29,2024-04-29,07:18:00,plantae,242357,species,Juncus acutus,41.2798542467,2.0606795115,"Barcelona, España",research,4,xasalva,cc-by-nc,1,0,Plantae,Magnoliophyta,Liliopsida,Poales,Juncaceae,Juncus
-261061,2024-04-29,2024-04-29,2024-04-29,07:16:00,plantae,44508,genus,Tamarix,41.2798542467,2.0606795115,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Violales,Tamaricaceae,
+261061,2024-04-29,2024-04-30,2024-04-29,07:16:00,plantae,44508,genus,Tamarix,41.2798542467,2.0606795115,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,2,0,Plantae,Magnoliophyta,Magnoliopsida,Violales,Tamaricaceae,
 261060,2024-04-29,2024-04-29,2024-04-29,06:53:00,aves,250758,species,Chlidonias hybrida,41.2798542467,2.0606795115,"Barcelona, España",research,4,xasalva,cc-by-nc,1,0,Animalia,Chordata,Aves,Ciconiiformes,Laridae,Chlidonias
 261059,2024-04-29,2024-04-29,2024-04-29,06:50:00,aves,251811,species,Hirundo rustica,41.2798542467,2.0606795115,"Barcelona, España",research,4,xasalva,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Hirundo
 261058,2024-04-29,2024-04-29,2024-04-29,06:22:00,aves,249670,species,Serinus serinus,41.2798542467,2.0606795115,"Barcelona, España",research,4,xasalva,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Serinus
 261057,2024-04-29,2024-04-29,2024-04-29,06:19:00,aves,242811,species,Aegithalos caudatus,41.2798542467,2.0606795115,"Barcelona, España",research,4,xasalva,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Aegithalidae,Aegithalos
 261002,2024-04-29,2024-04-29,2024-04-29,16:48:00,aves,257136,species,Curruca melanocephala,41.4702521761,2.0804800411,"Sant Cugat del Vallès, Barcelona, España",research,2341,gemmasola,cc-by,1,0,Animalia,Chordata,Aves,Passeriformes,Sylviidae,
 260967,2024-04-29,2024-04-29,2024-04-29,14:31:00,aves,252271,subspecies,Columba livia domestica,41.3798312,2.162451,Spain,research,2337,russellsimon,cc-by,2,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
-260966,2024-04-29,2024-04-29,2024-04-29,14:31:00,aves,252271,subspecies,Columba livia domestica,41.3798312,2.162451,Spain,needs_id,2337,russellsimon,cc-by,0,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
+260966,2024-04-29,2024-04-30,2024-04-29,14:31:00,aves,252271,subspecies,Columba livia domestica,41.3798312,2.162451,Spain,research,2337,russellsimon,cc-by,2,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
 260965,2024-04-29,2024-04-29,2024-04-29,12:06:00,aves,251759,species,Streptopelia decaocto,41.3592057592,1.9816124588,"08629 Torrelles de Llobregat, Barcelona, España",research,64,vicent,cc-by-nc,1,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Streptopelia
 260964,2024-04-29,2024-04-29,2024-04-29,12:05:00,aves,243973,species,Delichon urbicum,41.3589208215,1.9820348617,"08629 Torrelles de Llobregat, Barcelona, España",research,64,vicent,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Delichon
 260963,2024-04-29,2024-04-29,2024-04-29,12:04:00,aves,251759,species,Streptopelia decaocto,41.3583434284,1.9817929665,"08629 Torrelles de Llobregat, Barcelona, España",research,64,vicent,cc-by-nc,1,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Streptopelia
 260962,2024-04-29,2024-04-29,2024-04-29,11:37:00,aves,253889,species,Pica pica,41.360133111,1.9809191545,"Barcelona, España",research,64,vicent,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Corvidae,Pica
 260961,2024-04-29,2024-04-29,2024-04-29,11:31:00,aves,252264,species,Columba livia,41.359212291,1.9815789779,"08629 Torrelles de Llobregat, Barcelona, España",research,64,vicent,cc-by-nc,1,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
-260960,2024-04-29,2024-04-29,2024-04-29,07:36:00,plantae,246991,species,Asphodelus fistulosus,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Asparagales,Xanthorrhoeaceae,Asphodelus
-260959,2024-04-29,2024-04-29,2024-04-29,07:35:00,insecta,1118,family,Asilidae,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Diptera,,
-260958,2024-04-29,2024-04-29,2024-04-29,07:34:00,plantae,43791,genus,Fumaria,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Papaverales,Fumariaceae,
-260957,2024-04-29,2024-04-29,2024-04-29,07:33:00,insecta,11739,genus,Anthomyia,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Diptera,Muscidae,
-260956,2024-04-29,2024-04-29,2024-04-29,07:33:00,plantae,253238,species,Phyla nodiflora,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Verbenaceae,Phyla
-260955,2024-04-29,2024-04-29,2024-04-29,07:32:00,mammalia,102488,species,Oryctolagus cuniculus,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Oryctolagus
-260954,2024-04-29,2024-04-29,2024-04-29,07:30:00,insecta,746,superfamily,Noctuoidea,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Lepidoptera,,
-260953,2024-04-29,2024-04-29,2024-04-29,07:30:00,insecta,746,superfamily,Noctuoidea,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Lepidoptera,,
-260952,2024-04-29,2024-04-29,2024-04-29,07:29:00,insecta,746,superfamily,Noctuoidea,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Lepidoptera,,
-260951,2024-04-29,2024-04-29,2024-04-29,07:29:00,insecta,746,superfamily,Noctuoidea,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Lepidoptera,,
-260950,2024-04-29,2024-04-29,2024-04-29,07:28:00,insecta,263174,species,Aedes caspius,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Diptera,Culicidae,Aedes
-260949,2024-04-29,2024-04-29,2024-04-29,07:28:00,insecta,82,order,Hemiptera,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,,,
+260960,2024-04-29,2024-04-30,2024-04-29,07:36:00,plantae,246991,species,Asphodelus fistulosus,41.2790703658,2.0653653084,"Barcelona, España",research,4,xasalva,cc-by-nc,1,0,Plantae,Magnoliophyta,Liliopsida,Asparagales,Xanthorrhoeaceae,Asphodelus
+260959,2024-04-29,2024-04-30,2024-04-29,07:35:00,insecta,1118,family,Asilidae,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,Diptera,,
+260958,2024-04-29,2024-04-30,2024-04-29,07:34:00,plantae,43791,genus,Fumaria,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Papaverales,Fumariaceae,
+260957,2024-04-29,2024-04-30,2024-04-29,07:33:00,insecta,11739,genus,Anthomyia,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,Diptera,Muscidae,
+260956,2024-04-29,2024-04-30,2024-04-29,07:33:00,plantae,253238,species,Phyla nodiflora,41.2790703658,2.0653653084,"Barcelona, España",research,4,xasalva,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Verbenaceae,Phyla
+260955,2024-04-29,2024-04-30,2024-04-29,07:32:00,mammalia,102488,species,Oryctolagus cuniculus,41.2790703658,2.0653653084,"Barcelona, España",research,4,xasalva,cc-by-nc,1,0,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Oryctolagus
+260954,2024-04-29,2024-04-30,2024-04-29,07:30:00,insecta,746,superfamily,Noctuoidea,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,Lepidoptera,,
+260953,2024-04-29,2024-04-30,2024-04-29,07:30:00,insecta,746,superfamily,Noctuoidea,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,Lepidoptera,,
+260952,2024-04-29,2024-04-30,2024-04-29,07:29:00,insecta,746,superfamily,Noctuoidea,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,Lepidoptera,,
+260951,2024-04-29,2024-04-30,2024-04-29,07:29:00,insecta,746,superfamily,Noctuoidea,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,Lepidoptera,,
+260950,2024-04-29,2024-04-30,2024-04-29,07:28:00,insecta,263174,species,Aedes caspius,41.2790703658,2.0653653084,"Barcelona, España",research,4,xasalva,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,Diptera,Culicidae,Aedes
+260949,2024-04-29,2024-04-30,2024-04-29,07:28:00,insecta,82,order,Hemiptera,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,,,
 260948,2024-04-29,2024-04-29,2024-04-29,07:29:00,plantae,26487,species,Bellardia trixago,41.2790703658,2.0653653084,"Barcelona, España",research,4,xasalva,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Scrophulariales,Scrophulariaceae,Bellardia
 260947,2024-04-29,2024-04-29,2024-04-29,07:26:00,arachnida,246839,species,Runcinia grammica,41.2790703658,2.0653653084,"Barcelona, España",research,4,xasalva,cc-by-nc,1,0,Animalia,Arthropoda,Arachnida,Araneae,Thomisidae,Runcinia
-260946,2024-04-29,2024-04-29,2024-04-29,07:25:00,insecta,1043,superfamily,Ichneumonoidea,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Hymenoptera,,
-260945,2024-04-29,2024-04-29,2024-04-29,07:24:00,insecta,746,superfamily,Noctuoidea,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Lepidoptera,,
-260944,2024-04-29,2024-04-29,2024-04-29,07:23:00,insecta,7795,genus,Lixus,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Coleoptera,Curculionidae,
+260946,2024-04-29,2024-04-30,2024-04-29,07:25:00,insecta,1043,superfamily,Ichneumonoidea,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,Hymenoptera,,
+260945,2024-04-29,2024-04-30,2024-04-29,07:24:00,insecta,746,superfamily,Noctuoidea,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,Lepidoptera,,
+260944,2024-04-29,2024-04-30,2024-04-29,07:23:00,insecta,7795,genus,Lixus,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,Coleoptera,Curculionidae,
 260943,2024-04-29,2024-04-29,2024-04-29,07:22:00,arachnida,246839,species,Runcinia grammica,41.2790703658,2.0653653084,"Barcelona, España",research,4,xasalva,cc-by-nc,1,0,Animalia,Arthropoda,Arachnida,Araneae,Thomisidae,Runcinia
-260942,2024-04-29,2024-04-29,2024-04-29,07:21:00,insecta,1099,family,Syrphidae,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Diptera,,
-260941,2024-04-29,2024-04-29,2024-04-29,06:30:00,insecta,54839,genus,Tropinota,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Coleoptera,Cetoniidae,
-260940,2024-04-29,2024-04-29,2024-04-29,06:29:00,arachnida,246479,species,Synema globosum,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Arachnida,Araneae,Thomisidae,Synema
-260939,2024-04-29,2024-04-29,2024-04-29,06:28:00,insecta,324,order,Coleoptera,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,,,
-260938,2024-04-29,2024-04-29,2024-04-29,06:14:00,aves,242811,species,Aegithalos caudatus,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Aegithalidae,Aegithalos
+260942,2024-04-29,2024-04-30,2024-04-29,07:21:00,insecta,1099,family,Syrphidae,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,Diptera,,
+260941,2024-04-29,2024-04-30,2024-04-29,06:30:00,insecta,54839,genus,Tropinota,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,Coleoptera,Cetoniidae,
+260940,2024-04-29,2024-04-30,2024-04-29,06:29:00,arachnida,246479,species,Synema globosum,41.2790703658,2.0653653084,"Barcelona, España",research,4,xasalva,cc-by-nc,1,0,Animalia,Arthropoda,Arachnida,Araneae,Thomisidae,Synema
+260939,2024-04-29,2024-04-30,2024-04-29,06:28:00,insecta,324,order,Coleoptera,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,,,
+260938,2024-04-29,2024-04-30,2024-04-29,06:14:00,aves,242811,species,Aegithalos caudatus,41.2790703658,2.0653653084,"Barcelona, España",research,4,xasalva,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Aegithalidae,Aegithalos
 260937,2024-04-29,2024-04-29,2024-04-29,06:12:00,,nan,,,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
 260936,2024-04-29,2024-04-29,2024-04-29,06:12:00,,nan,,,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
 260935,2024-04-29,2024-04-29,2024-04-29,06:12:00,,nan,,,41.2790703658,2.0653653084,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
