@@ -435,7 +435,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 260876,2024-04-29,2024-04-29,2024-04-27,14:41:00,arachnida,130378,species,Thomisus onustus,41.2899564897,2.1081191607,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Arachnida,Araneae,Thomisidae,Thomisus
 260875,2024-04-29,2024-04-29,2024-04-27,14:36:00,fungi,13,kingdom,Fungi,41.2899564897,2.1081191607,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
 260874,2024-04-29,2024-04-30,2024-04-27,14:40:00,plantae,246522,species,Bituminaria bituminosa,41.2899564897,2.1081191607,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Bituminaria
-260873,2024-04-29,2024-04-29,2024-04-27,14:32:00,insecta,1054,family,Formicidae,41.2899564897,2.1081191607,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Hymenoptera,,
+260873,2024-04-29,2024-05-01,2024-04-27,14:32:00,insecta,242376,species,Crematogaster scutellaris,41.2899564897,2.1081191607,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,Hymenoptera,Formicidae,Crematogaster
 260872,2024-04-29,2024-04-29,2024-04-27,14:36:00,fungi,253726,species,Xanthoria parietina,41.2899564897,2.1081191607,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Fungi,Ascomycota,Lecanoromycetes,Teloschistales,Teloschistaceae,Xanthoria
 260871,2024-04-29,2024-04-29,2024-04-27,14:33:00,fungi,13,kingdom,Fungi,41.2899564897,2.1081191607,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
 260870,2024-04-29,2024-04-29,2024-04-27,14:31:00,insecta,324,order,Coleoptera,41.2899564897,2.1081191607,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,,,
