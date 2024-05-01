@@ -2,7 +2,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 261766,2024-05-01,2024-05-01,2024-04-28,07:46:00,plantae,247368,species,Salvia greggii,41.404296,2.186131,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Lamiaceae,Salvia
 261763,2024-05-01,2024-05-01,2024-04-27,10:34:00,echinodermata,34848,species,Paracentrotus lividus,41.4098917184,2.2272912436,Spain,research,2362,ricard,cc-by,2,0,Animalia,Echinodermata,Echinoidea,Camarodonta,Parechinidae,Paracentrotus
 261762,2024-05-01,2024-05-01,2024-04-27,10:34:00,actinopterygii,35120,species,Gobius incognitus,41.4098887184,2.2272882436,Spain,research,2362,ricard,cc-by,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Gobius
-261761,2024-05-01,2024-05-01,2024-04-27,10:34:00,cnidaria,35047,species,Aiptasia mutabilis,41.4098857184,2.2272852436,Spain,needs_id,2362,ricard,cc-by,0,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Aiptasiidae,Aiptasia
+261761,2024-05-01,2024-05-01,2024-04-27,10:34:00,cnidaria,35047,species,Aiptasia mutabilis,41.4098857184,2.2272852436,Spain,research,2362,ricard,cc-by,2,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Aiptasiidae,Aiptasia
 261753,2024-05-01,2024-05-01,2024-04-28,07:46:00,insecta,245563,species,Apis mellifera,41.404128,2.186077,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Apis
 261752,2024-05-01,2024-05-01,2024-04-28,07:46:00,aves,257136,species,Curruca melanocephala,41.404086,2.186163,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Sylviidae,
 261751,2024-05-01,2024-05-01,2024-04-28,07:46:00,insecta,245563,species,Apis mellifera,41.404296,2.186131,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Apis
@@ -151,8 +151,8 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 261605,2024-05-01,2024-05-01,2024-04-29,05:32:00,plantae,249514,species,Galactites tomentosa,41.27920515,2.0618033,,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Galactites
 261604,2024-05-01,2024-05-01,2024-04-29,05:31:00,,nan,,,41.2795967167,2.0610916,,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
 261603,2024-05-01,2024-05-01,2024-04-29,05:30:00,,nan,,,41.2799938833,2.0604169833,,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
-261602,2024-05-01,2024-05-01,2024-04-29,05:30:00,,nan,,,41.27988275,2.0606192,,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
-261601,2024-05-01,2024-05-01,2024-04-29,05:30:00,,nan,,,41.27988275,2.0606192,,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
+261602,2024-05-01,2024-05-01,2024-04-29,05:30:00,arachnida,9,class,Arachnida,41.27988275,2.0606192,,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Arthropoda,,,,
+261601,2024-05-01,2024-05-01,2024-04-29,05:30:00,plantae,249514,species,Galactites tomentosa,41.27988275,2.0606192,,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Galactites
 261600,2024-05-01,2024-05-01,2024-04-29,05:26:00,plantae,250103,species,Olea europaea,41.2805875167,2.0594882167,,research,11,jaume-piera,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Scrophulariales,Oleaceae,Olea
 261599,2024-05-01,2024-05-01,2024-04-29,05:23:00,aves,249670,species,Serinus serinus,41.2820892333,2.0587858333,,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Serinus
 261598,2024-05-01,2024-05-01,2024-04-29,05:22:00,plantae,38293,genus,Calamagrostis,41.2825695167,2.05897935,Remolar,needs_id,11,jaume-piera,cc-by-nc,1,0,Plantae,Magnoliophyta,Liliopsida,Poales,Poaceae,
