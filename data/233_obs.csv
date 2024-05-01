@@ -2,9 +2,9 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 261753,2024-05-01,2024-05-01,2024-04-28,07:46:00,insecta,245563,species,Apis mellifera,41.404128,2.186077,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Apis
 261752,2024-05-01,2024-05-01,2024-04-28,07:46:00,aves,257136,species,Curruca melanocephala,41.404086,2.186163,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Sylviidae,
 261751,2024-05-01,2024-05-01,2024-04-28,07:46:00,insecta,245563,species,Apis mellifera,41.404296,2.186131,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Apis
-261750,2024-05-01,2024-05-01,2024-04-28,07:46:00,,nan,,,41.404168,2.186131,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
-261749,2024-05-01,2024-05-01,2024-04-28,07:46:00,,nan,,,41.404128,2.186249,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
-261748,2024-05-01,2024-05-01,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
+261750,2024-05-01,2024-05-01,2024-04-28,07:46:00,plantae,39097,genus,Fraxinus,41.404168,2.186131,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Scrophulariales,Oleaceae,
+261749,2024-05-01,2024-05-01,2024-04-28,07:46:00,plantae,38169,genus,Salvia,41.404128,2.186249,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Lamiaceae,
+261748,2024-05-01,2024-05-01,2024-04-28,07:46:00,plantae,252049,species,Trifolium repens,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Trifolium
 261747,2024-05-01,2024-05-01,2024-04-28,07:46:00,aves,252264,species,Columba livia,41.404128,2.185949,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
 261746,2024-05-01,2024-05-01,2024-04-28,07:46:00,aves,247147,species,Estrilda astrild,41.404269,2.185551,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Estrildidae,Estrilda
 261744,2024-05-01,2024-05-01,2024-04-28,07:46:00,aves,247147,species,Estrilda astrild,41.404194,2.186044,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Estrildidae,Estrilda
@@ -96,15 +96,15 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 261657,2024-05-01,2024-05-01,2024-04-29,07:02:00,plantae,252378,species,Conium maculatum,41.3097653981,2.049223354,"Barcelona, Espanya",research,11,jaume-piera,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Apiales,Apiaceae,Conium
 261656,2024-05-01,2024-05-01,2024-04-29,07:02:00,plantae,250267,species,Silybum marianum,41.3097653981,2.049223354,"Barcelona, Espanya",research,11,jaume-piera,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Silybum
 261655,2024-05-01,2024-05-01,2024-04-29,07:01:00,plantae,250267,species,Silybum marianum,41.3097653981,2.049223354,"Barcelona, Espanya",research,11,jaume-piera,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Silybum
-261654,2024-05-01,2024-05-01,2024-04-29,07:01:00,plantae,39402,genus,Mercurialis,41.3097653981,2.049223354,"Barcelona, Espanya",needs_id,11,jaume-piera,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,
+261654,2024-05-01,2024-05-01,2024-04-29,07:01:00,plantae,246701,species,Mercurialis annua,41.3097653981,2.049223354,"Barcelona, Espanya",needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,Mercurialis
 261653,2024-05-01,2024-05-01,2024-04-29,07:01:00,plantae,246701,species,Mercurialis annua,41.3097653981,2.049223354,"Barcelona, Espanya",research,11,jaume-piera,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,Mercurialis
 261652,2024-05-01,2024-05-01,2024-04-29,06:59:00,aves,33098,species,Tringa nebularia,41.3097653981,2.049223354,"Barcelona, Espanya",research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Ciconiiformes,Scolopacidae,Tringa
-261651,2024-05-01,2024-05-01,2024-04-29,06:40:00,plantae,246991,species,Asphodelus fistulosus,41.2877520333,2.0552278719,"Barcelona, Espanya",needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Asparagales,Xanthorrhoeaceae,Asphodelus
-261650,2024-05-01,2024-05-01,2024-04-29,06:40:00,plantae,43742,genus,Echium,41.2877520333,2.0552278719,"Barcelona, Espanya",needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Boraginaceae,
+261651,2024-05-01,2024-05-01,2024-04-29,06:40:00,plantae,246991,species,Asphodelus fistulosus,41.2877520333,2.0552278719,"Barcelona, Espanya",research,11,jaume-piera,cc-by-nc,1,0,Plantae,Magnoliophyta,Liliopsida,Asparagales,Xanthorrhoeaceae,Asphodelus
+261650,2024-05-01,2024-05-01,2024-04-29,06:40:00,plantae,43742,genus,Echium,41.2877520333,2.0552278719,"Barcelona, Espanya",needs_id,11,jaume-piera,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Boraginaceae,
 261649,2024-05-01,2024-05-01,2024-04-29,06:39:00,plantae,246991,species,Asphodelus fistulosus,41.2877520333,2.0552278719,"Barcelona, Espanya",research,11,jaume-piera,cc-by-nc,1,0,Plantae,Magnoliophyta,Liliopsida,Asparagales,Xanthorrhoeaceae,Asphodelus
-261648,2024-05-01,2024-05-01,2024-04-29,06:39:00,,nan,,,41.2877520333,2.0552278719,"Barcelona, Espanya",needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
-261647,2024-05-01,2024-05-01,2024-04-29,06:39:00,,nan,,,41.2877520333,2.0552278719,"Barcelona, Espanya",needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
-261646,2024-05-01,2024-05-01,2024-04-29,06:38:00,,nan,,,41.2877287058,2.0553639503,"Barcelona, Espanya",needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
+261648,2024-05-01,2024-05-01,2024-04-29,06:39:00,plantae,243413,species,Cynoglossum creticum,41.2877520333,2.0552278719,"Barcelona, Espanya",needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Boraginaceae,Cynoglossum
+261647,2024-05-01,2024-05-01,2024-04-29,06:39:00,plantae,249514,species,Galactites tomentosa,41.2877520333,2.0552278719,"Barcelona, Espanya",needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Galactites
+261646,2024-05-01,2024-05-01,2024-04-29,06:38:00,insecta,161,order,Diptera,41.2877287058,2.0553639503,"Barcelona, Espanya",needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,,,
 261645,2024-05-01,2024-05-01,2024-04-29,06:38:00,insecta,161,order,Diptera,41.2877287058,2.0553639503,"Barcelona, Espanya",needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,,,
 261644,2024-05-01,2024-05-01,2024-04-29,06:36:00,insecta,161,order,Diptera,41.2877287058,2.0553639503,"Barcelona, Espanya",needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,,,
 261643,2024-05-01,2024-05-01,2024-04-29,06:36:00,insecta,324,order,Coleoptera,41.2877287058,2.0553639503,"Barcelona, Espanya",needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,,,
@@ -120,7 +120,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 261633,2024-05-01,2024-05-01,2024-04-29,06:28:00,aves,250773,species,Chloris chloris,41.28769215,2.0552281333,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Chloris
 261632,2024-05-01,2024-05-01,2024-04-29,06:27:00,,nan,,,41.28767205,2.0553361667,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
 261631,2024-05-01,2024-05-01,2024-04-29,06:26:00,mollusca,116,class,Gastropoda,41.2876595833,2.0553496667,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Mollusca,,,,
-261630,2024-05-01,2024-05-01,2024-04-29,06:26:00,insecta,1037,family,Curculionidae,41.2876649,2.0553439167,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Coleoptera,,
+261630,2024-05-01,2024-05-01,2024-04-29,06:26:00,insecta,7795,genus,Lixus,41.2876649,2.0553439167,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Coleoptera,Curculionidae,
 261629,2024-05-01,2024-05-01,2024-04-29,06:25:00,aves,240672,species,Ardea alba,41.2875894,2.0554073833,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Ciconiiformes,Ardeidae,Ardea
 261628,2024-05-01,2024-05-01,2024-04-29,06:24:00,,nan,,,41.2875969333,2.0553091,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
 261627,2024-05-01,2024-05-01,2024-04-29,06:23:00,mollusca,116,class,Gastropoda,41.28760255,2.0553160333,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Mollusca,,,,
@@ -133,7 +133,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 261620,2024-05-01,2024-05-01,2024-04-29,06:17:00,plantae,247323,species,Eucalyptus globulus,41.2877149833,2.0554188,Spain,research,11,jaume-piera,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Myrtales,Myrtaceae,Eucalyptus
 261619,2024-05-01,2024-05-01,2024-04-29,06:15:00,aves,248777,species,Ficedula hypoleuca,41.2875779,2.0555390833,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Ficedula
 261618,2024-05-01,2024-05-01,2024-04-29,06:14:00,plantae,251619,species,Cistus monspeliensis,41.2874387167,2.0561838333,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Violales,Cistaceae,Cistus
-261617,2024-05-01,2024-05-01,2024-04-29,06:14:00,,nan,,,41.2874472167,2.0561547833,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
+261617,2024-05-01,2024-05-01,2024-04-29,06:14:00,plantae,246918,species,Asparagus acutifolius,41.2874472167,2.0561547833,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Asparagales,Asparagaceae,Asparagus
 261616,2024-05-01,2024-05-01,2024-04-29,06:13:00,aves,252272,species,Columba palumbus,41.2873396167,2.0564358833,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
 261615,2024-05-01,2024-05-01,2024-04-29,05:59:00,plantae,35545,genus,Rubus,41.282155,2.0587527167,,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Rosaceae,
 261614,2024-05-01,2024-05-01,2024-04-29,05:56:00,plantae,244842,species,Lonicera implexa,41.2805157667,2.05961785,,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Dipsacales,Caprifoliaceae,Lonicera
@@ -159,24 +159,24 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 261594,2024-05-01,2024-05-01,2024-04-29,05:19:00,aves,242811,species,Aegithalos caudatus,41.2831862,2.0592798833,,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Aegithalidae,Aegithalos
 261593,2024-05-01,2024-05-01,2024-04-29,05:17:00,aves,242811,species,Aegithalos caudatus,41.2839229833,2.0592894167,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Aegithalidae,Aegithalos
 261592,2024-05-01,2024-05-01,2024-04-29,05:16:00,plantae,251619,species,Cistus monspeliensis,41.28435375,2.0591346,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Violales,Cistaceae,Cistus
-261591,2024-05-01,2024-05-01,2024-04-29,05:16:00,plantae,262854,species,Plantago lagopus,41.28434155,2.0591430167,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Plantaginales,Plantaginaceae,Plantago
+261591,2024-05-01,2024-05-01,2024-04-29,05:16:00,plantae,262854,species,Plantago lagopus,41.28434155,2.0591430167,Spain,research,11,jaume-piera,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Plantaginales,Plantaginaceae,Plantago
 261590,2024-05-01,2024-05-01,2024-04-29,05:15:00,mollusca,116,class,Gastropoda,41.28437555,2.0591195667,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Mollusca,,,,
 261589,2024-05-01,2024-05-01,2024-04-29,05:14:00,mollusca,191457,species,Pseudotachea splendida,41.2843796167,2.05911675,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Stylommatophora,Helicidae,Pseudotachea
 261588,2024-05-01,2024-05-01,2024-04-29,05:13:00,plantae,12134,genus,Pinus,41.2845459833,2.0590083833,Spain,needs_id,11,jaume-piera,cc-by-nc,1,0,Plantae,Pinophyta,Pinopsida,Pinales,Pinaceae,
 261587,2024-05-01,2024-05-01,2024-04-29,05:12:00,insecta,251075,species,Thaumetopoea pityocampa,41.2846737167,2.0589317667,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,Lepidoptera,Notodontidae,Thaumetopoea
 261586,2024-05-01,2024-05-01,2024-04-29,05:11:00,plantae,251619,species,Cistus monspeliensis,41.2850561833,2.0585520833,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Violales,Cistaceae,Cistus
 261585,2024-05-01,2024-05-01,2024-04-29,05:11:00,aves,250485,species,Sturnus vulgaris,41.2849838167,2.0586067833,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Sturnidae,Sturnus
-261584,2024-05-01,2024-05-01,2024-04-29,05:11:00,,nan,,,41.2850273167,2.0585765833,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
+261584,2024-05-01,2024-05-01,2024-04-29,05:11:00,plantae,246918,species,Asparagus acutifolius,41.2850273167,2.0585765833,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Asparagales,Asparagaceae,Asparagus
 261583,2024-05-01,2024-05-01,2024-04-29,05:11:00,plantae,251660,species,Cistus salviifolius,41.2850273167,2.0585765833,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Violales,Cistaceae,Cistus
 261582,2024-05-01,2024-05-01,2024-04-29,05:11:00,plantae,251660,species,Cistus salviifolius,41.2850426333,2.0585656833,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Violales,Cistaceae,Cistus
 261581,2024-05-01,2024-05-01,2024-04-29,05:10:00,plantae,244728,species,Lobularia maritima,41.2850862,2.05852195,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Capparales,Brassicaceae,
 261580,2024-05-01,2024-05-01,2024-04-29,05:10:00,plantae,242219,species,Pistacia lentiscus,41.2850658667,2.0585423667,Spain,research,11,jaume-piera,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Sapindales,Anacardiaceae,Pistacia
-261579,2024-05-01,2024-05-01,2024-04-29,05:10:00,plantae,83185,genus,Carpobrotus,41.2850765167,2.0585316667,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Aizoaceae,
+261579,2024-05-01,2024-05-01,2024-04-29,05:10:00,plantae,83185,genus,Carpobrotus,41.2850765167,2.0585316667,Spain,needs_id,11,jaume-piera,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Aizoaceae,
 261578,2024-05-01,2024-05-01,2024-04-29,05:09:00,plantae,31,class,Magnoliopsida,41.2856676833,2.0580489167,Spain,needs_id,11,jaume-piera,cc-by-nc,2,0,Plantae,Magnoliophyta,,,,
 261577,2024-05-01,2024-05-01,2024-04-29,05:09:00,aves,250485,species,Sturnus vulgaris,41.2852635,2.0583723833,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Sturnidae,Sturnus
 261576,2024-05-01,2024-05-01,2024-04-29,05:09:00,fungi,13,kingdom,Fungi,41.2853448333,2.0583063667,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
 261575,2024-05-01,2024-05-01,2024-04-29,05:09:00,aves,250485,species,Sturnus vulgaris,41.2854772,2.05820365,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Sturnidae,Sturnus
-261574,2024-05-01,2024-05-01,2024-04-29,05:09:00,plantae,245800,species,Rhamnus alaternus,41.2856374,2.0580745833,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Rhamnales,Rhamnaceae,Rhamnus
+261574,2024-05-01,2024-05-01,2024-04-29,05:09:00,plantae,245800,species,Rhamnus alaternus,41.2856374,2.0580745833,Spain,research,11,jaume-piera,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Rhamnales,Rhamnaceae,Rhamnus
 261573,2024-05-01,2024-05-01,2024-04-29,05:08:00,,nan,,,41.2859652833,2.0577523,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
 261572,2024-05-01,2024-05-01,2024-04-29,05:08:00,plantae,31093,genus,Euphorbia,41.2858788167,2.0578360167,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,
 261571,2024-05-01,2024-05-01,2024-04-29,05:06:00,aves,249670,species,Serinus serinus,41.28655965,2.0572622,Spain,research,11,jaume-piera,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Serinus
