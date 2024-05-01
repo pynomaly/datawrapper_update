@@ -1,4 +1,7 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+261763,2024-05-01,2024-05-01,2024-04-27,10:34:00,,nan,,,41.4098917184,2.2272912436,Spain,needs_id,2362,ricard,cc-by,0,0,,,,,,
+261762,2024-05-01,2024-05-01,2024-04-27,10:34:00,,nan,,,41.4098887184,2.2272882436,Spain,needs_id,2362,ricard,cc-by,0,0,,,,,,
+261761,2024-05-01,2024-05-01,2024-04-27,10:34:00,,nan,,,41.4098857184,2.2272852436,Spain,needs_id,2362,ricard,cc-by,0,0,,,,,,
 261753,2024-05-01,2024-05-01,2024-04-28,07:46:00,insecta,245563,species,Apis mellifera,41.404128,2.186077,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Apis
 261752,2024-05-01,2024-05-01,2024-04-28,07:46:00,aves,257136,species,Curruca melanocephala,41.404086,2.186163,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Sylviidae,
 261751,2024-05-01,2024-05-01,2024-04-28,07:46:00,insecta,245563,species,Apis mellifera,41.404296,2.186131,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Apis
@@ -10,7 +13,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 261744,2024-05-01,2024-05-01,2024-04-28,07:46:00,aves,247147,species,Estrilda astrild,41.404194,2.186044,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Estrildidae,Estrilda
 261743,2024-05-01,2024-05-01,2024-04-28,07:46:00,aves,252264,species,Columba livia,41.404037,2.186292,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
 261742,2024-05-01,2024-05-01,2024-04-28,07:46:00,aves,249670,species,Serinus serinus,41.404037,2.185605,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Serinus
-261741,2024-05-01,2024-05-01,2024-04-28,07:46:00,,nan,,,41.403935,2.18582,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
+261741,2024-05-01,2024-05-01,2024-04-28,07:46:00,plantae,249001,species,Gleditsia triacanthos,41.403935,2.18582,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Gleditsia
 261740,2024-05-01,2024-05-01,2024-04-28,07:46:00,aves,249670,species,Serinus serinus,41.404247,2.186135,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Serinus
 261739,2024-05-01,2024-05-01,2024-04-28,07:46:00,aves,252848,species,Passer domesticus,41.403769,2.18544,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer
 261738,2024-05-01,2024-05-01,2024-04-28,07:46:00,aves,249670,species,Serinus serinus,41.404104,2.186195,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Serinus
@@ -29,12 +32,12 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 261724,2024-05-01,2024-05-01,2024-04-27,08:11:00,aves,105320,genus,Sturnus,41.36197,1.9802633333,"Barcelona, Espanya",needs_id,67,piripip,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Sturnidae,
 261723,2024-05-01,2024-05-01,2024-04-27,08:10:00,aves,243037,species,Cyanistes caeruleus,41.362005,1.9802866667,"Barcelona, Espanya",research,67,piripip,cc-by-nc,2,0,Animalia,Chordata,Aves,Passeriformes,Paridae,Cyanistes
 261722,2024-05-01,2024-05-01,2024-04-27,08:09:00,aves,253420,species,Turdus merula,41.3620483333,1.9803466667,"Barcelona, Espanya",research,67,piripip,cc-by-nc,2,0,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus
-261721,2024-05-01,2024-05-01,2024-04-27,08:08:00,aves,250056,species,Oenanthe oenanthe,41.3620516667,1.9804733333,"Barcelona, Espanya",research,67,piripip,cc-by-nc,2,0,Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Oenanthe
+261721,2024-05-01,2024-05-01,2024-04-27,08:08:00,aves,250056,species,Oenanthe oenanthe,41.3620516667,1.9804733333,"Barcelona, Espanya",research,67,piripip,cc-by-nc,3,0,Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Oenanthe
 261720,2024-05-01,2024-05-01,2024-04-27,08:02:00,aves,249190,species,Carduelis carduelis,41.36189,1.9809933333,"Barcelona, Espanya",research,67,piripip,cc-by-nc,2,0,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Carduelis
 261719,2024-05-01,2024-05-01,2024-04-28,07:48:00,insecta,7692,genus,Idaea,41.3554261,1.9793518,"08629 Torrelles de Llobregat, Barcelona, Espanya",research,67,piripip,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,Lepidoptera,Geometridae,
-261718,2024-05-01,2024-05-01,2024-04-26,05:47:00,aves,242433,species,Jynx torquilla,41.3554261,1.9793518,"08629 Torrelles de Llobregat, Barcelona, Espanya",research,67,piripip,cc-by-nc,1,0,Animalia,Chordata,Aves,Piciformes,Picidae,Jynx
+261718,2024-05-01,2024-05-01,2024-04-26,05:47:00,aves,242433,species,Jynx torquilla,41.3554261,1.9793518,"08629 Torrelles de Llobregat, Barcelona, Espanya",research,67,piripip,cc-by-nc,2,0,Animalia,Chordata,Aves,Piciformes,Picidae,Jynx
 261717,2024-05-01,2024-05-01,2024-04-27,09:26:00,insecta,249587,species,Nyctophila reichii,41.3683904924,1.9854712467,"Barcelona, Espanya",research,67,piripip,cc-by-nc,2,0,Animalia,Arthropoda,Insecta,Coleoptera,Lampyridae,Nyctophila
-261716,2024-05-01,2024-05-01,2024-04-27,09:25:00,insecta,263068,species,Fibla hesperica,41.3676982334,1.9837095049,"Barcelona, Espanya",research,67,piripip,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,Raphidioptera,Inocelliidae,Fibla
+261716,2024-05-01,2024-05-01,2024-04-27,09:25:00,insecta,263068,species,Fibla hesperica,41.3676982334,1.9837095049,"Barcelona, Espanya",research,67,piripip,cc-by-nc,2,0,Animalia,Arthropoda,Insecta,Raphidioptera,Inocelliidae,Fibla
 261715,2024-05-01,2024-05-01,2024-04-27,07:57:00,plantae,245060,species,Draba verna,41.3619650869,1.9780875948,"Barcelona, Espanya",research,67,piripip,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Capparales,Brassicaceae,Draba
 261714,2024-05-01,2024-05-01,2024-04-27,07:38:00,insecta,20486,genus,Blaps,41.3627381248,1.9740106371,"Barcelona, Espanya",research,67,piripip,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,Coleoptera,Tenebrionidae,
 261713,2024-05-01,2024-05-01,2024-04-27,07:35:00,plantae,39583,species,Osyris alba,41.3626979126,1.974504165,"Barcelona, Espanya",research,67,piripip,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Santalales,Santalaceae,Osyris
