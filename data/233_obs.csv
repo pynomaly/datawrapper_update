@@ -1,4 +1,26 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+261754,2024-05-01,2024-05-01,2024-04-28,07:46:00,aves,253420,species,Turdus merula,41.404179,2.186439,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus
+261753,2024-05-01,2024-05-01,2024-04-28,07:46:00,insecta,245563,species,Apis mellifera,41.404064,2.185691,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Apis
+261752,2024-05-01,2024-05-01,2024-04-28,07:46:00,aves,257136,species,Curruca melanocephala,41.404086,2.186163,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Sylviidae,
+261751,2024-05-01,2024-05-01,2024-04-28,07:46:00,insecta,245563,species,Apis mellifera,41.404296,2.186131,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Apis
+261750,2024-05-01,2024-05-01,2024-04-28,07:46:00,,nan,,,41.404168,2.186131,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
+261749,2024-05-01,2024-05-01,2024-04-28,07:46:00,,nan,,,41.404128,2.186249,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
+261748,2024-05-01,2024-05-01,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
+261747,2024-05-01,2024-05-01,2024-04-28,07:46:00,aves,252264,species,Columba livia,41.404128,2.185949,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
+261746,2024-05-01,2024-05-01,2024-04-28,07:46:00,aves,247147,species,Estrilda astrild,41.404269,2.185551,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Estrildidae,Estrilda
+261744,2024-05-01,2024-05-01,2024-04-28,07:46:00,aves,247147,species,Estrilda astrild,41.404194,2.186044,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Estrildidae,Estrilda
+261743,2024-05-01,2024-05-01,2024-04-28,07:46:00,aves,252264,species,Columba livia,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
+261742,2024-05-01,2024-05-01,2024-04-28,07:46:00,aves,249670,species,Serinus serinus,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Serinus
+261741,2024-05-01,2024-05-01,2024-04-28,07:46:00,,nan,,,41.403935,2.18582,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
+261740,2024-05-01,2024-05-01,2024-04-28,07:46:00,aves,249670,species,Serinus serinus,41.404247,2.186135,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Serinus
+261739,2024-05-01,2024-05-01,2024-04-28,07:46:00,aves,252848,species,Passer domesticus,41.403769,2.18544,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer
+261738,2024-05-01,2024-05-01,2024-04-28,07:46:00,aves,249670,species,Serinus serinus,41.404104,2.186195,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Serinus
+261737,2024-05-01,2024-05-01,2024-04-28,07:46:00,aves,249670,species,Serinus serinus,41.404666,2.185702,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Serinus
+261736,2024-05-01,2024-05-01,2024-04-28,07:46:00,aves,249670,species,Serinus serinus,41.404559,2.186156,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Serinus
+261735,2024-05-01,2024-05-01,2024-04-28,07:46:00,aves,249670,species,Serinus serinus,41.404179,2.186439,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Serinus
+261734,2024-05-01,2024-05-01,2024-04-28,07:46:00,aves,249670,species,Serinus serinus,41.40826265,2.1828373,Spain,casual,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Serinus
+261733,2024-05-01,2024-05-01,2024-04-28,07:46:00,aves,252264,species,Columba livia,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
+261732,2024-05-01,2024-05-01,2024-04-28,07:46:00,,nan,,,41.40826265,2.1828373,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,,,,,,
 261731,2024-05-01,2024-05-01,2024-04-28,08:53:00,aves,252835,species,Parus major,41.3550215781,1.9827884775,"08629 Torrelles de Llobregat, Barcelona, Espanya",research,67,piripip,cc-by-nc,2,0,Animalia,Chordata,Aves,Passeriformes,Paridae,Parus
 261730,2024-05-01,2024-05-01,2024-04-28,08:53:00,aves,252848,species,Passer domesticus,41.3547693546,1.9828313963,"08629 Torrelles de Llobregat, Barcelona, Espanya",research,67,piripip,cc-by-nc,2,0,Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer
 261729,2024-05-01,2024-05-01,2024-04-28,08:37:00,aves,250773,species,Chloris chloris,41.3568283333,1.9822133333,"08629 Torrelles de Llobregat, Barcelona, Espanya",research,67,piripip,cc-by-nc,2,0,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Chloris
