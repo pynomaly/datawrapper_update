@@ -1,4 +1,8 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+261972,2024-05-02,2024-05-02,2024-04-26,13:38:00,aves,252271,subspecies,Columba livia domestica,41.4047801638,2.1880599076,Spain,needs_id,12,sonialinan,cc-by-nc,0,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
+261971,2024-05-02,2024-05-02,2024-04-26,13:38:00,aves,252271,subspecies,Columba livia domestica,41.4047731638,2.1880529076,Spain,needs_id,12,sonialinan,cc-by-nc,0,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
+261970,2024-05-02,2024-05-02,2024-04-26,13:46:00,insecta,241861,species,Pieris napi,41.4043567184,2.1866273135,Spain,needs_id,12,sonialinan,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pieris
+261969,2024-05-02,2024-05-02,2024-04-26,13:50:00,plantae,12,kingdom,Plantae,41.4016276276,2.1956019849,Spain,needs_id,12,sonialinan,cc-by-nc,0,0,,,,,,
 261891,2024-05-02,2024-05-02,2024-04-26,08:51:00,actinopterygii,34835,species,Coris julis,41.4114012865,2.228026682,Spain,research,2374,agarcian53,cc-by,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
 261890,2024-05-02,2024-05-02,2024-04-26,08:51:00,actinopterygii,34835,species,Coris julis,41.4113982865,2.228023682,Spain,research,2374,agarcian53,cc-by,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
 261889,2024-05-02,2024-05-02,2024-04-26,08:51:00,mollusca,250214,species,Cerithium vulgatum,41.4113952865,2.228020682,Spain,research,2374,agarcian53,cc-by,2,0,Animalia,Mollusca,Gastropoda,,Cerithiidae,Cerithium
@@ -1184,7 +1188,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 260077,2024-04-28,2024-04-28,2024-04-27,08:03:00,actinopterygii,34798,species,Diplodus vulgaris,41.4097597308,2.2271004374,Spain,research,1047,laiamanyer,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
 260076,2024-04-28,2024-04-28,2024-04-27,08:01:00,actinopterygii,12553,species,Diplodus sargus,41.4098241036,2.2270789797,Spain,research,1047,laiamanyer,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
 260075,2024-04-28,2024-04-28,2024-04-27,07:59:00,cnidaria,34999,species,Actinia mediterranea,41.4098900586,2.2272264746,Spain,research,1047,laiamanyer,cc-by-nc,1,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Actinia
-260069,2024-04-28,2024-04-28,2024-04-26,13:49:00,plantae,38161,genus,Cirsium,41.4037969272,2.1861934662,Spain,needs_id,12,sonialinan,cc-by-nc,2,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,
+260069,2024-04-28,2024-05-02,2024-04-26,13:49:00,plantae,263168,species,Cirsium ferox,41.4037969272,2.1861934662,Spain,needs_id,12,sonialinan,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Cirsium
 260068,2024-04-28,2024-04-30,2024-04-26,13:51:00,insecta,19332,genus,Apis,41.4037913118,2.1851821918,Spain,needs_id,12,sonialinan,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,
 260067,2024-04-28,2024-05-01,2024-04-26,13:54:00,aves,105320,genus,Sturnus,41.4037843118,2.1851751918,Spain,needs_id,12,sonialinan,cc-by-nc,3,1,Animalia,Chordata,Aves,Passeriformes,Sturnidae,
 260066,2024-04-28,2024-04-28,2024-04-26,13:56:00,aves,253420,species,Turdus merula,41.4037773118,2.1851681918,Spain,research,12,sonialinan,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus
