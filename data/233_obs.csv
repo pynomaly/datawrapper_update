@@ -1,4 +1,8 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+261976,2024-05-02,2024-05-02,2024-04-26,13:18:00,plantae,25747,species,Dittrichia viscosa,41.4017644369,2.1954169124,Spain,needs_id,12,sonialinan,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Dittrichia
+261975,2024-05-02,2024-05-02,2024-04-26,13:28:00,,nan,,,41.4046426477,2.1920255944,Spain,needs_id,12,sonialinan,cc-by-nc,0,0,,,,,,
+261974,2024-05-02,2024-05-02,2024-04-26,13:29:00,aves,252271,subspecies,Columba livia domestica,41.4049079134,2.1916808898,Spain,needs_id,12,sonialinan,cc-by-nc,0,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
+261973,2024-05-02,2024-05-02,2024-04-26,13:29:00,aves,252848,species,Passer domesticus,41.4049009134,2.1916738898,Spain,needs_id,12,sonialinan,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer
 261972,2024-05-02,2024-05-02,2024-04-26,13:38:00,aves,252271,subspecies,Columba livia domestica,41.4047801638,2.1880599076,Spain,needs_id,12,sonialinan,cc-by-nc,0,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
 261971,2024-05-02,2024-05-02,2024-04-26,13:38:00,aves,252271,subspecies,Columba livia domestica,41.4047731638,2.1880529076,Spain,needs_id,12,sonialinan,cc-by-nc,0,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
 261970,2024-05-02,2024-05-02,2024-04-26,13:46:00,insecta,241861,species,Pieris napi,41.4043567184,2.1866273135,Spain,needs_id,12,sonialinan,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pieris
