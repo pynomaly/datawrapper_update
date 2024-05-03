@@ -23,7 +23,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run the script
-        run: python update_biodiverciutat.py
+        run: python update_biomarato.py
 
       - name: Commit files
         run: |
