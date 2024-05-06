@@ -1,5 +1,9 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+263272,2024-05-06,2024-05-06,2024-05-06,08:17:00,,nan,,,41.4414318,2.2458834,False,Spain,needs_id,1795,iollalle,cc-by,0,0,,,,,,
+263271,2024-05-06,2024-05-06,2024-05-06,07:51:00,life,1,stateofmatter,Life,41.4415070429,2.2462383719,False,Spain,needs_id,1807,mire,cc-by,0,0,,,,,,
+263270,2024-05-06,2024-05-06,2024-05-06,07:25:00,life,1,stateofmatter,Life,41.4423403353,2.2478638217,False,Spain,needs_id,1824,pauruizmartinez,cc-by,0,0,,,,,,
 263269,2024-05-06,2024-05-06,2024-05-06,07:33:00,mollusca,245729,species,Mactra stultorum,41.4415000429,2.2462313719,False,Spain,needs_id,1807,mire,cc-by,0,0,Animalia,Mollusca,Bivalvia,Venerida,Mactridae,Mactra
+263268,2024-05-06,2024-05-06,2024-05-06,08:17:00,life,1,stateofmatter,Life,41.4414393,2.2459614,False,Spain,needs_id,1804,madesa,cc-by,0,0,,,,,,
 263267,2024-05-06,2024-05-06,2024-05-06,07:33:00,mollusca,245729,species,Mactra stultorum,41.4413965,2.2458949,False,Spain,needs_id,1820,lauraaa,cc-by,0,0,Animalia,Mollusca,Bivalvia,Venerida,Mactridae,Mactra
 263266,2024-05-06,2024-05-06,2024-05-06,07:31:00,life,1,stateofmatter,Life,41.4412175,2.2466187,False,Spain,needs_id,1803,darube,cc-by,0,0,,,,,,
 263265,2024-05-06,2024-05-06,2024-05-06,07:31:00,,669,order,Pedunculata,41.4413895,2.2458879,False,Spain,needs_id,1820,lauraaa,cc-by,0,0,Animalia,Arthropoda,Maxillopoda,,,
