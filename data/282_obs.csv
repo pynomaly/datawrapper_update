@@ -1,35 +1,35 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
-263272,2024-05-06,2024-05-06,2024-05-06,08:17:00,,nan,,,41.4414318,2.2458834,False,Spain,needs_id,1795,iollalle,cc-by,0,0,,,,,,
-263271,2024-05-06,2024-05-06,2024-05-06,07:51:00,life,1,stateofmatter,Life,41.4415070429,2.2462383719,False,Spain,needs_id,1807,mire,cc-by,0,0,,,,,,
-263270,2024-05-06,2024-05-06,2024-05-06,07:25:00,life,1,stateofmatter,Life,41.4423403353,2.2478638217,False,Spain,needs_id,1824,pauruizmartinez,cc-by,0,0,,,,,,
-263269,2024-05-06,2024-05-06,2024-05-06,07:33:00,mollusca,245729,species,Mactra stultorum,41.4415000429,2.2462313719,False,Spain,needs_id,1807,mire,cc-by,0,0,Animalia,Mollusca,Bivalvia,Venerida,Mactridae,Mactra
-263268,2024-05-06,2024-05-06,2024-05-06,08:17:00,life,1,stateofmatter,Life,41.4414393,2.2459614,False,Spain,needs_id,1804,madesa,cc-by,0,0,,,,,,
-263267,2024-05-06,2024-05-06,2024-05-06,07:33:00,mollusca,245729,species,Mactra stultorum,41.4413965,2.2458949,False,Spain,needs_id,1820,lauraaa,cc-by,0,0,Animalia,Mollusca,Bivalvia,Venerida,Mactridae,Mactra
-263266,2024-05-06,2024-05-06,2024-05-06,07:31:00,life,1,stateofmatter,Life,41.4412175,2.2466187,False,Spain,needs_id,1803,darube,cc-by,0,0,,,,,,
-263265,2024-05-06,2024-05-06,2024-05-06,07:31:00,,669,order,Pedunculata,41.4413895,2.2458879,False,Spain,needs_id,1820,lauraaa,cc-by,0,0,Animalia,Arthropoda,Maxillopoda,,,
-263264,2024-05-06,2024-05-06,2024-05-06,07:40:00,life,1,stateofmatter,Life,41.4422239532,2.2474437032,False,Spain,needs_id,1824,pauruizmartinez,cc-by,0,0,,,,,,
-263263,2024-05-06,2024-05-06,2024-05-06,07:32:00,life,1,stateofmatter,Life,41.4414930429,2.2462243719,False,Spain,needs_id,1807,mire,cc-by,0,0,,,,,,
-263262,2024-05-06,2024-05-06,2024-05-06,07:40:00,life,1,stateofmatter,Life,41.4422209532,2.2474407032,False,Spain,needs_id,1824,pauruizmartinez,cc-by,0,0,,,,,,
-263261,2024-05-06,2024-05-06,2024-05-06,07:31:00,life,1,stateofmatter,Life,41.4413953,2.2458577,False,Spain,needs_id,1820,lauraaa,cc-by,0,0,,,,,,
-263260,2024-05-06,2024-05-06,2024-05-06,07:31:00,life,1,stateofmatter,Life,41.4414860429,2.2462173719,False,Spain,needs_id,1807,mire,cc-by,0,0,,,,,,
-263259,2024-05-06,2024-05-06,2024-05-06,07:30:00,life,1,stateofmatter,Life,41.4414790429,2.2462103719,False,Spain,needs_id,1807,mire,cc-by,0,0,,,,,,
-263258,2024-05-06,2024-05-06,2024-05-06,07:29:00,life,1,stateofmatter,Life,41.4413306,2.2467113,False,Spain,needs_id,1820,lauraaa,cc-by,0,0,,,,,,
+263272,2024-05-06,2024-05-06,2024-05-06,08:17:00,actinopterygii,3,class,Actinopterygii,41.4414318,2.2458834,False,Spain,needs_id,1795,iollalle,cc-by,0,0,Animalia,Chordata,,,,
+263271,2024-05-06,2024-05-06,2024-05-06,07:51:00,mollusca,584,family,Mytilidae,41.4415070429,2.2462383719,False,Spain,needs_id,1807,mire,cc-by,1,0,Animalia,Mollusca,Bivalvia,Mytilida,,
+263270,2024-05-06,2024-05-06,2024-05-06,07:25:00,plantae,2116,family,Cladophoraceae,41.4423403353,2.2478638217,False,Spain,needs_id,1824,pauruizmartinez,cc-by,1,0,Plantae,Chlorophyta,Ulvophyceae,Cladophorales,,
+263269,2024-05-06,2024-05-06,2024-05-06,07:33:00,mollusca,261838,subclass,Autobranchia,41.4415000429,2.2462313719,False,Spain,needs_id,1807,mire,cc-by,2,0,Animalia,Mollusca,Bivalvia,,,
+263268,2024-05-06,2024-05-06,2024-05-06,08:17:00,mollusca,119,class,Bivalvia,41.4414393,2.2459614,False,Spain,needs_id,1804,madesa,cc-by,1,0,Animalia,Mollusca,,,,
+263267,2024-05-06,2024-05-06,2024-05-06,07:33:00,mollusca,261838,subclass,Autobranchia,41.4413965,2.2458949,False,Spain,needs_id,1820,lauraaa,cc-by,2,0,Animalia,Mollusca,Bivalvia,,,
+263266,2024-05-06,2024-05-06,2024-05-06,07:31:00,,242158,species,Pirimela denticulata,41.4412175,2.2466187,False,Spain,needs_id,1803,darube,cc-by,1,0,Animalia,Arthropoda,Malacostraca,Decapoda,Pirimelidae,Pirimela
+263265,2024-05-06,2024-05-06,2024-05-06,07:31:00,crustacea,211127,species,Lepas anatifera,41.4413895,2.2458879,False,Spain,needs_id,1820,lauraaa,cc-by,1,0,Animalia,Arthropoda,,,Lepadidae,Lepas
+263264,2024-05-06,2024-05-06,2024-05-06,07:40:00,crustacea,344,order,Decapoda,41.4422239532,2.2474437032,False,Spain,needs_id,1824,pauruizmartinez,cc-by,1,0,Animalia,Arthropoda,Malacostraca,,,
+263263,2024-05-06,2024-05-06,2024-05-06,07:32:00,crustacea,211127,species,Lepas anatifera,41.4414930429,2.2462243719,False,Spain,needs_id,1807,mire,cc-by,1,0,Animalia,Arthropoda,,,Lepadidae,Lepas
+263262,2024-05-06,2024-05-06,2024-05-06,07:40:00,,242158,species,Pirimela denticulata,41.4422209532,2.2474407032,False,Spain,needs_id,1824,pauruizmartinez,cc-by,1,0,Animalia,Arthropoda,Malacostraca,Decapoda,Pirimelidae,Pirimela
+263261,2024-05-06,2024-05-06,2024-05-06,07:31:00,,242158,species,Pirimela denticulata,41.4413953,2.2458577,False,Spain,needs_id,1820,lauraaa,cc-by,1,0,Animalia,Arthropoda,Malacostraca,Decapoda,Pirimelidae,Pirimela
+263260,2024-05-06,2024-05-06,2024-05-06,07:31:00,,242158,species,Pirimela denticulata,41.4414860429,2.2462173719,False,Spain,needs_id,1807,mire,cc-by,1,0,Animalia,Arthropoda,Malacostraca,Decapoda,Pirimelidae,Pirimela
+263259,2024-05-06,2024-05-06,2024-05-06,07:30:00,mollusca,241878,species,Acanthocardia tuberculata,41.4414790429,2.2462103719,False,Spain,needs_id,1807,mire,cc-by,1,0,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Acanthocardia
+263258,2024-05-06,2024-05-06,2024-05-06,07:29:00,mollusca,241878,species,Acanthocardia tuberculata,41.4413306,2.2467113,False,Spain,needs_id,1820,lauraaa,cc-by,1,0,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Acanthocardia
 263257,2024-05-06,2024-05-06,2024-05-06,08:12:00,aves,158468,species,Ichthyaetus audouinii,41.4413263,2.2460387,False,Spain,needs_id,1804,madesa,cc-by,0,0,Animalia,Chordata,Aves,Ciconiiformes,Laridae,Ichthyaetus
-263256,2024-05-06,2024-05-06,2024-05-06,07:40:00,life,1,stateofmatter,Life,41.4412191406,2.2464999184,False,Spain,needs_id,1839,ericgomez,cc-by,0,0,,,,,,
-263255,2024-05-06,2024-05-06,2024-05-06,08:07:00,life,1,stateofmatter,Life,41.4413606,2.2459222,False,Spain,needs_id,1795,iollalle,cc-by,0,0,,,,,,
-263254,2024-05-06,2024-05-06,2024-05-06,07:32:00,life,1,stateofmatter,Life,41.4413136,2.2459052,False,Spain,needs_id,1803,darube,cc-by,0,0,,,,,,
-263253,2024-05-06,2024-05-06,2024-05-06,07:29:00,mollusca,251218,species,Spisula subtruncata,41.4414720429,2.2462033719,False,Spain,needs_id,1807,mire,cc-by,0,0,Animalia,Mollusca,Bivalvia,Venerida,Mactridae,Spisula
-263252,2024-05-06,2024-05-06,2024-05-06,07:29:00,mollusca,251218,species,Spisula subtruncata,41.4413236,2.2467043,False,Spain,needs_id,1820,lauraaa,cc-by,0,0,Animalia,Mollusca,Bivalvia,Venerida,Mactridae,Spisula
-263251,2024-05-06,2024-05-06,2024-05-06,07:34:00,mollusca,245729,species,Mactra stultorum,41.4692111111,2.2752194444,False,Spain,needs_id,1801,tony,cc-by,0,0,Animalia,Mollusca,Bivalvia,Venerida,Mactridae,Mactra
-263250,2024-05-06,2024-05-06,2024-05-06,07:40:00,mollusca,245729,species,Mactra stultorum,41.441570431,2.2470724884,False,Spain,needs_id,1816,danieelaa,cc-by,0,0,Animalia,Mollusca,Bivalvia,Venerida,Mactridae,Mactra
-263249,2024-05-06,2024-05-06,2024-05-06,07:33:00,plantae,35128,species,Posidonia oceanica,41.4414650429,2.2461963719,False,Spain,needs_id,1807,mire,cc-by,0,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Posidoniaceae,Posidonia
-263248,2024-05-06,2024-05-06,2024-05-06,07:33:00,plantae,35128,species,Posidonia oceanica,41.4413166,2.2466973,False,Spain,needs_id,1820,lauraaa,cc-by,0,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Posidoniaceae,Posidonia
-263247,2024-05-06,2024-05-06,2024-05-06,08:08:00,,nan,,,41.4412503,2.2455227,False,Spain,needs_id,1804,madesa,cc-by,0,0,,,,,,
-263246,2024-05-06,2024-05-06,2024-05-06,07:22:00,,nan,,,41.4413096,2.2466903,False,Spain,needs_id,1820,lauraaa,cc-by,0,0,,,,,,
-263245,2024-05-06,2024-05-06,2024-05-06,07:33:00,life,1,stateofmatter,Life,41.4411807,2.2467018,False,Spain,needs_id,1803,darube,cc-by,0,0,,,,,,
-263244,2024-05-06,2024-05-06,2024-05-06,07:22:00,,nan,,,41.4414580429,2.2461893719,False,Spain,needs_id,1807,mire,cc-by,0,0,,,,,,
-263243,2024-05-06,2024-05-06,2024-05-06,08:06:00,life,1,stateofmatter,Life,41.4412433,2.2455157,False,Spain,needs_id,1804,madesa,cc-by,0,0,,,,,,
-263242,2024-05-06,2024-05-06,2024-05-06,07:40:00,,nan,,,41.4435803877,2.2484612837,False,Spain,needs_id,1824,pauruizmartinez,cc-by,0,0,,,,,,
+263256,2024-05-06,2024-05-06,2024-05-06,07:40:00,,242158,species,Pirimela denticulata,41.4412191406,2.2464999184,False,Spain,needs_id,1839,ericgomez,cc-by,1,0,Animalia,Arthropoda,Malacostraca,Decapoda,Pirimelidae,Pirimela
+263255,2024-05-06,2024-05-06,2024-05-06,08:07:00,mollusca,249089,species,Glycymeris glycymeris,41.4413606,2.2459222,False,Spain,needs_id,1795,iollalle,cc-by,1,0,Animalia,Mollusca,Bivalvia,Arcida,Glycymerididae,Glycymeris
+263254,2024-05-06,2024-05-06,2024-05-06,07:32:00,crustacea,211127,species,Lepas anatifera,41.4413136,2.2459052,False,Spain,needs_id,1803,darube,cc-by,1,0,Animalia,Arthropoda,,,Lepadidae,Lepas
+263253,2024-05-06,2024-05-06,2024-05-06,07:29:00,mollusca,119,class,Bivalvia,41.4414720429,2.2462033719,False,Spain,needs_id,1807,mire,cc-by,2,0,Animalia,Mollusca,,,,
+263252,2024-05-06,2024-05-06,2024-05-06,07:29:00,mollusca,119,class,Bivalvia,41.4413236,2.2467043,False,Spain,needs_id,1820,lauraaa,cc-by,2,0,Animalia,Mollusca,,,,
+263251,2024-05-06,2024-05-06,2024-05-06,07:34:00,mollusca,261838,subclass,Autobranchia,41.4692111111,2.2752194444,False,Spain,needs_id,1801,tony,cc-by,2,0,Animalia,Mollusca,Bivalvia,,,
+263250,2024-05-06,2024-05-06,2024-05-06,07:40:00,mollusca,261838,subclass,Autobranchia,41.441570431,2.2470724884,False,Spain,needs_id,1816,danieelaa,cc-by,2,0,Animalia,Mollusca,Bivalvia,,,
+263249,2024-05-06,2024-05-06,2024-05-06,07:33:00,plantae,35128,species,Posidonia oceanica,41.4414650429,2.2461963719,False,Spain,research,1807,mire,cc-by,1,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Posidoniaceae,Posidonia
+263248,2024-05-06,2024-05-06,2024-05-06,07:33:00,plantae,35128,species,Posidonia oceanica,41.4413166,2.2466973,False,Spain,research,1820,lauraaa,cc-by,1,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Posidoniaceae,Posidonia
+263247,2024-05-06,2024-05-06,2024-05-06,08:08:00,actinopterygii,3,class,Actinopterygii,41.4412503,2.2455227,False,Spain,needs_id,1804,madesa,cc-by,0,0,Animalia,Chordata,,,,
+263246,2024-05-06,2024-05-06,2024-05-06,07:22:00,actinopterygii,3,class,Actinopterygii,41.4413096,2.2466903,False,Spain,needs_id,1820,lauraaa,cc-by,0,0,Animalia,Chordata,,,,
+263245,2024-05-06,2024-05-06,2024-05-06,07:33:00,mollusca,10213,genus,Glycymeris,41.4411807,2.2467018,False,Spain,needs_id,1803,darube,cc-by,1,0,Animalia,Mollusca,Bivalvia,Arcida,Glycymerididae,
+263244,2024-05-06,2024-05-06,2024-05-06,07:22:00,actinopterygii,3,class,Actinopterygii,41.4414580429,2.2461893719,False,Spain,needs_id,1807,mire,cc-by,0,0,Animalia,Chordata,,,,
+263243,2024-05-06,2024-05-06,2024-05-06,08:06:00,plantae,2116,family,Cladophoraceae,41.4412433,2.2455157,False,Spain,needs_id,1804,madesa,cc-by,1,0,Plantae,Chlorophyta,Ulvophyceae,Cladophorales,,
+263242,2024-05-06,2024-05-06,2024-05-06,07:40:00,crustacea,344,order,Decapoda,41.4435803877,2.2484612837,False,Spain,needs_id,1824,pauruizmartinez,cc-by,0,0,Animalia,Arthropoda,Malacostraca,,,
 263241,2024-05-06,2024-05-06,2024-05-06,07:18:00,mollusca,34855,species,Sepia officinalis,41.4413026,2.2466833,False,Spain,needs_id,1820,lauraaa,cc-by,0,0,Animalia,Mollusca,Cephalopoda,Sepiida,Sepiidae,Sepia
 263240,2024-05-06,2024-05-06,2024-05-06,07:40:00,,242158,species,Pirimela denticulata,41.441563431,2.2470654884,False,Spain,needs_id,1816,danieelaa,cc-by,1,0,Animalia,Arthropoda,Malacostraca,Decapoda,Pirimelidae,Pirimela
 263239,2024-05-06,2024-05-06,2024-05-06,07:44:00,mollusca,34855,species,Sepia officinalis,41.4414510429,2.2461823719,False,Spain,needs_id,1807,mire,cc-by,0,0,Animalia,Mollusca,Cephalopoda,Sepiida,Sepiidae,Sepia
