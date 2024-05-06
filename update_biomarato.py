@@ -179,7 +179,7 @@ def get_participation_df(main_project):
         .rename(columns={"user_login": "participant", "count": "observacions"})
     )
     if main_project == 283:
-        pt_users = pt_users[-pt_users["user_login"].isin(exclude_users)].reset_index(
+        pt_users = pt_users[-pt_users["participant"].isin(exclude_users)].reset_index(
             drop=True
         )
     pt_users["identificacions"] = pt_users["participant"].apply(
@@ -365,7 +365,7 @@ if __name__ == "__main__":
 
             # Dataframe de marino/terrestre
             print("Cuenta de marinos/terrestres")
-            df_marine = get_marine_count(df_obs)
+            df_marine = get_marine_count(df_filtered)
             df_marine.to_csv(f"data/{id_proj}_marines.csv", index=False)
         else:
             print("Ninguna observación en proyecto:", id_proj)
