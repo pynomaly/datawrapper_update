@@ -185,10 +185,27 @@ def _get_species(user_name, proj_id):
     return requests.get(species, params=params).json()["total_results"]
 
 
-def _get_identifiers(user_name, proj_id):
-    identifiers = f"{API_PATH}/observations/identifiers"
-    params = {"project_id": proj_id, "user_login": user_name}
-    return requests.get(identifiers, params=params).json()["total_results"]
+def _get_identifiers(proj_id: int) -> pd.DataFrame:
+    url = "https://api.minka-sdg.org/v1/observations/identifiers?project_id=233"
+    results = requests.get(url).json()["results"]
+    identifiers = []
+    for result in results:
+        identifier = {}
+        identifier["user_id"] = result["user_id"]
+        identifier["user_login"] = result["user"]["login"]
+        identifier["number"] = result["count"]
+        identifiers.append(identifier)
+    return pd.DataFrame(identifiers)
+
+
+def get_number_identifications(user_name, df_identifiers):
+    try:
+        number_id = df_identifiers.loc[
+            df_identifiers.user_login == user_name, "number"
+        ].item()
+    except:
+        number_id = 0
+    return number_id
 
 
 def get_participation_df(main_project):
@@ -200,12 +217,10 @@ def get_participation_df(main_project):
         .reset_index(drop=False)
         .rename(columns={"user_login": "participant", "count": "observacions"})
     )
-    if main_project == 283:
-        pt_users = pt_users[-pt_users["user_login"].isin(exclude_users)].reset_index(
-            drop=True
-        )
+    df_identifiers = _get_identifiers(main_project)
+
     pt_users["identificacions"] = pt_users["participant"].apply(
-        lambda x: _get_identifiers(x, main_project)
+        lambda x: get_number_identifications(x, df_identifiers)
     )
     pt_users["espècies"] = pt_users["participant"].apply(
         lambda x: _get_species(x, main_project)
