@@ -349,6 +349,7 @@ if __name__ == "__main__":
             df_filtered["taxon_id"] = df_filtered["taxon_id"].astype(int)
 
             # sacamos listado de especies incluidas en el proyecto con col marina
+            print("Sacando listado de especies")
             df_species = get_marine_species(id_proj)
 
             df_filtered = pd.merge(
@@ -365,8 +366,11 @@ if __name__ == "__main__":
 
             # Dataframe de marino/terrestre
             print("Cuenta de marinos/terrestres")
-            df_marine = get_marine_count(df_filtered)
-            df_marine.to_csv(f"data/{id_proj}_marines.csv", index=False)
+            try:
+                df_marine = get_marine_count(df_filtered)
+                df_marine.to_csv(f"data/{id_proj}_marines.csv", index=False)
+            except:
+                pass
         else:
             print("Ninguna observación en proyecto:", id_proj)
 
