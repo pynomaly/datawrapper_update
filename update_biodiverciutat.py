@@ -47,38 +47,6 @@ projects_bdc = {
     232: "Àrea marina Barcelona",
 }
 
-exclude_users = [
-    "xasalva",
-    "bertinhaco",
-    "andrea",
-    "laurabiomar",
-    "guillermoalvarez_fecdas",
-    "mediambient_ajelprat",
-    "fecdas_mediambient",
-    "planctondiving",
-    "marinagm",
-    "CEM",
-    "uri_domingo",
-    "mimo_fecdas",
-    "jaume-piera",
-    "sonialinan",
-    "adrisoacha",
-    "anellides",
-    "irodero",
-    "manelsalvador",
-    "sara_riera",
-    "anomalia",
-    "amaliacardenas",
-    "aluna",
-    "carlosrodero",
-    "lydia",
-    "elibonfill",
-    "meri",
-    "marinatorresgi",
-    # vanessa,
-    # teresa,
-]
-
 
 def update_main_metrics(proj_id):
     results = []
