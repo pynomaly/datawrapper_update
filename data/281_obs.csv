@@ -1,4 +1,14 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+265555,2024-05-11,2024-05-11,2024-05-10,15:15:00,plantae,35014,species,Gastroclonium clavatum,42.1181850011,3.1539524205,False,Spain,needs_id,2493,pauperrim,cc-by,0,0,Plantae,Rhodophyta,Florideophyceae,Rhodymeniales,Champiaceae,Gastroclonium
+265554,2024-05-11,2024-05-11,2024-05-10,14:08:00,,nan,,,42.1181780011,3.1539454205,False,Spain,needs_id,2493,pauperrim,cc-by,0,0,,,,,,
+265553,2024-05-11,2024-05-11,2024-05-10,14:10:00,plantae,4287,family,Peyssonneliaceae,42.1181710011,3.1539384205,False,Spain,needs_id,2493,pauperrim,cc-by,0,0,Plantae,Rhodophyta,Florideophyceae,Gigartinales,,
+265552,2024-05-11,2024-05-11,2024-05-10,14:10:00,plantae,4287,family,Peyssonneliaceae,42.1181710011,3.1539384205,False,Spain,needs_id,2493,pauperrim,cc-by,0,0,Plantae,Rhodophyta,Florideophyceae,Gigartinales,,
+265551,2024-05-11,2024-05-11,2024-05-10,14:10:00,plantae,35123,species,Ellisolandia elongata,42.1181640011,3.1539314205,False,Spain,needs_id,2493,pauperrim,cc-by,0,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,Ellisolandia
+265550,2024-05-11,2024-05-11,2024-05-10,14:08:00,chromista,253945,species,Halopteris scoparia,42.1181570011,3.1539244205,False,Spain,needs_id,2493,pauperrim,cc-by,0,0,Chromista,Ochrophyta,Phaeophyceae,Sphacelariales,Stypocaulaceae,Halopteris
+265549,2024-05-11,2024-05-11,2024-05-10,16:34:00,,nan,,,42.1284944314,3.1236862019,False,Spain,needs_id,2493,pauperrim,cc-by,0,0,,,,,,
+265548,2024-05-11,2024-05-11,2024-05-10,15:13:00,,nan,,,42.118139095,3.1538811699,False,Spain,needs_id,2493,pauperrim,cc-by,0,0,,,,,,
+265547,2024-05-11,2024-05-11,2024-05-10,16:34:00,,nan,,,42.1284034236,3.1237260997,False,Spain,needs_id,2493,pauperrim,cc-by,0,0,,,,,,
+265546,2024-05-11,2024-05-11,2024-05-10,16:29:00,plantae,34887,species,Asparagopsis armata,42.12853827,3.1236948375,False,Spain,needs_id,2493,pauperrim,cc-by,0,0,Plantae,Rhodophyta,Florideophyceae,Bonnemaisoniales,Bonnemaisoniaceae,Asparagopsis
 265545,2024-05-11,2024-05-11,2024-05-10,16:31:00,,nan,,,42.12853127,3.1236878375,False,Spain,needs_id,2493,pauperrim,cc-by,0,0,,,,,,
 265544,2024-05-11,2024-05-11,2024-05-10,16:32:00,plantae,35032,species,Codium vermilara,42.12852427,3.1236808375,False,Spain,needs_id,2493,pauperrim,cc-by,0,0,Plantae,Chlorophyta,Bryopsidophyceae,Bryopsidales,Codiaceae,Codium
 265364,2024-05-11,2024-05-11,2024-05-09,08:06:00,actinopterygii,250040,species,Oedalechilus labeo,42.3945673652,3.1548396991,False,"17496 Platja de Garbet, Girona, España",research,1732,manelor,cc-by,1,0,Animalia,Chordata,Actinopterygii,Mugiliformes,Mugilidae,Oedalechilus
