@@ -1,4 +1,18 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+265702,2024-05-12,2024-05-12,2024-05-11,14:20:00,,nan,,,41.408588085,2.2262180616,False,Spain,needs_id,2657,aquamani,cc-by,0,0,,,,,,
+265701,2024-05-12,2024-05-12,2024-05-11,14:18:00,,nan,,,41.4085790324,2.2262877991,False,Spain,needs_id,2657,aquamani,cc-by,0,0,,,,,,
+265700,2024-05-12,2024-05-12,2024-05-11,14:13:00,,nan,,,41.4086024654,2.2262824346,False,Spain,needs_id,2657,aquamani,cc-by,0,0,,,,,,
+265699,2024-05-12,2024-05-12,2024-05-11,13:50:00,mollusca,116,class,Gastropoda,41.4087835171,2.2263468076,False,Spain,needs_id,2657,aquamani,cc-by,0,0,Animalia,Mollusca,,,,
+265698,2024-05-12,2024-05-12,2024-05-11,13:44:00,actinopterygii,34798,species,Diplodus vulgaris,41.4086648277,2.2263494898,False,Spain,needs_id,2657,aquamani,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+265697,2024-05-12,2024-05-12,2024-05-11,13:43:00,,nan,,,41.4086384345,2.2262775051,False,"El Besòs i el Maresme, Sant Martí, Barcelona, Espanya",needs_id,2657,aquamani,cc-by,0,0,,,,,,
+265696,2024-05-12,2024-05-12,2024-05-11,13:42:00,,nan,,,41.4086653163,2.2262984585,False,Spain,needs_id,2657,aquamani,cc-by,0,0,,,,,,
+265695,2024-05-12,2024-05-12,2024-05-11,13:39:00,,nan,,,41.4086964974,2.2263105285,False,Spain,needs_id,2657,aquamani,cc-by,0,0,,,,,,
+265694,2024-05-12,2024-05-12,2024-05-11,13:38:00,echinodermata,53,phylum,Echinodermata,41.4085415975,2.2262863886,False,"El Besòs i el Maresme, Sant Martí, Barcelona, Espanya",needs_id,2657,aquamani,cc-by,0,0,Animalia,,,,,
+265693,2024-05-12,2024-05-12,2024-05-11,13:37:00,plantae,246914,species,Asparagopsis taxiformis,41.4085156642,2.2261697356,False,Spain,needs_id,2657,aquamani,cc-by,0,0,Plantae,Rhodophyta,Florideophyceae,Bonnemaisoniales,Bonnemaisoniaceae,Asparagopsis
+265692,2024-05-12,2024-05-12,2024-05-11,13:37:00,,nan,,,41.4087198505,2.2263762194,False,Spain,needs_id,2657,aquamani,cc-by,0,0,,,,,,
+265691,2024-05-12,2024-05-12,2024-05-11,13:36:00,actinopterygii,13765,species,Serranus scriba,41.4086293247,2.2263239163,False,"El Besòs i el Maresme, Sant Martí, Barcelona, Espanya",needs_id,2657,aquamani,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Serranus
+265690,2024-05-12,2024-05-12,2024-05-11,13:33:00,,nan,,,41.4086383772,2.2262246746,False,Spain,needs_id,2657,aquamani,cc-by,0,0,,,,,,
+265689,2024-05-12,2024-05-12,2024-05-11,13:31:00,actinopterygii,34805,species,Sarpa salpa,41.4086926928,2.2262649077,False,Spain,needs_id,2657,aquamani,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
 265524,2024-05-11,2024-05-12,2024-05-11,14:21:00,actinopterygii,34841,species,Diplodus annularis,41.4099216766,2.2272631153,False,Spain,research,2500,jordi2000,cc-by,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
 265457,2024-05-11,2024-05-11,2024-05-11,09:19:00,mollusca,35075,species,Octopus vulgaris,41.3706490847,2.1907783072,False,"Acceso por playa, Passeig del Mare Nostrum, 14, 08039 Barcelona, España",needs_id,306,jaume,cc-by-nc,0,0,Animalia,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus
 265456,2024-05-11,2024-05-11,2024-05-11,09:19:00,mollusca,35036,species,Cratena peregrina,41.3706490847,2.1907783072,False,"Acceso por playa, Passeig del Mare Nostrum, 14, 08039 Barcelona, España",needs_id,306,jaume,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Facelinidae,Cratena
