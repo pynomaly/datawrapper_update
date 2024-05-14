@@ -1,4 +1,6 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+267210,2024-05-14,2024-05-14,2024-05-13,06:55:00,life,1,stateofmatter,Life,40.9379486808,0.856102109,False,Spain,needs_id,988,elibonfill,C,0,0,,,,,,
+267185,2024-05-14,2024-05-14,2024-05-14,20:01:00,mammalia,246705,species,Erinaceus europaeus,40.9379189,0.8564039,False,Spain,needs_id,988,elibonfill,C,0,0,Animalia,Chordata,Mammalia,Erinaceomorpha,Erinaceidae,Erinaceus
 267184,2024-05-14,2024-05-14,2024-05-11,08:01:00,,nan,,,41.4046483431,2.2204816133,False,"Llevant, Sant Martí, Barcelona, Spain",needs_id,894,sos_loreina,cc-by-nc,0,0,,,,,,
 267183,2024-05-14,2024-05-14,2024-05-11,20:53:00,annelida,17434,genus,Sabella,41.4045437287,2.2205245289,False,"Llevant, Sant Martí, Barcelona, Spain",needs_id,894,sos_loreina,cc-by-nc,0,0,Animalia,Annelida,Polychaeta,Sabellida,Sabellidae,
 267182,2024-05-14,2024-05-14,2024-05-11,20:53:00,,nan,,,41.4045437287,2.2205245289,False,"Llevant, Sant Martí, Barcelona, Spain",needs_id,894,sos_loreina,cc-by-nc,0,0,,,,,,
