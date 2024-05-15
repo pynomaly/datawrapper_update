@@ -1,4 +1,18 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+267496,2024-05-15,2024-05-15,2024-05-06,09:21:00,,nan,,,41.4394022,2.2454089,False,"Passeig Marítim, 5, 08918 Badalona, Barcelona, España",needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+267495,2024-05-15,2024-05-15,2024-05-06,09:26:00,,nan,,,41.4394022,2.2454089,False,"Passeig Marítim, 5, 08918 Badalona, Barcelona, España",needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+267494,2024-05-15,2024-05-15,2024-05-10,05:29:00,,nan,,,41.2836533,2.095483,False,"Platja del Prat, España",needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+267493,2024-05-15,2024-05-15,2024-05-10,05:22:00,,nan,,,41.2836533,2.095483,False,"Platja del Prat, España",needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+267492,2024-05-15,2024-05-15,2024-05-10,05:12:00,,nan,,,41.2836533,2.095483,False,"Platja del Prat, España",needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+267491,2024-05-15,2024-05-15,2024-05-10,05:11:00,,nan,,,41.2836533,2.095483,False,"Platja del Prat, España",needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+267490,2024-05-15,2024-05-15,2024-05-10,05:12:00,,nan,,,41.2836533,2.095483,False,"Platja del Prat, España",needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+267489,2024-05-15,2024-05-15,2024-05-10,05:13:00,,nan,,,41.2836533,2.095483,False,"Platja del Prat, España",needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+267488,2024-05-15,2024-05-15,2024-05-10,05:17:00,,nan,,,41.2836533,2.095483,False,"Platja del Prat, España",needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+267487,2024-05-15,2024-05-15,2024-05-10,05:19:00,,nan,,,41.2836533,2.095483,False,"Platja del Prat, España",needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+267486,2024-05-15,2024-05-15,2024-05-10,05:20:00,,nan,,,41.2836533,2.095483,False,"Platja del Prat, España",needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+267485,2024-05-15,2024-05-15,2024-05-10,05:28:00,,nan,,,41.2836533,2.095483,False,"Platja del Prat, España",needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+267484,2024-05-15,2024-05-15,2024-05-10,05:23:00,,nan,,,41.2836533,2.095483,False,"Platja del Prat, España",needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+267483,2024-05-15,2024-05-15,2024-05-10,05:27:00,,nan,,,41.2836533,2.095483,False,"Platja del Prat, España",needs_id,9,andrea,cc-by-nc,0,0,,,,,,
 267247,2024-05-15,2024-05-15,2024-05-14,13:25:00,plantae,46099,genus,Melilotus,41.1803049453,1.522907158,False,"Comarruga, Tarragona, España",needs_id,51,bertinhaco,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,
 267246,2024-05-15,2024-05-15,2024-05-14,13:24:00,plantae,46196,genus,Salicornia,41.1796694549,1.5235277814,False,"Comarruga, Tarragona, España",needs_id,51,bertinhaco,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Chenopodiaceae,
 267245,2024-05-15,2024-05-15,2024-05-14,13:22:00,plantae,42661,genus,Suaeda,41.1796543863,1.5235260151,False,"Comarruga, Tarragona, España",needs_id,51,bertinhaco,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Chenopodiaceae,
@@ -849,8 +863,8 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 266288,2024-05-14,2024-05-14,2024-05-13,07:04:00,porifera,457,order,Poecilosclerida,41.9605945973,3.2315093866,False,"Sa Tuna, Girona, España",needs_id,92,josepdegea,cc-by-nc,2,0,Animalia,Porifera,Demospongiae,,,
 266287,2024-05-14,2024-05-14,2024-05-13,07:04:00,annelida,249709,species,Serpula vermicularis,41.9605945973,3.2315093866,False,"Sa Tuna, Girona, España",research,92,josepdegea,cc-by-nc,1,0,Animalia,Annelida,Polychaeta,Sabellida,Serpulidae,Serpula
 266286,2024-05-14,2024-05-14,2024-05-13,07:03:00,actinopterygii,34870,species,Tripterygion melanurus,41.9603393003,3.2311231485,False,"Sa Tuna, Girona, España",research,92,josepdegea,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Tripterygiidae,Tripterygion
-266285,2024-05-14,2024-05-14,2024-05-13,10:20:00,actinopterygii,240402,species,Pagellus acarne,41.4675194444,2.2844916667,False,"Barcelona, España",needs_id,1239,amb_platges,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Pagellus
-266284,2024-05-14,2024-05-14,2024-05-13,10:19:00,actinopterygii,31555,species,Sprattus sprattus,41.4672944444,2.2839194444,False,"Barcelona, España",needs_id,1239,amb_platges,cc-by,0,0,Animalia,Chordata,Actinopterygii,Clupeiformes,Clupeidae,Sprattus
+266285,2024-05-14,2024-05-15,2024-05-13,10:20:00,actinopterygii,240402,species,Pagellus acarne,41.4675194444,2.2844916667,False,"Barcelona, España",research,1239,amb_platges,cc-by,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Pagellus
+266284,2024-05-14,2024-05-15,2024-05-13,10:19:00,actinopterygii,31555,species,Sprattus sprattus,41.4672944444,2.2839194444,False,"Barcelona, España",research,1239,amb_platges,cc-by,1,0,Animalia,Chordata,Actinopterygii,Clupeiformes,Clupeidae,Sprattus
 266283,2024-05-14,2024-05-14,2024-05-13,08:36:00,insecta,253552,species,Vanessa cardui,41.4189277778,2.2323027778,False,"Barcelona, España",needs_id,1239,amb_platges,cc-by,0,0,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Vanessa
 266282,2024-05-14,2024-05-14,2024-05-13,07:01:00,mollusca,14784,genus,Patella,41.9603393003,3.2312948099,False,"Sa Tuna, Girona, España",needs_id,92,josepdegea,cc-by-nc,2,0,Animalia,Mollusca,Gastropoda,Patellogastropoda,Patellidae,
 266281,2024-05-14,2024-05-14,2024-05-13,07:01:00,plantae,1790,family,Corallinaceae,41.9603393003,3.2312948099,False,"Sa Tuna, Girona, España",needs_id,92,josepdegea,cc-by-nc,2,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,,
