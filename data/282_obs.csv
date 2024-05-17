@@ -1,4 +1,61 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+268644,2024-05-17,2024-05-17,2024-05-12,07:11:00,bryozoa,55,phylum,Bryozoa,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,,,,,
+268643,2024-05-17,2024-05-17,2024-05-12,07:08:00,plantae,67,phylum,Chlorophyta,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Plantae,,,,,
+268642,2024-05-17,2024-05-17,2024-05-12,07:03:00,bryozoa,143393,genus,Pentapora,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Bryozoa,Gymnolaemata,Cheilostomatida,Bitectiporidae,
+268641,2024-05-17,2024-05-17,2024-05-12,07:02:00,plantae,64,phylum,Rhodophyta,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Plantae,,,,,
+268640,2024-05-17,2024-05-17,2024-05-12,06:58:00,plantae,64,phylum,Rhodophyta,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Plantae,,,,,
+268639,2024-05-17,2024-05-17,2024-05-12,06:56:00,cnidaria,35166,species,Cladocora caespitosa,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Cnidaria,Anthozoa,Scleractinia,Caryophylliidae,Cladocora
+268638,2024-05-17,2024-05-17,2024-05-12,06:56:00,cnidaria,35166,species,Cladocora caespitosa,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Cnidaria,Anthozoa,Scleractinia,Caryophylliidae,Cladocora
+268637,2024-05-17,2024-05-17,2024-05-12,06:54:00,actinopterygii,13765,species,Serranus scriba,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Serranus
+268636,2024-05-17,2024-05-17,2024-05-12,06:54:00,porifera,14544,genus,Axinella,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Porifera,Demospongiae,,Axinellidae,
+268635,2024-05-17,2024-05-17,2024-05-12,06:53:00,annelida,247253,species,Salmacina dysteri,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Annelida,Polychaeta,Sabellida,Serpulidae,Salmacina
+268634,2024-05-17,2024-05-17,2024-05-12,06:53:00,platyhelminthes,244061,species,Prostheceraeus roseus,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Platyhelminthes,,,,Prostheceraeus
+268633,2024-05-17,2024-05-17,2024-05-12,06:52:00,,nan,,,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,,,,,,
+268632,2024-05-17,2024-05-17,2024-05-12,06:52:00,mollusca,247849,species,Barbatia barbata,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Arcida,Arcidae,Barbatia
+268631,2024-05-17,2024-05-17,2024-05-12,06:51:00,mollusca,253944,species,Arca noae,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Arcida,Arcidae,Arca
+268630,2024-05-17,2024-05-17,2024-05-12,06:51:00,mollusca,35075,species,Octopus vulgaris,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus
+268629,2024-05-17,2024-05-17,2024-05-12,06:51:00,,nan,,,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,,,,,,
+268628,2024-05-17,2024-05-17,2024-05-12,06:49:00,,nan,,,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,,,,,,
+268627,2024-05-17,2024-05-17,2024-05-12,06:48:00,,nan,,,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,,,,,,
+268626,2024-05-17,2024-05-17,2024-05-12,06:46:00,,nan,,,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,,,,,,
+268625,2024-05-17,2024-05-17,2024-05-12,06:13:00,,nan,,,41.5254,2.4765,False,La trencada,needs_id,147,gregoribdn,cc-by-nc,0,0,,,,,,
+268624,2024-05-17,2024-05-17,2024-05-12,06:39:00,cnidaria,14198,genus,Leptogorgia,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Cnidaria,Anthozoa,Alcyonacea,Gorgoniidae,
+268623,2024-05-17,2024-05-17,2024-05-12,06:35:00,,nan,,,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,,,,,,
+268622,2024-05-17,2024-05-17,2024-05-12,06:32:00,actinopterygii,1409,family,Labridae,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,,
+268621,2024-05-17,2024-05-17,2024-05-12,06:31:00,plantae,9529,genus,Lithophyllum,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,
+268620,2024-05-17,2024-05-17,2024-05-12,06:25:00,porifera,56,phylum,Porifera,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,,,,,
+268619,2024-05-17,2024-05-17,2024-05-12,06:24:00,porifera,56,phylum,Porifera,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,,,,,
+268618,2024-05-17,2024-05-17,2024-05-12,06:22:00,porifera,56,phylum,Porifera,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,,,,,
+268617,2024-05-17,2024-05-17,2024-05-12,06:20:00,chromista,304,class,Xanthophyceae,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Chromista,Ochrophyta,,,,
+268616,2024-05-17,2024-05-17,2024-05-12,06:18:00,animalia,35150,subphylum,Tunicata,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Chordata,,,,
+268615,2024-05-17,2024-05-17,2024-05-12,06:17:00,actinopterygii,1409,family,Labridae,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,,
+268614,2024-05-17,2024-05-17,2024-05-12,06:13:00,porifera,56,phylum,Porifera,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,,,,,
+268613,2024-05-17,2024-05-17,2024-05-12,06:08:00,chromista,304,class,Xanthophyceae,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Chromista,Ochrophyta,,,,
+268612,2024-05-17,2024-05-17,2024-05-12,06:07:00,chromista,35063,species,Dictyota dichotoma,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota
+268611,2024-05-17,2024-05-17,2024-05-12,06:07:00,chromista,29375,genus,Halopteris,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Sphacelariales,Stypocaulaceae,
+268610,2024-05-17,2024-05-17,2024-05-12,06:38:00,annelida,249709,species,Serpula vermicularis,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Annelida,Polychaeta,Sabellida,Serpulidae,Serpula
+268609,2024-05-17,2024-05-17,2024-05-12,06:37:00,echinodermata,34848,species,Paracentrotus lividus,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Echinodermata,Echinoidea,Camarodonta,Parechinidae,Paracentrotus
+268608,2024-05-17,2024-05-17,2024-05-12,06:37:00,actinopterygii,12378,species,Apogon imberbis,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Apogonidae,Apogon
+268607,2024-05-17,2024-05-17,2024-05-12,06:33:00,animalia,57907,genus,Pseudodistoma,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Chordata,Ascidiacea,Enterogona,Pseudodistomidae,
+268606,2024-05-17,2024-05-17,2024-05-12,06:33:00,,248096,species,Calcinus tubularis,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Arthropoda,Malacostraca,Decapoda,Diogenidae,Calcinus
+268605,2024-05-17,2024-05-17,2024-05-12,06:28:00,mollusca,34855,species,Sepia officinalis,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Mollusca,Cephalopoda,Sepiida,Sepiidae,Sepia
+268604,2024-05-17,2024-05-17,2024-05-12,06:25:00,annelida,244097,species,Protula tubularia,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Annelida,Polychaeta,Sabellida,Serpulidae,Protula
+268603,2024-05-17,2024-05-17,2024-05-12,06:22:00,echinodermata,251875,species,Holothuria tubulosa,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria
+268602,2024-05-17,2024-05-17,2024-05-12,06:21:00,plantae,108631,genus,Udotea,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Plantae,Chlorophyta,Bryopsidophyceae,Bryopsidales,Udoteaceae,
+268601,2024-05-17,2024-05-17,2024-05-12,06:15:00,platyhelminthes,254604,species,Prostheceraeus vittatus,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Platyhelminthes,,,,Prostheceraeus
+268600,2024-05-17,2024-05-17,2024-05-12,06:14:00,,nan,,,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,,,,,,
+268599,2024-05-17,2024-05-17,2024-05-12,06:13:00,echinodermata,35260,species,Echinaster sepositus,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Echinodermata,Asteroidea,Spinulosida,Echinasteridae,Echinaster
+268598,2024-05-17,2024-05-17,2024-05-12,06:09:00,actinopterygii,31017,species,Conger conger,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Anguilliformes,Congridae,Conger
+268597,2024-05-17,2024-05-17,2024-05-12,06:09:00,bryozoa,34982,species,Myriapora truncata,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Bryozoa,Gymnolaemata,Cheilostomatida,Myriaporidae,Myriapora
+268596,2024-05-17,2024-05-17,2024-05-12,06:09:00,actinopterygii,11299,genus,Scorpaena,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,
+268595,2024-05-17,2024-05-17,2024-05-12,06:08:00,cnidaria,35047,species,Aiptasia mutabilis,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Aiptasiidae,Aiptasia
+268594,2024-05-17,2024-05-17,2024-05-12,06:08:00,plantae,252189,species,Codium bursa,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Plantae,Chlorophyta,Bryopsidophyceae,Bryopsidales,Codiaceae,Codium
+268593,2024-05-17,2024-05-17,2024-05-12,06:08:00,plantae,25393,genus,Corallina,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,
+268592,2024-05-17,2024-05-17,2024-05-12,06:08:00,actinopterygii,34835,species,Coris julis,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+268591,2024-05-17,2024-05-17,2024-05-12,06:07:00,plantae,35128,species,Posidonia oceanica,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Posidoniaceae,Posidonia
+268590,2024-05-17,2024-05-17,2024-05-12,06:07:00,chromista,35063,species,Dictyota dichotoma,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota
+268589,2024-05-17,2024-05-17,2024-05-12,06:07:00,chromista,35106,species,Padina pavonica,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
+268588,2024-05-17,2024-05-17,2024-05-12,06:44:00,crustacea,252689,species,Palinurus elephas,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Arthropoda,Malacostraca,Decapoda,Palinuridae,Palinurus
 268581,2024-05-17,2024-05-17,2024-05-17,07:04:00,mollusca,250214,species,Cerithium vulgatum,41.5186367323,2.4593223621,False,Blaumar,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Mollusca,Gastropoda,,Cerithiidae,Cerithium
 268580,2024-05-17,2024-05-17,2024-05-17,07:04:00,echinodermata,251875,species,Holothuria tubulosa,41.5186367323,2.4593223621,False,Blaumar,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria
 268578,2024-05-17,2024-05-17,2024-05-17,07:04:00,echinodermata,35260,species,Echinaster sepositus,41.5186367323,2.4593223621,False,Blaumar,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Echinodermata,Asteroidea,Spinulosida,Echinasteridae,Echinaster
