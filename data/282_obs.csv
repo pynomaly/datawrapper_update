@@ -16,7 +16,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 268630,2024-05-17,2024-05-17,2024-05-12,06:51:00,mollusca,35075,species,Octopus vulgaris,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus
 268629,2024-05-17,2024-05-17,2024-05-12,06:51:00,,nan,,,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,,,,,,
 268628,2024-05-17,2024-05-17,2024-05-12,06:49:00,,nan,,,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,,,,,,
-268627,2024-05-17,2024-05-17,2024-05-12,06:48:00,,nan,,,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,,,,,,
+268627,2024-05-17,2024-05-17,2024-05-12,06:48:00,mollusca,34974,species,Spondylus gaederopus,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Ostreoida,Spondylidae,Spondylus
 268626,2024-05-17,2024-05-17,2024-05-12,06:46:00,,nan,,,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,,,,,,
 268625,2024-05-17,2024-05-17,2024-05-12,06:13:00,,nan,,,41.5254,2.4765,False,La trencada,needs_id,147,gregoribdn,cc-by-nc,0,0,,,,,,
 268624,2024-05-17,2024-05-17,2024-05-12,06:39:00,cnidaria,14198,genus,Leptogorgia,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Cnidaria,Anthozoa,Alcyonacea,Gorgoniidae,
@@ -43,7 +43,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 268603,2024-05-17,2024-05-17,2024-05-12,06:22:00,echinodermata,251875,species,Holothuria tubulosa,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria
 268602,2024-05-17,2024-05-17,2024-05-12,06:21:00,plantae,108631,genus,Udotea,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Plantae,Chlorophyta,Bryopsidophyceae,Bryopsidales,Udoteaceae,
 268601,2024-05-17,2024-05-17,2024-05-12,06:15:00,platyhelminthes,254604,species,Prostheceraeus vittatus,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Platyhelminthes,,,,Prostheceraeus
-268600,2024-05-17,2024-05-17,2024-05-12,06:14:00,,nan,,,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,,,,,,
+268600,2024-05-17,2024-05-17,2024-05-12,06:14:00,echinodermata,250594,species,Sphaerechinus granularis,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Echinodermata,Echinoidea,Camarodonta,Toxopneustidae,Sphaerechinus
 268599,2024-05-17,2024-05-17,2024-05-12,06:13:00,echinodermata,35260,species,Echinaster sepositus,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Echinodermata,Asteroidea,Spinulosida,Echinasteridae,Echinaster
 268598,2024-05-17,2024-05-17,2024-05-12,06:09:00,actinopterygii,31017,species,Conger conger,41.5254,2.4765,False,,research,147,gregoribdn,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Anguilliformes,Congridae,Conger
 268597,2024-05-17,2024-05-17,2024-05-12,06:09:00,bryozoa,34982,species,Myriapora truncata,41.5254,2.4765,False,,needs_id,147,gregoribdn,cc-by-nc,0,0,Animalia,Bryozoa,Gymnolaemata,Cheilostomatida,Myriaporidae,Myriapora
