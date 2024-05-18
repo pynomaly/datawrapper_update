@@ -1,4 +1,44 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+268954,2024-05-18,2024-05-18,2024-05-18,16:19:00,life,1,stateofmatter,Life,41.5416066529,2.4561772496,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,,,,,,
+268953,2024-05-18,2024-05-18,2024-05-18,16:20:00,,nan,,,41.5424803226,2.4558340106,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268952,2024-05-18,2024-05-18,2024-05-18,16:18:00,,nan,,,41.5424403409,2.4556683004,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268950,2024-05-18,2024-05-18,2024-05-18,16:14:00,,nan,,,41.542436108,2.4557742476,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268949,2024-05-18,2024-05-18,2024-05-18,16:12:00,,nan,,,41.5438091236,2.4574307874,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268948,2024-05-18,2024-05-18,2024-05-18,09:06:00,annelida,247039,species,Sabella pavonina,41.7980246007,3.0702148515,False,"Platja d'Aro, Girona, España",needs_id,769,raulcalella,cc-by-nc,0,0,Animalia,Annelida,Polychaeta,Sabellida,Sabellidae,Sabella
+268947,2024-05-18,2024-05-18,2024-05-18,09:13:00,actinopterygii,250657,species,Sphyraena viridensis,41.7980246007,3.0702148515,False,"Platja d'Aro, Girona, España",needs_id,769,raulcalella,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sphyraenidae,Sphyraena
+268946,2024-05-18,2024-05-18,2024-05-18,09:05:00,actinopterygii,35216,species,Symphodus tinca,41.7980246007,3.0702148515,False,"Platja d'Aro, Girona, España",needs_id,769,raulcalella,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
+268945,2024-05-18,2024-05-18,2024-05-18,09:02:00,actinopterygii,35213,species,Diplodus puntazzo,41.7980246007,3.0702148515,False,"Platja d'Aro, Girona, España",needs_id,769,raulcalella,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+268944,2024-05-18,2024-05-18,2024-05-18,08:55:00,mollusca,34917,species,Peltodoris atromaculata,41.7980246007,3.0702148515,False,"Platja d'Aro, Girona, España",needs_id,769,raulcalella,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Discodorididae,Peltodoris
+268943,2024-05-18,2024-05-18,2024-05-18,09:00:00,cnidaria,35248,species,Leptogorgia sarmentosa,41.7980246007,3.0702148515,False,"Platja d'Aro, Girona, España",needs_id,769,raulcalella,cc-by-nc,0,0,Animalia,Cnidaria,Anthozoa,Alcyonacea,Gorgoniidae,Leptogorgia
+268942,2024-05-18,2024-05-18,2024-05-18,08:51:00,actinopterygii,34835,species,Coris julis,41.7980246007,3.0702148515,False,"Platja d'Aro, Girona, España",needs_id,769,raulcalella,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+268941,2024-05-18,2024-05-18,2024-05-18,08:50:00,actinopterygii,34965,species,Scorpaena porcus,41.7980246007,3.0702148515,False,"Platja d'Aro, Girona, España",needs_id,769,raulcalella,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,Scorpaena
+268940,2024-05-18,2024-05-18,2024-05-18,08:49:00,actinopterygii,34840,species,Labrus merula,41.7980246007,3.0702148515,False,"Platja d'Aro, Girona, España",needs_id,769,raulcalella,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Labrus
+268939,2024-05-18,2024-05-18,2024-05-18,08:47:00,actinopterygii,14022,species,Muraena helena,41.7980246007,3.0702148515,False,"Platja d'Aro, Girona, España",needs_id,769,raulcalella,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Anguilliformes,Muraenidae,Muraena
+268938,2024-05-18,2024-05-18,2024-05-18,08:45:00,echinodermata,35260,species,Echinaster sepositus,41.7980246007,3.0702148515,False,"Platja d'Aro, Girona, España",needs_id,769,raulcalella,cc-by-nc,0,0,Animalia,Echinodermata,Asteroidea,Spinulosida,Echinasteridae,Echinaster
+268937,2024-05-18,2024-05-18,2024-05-18,08:45:00,actinopterygii,13765,species,Serranus scriba,41.7980246007,3.0702148515,False,"Platja d'Aro, Girona, España",needs_id,769,raulcalella,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Serranus
+268936,2024-05-18,2024-05-18,2024-05-18,08:42:00,actinopterygii,14022,species,Muraena helena,41.7980246007,3.0702148515,False,"Platja d'Aro, Girona, España",needs_id,769,raulcalella,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Anguilliformes,Muraenidae,Muraena
+268935,2024-05-18,2024-05-18,2024-05-18,08:38:00,cnidaria,35248,species,Leptogorgia sarmentosa,41.7980246007,3.0702148515,False,"Platja d'Aro, Girona, España",needs_id,769,raulcalella,cc-by-nc,0,0,Animalia,Cnidaria,Anthozoa,Alcyonacea,Gorgoniidae,Leptogorgia
+268934,2024-05-18,2024-05-18,2024-05-18,08:38:00,echinodermata,3414,family,Gorgonocephalidae,41.7980246007,3.0702148515,False,"Platja d'Aro, Girona, España",needs_id,769,raulcalella,cc-by-nc,0,0,Animalia,Echinodermata,Ophiuroidea,Euryalida,,
+268933,2024-05-18,2024-05-18,2024-05-18,08:35:00,echinodermata,876,order,Holothuriida,41.7980246007,3.0702148515,False,"Platja d'Aro, Girona, España",needs_id,769,raulcalella,cc-by-nc,0,0,Animalia,Echinodermata,Holothuroidea,,,
+268932,2024-05-18,2024-05-18,2024-05-18,08:34:00,actinopterygii,34835,species,Coris julis,41.7980246007,3.0702148515,False,"Platja d'Aro, Girona, España",needs_id,769,raulcalella,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+268931,2024-05-18,2024-05-18,2024-05-18,08:33:00,actinopterygii,13755,species,Serranus cabrilla,41.7980246007,3.0702148515,False,"Platja d'Aro, Girona, España",needs_id,769,raulcalella,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Serranus
+268930,2024-05-18,2024-05-18,2024-05-18,16:08:00,,nan,,,41.5422471857,2.455883163,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268929,2024-05-18,2024-05-18,2024-05-18,16:06:00,,nan,,,41.5422039878,2.4558936861,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268928,2024-05-18,2024-05-18,2024-05-18,15:59:00,,nan,,,41.542197601,2.4555773567,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268927,2024-05-18,2024-05-18,2024-05-18,15:09:00,plantae,246277,species,Ricinus communis,41.5416819366,2.4561601505,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,Ricinus
+268924,2024-05-18,2024-05-18,2024-05-18,15:56:00,,nan,,,41.5420007101,2.4559610803,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268923,2024-05-18,2024-05-18,2024-05-18,15:53:00,,nan,,,41.5420119781,2.456071445,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268922,2024-05-18,2024-05-18,2024-05-18,15:51:00,,nan,,,41.5420274064,2.4559427239,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268921,2024-05-18,2024-05-18,2024-05-18,15:47:00,,nan,,,41.5419419358,2.4560071191,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268920,2024-05-18,2024-05-18,2024-05-18,15:45:00,,nan,,,41.5417771087,2.4559178666,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268919,2024-05-18,2024-05-18,2024-05-18,15:42:00,,nan,,,41.5418976854,2.4561279636,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268918,2024-05-18,2024-05-18,2024-05-18,15:34:00,,nan,,,41.5419341578,2.4560764153,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268899,2024-05-18,2024-05-18,2024-05-18,15:36:00,plantae,252413,species,Convolvulus althaeoides,41.5416545835,2.4561118707,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Convolvulaceae,Convolvulus
+268898,2024-05-18,2024-05-18,2024-05-18,15:32:00,,nan,,,41.5418524761,2.4560246989,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268897,2024-05-18,2024-05-18,2024-05-18,15:29:00,plantae,249514,species,Galactites tomentosa,41.541643291,2.4561993778,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Galactites
+268896,2024-05-18,2024-05-18,2024-05-18,15:29:00,,nan,,,41.5418666264,2.4560578603,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268895,2024-05-18,2024-05-18,2024-05-18,15:27:00,,nan,,,41.5418361951,2.4560481852,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268890,2024-05-18,2024-05-18,2024-05-18,15:21:00,life,1,stateofmatter,Life,41.5417058963,2.4561607195,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
 268888,2024-05-18,2024-05-18,2024-05-18,15:22:00,plantae,246807,species,Arundo donax,41.5418023902,2.4563311413,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Plantae,Magnoliophyta,Liliopsida,Poales,Poaceae,Arundo
 268887,2024-05-18,2024-05-18,2024-05-18,15:21:00,plantae,249838,species,Celtis australis,41.5416061511,2.4565393478,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Urticales,Ulmaceae,Celtis
 268886,2024-05-18,2024-05-18,2024-05-18,15:18:00,,nan,,,41.541725616,2.4561419617,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
@@ -8,7 +48,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 268880,2024-05-18,2024-05-18,2024-05-18,15:09:00,,nan,,,41.5414165752,2.455938533,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
 268878,2024-05-18,2024-05-18,2024-05-18,15:06:00,,nan,,,41.5415514401,2.4561490864,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
 268877,2024-05-18,2024-05-18,2024-05-18,15:00:00,,nan,,,41.5415550024,2.4561401177,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
-268876,2024-05-18,2024-05-18,2024-05-18,15:04:00,plantae,250617,species,Tanacetum vulgare,41.5416134285,2.4561547861,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Tanacetum
+268876,2024-05-18,2024-05-18,2024-05-18,15:04:00,plantae,244452,species,Anacyclus valentinus,41.5416134285,2.4561547861,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Anacyclus
 268859,2024-05-18,2024-05-18,2024-05-18,14:54:00,mollusca,15,phylum,Mollusca,41.5415642431,2.4562540278,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Animalia,,,,,
 268858,2024-05-18,2024-05-18,2024-05-18,14:45:00,plantae,246657,species,Rubus ulmifolius,41.5415687602,2.4562516809,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Rosaceae,Rubus
 268857,2024-05-18,2024-05-18,2024-05-18,08:33:00,actinopterygii,35035,genus,Parablennius,41.7980246007,3.0702148515,False,"Platja d'Aro, Girona, España",needs_id,769,raulcalella,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,
@@ -2558,6 +2598,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 264064,2024-05-07,2024-05-07,2024-05-07,15:42:00,animalia,35134,species,Halocynthia papillosa,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Ascidiacea,Pleurogona,Pyuridae,Halocynthia
 264063,2024-05-07,2024-05-07,2024-05-07,15:42:00,mollusca,35036,species,Cratena peregrina,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Facelinidae,Cratena
 264062,2024-05-07,2024-05-07,2024-05-07,15:41:00,cnidaria,34789,species,Cereus pedunculatus,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Sagartiidae,Cereus
+264061,2024-05-07,2024-05-07,2024-05-07,15:41:00,chromista,35063,species,Dictyota dichotoma,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota
 264061,2024-05-07,2024-05-07,2024-05-07,15:41:00,chromista,35063,species,Dictyota dichotoma,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota
 264060,2024-05-07,2024-05-07,2024-05-07,15:40:00,porifera,250915,species,Chondrosia reniformis,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Porifera,Demospongiae,Chondrosida,Chondrillidae,Chondrosia
 264059,2024-05-07,2024-05-07,2024-05-07,15:39:00,plantae,35004,species,Halimeda tuna,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Plantae,Chlorophyta,Bryopsidophyceae,Bryopsidales,Halimedaceae,Halimeda

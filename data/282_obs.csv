@@ -1,4 +1,26 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+268955,2024-05-18,2024-05-18,2024-05-18,16:22:00,,nan,,,41.5424984431,2.4556249985,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268954,2024-05-18,2024-05-18,2024-05-18,16:19:00,life,1,stateofmatter,Life,41.5416066529,2.4561772496,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,,,,,,
+268953,2024-05-18,2024-05-18,2024-05-18,16:20:00,,nan,,,41.5424803226,2.4558340106,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268952,2024-05-18,2024-05-18,2024-05-18,16:18:00,,nan,,,41.5424403409,2.4556683004,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268950,2024-05-18,2024-05-18,2024-05-18,16:14:00,,nan,,,41.542436108,2.4557742476,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268949,2024-05-18,2024-05-18,2024-05-18,16:12:00,,nan,,,41.5438091236,2.4574307874,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268930,2024-05-18,2024-05-18,2024-05-18,16:08:00,,nan,,,41.5422471857,2.455883163,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268929,2024-05-18,2024-05-18,2024-05-18,16:06:00,,nan,,,41.5422039878,2.4558936861,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268928,2024-05-18,2024-05-18,2024-05-18,15:59:00,,nan,,,41.542197601,2.4555773567,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268927,2024-05-18,2024-05-18,2024-05-18,15:09:00,plantae,246277,species,Ricinus communis,41.5416819366,2.4561601505,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,Ricinus
+268924,2024-05-18,2024-05-18,2024-05-18,15:56:00,,nan,,,41.5420007101,2.4559610803,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268923,2024-05-18,2024-05-18,2024-05-18,15:53:00,,nan,,,41.5420119781,2.456071445,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268922,2024-05-18,2024-05-18,2024-05-18,15:51:00,,nan,,,41.5420274064,2.4559427239,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268921,2024-05-18,2024-05-18,2024-05-18,15:47:00,,nan,,,41.5419419358,2.4560071191,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268920,2024-05-18,2024-05-18,2024-05-18,15:45:00,,nan,,,41.5417771087,2.4559178666,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268919,2024-05-18,2024-05-18,2024-05-18,15:42:00,,nan,,,41.5418976854,2.4561279636,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268918,2024-05-18,2024-05-18,2024-05-18,15:34:00,,nan,,,41.5419341578,2.4560764153,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268899,2024-05-18,2024-05-18,2024-05-18,15:36:00,plantae,252413,species,Convolvulus althaeoides,41.5416545835,2.4561118707,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Convolvulaceae,Convolvulus
+268898,2024-05-18,2024-05-18,2024-05-18,15:32:00,,nan,,,41.5418524761,2.4560246989,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268897,2024-05-18,2024-05-18,2024-05-18,15:29:00,plantae,249514,species,Galactites tomentosa,41.541643291,2.4561993778,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Galactites
+268896,2024-05-18,2024-05-18,2024-05-18,15:29:00,,nan,,,41.5418666264,2.4560578603,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268895,2024-05-18,2024-05-18,2024-05-18,15:27:00,,nan,,,41.5418361951,2.4560481852,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
 268890,2024-05-18,2024-05-18,2024-05-18,15:21:00,life,1,stateofmatter,Life,41.5417058963,2.4561607195,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
 268888,2024-05-18,2024-05-18,2024-05-18,15:22:00,plantae,246807,species,Arundo donax,41.5418023902,2.4563311413,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Plantae,Magnoliophyta,Liliopsida,Poales,Poaceae,Arundo
 268887,2024-05-18,2024-05-18,2024-05-18,15:21:00,plantae,249838,species,Celtis australis,41.5416061511,2.4565393478,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Urticales,Ulmaceae,Celtis
@@ -9,7 +31,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 268880,2024-05-18,2024-05-18,2024-05-18,15:09:00,,nan,,,41.5414165752,2.455938533,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
 268878,2024-05-18,2024-05-18,2024-05-18,15:06:00,,nan,,,41.5415514401,2.4561490864,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
 268877,2024-05-18,2024-05-18,2024-05-18,15:00:00,,nan,,,41.5415550024,2.4561401177,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
-268876,2024-05-18,2024-05-18,2024-05-18,15:04:00,plantae,250617,species,Tanacetum vulgare,41.5416134285,2.4561547861,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Tanacetum
+268876,2024-05-18,2024-05-18,2024-05-18,15:04:00,plantae,244452,species,Anacyclus valentinus,41.5416134285,2.4561547861,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Anacyclus
 268859,2024-05-18,2024-05-18,2024-05-18,14:54:00,mollusca,15,phylum,Mollusca,41.5415642431,2.4562540278,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Animalia,,,,,
 268858,2024-05-18,2024-05-18,2024-05-18,14:45:00,plantae,246657,species,Rubus ulmifolius,41.5415687602,2.4562516809,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Rosaceae,Rubus
 268841,2024-05-18,2024-05-18,2024-05-16,14:54:00,life,1,stateofmatter,Life,41.2648324246,1.9827214256,False,,needs_id,2434,pvives,cc-by,0,0,,,,,,
