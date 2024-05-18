@@ -1,4 +1,5 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+268842,360550,actinopterygii,Symphodus mediterraneus,https://minka-sdg.org/attachments/local_photos/files/360550/medium.jpeg,raulcalella,41.7199362036,2.9407530426,cc-by-nc,"(c) Raul Arcos, some rights reserved (CC BY-NC)",268842_360550.jpg
 268841,360549,life,Life,https://minka-sdg.org/attachments/local_photos/files/360549/medium.jpg,pvives,41.2648324246,1.9827214256,cc-by,"(c) Pere Vives, some rights reserved (CC BY)",268841_360549.jpg
 268840,360548,plantae,Carpobrotus acinaciformis,https://minka-sdg.org/attachments/local_photos/files/360548/medium.jpg,pvives,41.2647159928,1.9827234372,cc-by,"(c) Pere Vives, some rights reserved (CC BY)",268840_360548.jpg
 268839,360547,plantae,Calystegia soldanella,https://minka-sdg.org/attachments/local_photos/files/360547/medium.jpg,pvives,41.2648162955,1.9827277958,cc-by,"(c) Pere Vives, some rights reserved (CC BY)",268839_360547.jpg
@@ -257,7 +258,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 268596,360170,actinopterygii,Scorpaena maderensis,https://minka-sdg.org/attachments/local_photos/files/360170/medium.jpeg,gregoribdn,41.5254,2.4765,cc-by-nc,"(c) gregoribdn, some rights reserved (CC BY-NC)",268596_360170.jpg
 268595,360169,cnidaria,Aiptasia mutabilis,https://minka-sdg.org/attachments/local_photos/files/360169/medium.jpeg,gregoribdn,41.5254,2.4765,cc-by-nc,"(c) gregoribdn, some rights reserved (CC BY-NC)",268595_360169.jpg
 268594,360168,plantae,Codium bursa,https://minka-sdg.org/attachments/local_photos/files/360168/medium.jpeg,gregoribdn,41.5254,2.4765,cc-by-nc,"(c) gregoribdn, some rights reserved (CC BY-NC)",268594_360168.jpg
-268593,360167,plantae,Corallinaceae,https://minka-sdg.org/attachments/local_photos/files/360167/medium.jpeg,gregoribdn,41.5254,2.4765,cc-by-nc,"(c) gregoribdn, some rights reserved (CC BY-NC)",268593_360167.jpg
+268593,360167,plantae,Jania rubens,https://minka-sdg.org/attachments/local_photos/files/360167/medium.jpeg,gregoribdn,41.5254,2.4765,cc-by-nc,"(c) gregoribdn, some rights reserved (CC BY-NC)",268593_360167.jpg
 268592,360166,actinopterygii,Coris julis,https://minka-sdg.org/attachments/local_photos/files/360166/medium.jpeg,gregoribdn,41.5254,2.4765,cc-by-nc,"(c) gregoribdn, some rights reserved (CC BY-NC)",268592_360166.jpg
 268591,360165,plantae,Posidonia oceanica,https://minka-sdg.org/attachments/local_photos/files/360165/medium.jpeg,gregoribdn,41.5254,2.4765,cc-by-nc,"(c) gregoribdn, some rights reserved (CC BY-NC)",268591_360165.jpg
 268590,360164,chromista,Dictyota dichotoma,https://minka-sdg.org/attachments/local_photos/files/360164/medium.jpeg,gregoribdn,41.5254,2.4765,cc-by-nc,"(c) gregoribdn, some rights reserved (CC BY-NC)",268590_360164.jpg
@@ -2447,7 +2448,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 265550,356184,chromista,Halopteris scoparia,https://minka-sdg.org/attachments/local_photos/files/356184/medium.jpg,pauperrim,42.1181570011,3.1539244205,cc-by,"(c) Pau Pagès Jaén, some rights reserved (CC BY)",265550_356184.jpg
 265549,356183,plantae,Plocamium cartilagineum,https://minka-sdg.org/attachments/local_photos/files/356183/medium.jpg,pauperrim,42.1284944314,3.1236862019,cc-by,"(c) Pau Pagès Jaén, some rights reserved (CC BY)",265549_356183.jpg
 265548,356182,chromista,Scytosiphon lomentaria,https://minka-sdg.org/attachments/local_photos/files/356182/medium.jpg,pauperrim,42.118139095,3.1538811699,cc-by,"(c) Pau Pagès Jaén, some rights reserved (CC BY)",265548_356182.jpg
-265546,356180,plantae,Bonnemaisoniaceae,https://minka-sdg.org/attachments/local_photos/files/356180/medium.jpg,pauperrim,42.12853827,3.1236948375,cc-by,"(c) Pau Pagès Jaén, some rights reserved (CC BY)",265546_356180.jpg
+265546,356180,plantae,Bonnemaisonia asparagoides,https://minka-sdg.org/attachments/local_photos/files/356180/medium.jpg,pauperrim,42.12853827,3.1236948375,cc-by,"(c) Pau Pagès Jaén, some rights reserved (CC BY)",265546_356180.jpg
 265545,356179,plantae,Sphaerococcus coronopifolius,https://minka-sdg.org/attachments/local_photos/files/356179/medium.jpg,pauperrim,42.12853127,3.1236878375,cc-by,"(c) Pau Pagès Jaén, some rights reserved (CC BY)",265545_356179.jpg
 265544,356178,plantae,Codium vermilara,https://minka-sdg.org/attachments/local_photos/files/356178/medium.jpg,pauperrim,42.12852427,3.1236808375,cc-by,"(c) Pau Pagès Jaén, some rights reserved (CC BY)",265544_356178.jpg
 265524,356095,actinopterygii,Diplodus annularis,https://minka-sdg.org/attachments/local_photos/files/356095/medium.jpg,jordi2000,41.4099216766,2.2272631153,cc-by,"(c) Jordi Vivancos, some rights reserved (CC BY)",265524_356095.jpg
