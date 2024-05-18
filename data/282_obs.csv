@@ -1,4 +1,17 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+268890,2024-05-18,2024-05-18,2024-05-18,15:21:00,life,1,stateofmatter,Life,41.5417058963,2.4561607195,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268888,2024-05-18,2024-05-18,2024-05-18,15:22:00,plantae,246807,species,Arundo donax,41.5418023902,2.4563311413,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Plantae,Magnoliophyta,Liliopsida,Poales,Poaceae,Arundo
+268887,2024-05-18,2024-05-18,2024-05-18,15:21:00,plantae,249838,species,Celtis australis,41.5416061511,2.4565393478,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Urticales,Ulmaceae,Celtis
+268886,2024-05-18,2024-05-18,2024-05-18,15:18:00,,nan,,,41.541725616,2.4561419617,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268885,2024-05-18,2024-05-18,2024-05-18,15:13:00,aves,252264,species,Columba livia,41.5416465533,2.456321083,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
+268884,2024-05-18,2024-05-18,2024-05-18,15:16:00,,nan,,,41.5417018114,2.4561728071,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268881,2024-05-18,2024-05-18,2024-05-18,15:14:00,,nan,,,41.5417398,2.4561047,False,Spain,needs_id,2841,manel,cc-by,0,0,,,,,,
+268880,2024-05-18,2024-05-18,2024-05-18,15:09:00,,nan,,,41.5414165752,2.455938533,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268878,2024-05-18,2024-05-18,2024-05-18,15:06:00,,nan,,,41.5415514401,2.4561490864,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268877,2024-05-18,2024-05-18,2024-05-18,15:00:00,,nan,,,41.5415550024,2.4561401177,False,Spain,needs_id,2832,josjavier,cc-by,0,0,,,,,,
+268876,2024-05-18,2024-05-18,2024-05-18,15:04:00,plantae,250617,species,Tanacetum vulgare,41.5416134285,2.4561547861,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Tanacetum
+268859,2024-05-18,2024-05-18,2024-05-18,14:54:00,mollusca,15,phylum,Mollusca,41.5415642431,2.4562540278,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Animalia,,,,,
+268858,2024-05-18,2024-05-18,2024-05-18,14:45:00,plantae,246657,species,Rubus ulmifolius,41.5415687602,2.4562516809,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Rosaceae,Rubus
 268841,2024-05-18,2024-05-18,2024-05-16,14:54:00,life,1,stateofmatter,Life,41.2648324246,1.9827214256,False,,needs_id,2434,pvives,cc-by,0,0,,,,,,
 268840,2024-05-18,2024-05-18,2024-05-16,15:09:00,plantae,249415,species,Carpobrotus acinaciformis,41.2647159928,1.9827234372,False,,needs_id,2434,pvives,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Aizoaceae,Carpobrotus
 268839,2024-05-18,2024-05-18,2024-05-18,10:31:00,plantae,90169,species,Calystegia soldanella,41.2648162955,1.9827277958,False,,needs_id,2434,pvives,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Convolvulaceae,Calystegia
