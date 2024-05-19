@@ -1,4 +1,5 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+269201,361001,aves,Gulosus aristotelis,https://minka-sdg.org/attachments/local_photos/files/361001/medium.jpg,oli8,41.4650948,2.2776489,cc-by,"(c) Oliver González, some rights reserved (CC BY)",269201_361001.jpg
 269200,361000,aves,Gulosus aristotelis,https://minka-sdg.org/attachments/local_photos/files/361000/medium.jpg,oli8,41.4650918,2.2776459,cc-by,"(c) Oliver González, some rights reserved (CC BY)",269200_361000.jpg
 269199,360998,cnidaria,Actinia equina,https://minka-sdg.org/attachments/local_photos/files/360998/medium.jpg,marionaclaramunt,41.4652145,2.2777313,cc-by,"(c) Mariona Claramunt, some rights reserved (CC BY)",269199_360998.jpg
 269198,360997,cnidaria,Actinia equina,https://minka-sdg.org/attachments/local_photos/files/360997/medium.jpg,marionaclaramunt,41.4652115,2.2777283,cc-by,"(c) Mariona Claramunt, some rights reserved (CC BY)",269198_360997.jpg
@@ -2762,7 +2763,6 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 265561,356195,cnidaria,Pelagia noctiluca,https://minka-sdg.org/attachments/local_photos/files/356195/medium.jpg,mpontes,42.1141496159,3.166357234,cc-by-nc-sa,"(c) Miquel Pontes, some rights reserved (CC BY-NC-SA)",265561_356195.jpg
 265560,356194,cnidaria,Aiptasia couchi,https://minka-sdg.org/attachments/local_photos/files/356194/medium.jpg,mpontes,42.1141496159,3.166357234,cc-by-nc-sa,"(c) Miquel Pontes, some rights reserved (CC BY-NC-SA)",265560_356194.jpg
 265559,356193,cnidaria,Pelagia noctiluca,https://minka-sdg.org/attachments/local_photos/files/356193/medium.jpg,mpontes,42.1141496159,3.166357234,cc-by-nc-sa,"(c) Miquel Pontes, some rights reserved (CC BY-NC-SA)",265559_356193.jpg
-265558,356192,crustacea,Palinurus elephas,https://minka-sdg.org/attachments/local_photos/files/356192/medium.jpg,mpontes,42.1141496159,3.166357234,cc-by-nc-sa,"(c) Miquel Pontes, some rights reserved (CC BY-NC-SA)",265558_356192.jpg
 265558,356192,crustacea,Palinurus elephas,https://minka-sdg.org/attachments/local_photos/files/356192/medium.jpg,mpontes,42.1141496159,3.166357234,cc-by-nc-sa,"(c) Miquel Pontes, some rights reserved (CC BY-NC-SA)",265558_356192.jpg
 265557,356191,mollusca,Smaragdia viridis,https://minka-sdg.org/attachments/local_photos/files/356191/medium.jpg,mpontes,42.1141496159,3.166357234,cc-by-nc-sa,"(c) Miquel Pontes, some rights reserved (CC BY-NC-SA)",265557_356191.jpg
 265555,356189,plantae,Gastroclonium clavatum,https://minka-sdg.org/attachments/local_photos/files/356189/medium.jpg,pauperrim,42.1181850011,3.1539524205,cc-by,"(c) Pau Pagès Jaén, some rights reserved (CC BY)",265555_356189.jpg
