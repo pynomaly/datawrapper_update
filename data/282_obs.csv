@@ -1,4 +1,5 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+270320,2024-05-21,2024-05-21,2024-05-18,08:32:00,plantae,67,phylum,Chlorophyta,41.3696163862,2.1913449839,False,Spain,needs_id,1090,irena,C,0,0,Plantae,,,,,
 269854,2024-05-20,2024-05-20,2024-05-20,09:54:00,insecta,241863,species,Pieris rapae,41.2667957746,2.0210620591,False,"Gavà. Barcelona, España",research,1656,angelarroyes,cc-by,1,0,Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pieris
 269853,2024-05-20,2024-05-20,2024-05-20,09:43:00,insecta,263226,species,Scarabaeus semipunctatus,41.2667560977,2.0216209684,False,"Gavà. Barcelona, España",research,1656,angelarroyes,cc-by,1,0,Animalia,Arthropoda,Insecta,Coleoptera,Scarabaeidae,Scarabaeus
 269852,2024-05-20,2024-05-20,2024-05-20,09:42:00,insecta,8001,genus,Bombus,41.2667038555,2.0207474315,False,"Gavà. Barcelona, España",needs_id,1656,angelarroyes,cc-by,1,0,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,
