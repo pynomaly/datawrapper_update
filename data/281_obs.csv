@@ -1,4 +1,8 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+270594,2024-05-21,2024-05-21,2024-05-11,08:04:00,,nan,,,41.6724219259,2.8020700962,False,,needs_id,2890,roberto,cc-by,0,0,,,,,,
+270593,2024-05-21,2024-05-21,2024-05-11,08:04:00,,nan,,,41.6724189259,2.8020670962,False,,needs_id,2890,roberto,cc-by,0,0,,,,,,
+270592,2024-05-21,2024-05-21,2024-05-11,08:04:00,,nan,,,41.6724019259,2.8020500962,False,,needs_id,2890,roberto,cc-by,0,0,,,,,,
+270591,2024-05-21,2024-05-21,2024-05-11,08:04:00,,nan,,,41.6723989259,2.8020470962,False,,needs_id,2890,roberto,cc-by,0,0,,,,,,
 270318,2024-05-21,2024-05-21,2024-05-18,07:29:00,mollusca,35036,species,Cratena peregrina,41.7990721355,3.0667569859,False,Llosa del mig (Platja d'Aro),research,545,sara_riera,cc-by-nc,2,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Facelinidae,Cratena
 270317,2024-05-21,2024-05-21,2024-05-18,07:29:00,actinopterygii,13765,species,Serranus scriba,41.7990721355,3.0667569859,False,Llosa del mig (Platja d'Aro),research,545,sara_riera,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Serranus
 270316,2024-05-21,2024-05-21,2024-05-18,07:29:00,actinopterygii,35225,species,Chromis chromis,41.7990721355,3.0667569859,False,Llosa del mig (Platja d'Aro),research,545,sara_riera,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
