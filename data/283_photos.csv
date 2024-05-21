@@ -1,8 +1,8 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
-270594,363022,,,https://minka-sdg.org/attachments/local_photos/files/363022/medium.jpg,roberto,41.6724219259,2.8020700962,cc-by,"(c) roberto, some rights reserved (CC BY)",270594_363022.jpg
-270593,363021,,,https://minka-sdg.org/attachments/local_photos/files/363021/medium.jpg,roberto,41.6724189259,2.8020670962,cc-by,"(c) roberto, some rights reserved (CC BY)",270593_363021.jpg
-270592,363020,,,https://minka-sdg.org/attachments/local_photos/files/363020/medium.jpg,roberto,41.6724019259,2.8020500962,cc-by,"(c) roberto, some rights reserved (CC BY)",270592_363020.jpg
-270591,363019,,,https://minka-sdg.org/attachments/local_photos/files/363019/medium.jpg,roberto,41.6723989259,2.8020470962,cc-by,"(c) roberto, some rights reserved (CC BY)",270591_363019.jpg
+270594,363022,crustacea,Palinurus elephas,https://minka-sdg.org/attachments/local_photos/files/363022/medium.jpg,roberto,41.6724219259,2.8020700962,cc-by,"(c) roberto, some rights reserved (CC BY)",270594_363022.jpg
+270593,363021,mollusca,Peltodoris atromaculata,https://minka-sdg.org/attachments/local_photos/files/363021/medium.jpg,roberto,41.6724189259,2.8020670962,cc-by,"(c) roberto, some rights reserved (CC BY)",270593_363021.jpg
+270592,363020,mollusca,Antiopella cristata,https://minka-sdg.org/attachments/local_photos/files/363020/medium.jpg,roberto,41.6724019259,2.8020500962,cc-by,"(c) roberto, some rights reserved (CC BY)",270592_363020.jpg
+270591,363019,mollusca,Antiopella cristata,https://minka-sdg.org/attachments/local_photos/files/363019/medium.jpg,roberto,41.6723989259,2.8020470962,cc-by,"(c) roberto, some rights reserved (CC BY)",270591_363019.jpg
 270589,363002,animalia,Botrylloides,https://minka-sdg.org/attachments/local_photos/files/363002/medium.jpeg,guillermoalvarez_fecdas,41.4100631253,2.2273692196,cc-by-nc,"(c) Guillermo Alvarez Lerma, some rights reserved (CC BY-NC)",270589_363002.jpg
 270588,363000,echinodermata,Ophiothrix fragilis,https://minka-sdg.org/attachments/local_photos/files/363000/medium.jpeg,guillermoalvarez_fecdas,41.4100631253,2.2273692196,cc-by-nc,"(c) Guillermo Alvarez Lerma, some rights reserved (CC BY-NC)",270588_363000.jpg
 270587,362995,crustacea,Chthamalus stellatus,https://minka-sdg.org/attachments/local_photos/files/362995/medium.jpeg,guillermoalvarez_fecdas,41.4100631253,2.2273692196,cc-by-nc,"(c) Guillermo Alvarez Lerma, some rights reserved (CC BY-NC)",270587_362995.jpg
