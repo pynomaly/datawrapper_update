@@ -43,12 +43,30 @@ exclude_users = [
     "elibonfill",
     "meri",
     "marinatorresgi",
+    "monyant",
+    "ura4dive",
     # vanessa,
     # teresa,
 ]
 
 
-def update_main_metrics(proj_id):
+def get_main_metrics(proj_id):
+    species = f"{API_PATH}/observations/species_counts?"
+    url1 = f"{species}&project_id={proj_id}"
+    total_species = requests.get(url1).json()["total_results"]
+
+    observers = f"{API_PATH}/observations/observers?"
+    url2 = f"{observers}&project_id={proj_id}"
+    total_participants = requests.get(url2).json()["total_results"]
+
+    observations = f"{API_PATH}/observations?"
+    url3 = f"{observations}&project_id={proj_id}"
+    total_obs = requests.get(url3).json()["total_results"]
+
+    return total_species, total_participants, total_obs
+
+
+def update_main_metrics_by_day(proj_id):
     results = []
     observations = f"{API_PATH}/observations?"
     species = f"{API_PATH}/observations/species_counts?"
@@ -94,17 +112,6 @@ def update_main_metrics(proj_id):
 
                 results.append(result)
                 day = day + datetime.timedelta(days=1)
-
-            # Para el resto devuelve 0
-            """else:
-                result = {
-                    "date": day.strftime("%Y-%m-%d"),
-                    "observations": 0,
-                    "species": 0,
-                    "participants": 0,
-                }
-                results.append(result)
-                day = day + datetime.timedelta(days=1)"""
 
         result_df = pd.DataFrame(results)
         print("Updated main metrics")
@@ -189,44 +196,6 @@ def get_participation_df(main_project):
     return pt_users
 
 
-def get_marine_count(df_obs) -> pd.DataFrame:
-    df_marines = (
-        df_obs.groupby("marine")
-        .size()
-        .reset_index()
-        .rename(columns={"marine": "entorn", 0: "observacions"})
-    )
-
-    df_spe = df_obs.groupby("marine")["taxon_name"].nunique().reset_index()
-    especies_terrestres = df_spe.loc[df_spe.marine == False, "taxon_name"].item()
-    especies_marinas = df_spe.loc[df_spe.marine == True, "taxon_name"].item()
-
-    df_marines["entorn"] = df_marines["entorn"].map({False: "terrestre", True: "marí"})
-    df_marines.loc[df_marines.entorn == "marí", "espècies"] = especies_marinas
-    df_marines.loc[df_marines.entorn == "terrestre", "espècies"] = especies_terrestres
-
-    df_marines = df_marines.sort_values(by="observacions", ascending=False).reset_index(
-        drop=True
-    )
-    return df_marines
-
-
-def get_main_metrics(proj_id):
-    species = f"{API_PATH}/observations/species_counts?"
-    url1 = f"{species}&project_id={proj_id}"
-    total_species = requests.get(url1).json()["total_results"]
-
-    observers = f"{API_PATH}/observations/observers?"
-    url2 = f"{observers}&project_id={proj_id}"
-    total_participants = requests.get(url2).json()["total_results"]
-
-    observations = f"{API_PATH}/observations?"
-    url3 = f"{observations}&project_id={proj_id}"
-    total_obs = requests.get(url3).json()["total_results"]
-
-    return total_species, total_participants, total_obs
-
-
 def get_marine(taxon_name):
     name_clean = taxon_name.replace(" ", "+")
     status = requests.get(
@@ -237,44 +206,6 @@ def get_marine(taxon_name):
     else:
         result = False
     return result
-
-
-def get_species_df(proj_id):
-    total_sp = []
-
-    species = f"{API_PATH}/observations/species_counts?"
-    url1 = f"{species}&project_id={proj_id}"
-
-    total_num = requests.get(url1).json()["total_results"]
-
-    pages = math.ceil(total_num / 500)
-
-    for i in range(pages):
-        especie = {}
-        page = i + 1
-        url = f"{species}&project_id={proj_id}&page={page}"
-        results = requests.get(url).json()["results"]
-        for result in results:
-            especie = {}
-            especie["taxon_id"] = result["taxon"]["id"]
-            especie["taxon_name"] = result["taxon"]["name"]
-            especie["rank"] = result["taxon"]["rank"]
-            especie["ancestry"] = result["taxon"]["ancestry"]
-            total_sp.append(especie)
-
-    df_species = pd.DataFrame(total_sp)
-
-    # Añadimos columna de marine
-    taxon_url = "https://raw.githubusercontent.com/eosc-cos4cloud/mecoda-orange/master/mecoda_orange/data/taxon_tree_with_marines.csv"
-    taxon_tree = pd.read_csv(taxon_url)
-
-    df_species = pd.merge(
-        df_species,
-        taxon_tree[["taxon_id", "marine"]],
-        on="taxon_id",
-        how="left",
-    )
-    return df_species
 
 
 def get_marine_species(proj_id):
@@ -313,6 +244,28 @@ def get_marine_species(proj_id):
     return df_species
 
 
+def get_marine_count(df_obs) -> pd.DataFrame:
+    df_marines = (
+        df_obs.groupby("marine")
+        .size()
+        .reset_index()
+        .rename(columns={"marine": "entorn", 0: "observacions"})
+    )
+
+    df_spe = df_obs.groupby("marine")["taxon_name"].nunique().reset_index()
+    especies_terrestres = df_spe.loc[df_spe.marine == False, "taxon_name"].item()
+    especies_marinas = df_spe.loc[df_spe.marine == True, "taxon_name"].item()
+
+    df_marines["entorn"] = df_marines["entorn"].map({False: "terrestre", True: "marí"})
+    df_marines.loc[df_marines.entorn == "marí", "espècies"] = especies_marinas
+    df_marines.loc[df_marines.entorn == "terrestre", "espècies"] = especies_terrestres
+
+    df_marines = df_marines.sort_values(by="observacions", ascending=False).reset_index(
+        drop=True
+    )
+    return df_marines
+
+
 def _get_identifiers(proj_id: int) -> pd.DataFrame:
     url = "https://api.minka-sdg.org/v1/observations/identifiers?project_id=233"
     results = requests.get(url).json()["results"]
@@ -341,7 +294,7 @@ if __name__ == "__main__":
     # BioMARató 2024
 
     # Actualiza main metrics
-    main_metrics_df = update_main_metrics(main_project_bmt)
+    main_metrics_df = update_main_metrics_by_day(main_project_bmt)
     if main_metrics_df is not None:
         main_metrics_df.to_csv(
             f"data/{main_project_bmt}_main_metrics_per_day.csv", index=False
