@@ -1,4 +1,5 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+271360,364299,actinopterygii,Parablennius pilicornis,https://minka-sdg.org/attachments/local_photos/files/364299/medium.jpeg,mar_avelles,41.4104332674,2.2278412876,C,"(c) Sofía, all rights reserved",271360_364299.jpg
 271196,364104,actinopterygii,Aidablennius sphynx,https://minka-sdg.org/attachments/local_photos/files/364104/medium.jpeg,jastals,41.5983591894,2.6220175407,cc-by-nc,"(c) jastals, some rights reserved (CC BY-NC)",271196_364104.jpg
 271195,364103,chromista,Padina pavonica,https://minka-sdg.org/attachments/local_photos/files/364103/medium.jpeg,jastals,41.5983591894,2.6220175407,cc-by-nc,"(c) jastals, some rights reserved (CC BY-NC)",271195_364103.jpg
 271194,364102,plantae,Acetabularia acetabulum,https://minka-sdg.org/attachments/local_photos/files/364102/medium.jpeg,jastals,41.5983591894,2.6220175407,cc-by-nc,"(c) jastals, some rights reserved (CC BY-NC)",271194_364102.jpg
@@ -44,8 +45,8 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 271155,364062,annelida,Myxicola infundibulum,https://minka-sdg.org/attachments/local_photos/files/364062/medium.jpeg,jastals,41.5983591894,2.6220175407,cc-by-nc,"(c) jastals, some rights reserved (CC BY-NC)",271155_364062.jpg
 271154,364061,plantae,Codium vermilara,https://minka-sdg.org/attachments/local_photos/files/364061/medium.jpeg,jastals,41.5983591894,2.6220175407,cc-by-nc,"(c) jastals, some rights reserved (CC BY-NC)",271154_364061.jpg
 271153,364060,mollusca,Bivalvia,https://minka-sdg.org/attachments/local_photos/files/364060/medium.jpeg,jastals,41.5983591894,2.6220175407,cc-by-nc,"(c) jastals, some rights reserved (CC BY-NC)",271153_364060.jpg
-271152,364059,actinopterygii,Symphodus,https://minka-sdg.org/attachments/local_photos/files/364059/medium.jpeg,jastals,41.5983591894,2.6220175407,cc-by-nc,"(c) jastals, some rights reserved (CC BY-NC)",271152_364059.jpg
-271152,364058,actinopterygii,Symphodus,https://minka-sdg.org/attachments/local_photos/files/364058/medium.jpeg,jastals,41.5983591894,2.6220175407,cc-by-nc,"(c) jastals, some rights reserved (CC BY-NC)",271152_364058.jpg
+271152,364059,actinopterygii,Symphodus roissali,https://minka-sdg.org/attachments/local_photos/files/364059/medium.jpeg,jastals,41.5983591894,2.6220175407,cc-by-nc,"(c) jastals, some rights reserved (CC BY-NC)",271152_364059.jpg
+271152,364058,actinopterygii,Symphodus roissali,https://minka-sdg.org/attachments/local_photos/files/364058/medium.jpeg,jastals,41.5983591894,2.6220175407,cc-by-nc,"(c) jastals, some rights reserved (CC BY-NC)",271152_364058.jpg
 271151,364057,actinopterygii,Chromis chromis,https://minka-sdg.org/attachments/local_photos/files/364057/medium.jpeg,jastals,41.5983591894,2.6220175407,cc-by-nc,"(c) jastals, some rights reserved (CC BY-NC)",271151_364057.jpg
 271150,364056,chromista,Dictyota dichotoma,https://minka-sdg.org/attachments/local_photos/files/364056/medium.jpeg,jastals,41.5983591894,2.6220175407,cc-by-nc,"(c) jastals, some rights reserved (CC BY-NC)",271150_364056.jpg
 271149,364055,mollusca,Bivalvia,https://minka-sdg.org/attachments/local_photos/files/364055/medium.jpeg,jastals,41.5983591894,2.6220175407,cc-by-nc,"(c) jastals, some rights reserved (CC BY-NC)",271149_364055.jpg
