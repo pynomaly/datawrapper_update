@@ -61,7 +61,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 271003,2024-05-22,2024-05-22,2024-05-18,06:36:00,mollusca,138559,species,Rocellaria dubia,42.3197967229,3.3309469627,False,,research,51,bertinhaco,cc-by-nc,1,0,Animalia,Mollusca,Bivalvia,,Gastrochaenidae,Rocellaria
 271002,2024-05-22,2024-05-22,2024-05-18,06:35:00,cnidaria,34891,species,Corynactis viridis,42.3197967229,3.3309469627,False,,research,51,bertinhaco,cc-by-nc,1,0,Animalia,Cnidaria,Anthozoa,Corallimorpharia,Corallimorphidae,Corynactis
 271001,2024-05-22,2024-05-22,2024-05-18,06:35:00,plantae,246781,species,Mesophyllum expansum,42.3197967229,3.3309469627,False,,research,51,bertinhaco,cc-by-nc,1,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,Mesophyllum
-271000,2024-05-22,2024-05-22,2024-05-18,06:34:00,animalia,4280,family,Salpidae,42.3197967229,3.3309469627,False,,needs_id,51,bertinhaco,cc-by-nc,0,0,Animalia,Chordata,Thaliacea,Salpida,,
+271000,2024-05-22,2024-05-22,2024-05-18,06:34:00,animalia,4280,family,Salpidae,42.3197967229,3.3309469627,False,,needs_id,51,bertinhaco,cc-by-nc,1,0,Animalia,Chordata,Thaliacea,Salpida,,
 270999,2024-05-22,2024-05-22,2024-05-18,06:33:00,mollusca,444,order,Nudibranchia,42.3197967229,3.3309469627,False,,needs_id,51,bertinhaco,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,,,
 270998,2024-05-22,2024-05-22,2024-05-18,06:33:00,,nan,,,42.3197967229,3.3309469627,False,,needs_id,51,bertinhaco,cc-by-nc,0,0,,,,,,
 270997,2024-05-22,2024-05-22,2024-05-18,06:33:00,chromista,35063,species,Dictyota dichotoma,42.3197967229,3.3309469627,False,,research,51,bertinhaco,cc-by-nc,1,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota
