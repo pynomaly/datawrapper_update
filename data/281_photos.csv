@@ -1,4 +1,5 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+271609,364625,actinopterygii,Scorpaena,https://minka-sdg.org/attachments/local_photos/files/364625/medium.jpg,roberto,41.6767108121,2.8016618639,cc-by,"(c) roberto, some rights reserved (CC BY)",271609_364625.jpg
 271470,364408,plantae,Ellisolandia elongata,https://minka-sdg.org/attachments/local_photos/files/364408/medium.jpeg,bertinhaco,42.3242063067,3.3095669713,cc-by-nc,"(c) Berta Companys Oliva, some rights reserved (CC BY-NC)",271470_364408.jpg
 271469,364407,plantae,Wrangelia penicillata,https://minka-sdg.org/attachments/local_photos/files/364407/medium.jpeg,bertinhaco,42.3242063067,3.3095669713,cc-by-nc,"(c) Berta Companys Oliva, some rights reserved (CC BY-NC)",271469_364407.jpg
 271468,364406,actinopterygii,Thalassoma pavo,https://minka-sdg.org/attachments/local_photos/files/364406/medium.jpeg,bertinhaco,42.3242063067,3.3095669713,cc-by-nc,"(c) Berta Companys Oliva, some rights reserved (CC BY-NC)",271468_364406.jpg
@@ -216,7 +217,6 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 270937,363464,mollusca,Thuridilla hopei,https://minka-sdg.org/attachments/local_photos/files/363464/medium.jpeg,uriborrajo,42.1141595204,3.1674395153,cc-by-nc,"(c) uriborrajo, some rights reserved (CC BY-NC)",270937_363464.jpg
 270936,363463,porifera,Aplysina aerophoba,https://minka-sdg.org/attachments/local_photos/files/363463/medium.jpeg,uriborrajo,42.1141436029,3.1671672711,cc-by-nc,"(c) uriborrajo, some rights reserved (CC BY-NC)",270936_363463.jpg
 270935,363462,cnidaria,Parazoanthus axinellae,https://minka-sdg.org/attachments/local_photos/files/363462/medium.jpeg,uriborrajo,42.1141376338,3.1673471429,cc-by-nc,"(c) uriborrajo, some rights reserved (CC BY-NC)",270935_363462.jpg
-270934,363461,mollusca,Thuridilla hopei,https://minka-sdg.org/attachments/local_photos/files/363461/medium.jpg,uriborrajo,42.1140580462,3.167194257,cc-by-nc,"(c) uriborrajo, some rights reserved (CC BY-NC)",270934_363461.jpg
 270934,363461,mollusca,Thuridilla hopei,https://minka-sdg.org/attachments/local_photos/files/363461/medium.jpg,uriborrajo,42.1140580462,3.167194257,cc-by-nc,"(c) uriborrajo, some rights reserved (CC BY-NC)",270934_363461.jpg
 270933,363460,mollusca,Tylodina perversa,https://minka-sdg.org/attachments/local_photos/files/363460/medium.jpeg,uriborrajo,42.114168474,3.1672090091,cc-by-nc,"(c) uriborrajo, some rights reserved (CC BY-NC)",270933_363460.jpg
 270932,363459,mollusca,Tylodina perversa,https://minka-sdg.org/attachments/local_photos/files/363459/medium.jpg,uriborrajo,42.1141883709,3.1672023036,cc-by-nc,"(c) uriborrajo, some rights reserved (CC BY-NC)",270932_363459.jpg
