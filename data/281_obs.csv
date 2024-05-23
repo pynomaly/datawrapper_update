@@ -1,4 +1,5 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+271394,2024-05-23,2024-05-23,2024-05-20,08:47:00,crustacea,248944,species,Scyllarides latus,41.797421,3.069748,False,,research,2886,albertolr88,cc-by,1,0,Animalia,Arthropoda,Malacostraca,Decapoda,Scyllaridae,Scyllarides
 271354,2024-05-22,2024-05-23,2024-05-21,05:58:00,annelida,35119,species,Bonellia viridis,41.6744682819,2.7990240788,False,,research,910,mar_avelles,C,1,0,Animalia,Annelida,Polychaeta,,Bonelliidae,Bonellia
 271353,2024-05-22,2024-05-23,2024-05-21,05:54:00,mollusca,34855,species,Sepia officinalis,41.6741750033,2.7986805884,False,"Port de Blanes, España",research,910,mar_avelles,C,1,0,Animalia,Mollusca,Cephalopoda,Sepiida,Sepiidae,Sepia
 271352,2024-05-22,2024-05-23,2024-05-21,07:54:00,mammalia,251479,species,Stenella coeruleoalba,41.6548294329,2.8193666887,False,,research,910,mar_avelles,C,1,0,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,
