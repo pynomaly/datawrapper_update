@@ -1,15 +1,15 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
 271886,2024-05-24,2024-05-24,2024-05-19,17:23:00,plantae,251660,species,Cistus salviifolius,42.3196197878,3.3163278727,False,"Girona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Violales,Cistaceae,Cistus
 271885,2024-05-24,2024-05-24,2024-05-19,17:26:00,,nan,,,42.3196197878,3.3163278727,False,"Girona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,,,,,,
-271884,2024-05-24,2024-05-24,2024-05-19,17:14:00,plantae,243910,species,Aloe maculata,42.3186803003,3.3157871787,False,"Girona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Asparagales,Xanthorrhoeaceae,Aloe
+271884,2024-05-24,2024-05-24,2024-05-19,17:14:00,plantae,243910,species,Aloe maculata,42.3186803003,3.3157871787,False,"Girona, España",research,51,bertinhaco,cc-by-nc,1,0,Plantae,Magnoliophyta,Liliopsida,Asparagales,Xanthorrhoeaceae,Aloe
 271883,2024-05-24,2024-05-24,2024-05-19,17:13:00,,nan,,,42.3186318574,3.3163109958,False,"Girona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,,,,,,
 271882,2024-05-24,2024-05-24,2024-05-19,17:13:00,,nan,,,42.3186803003,3.3157871787,False,"Girona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,,,,,,
 271881,2024-05-24,2024-05-24,2024-05-19,17:11:00,,nan,,,42.3186318574,3.3163109958,False,"Girona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,,,,,,
-271880,2024-05-24,2024-05-24,2024-05-19,17:11:00,plantae,43131,genus,Paronychia,42.3186318574,3.3163109958,False,"Girona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,
+271880,2024-05-24,2024-05-24,2024-05-19,17:11:00,plantae,43131,genus,Paronychia,42.3186318574,3.3163109958,False,"Girona, España",needs_id,51,bertinhaco,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,
 271879,2024-05-24,2024-05-24,2024-05-19,17:08:00,,nan,,,42.3186318574,3.3163109958,False,"Girona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,,,,,,
 271878,2024-05-24,2024-05-24,2024-05-19,17:07:00,plantae,242385,species,Juniperus oxycedrus,42.3186318574,3.3163109958,False,"Girona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,Plantae,Pinophyta,Pinopsida,Pinales,Cupressaceae,Juniperus
 271877,2024-05-24,2024-05-24,2024-05-19,17:09:00,,nan,,,42.3186318574,3.3163109958,False,"Girona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,,,,,,
-271876,2024-05-24,2024-05-24,2024-05-19,17:06:00,plantae,20457,genus,Opuntia,42.3186318574,3.3163109958,False,"Girona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,
+271876,2024-05-24,2024-05-24,2024-05-19,17:06:00,plantae,20457,genus,Opuntia,42.3186318574,3.3163109958,False,"Girona, España",needs_id,51,bertinhaco,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,
 271875,2024-05-24,2024-05-24,2024-05-19,16:59:00,,nan,,,42.319014383,3.3164387941,False,"Girona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,,,,,,
 271874,2024-05-24,2024-05-24,2024-05-19,16:59:00,,nan,,,42.319014383,3.3164387941,False,"Girona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,,,,,,
 271873,2024-05-24,2024-05-24,2024-05-19,16:59:00,,nan,,,42.319014383,3.3164387941,False,"Girona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,,,,,,
@@ -17,7 +17,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 271871,2024-05-24,2024-05-24,2024-05-19,16:57:00,,nan,,,42.319014383,3.3164387941,False,"Girona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,,,,,,
 271870,2024-05-24,2024-05-24,2024-05-19,16:57:00,plantae,38337,genus,Plantago,42.319014383,3.3164387941,False,"Girona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Plantaginales,Plantaginaceae,
 271869,2024-05-24,2024-05-24,2024-05-19,16:57:00,,nan,,,42.319014383,3.3164387941,False,"Girona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,,,,,,
-271868,2024-05-24,2024-05-24,2024-05-19,16:56:00,,nan,,,42.319014383,3.3164387941,False,"Girona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,,,,,,
+271868,2024-05-24,2024-05-24,2024-05-19,16:56:00,plantae,40121,genus,Malva,42.319014383,3.3164387941,False,"Girona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Malvales,Malvaceae,
 271828,2024-05-24,2024-05-24,2024-05-20,07:02:00,cnidaria,248155,species,Calliactis parasitica,42.3206444897,3.3243608289,False,,research,51,bertinhaco,cc-by-nc,1,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Hormathiidae,Calliactis
 271827,2024-05-24,2024-05-24,2024-05-20,06:55:00,cnidaria,35220,species,Anemonia viridis,42.3206444897,3.3243608289,False,,research,51,bertinhaco,cc-by-nc,1,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Anemonia
 271826,2024-05-24,2024-05-24,2024-05-20,06:54:00,cnidaria,35047,species,Aiptasia mutabilis,42.3206444897,3.3243608289,False,,research,51,bertinhaco,cc-by-nc,1,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Aiptasiidae,Aiptasia
