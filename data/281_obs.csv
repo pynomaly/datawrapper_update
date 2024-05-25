@@ -1,4 +1,6 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+272086,2024-05-25,2024-05-25,2024-05-25,13:02:00,,nan,,,41.6748974911,2.7925151959,False,,needs_id,2890,roberto,cc-by,0,0,,,,,,
+272085,2024-05-25,2024-05-25,2024-05-25,13:02:00,,nan,,,41.6740194857,2.812085934,False,,needs_id,2890,roberto,cc-by,0,0,,,,,,
 272080,2024-05-25,2024-05-25,2024-05-24,07:46:00,actinopterygii,34798,species,Diplodus vulgaris,42.3831177945,3.1610169247,False,Spain,needs_id,451,eduardmarques,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
 272079,2024-05-25,2024-05-25,2024-05-24,08:31:00,actinopterygii,240397,species,Symphodus ocellatus,42.3832109119,3.160982056,False,Spain,needs_id,451,eduardmarques,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
 272078,2024-05-25,2024-05-25,2024-05-24,08:16:00,crustacea,241796,species,Ilia nucleus,42.3832267617,3.1607661382,False,Spain,needs_id,451,eduardmarques,cc-by-nc,0,0,Animalia,Arthropoda,Malacostraca,Decapoda,Leucosiidae,Ilia
