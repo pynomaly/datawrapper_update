@@ -1,4 +1,8 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+272125,2024-05-25,2024-05-25,2024-05-25,09:18:00,cnidaria,254144,species,Aiptasia couchi,40.85773771,0.7701482517,False,,needs_id,908,annacanela,cc-by-nc,0,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Aiptasiidae,Aiptasia
+272124,2024-05-25,2024-05-25,2024-05-25,09:19:00,,nan,,,41.7217339447,2.938760979,False,"Platja Mar Menuda, Av. Mar Menuda, 2, 17320 Tossa de Mar, Girona, Espanya",needs_id,2405,jordidiver,cc-by,0,0,,,,,,
+272123,2024-05-25,2024-05-25,2024-05-25,09:19:00,chromista,35106,species,Padina pavonica,40.85773071,0.7701412517,False,,needs_id,908,annacanela,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
+272121,2024-05-25,2024-05-25,2024-05-25,09:16:00,porifera,56,phylum,Porifera,40.85771671,0.7701272517,False,,needs_id,908,annacanela,cc-by-nc,0,0,Animalia,,,,,
 272120,2024-05-25,2024-05-25,2024-05-25,10:17:00,cnidaria,262598,species,Actinia equina,40.85771671,0.7701272517,False,,needs_id,908,annacanela,cc-by-nc,0,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Actinia
 272119,2024-05-25,2024-05-25,2024-05-25,15:37:00,actinopterygii,34805,species,Sarpa salpa,41.7837897838,3.0446325269,False,,needs_id,2276,alicate_cr,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
 272118,2024-05-25,2024-05-25,2024-05-25,15:37:00,actinopterygii,240400,species,Oblada melanura,41.7837867838,3.0446295269,False,,needs_id,2276,alicate_cr,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Oblada
