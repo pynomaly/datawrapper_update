@@ -1,4 +1,19 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+272289,2024-05-26,2024-05-26,2024-05-26,10:26:00,amphibia,244076,species,Alytes obstetricans,41.53003527,2.4331303686,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Animalia,Chordata,Amphibia,Anura,Alytidae,Alytes
+272270,2024-05-26,2024-05-26,2024-05-26,10:20:00,,nan,,,41.2671555556,2.019025,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,,,,,,
+272269,2024-05-26,2024-05-26,2024-05-26,10:18:00,,nan,,,41.267725,2.0213472222,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,,,,,,
+272268,2024-05-26,2024-05-26,2024-05-26,10:17:00,,nan,,,41.2674583333,2.0185944444,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,,,,,,
+272267,2024-05-26,2024-05-26,2024-05-26,10:17:00,,nan,,,41.2672,2.0192111111,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,,,,,,
+272266,2024-05-26,2024-05-26,2024-05-26,10:13:00,,nan,,,41.2674583333,2.0185944444,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,,,,,,
+272265,2024-05-26,2024-05-26,2024-05-26,10:11:00,insecta,11,class,Insecta,41.2672083333,2.0192055556,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,Animalia,Arthropoda,,,,
+272264,2024-05-26,2024-05-26,2024-05-26,10:11:00,insecta,11,class,Insecta,41.2671888889,2.0192111111,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,Animalia,Arthropoda,,,,
+272263,2024-05-26,2024-05-26,2024-05-26,10:11:00,insecta,11,class,Insecta,41.2672083333,2.0192055556,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,Animalia,Arthropoda,,,,
+272262,2024-05-26,2024-05-26,2024-05-26,10:15:00,,nan,,,41.2670916667,2.0216555556,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,,,,,,
+272261,2024-05-26,2024-05-26,2024-05-26,10:15:00,,nan,,,41.2681111111,2.0196138889,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,,,,,,
+272260,2024-05-26,2024-05-26,2024-05-26,10:20:00,,nan,,,41.2671555556,2.019025,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,,,,,,
+272259,2024-05-26,2024-05-26,2024-05-26,10:21:00,,nan,,,41.2662391667,2.0205700278,False,,needs_id,3201,mariio01,cc-by,0,0,,,,,,
+272258,2024-05-26,2024-05-26,2024-05-26,10:18:00,,nan,,,41.2667732222,2.0200450278,False,,needs_id,3200,marki,cc-by,0,0,,,,,,
+272257,2024-05-26,2024-05-26,2024-05-26,10:22:00,,nan,,,41.2667290997,2.0205535983,False,,needs_id,3199,domenica,cc-by,0,0,,,,,,
 272256,2024-05-26,2024-05-26,2024-05-26,10:21:00,,nan,,,41.2668902826,2.0192747429,False,,needs_id,3199,domenica,cc-by,0,0,,,,,,
 272255,2024-05-26,2024-05-26,2024-05-26,10:22:00,life,1,stateofmatter,Life,41.5300385329,2.4331779778,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,,,,,,
 272254,2024-05-26,2024-05-26,2024-05-26,10:13:00,,nan,,,41.2669811212,2.0196802542,False,,needs_id,3199,domenica,cc-by,0,0,,,,,,
@@ -2998,7 +3013,6 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 267514,2024-05-15,2024-05-15,2024-05-12,09:02:00,actinopterygii,34798,species,Diplodus vulgaris,41.4393965399,2.2454463911,False,"Badalona, Barcelona, Spain",research,2799,denisemarrero3,cc-by,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
 267513,2024-05-15,2024-05-15,2024-05-12,09:01:00,actinopterygii,343,order,Perciformes,41.4393956685,2.2454519231,False,"Badalona, Barcelona, Spain",needs_id,2799,denisemarrero3,cc-by,3,0,Animalia,Chordata,Actinopterygii,,,
 267512,2024-05-15,2024-05-15,2024-05-12,08:59:00,actinopterygii,35250,species,Parablennius pilicornis,41.4393935429,2.2454423677,False,"Badalona, Barcelona, Spain",research,2799,denisemarrero3,cc-by,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
-267511,2024-05-15,2024-05-15,2024-05-12,08:59:00,plantae,35123,species,Ellisolandia elongata,41.4393935812,2.2454477322,False,"Badalona, Barcelona, Spain",research,2799,denisemarrero3,cc-by,2,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,Ellisolandia
 267511,2024-05-15,2024-05-15,2024-05-12,08:59:00,plantae,35123,species,Ellisolandia elongata,41.4393935812,2.2454477322,False,"Badalona, Barcelona, Spain",research,2799,denisemarrero3,cc-by,2,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,Ellisolandia
 267510,2024-05-15,2024-05-15,2024-05-12,08:59:00,chromista,2847,family,Dictyotaceae,41.4394047679,2.2454247657,False,"Badalona, Barcelona, Spain",needs_id,2799,denisemarrero3,cc-by,2,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,,
 267509,2024-05-15,2024-05-15,2024-05-12,08:57:00,actinopterygii,240399,species,Tripterygion tripteronotum,41.4393971,2.2454463911,False,"Badalona, Barcelona, Spain",research,2799,denisemarrero3,cc-by,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Tripterygiidae,Tripterygion

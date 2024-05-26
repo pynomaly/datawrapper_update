@@ -1,4 +1,24 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+272289,365553,amphibia,Alytes obstetricans,https://minka-sdg.org/attachments/local_photos/files/365553/medium.jpg,mcomerma,41.53003527,2.4331303686,cc-by,"(c) Marta Comerma, some rights reserved (CC BY)",272289_365553.jpg
+272289,365554,amphibia,Alytes obstetricans,https://minka-sdg.org/attachments/local_photos/files/365554/medium.jpg,mcomerma,41.53003527,2.4331303686,cc-by,"(c) Marta Comerma, some rights reserved (CC BY)",272289_365554.jpg
+272270,365517,,,https://minka-sdg.org/attachments/local_photos/files/365517/medium.jpg,iago,41.2671555556,2.019025,cc-by,"(c) iago, some rights reserved (CC BY)",272270_365517.jpg
+272269,365516,,,https://minka-sdg.org/attachments/local_photos/files/365516/medium.jpg,iago,41.267725,2.0213472222,cc-by,"(c) iago, some rights reserved (CC BY)",272269_365516.jpg
+272268,365514,,,https://minka-sdg.org/attachments/local_photos/files/365514/medium.jpg,iago,41.2674583333,2.0185944444,cc-by,"(c) iago, some rights reserved (CC BY)",272268_365514.jpg
+272267,365513,,,https://minka-sdg.org/attachments/local_photos/files/365513/medium.jpg,iago,41.2672,2.0192111111,cc-by,"(c) iago, some rights reserved (CC BY)",272267_365513.jpg
+272266,365512,,,https://minka-sdg.org/attachments/local_photos/files/365512/medium.jpg,iago,41.2674583333,2.0185944444,cc-by,"(c) iago, some rights reserved (CC BY)",272266_365512.jpg
+272265,365510,insecta,Insecta,https://minka-sdg.org/attachments/local_photos/files/365510/medium.jpg,iago,41.2672083333,2.0192055556,cc-by,"(c) iago, some rights reserved (CC BY)",272265_365510.jpg
+272264,365509,insecta,Insecta,https://minka-sdg.org/attachments/local_photos/files/365509/medium.jpg,iago,41.2671888889,2.0192111111,cc-by,"(c) iago, some rights reserved (CC BY)",272264_365509.jpg
+272263,365505,insecta,Insecta,https://minka-sdg.org/attachments/local_photos/files/365505/medium.jpg,iago,41.2672083333,2.0192055556,cc-by,"(c) iago, some rights reserved (CC BY)",272263_365505.jpg
+272262,365502,,,https://minka-sdg.org/attachments/local_photos/files/365502/medium.jpg,iago,41.2670916667,2.0216555556,cc-by,"(c) iago, some rights reserved (CC BY)",272262_365502.jpg
+272261,365501,,,https://minka-sdg.org/attachments/local_photos/files/365501/medium.jpg,iago,41.2681111111,2.0196138889,cc-by,"(c) iago, some rights reserved (CC BY)",272261_365501.jpg
+272260,365498,,,https://minka-sdg.org/attachments/local_photos/files/365498/medium.jpg,iago,41.2671555556,2.019025,cc-by,"(c) iago, some rights reserved (CC BY)",272260_365498.jpg
+272259,365495,,,https://minka-sdg.org/attachments/local_photos/files/365495/medium.jpg,mariio01,41.2662391667,2.0205700278,cc-by,"(c) Mario Rodriguez Barquero, some rights reserved (CC BY)",272259_365495.jpg
+272259,365496,,,https://minka-sdg.org/attachments/local_photos/files/365496/medium.jpg,mariio01,41.2662391667,2.0205700278,cc-by,"(c) Mario Rodriguez Barquero, some rights reserved (CC BY)",272259_365496.jpg
+272259,365497,,,https://minka-sdg.org/attachments/local_photos/files/365497/medium.jpg,mariio01,41.2662391667,2.0205700278,cc-by,"(c) Mario Rodriguez Barquero, some rights reserved (CC BY)",272259_365497.jpg
+272258,365490,,,https://minka-sdg.org/attachments/local_photos/files/365490/medium.jpg,marki,41.2667732222,2.0200450278,cc-by,"(c) Marc Castillo Marin, some rights reserved (CC BY)",272258_365490.jpg
+272258,365491,,,https://minka-sdg.org/attachments/local_photos/files/365491/medium.jpg,marki,41.2667732222,2.0200450278,cc-by,"(c) Marc Castillo Marin, some rights reserved (CC BY)",272258_365491.jpg
+272258,365493,,,https://minka-sdg.org/attachments/local_photos/files/365493/medium.jpg,marki,41.2667732222,2.0200450278,cc-by,"(c) Marc Castillo Marin, some rights reserved (CC BY)",272258_365493.jpg
+272257,365489,,,https://minka-sdg.org/attachments/local_photos/files/365489/medium.jpg,domenica,41.2667290997,2.0205535983,cc-by,"(c) domenica, some rights reserved (CC BY)",272257_365489.jpg
 272256,365488,,,https://minka-sdg.org/attachments/local_photos/files/365488/medium.jpg,domenica,41.2668902826,2.0192747429,cc-by,"(c) domenica, some rights reserved (CC BY)",272256_365488.jpg
 272255,365487,life,Life,https://minka-sdg.org/attachments/local_photos/files/365487/medium.jpg,mcomerma,41.5300385329,2.4331779778,cc-by,"(c) Marta Comerma, some rights reserved (CC BY)",272255_365487.jpg
 272254,365486,,,https://minka-sdg.org/attachments/local_photos/files/365486/medium.jpg,domenica,41.2669811212,2.0196802542,cc-by,"(c) domenica, some rights reserved (CC BY)",272254_365486.jpg
@@ -3524,7 +3544,6 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 267514,358699,actinopterygii,Diplodus vulgaris,https://minka-sdg.org/attachments/local_photos/files/358699/medium.jpeg,denisemarrero3,41.4393965399,2.2454463911,cc-by,"(c) denisemarrero3, some rights reserved (CC BY)",267514_358699.jpg
 267513,358698,actinopterygii,Perciformes,https://minka-sdg.org/attachments/local_photos/files/358698/medium.jpeg,denisemarrero3,41.4393956685,2.2454519231,cc-by,"(c) denisemarrero3, some rights reserved (CC BY)",267513_358698.jpg
 267512,358695,actinopterygii,Parablennius pilicornis,https://minka-sdg.org/attachments/local_photos/files/358695/medium.jpeg,denisemarrero3,41.4393935429,2.2454423677,cc-by,"(c) denisemarrero3, some rights reserved (CC BY)",267512_358695.jpg
-267511,358694,plantae,Ellisolandia elongata,https://minka-sdg.org/attachments/local_photos/files/358694/medium.jpeg,denisemarrero3,41.4393935812,2.2454477322,cc-by,"(c) denisemarrero3, some rights reserved (CC BY)",267511_358694.jpg
 267511,358694,plantae,Ellisolandia elongata,https://minka-sdg.org/attachments/local_photos/files/358694/medium.jpeg,denisemarrero3,41.4393935812,2.2454477322,cc-by,"(c) denisemarrero3, some rights reserved (CC BY)",267511_358694.jpg
 267510,358693,chromista,Dictyotaceae,https://minka-sdg.org/attachments/local_photos/files/358693/medium.jpeg,denisemarrero3,41.4394047679,2.2454247657,cc-by,"(c) denisemarrero3, some rights reserved (CC BY)",267510_358693.jpg
 267509,358691,actinopterygii,Tripterygion tripteronotum,https://minka-sdg.org/attachments/local_photos/files/358691/medium.jpeg,denisemarrero3,41.4393971,2.2454463911,cc-by,"(c) denisemarrero3, some rights reserved (CC BY)",267509_358691.jpg
