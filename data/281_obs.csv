@@ -137,7 +137,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 271871,2024-05-24,2024-05-24,2024-05-19,16:57:00,,nan,,,42.319014383,3.3164387941,False,"Girona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,,,,,,
 271870,2024-05-24,2024-05-24,2024-05-19,16:57:00,plantae,38337,genus,Plantago,42.319014383,3.3164387941,False,"Girona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Plantaginales,Plantaginaceae,
 271869,2024-05-24,2024-05-24,2024-05-19,16:57:00,,nan,,,42.319014383,3.3164387941,False,"Girona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,,,,,,
-271868,2024-05-24,2024-05-24,2024-05-19,16:56:00,plantae,40121,genus,Malva,42.319014383,3.3164387941,False,"Girona, España",needs_id,51,bertinhaco,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Malvales,Malvaceae,
+271868,2024-05-24,2024-05-26,2024-05-19,16:56:00,plantae,40121,genus,Malva,42.319014383,3.3164387941,False,"Girona, España",needs_id,51,bertinhaco,cc-by-nc,1,0,Plantae,Magnoliophyta,Magnoliopsida,Malvales,Malvaceae,
 271828,2024-05-24,2024-05-24,2024-05-20,07:02:00,cnidaria,248155,species,Calliactis parasitica,42.3206444897,3.3243608289,False,,research,51,bertinhaco,cc-by-nc,1,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Hormathiidae,Calliactis
 271827,2024-05-24,2024-05-24,2024-05-20,06:55:00,cnidaria,35220,species,Anemonia viridis,42.3206444897,3.3243608289,False,,research,51,bertinhaco,cc-by-nc,1,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Anemonia
 271826,2024-05-24,2024-05-24,2024-05-20,06:54:00,cnidaria,35047,species,Aiptasia mutabilis,42.3206444897,3.3243608289,False,,research,51,bertinhaco,cc-by-nc,1,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Aiptasiidae,Aiptasia
