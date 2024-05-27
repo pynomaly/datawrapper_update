@@ -1,4 +1,31 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+273823,2024-05-27,2024-05-27,2024-05-25,06:33:00,,nan,,,42.381147,3.157573,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
+273822,2024-05-27,2024-05-27,2024-05-26,09:41:00,actinopterygii,3,class,Actinopterygii,41.7585701241,2.9809255612,False,"Rosamar, Girona, España",needs_id,2477,estherip,cc-by,0,0,Animalia,Chordata,,,,
+273821,2024-05-27,2024-05-27,2024-05-26,09:24:00,actinopterygii,3,class,Actinopterygii,41.7585701241,2.9809255612,False,"Rosamar, Girona, España",needs_id,2477,estherip,cc-by,0,0,Animalia,Chordata,,,,
+273820,2024-05-27,2024-05-27,2024-05-26,09:24:00,actinopterygii,3,class,Actinopterygii,41.7585701241,2.9809255612,False,"Rosamar, Girona, España",needs_id,2477,estherip,cc-by,0,0,Animalia,Chordata,,,,
+273819,2024-05-27,2024-05-27,2024-05-26,09:24:00,actinopterygii,3,class,Actinopterygii,41.7585701241,2.9809255612,False,"Rosamar, Girona, España",needs_id,2477,estherip,cc-by,0,0,Animalia,Chordata,,,,
+273818,2024-05-27,2024-05-27,2024-05-26,09:53:00,actinopterygii,3,class,Actinopterygii,41.7585701241,2.9809255612,False,"Rosamar, Girona, España",needs_id,2477,estherip,cc-by,0,0,Animalia,Chordata,,,,
+273817,2024-05-27,2024-05-27,2024-05-26,10:07:00,,nan,,,41.7585701241,2.9809255612,False,"Rosamar, Girona, España",needs_id,2477,estherip,cc-by,0,0,,,,,,
+273816,2024-05-27,2024-05-27,2024-05-26,10:07:00,,nan,,,41.7585701241,2.9809255612,False,"Rosamar, Girona, España",needs_id,2477,estherip,cc-by,0,0,,,,,,
+273815,2024-05-27,2024-05-27,2024-05-26,10:07:00,,nan,,,41.7585701241,2.9809255612,False,"Rosamar, Girona, España",needs_id,2477,estherip,cc-by,0,0,,,,,,
+273814,2024-05-27,2024-05-27,2024-05-26,10:05:00,,nan,,,41.7585701241,2.9809255612,False,"Rosamar, Girona, España",needs_id,2477,estherip,cc-by,0,0,,,,,,
+273813,2024-05-27,2024-05-27,2024-05-26,10:05:00,,nan,,,41.7585701241,2.9809255612,False,"Rosamar, Girona, España",needs_id,2477,estherip,cc-by,0,0,,,,,,
+273812,2024-05-27,2024-05-27,2024-05-26,10:05:00,,nan,,,41.7585701241,2.9809255612,False,"Rosamar, Girona, España",needs_id,2477,estherip,cc-by,0,0,,,,,,
+273811,2024-05-27,2024-05-27,2024-05-26,10:05:00,,nan,,,41.7585701241,2.9809255612,False,"Rosamar, Girona, España",needs_id,2477,estherip,cc-by,0,0,,,,,,
+273810,2024-05-27,2024-05-27,2024-05-26,10:03:00,,nan,,,41.7585701241,2.9809255612,False,"Rosamar, Girona, España",needs_id,2477,estherip,cc-by,0,0,,,,,,
+273809,2024-05-27,2024-05-27,2024-05-26,10:03:00,,nan,,,41.7585701241,2.9809255612,False,"Rosamar, Girona, España",needs_id,2477,estherip,cc-by,0,0,,,,,,
+273808,2024-05-27,2024-05-27,2024-05-26,10:03:00,,nan,,,41.7585701241,2.9809255612,False,"Rosamar, Girona, España",needs_id,2477,estherip,cc-by,0,0,,,,,,
+273807,2024-05-27,2024-05-27,2024-05-26,10:03:00,,nan,,,41.7585701241,2.9809255612,False,"Rosamar, Girona, España",needs_id,2477,estherip,cc-by,0,0,,,,,,
+273806,2024-05-27,2024-05-27,2024-05-26,09:54:00,,nan,,,41.7585701241,2.9809255612,False,"Rosamar, Girona, España",needs_id,2477,estherip,cc-by,0,0,,,,,,
+273805,2024-05-27,2024-05-27,2024-05-26,09:47:00,,nan,,,41.7585701241,2.9809255612,False,"Rosamar, Girona, España",needs_id,2477,estherip,cc-by,0,0,,,,,,
+273804,2024-05-27,2024-05-27,2024-05-26,09:41:00,,nan,,,41.7585701241,2.9809255612,False,"Rosamar, Girona, España",needs_id,2477,estherip,cc-by,0,0,,,,,,
+273803,2024-05-27,2024-05-27,2024-05-26,09:40:00,,nan,,,41.7585701241,2.9809255612,False,"Rosamar, Girona, España",needs_id,2477,estherip,cc-by,0,0,,,,,,
+273802,2024-05-27,2024-05-27,2024-05-26,09:39:00,,nan,,,41.7585701241,2.9809255612,False,"Rosamar, Girona, España",needs_id,2477,estherip,cc-by,0,0,,,,,,
+273801,2024-05-27,2024-05-27,2024-05-26,09:39:00,,nan,,,41.7585701241,2.9809255612,False,"Rosamar, Girona, España",needs_id,2477,estherip,cc-by,0,0,,,,,,
+273800,2024-05-27,2024-05-27,2024-05-26,09:26:00,,nan,,,41.7585701241,2.9809255612,False,"Rosamar, Girona, España",needs_id,2477,estherip,cc-by,0,0,,,,,,
+273799,2024-05-27,2024-05-27,2024-05-26,09:22:00,,nan,,,41.7585701241,2.9809255612,False,"Rosamar, Girona, España",needs_id,2477,estherip,cc-by,0,0,,,,,,
+273798,2024-05-27,2024-05-27,2024-05-25,07:45:00,aves,252848,species,Passer domesticus,42.3815481654,3.1563725395,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer
+273797,2024-05-27,2024-05-27,2024-05-25,06:51:00,,nan,,,42.3815511372,3.1563738701,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 273796,2024-05-27,2024-05-27,2024-05-26,09:47:00,actinopterygii,34798,species,Diplodus vulgaris,41.7585701241,2.9809255612,False,"Rosamar, Girona, España",needs_id,2477,estherip,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
 273795,2024-05-27,2024-05-27,2024-05-26,09:26:00,actinopterygii,34798,species,Diplodus vulgaris,41.7585701241,2.9809255612,False,"Rosamar, Girona, España",needs_id,2477,estherip,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
 273794,2024-05-27,2024-05-27,2024-05-26,10:07:00,actinopterygii,240397,species,Symphodus ocellatus,41.7585701241,2.9809255612,False,"Rosamar, Girona, España",needs_id,2477,estherip,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
@@ -13,35 +40,34 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 273785,2024-05-27,2024-05-27,2024-05-26,09:07:00,mollusca,248495,species,Mytilus galloprovincialis,41.0898957309,1.2279861986,False,"Dic de Llevant, Parc Subaquatic., 43004 Tarragona, España",needs_id,866,biosub,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,Mytilus
 273784,2024-05-27,2024-05-27,2024-05-26,09:26:00,plantae,35456,genus,Posidonia,41.7585701241,2.9809255612,False,"Rosamar, Girona, España",needs_id,2477,estherip,cc-by,0,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Posidoniaceae,
 273783,2024-05-27,2024-05-27,2024-05-26,09:26:00,plantae,35456,genus,Posidonia,41.7585701241,2.9809255612,False,"Rosamar, Girona, España",needs_id,2477,estherip,cc-by,0,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Posidoniaceae,
-273782,2024-05-27,2024-05-27,2024-05-25,06:20:00,,nan,,,42.3811472754,3.1575732322,False,Llançâ,needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-273781,2024-05-27,2024-05-27,2024-05-25,06:21:00,,nan,,,42.3811472754,3.1575732322,False,Llançâ,needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-273780,2024-05-27,2024-05-27,2024-05-25,06:21:00,,nan,,,42.3811472754,3.1575732322,False,Llançâ,needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-273779,2024-05-27,2024-05-27,2024-05-25,06:22:00,,nan,,,42.3811472754,3.1575732322,False,Llançâ,needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-273778,2024-05-27,2024-05-27,2024-05-25,06:25:00,,nan,,,42.3811472754,3.1575732322,False,Llançâ,needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-273777,2024-05-27,2024-05-27,2024-05-25,06:29:00,,nan,,,42.3811472754,3.1575732322,False,Llançâ,needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-273776,2024-05-27,2024-05-27,2024-05-25,06:29:00,,nan,,,42.3811472754,3.1575732322,False,Llançâ,needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-273775,2024-05-27,2024-05-27,2024-05-25,06:29:00,,nan,,,42.3811472754,3.1575732322,False,Llançâ,needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-273774,2024-05-27,2024-05-27,2024-05-25,06:31:00,,nan,,,42.3811472754,3.1575732322,False,Llançâ,needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-273773,2024-05-27,2024-05-27,2024-05-25,06:32:00,,nan,,,42.3811472754,3.1575732322,False,Llançâ,needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-273772,2024-05-27,2024-05-27,2024-05-25,06:33:00,,nan,,,42.3811472754,3.1575732322,False,Llançâ,needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-273771,2024-05-27,2024-05-27,2024-05-25,06:35:00,,nan,,,42.3811472754,3.1575732322,False,Llançâ,needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-273770,2024-05-27,2024-05-27,2024-05-25,06:36:00,,nan,,,42.3811472754,3.1575732322,False,Llançâ,needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-273769,2024-05-27,2024-05-27,2024-05-25,06:37:00,,nan,,,42.3811472754,3.1575732322,False,Llançâ,needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-273768,2024-05-27,2024-05-27,2024-05-25,06:41:00,,nan,,,42.3811472754,3.1575732322,False,Llançâ,needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-273767,2024-05-27,2024-05-27,2024-05-25,06:43:00,,nan,,,42.3811472754,3.1575732322,False,Llançâ,needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-273766,2024-05-27,2024-05-27,2024-05-25,06:47:00,,nan,,,42.3811472754,3.1575732322,False,Llançâ,needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-273765,2024-05-27,2024-05-27,2024-05-25,06:48:00,,nan,,,42.3811472754,3.1575732322,False,Llançâ,needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-273764,2024-05-27,2024-05-27,2024-05-25,06:51:00,,nan,,,42.3811472754,3.1575732322,False,Llançâ,needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-273763,2024-05-27,2024-05-27,2024-05-25,06:49:00,,nan,,,42.3811472754,3.1575732322,False,Llançâ,needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-273762,2024-05-27,2024-05-27,2024-05-25,06:53:00,,nan,,,42.3811472754,3.1575732322,False,Llançâ,needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-273761,2024-05-27,2024-05-27,2024-05-25,06:56:00,,nan,,,42.3811472754,3.1575732322,False,Llançâ,needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-273760,2024-05-27,2024-05-27,2024-05-25,07:03:00,,nan,,,42.3811472754,3.1575732322,False,Llançâ,needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-273759,2024-05-27,2024-05-27,2024-05-25,07:12:00,,nan,,,42.3811472754,3.1575732322,False,Llançâ,needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-273758,2024-05-27,2024-05-27,2024-05-25,07:10:00,,nan,,,42.3811472754,3.1575732322,False,Llançâ,needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-273757,2024-05-27,2024-05-27,2024-05-25,07:12:00,,nan,,,42.3811472754,3.1575732322,False,Llançâ,needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-273756,2024-05-27,2024-05-27,2024-05-25,07:21:00,,nan,,,42.3811472754,3.1575732322,False,Llançâ,needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-273755,2024-05-27,2024-05-27,2024-05-25,07:21:00,,nan,,,42.3811472754,3.1575732322,False,Llançâ,needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-273754,2024-05-27,2024-05-27,2024-05-25,07:28:00,,nan,,,42.3811472754,3.1575732322,False,Llançâ,needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
+273782,2024-05-27,2024-05-27,2024-05-25,06:20:00,,nan,,,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
+273781,2024-05-27,2024-05-27,2024-05-25,06:21:00,,nan,,,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
+273780,2024-05-27,2024-05-27,2024-05-25,06:21:00,,nan,,,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
+273779,2024-05-27,2024-05-27,2024-05-25,06:22:00,,nan,,,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
+273778,2024-05-27,2024-05-27,2024-05-25,06:25:00,,nan,,,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
+273777,2024-05-27,2024-05-27,2024-05-25,06:29:00,,nan,,,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
+273776,2024-05-27,2024-05-27,2024-05-25,06:29:00,,nan,,,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
+273775,2024-05-27,2024-05-27,2024-05-25,06:29:00,mollusca,245702,species,Elysia timida,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Sacoglossa,Plakobranchidae,Elysia
+273774,2024-05-27,2024-05-27,2024-05-25,06:31:00,,nan,,,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
+273773,2024-05-27,2024-05-27,2024-05-25,06:32:00,mollusca,245702,species,Elysia timida,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Sacoglossa,Plakobranchidae,Elysia
+273771,2024-05-27,2024-05-27,2024-05-25,06:35:00,cnidaria,35220,species,Anemonia viridis,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Anemonia
+273770,2024-05-27,2024-05-27,2024-05-25,06:36:00,chromista,35106,species,Padina pavonica,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
+273769,2024-05-27,2024-05-27,2024-05-25,06:37:00,,nan,,,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
+273768,2024-05-27,2024-05-27,2024-05-25,06:41:00,,nan,,,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
+273767,2024-05-27,2024-05-27,2024-05-25,06:43:00,,nan,,,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
+273766,2024-05-27,2024-05-27,2024-05-25,06:47:00,,nan,,,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
+273765,2024-05-27,2024-05-27,2024-05-25,06:48:00,,nan,,,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
+273764,2024-05-27,2024-05-27,2024-05-25,06:51:00,cnidaria,34999,species,Actinia mediterranea,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Actinia
+273763,2024-05-27,2024-05-27,2024-05-25,06:49:00,cnidaria,34999,species,Actinia mediterranea,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Actinia
+273762,2024-05-27,2024-05-27,2024-05-25,06:53:00,cnidaria,35220,species,Anemonia viridis,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Anemonia
+273761,2024-05-27,2024-05-27,2024-05-25,06:56:00,mollusca,245702,species,Elysia timida,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Sacoglossa,Plakobranchidae,Elysia
+273760,2024-05-27,2024-05-27,2024-05-25,07:03:00,,nan,,,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
+273759,2024-05-27,2024-05-27,2024-05-25,07:12:00,,nan,,,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
+273758,2024-05-27,2024-05-27,2024-05-25,07:10:00,cnidaria,252904,species,Pelagia noctiluca,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,Animalia,Cnidaria,Scyphozoa,Semaeostomeae,Pelagiidae,Pelagia
+273757,2024-05-27,2024-05-27,2024-05-25,07:12:00,,nan,,,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
+273756,2024-05-27,2024-05-27,2024-05-25,07:21:00,cnidaria,34999,species,Actinia mediterranea,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Actinia
+273755,2024-05-27,2024-05-27,2024-05-25,07:21:00,cnidaria,34999,species,Actinia mediterranea,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Actinia
+273754,2024-05-27,2024-05-27,2024-05-25,07:28:00,,nan,,,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 273753,2024-05-27,2024-05-27,2024-05-26,10:07:00,actinopterygii,34986,species,Symphodus roissali,41.7585701241,2.9809255612,False,"Rosamar, Girona, España",needs_id,2477,estherip,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
 273752,2024-05-27,2024-05-27,2024-05-26,10:03:00,actinopterygii,34986,species,Symphodus roissali,41.7585701241,2.9809255612,False,"Rosamar, Girona, España",needs_id,2477,estherip,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
 273751,2024-05-27,2024-05-27,2024-05-26,10:59:00,actinopterygii,34986,species,Symphodus roissali,41.7585701241,2.9809255612,False,"Rosamar, Girona, España",needs_id,2477,estherip,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
