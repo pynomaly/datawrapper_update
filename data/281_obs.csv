@@ -44,15 +44,15 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 273780,2024-05-27,2024-05-27,2024-05-25,06:21:00,,nan,,,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 273779,2024-05-27,2024-05-27,2024-05-25,06:22:00,,nan,,,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 273778,2024-05-27,2024-05-27,2024-05-25,06:25:00,,nan,,,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-273777,2024-05-27,2024-05-27,2024-05-25,06:29:00,,nan,,,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
+273777,2024-05-27,2024-05-27,2024-05-25,06:29:00,actinopterygii,35044,species,Aidablennius sphynx,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Aidablennius
 273776,2024-05-27,2024-05-27,2024-05-25,06:29:00,,nan,,,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-273775,2024-05-27,2024-05-27,2024-05-25,06:29:00,mollusca,245702,species,Elysia timida,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Sacoglossa,Plakobranchidae,Elysia
+273775,2024-05-27,2024-05-27,2024-05-25,06:29:00,mollusca,245702,species,Elysia timida,42.3811472754,3.1575732322,False,"Llançà, España",research,1030,mingokt,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Sacoglossa,Plakobranchidae,Elysia
 273774,2024-05-27,2024-05-27,2024-05-25,06:31:00,,nan,,,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-273773,2024-05-27,2024-05-27,2024-05-25,06:32:00,mollusca,245702,species,Elysia timida,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Sacoglossa,Plakobranchidae,Elysia
+273773,2024-05-27,2024-05-27,2024-05-25,06:32:00,mollusca,245702,species,Elysia timida,42.3811472754,3.1575732322,False,"Llançà, España",research,1030,mingokt,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Sacoglossa,Plakobranchidae,Elysia
 273771,2024-05-27,2024-05-27,2024-05-25,06:35:00,cnidaria,35220,species,Anemonia viridis,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Anemonia
 273770,2024-05-27,2024-05-27,2024-05-25,06:36:00,chromista,35106,species,Padina pavonica,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
 273769,2024-05-27,2024-05-27,2024-05-25,06:37:00,,nan,,,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
-273768,2024-05-27,2024-05-27,2024-05-25,06:41:00,,nan,,,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
+273768,2024-05-27,2024-05-27,2024-05-25,06:41:00,actinopterygii,35044,species,Aidablennius sphynx,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Aidablennius
 273767,2024-05-27,2024-05-27,2024-05-25,06:43:00,,nan,,,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 273766,2024-05-27,2024-05-27,2024-05-25,06:47:00,,nan,,,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
 273765,2024-05-27,2024-05-27,2024-05-25,06:48:00,,nan,,,42.3811472754,3.1575732322,False,"Llançà, España",needs_id,1030,mingokt,cc-by-nc,0,0,,,,,,
