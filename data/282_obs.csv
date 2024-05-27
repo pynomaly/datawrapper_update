@@ -45,7 +45,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 272502,2024-05-26,2024-05-26,2024-05-26,09:35:00,plantae,253478,species,Ulva rigida,41.2748072398,2.0660234615,False,,needs_id,2800,marionaclaramunt,cc-by,0,0,Plantae,Chlorophyta,Ulvophyceae,Ulvales,Ulvaceae,Ulva
 272473,2024-05-26,2024-05-26,2024-05-19,10:27:00,crustacea,237075,species,Perforatus perforatus,41.4646586235,2.2784201765,False,Spain,needs_id,2800,marionaclaramunt,cc-by,0,0,Animalia,Arthropoda,,,Balanidae,Perforatus
 272472,2024-05-26,2024-05-26,2024-05-19,10:18:00,mollusca,35107,species,Patella caerulea,41.4646516235,2.2784131765,False,Spain,research,2800,marionaclaramunt,cc-by,1,0,Animalia,Mollusca,Gastropoda,Patellogastropoda,Patellidae,Patella
-272353,2024-05-26,2024-05-26,2024-05-26,12:04:00,insecta,120139,species,Anax imperator,41.5300267363,2.4331518263,False,Spain,research,1263,mcomerma,cc-by,1,0,Animalia,Arthropoda,Insecta,Odonata,Aeshnidae,Anax
+272353,2024-05-26,2024-05-27,2024-05-26,12:04:00,insecta,120139,species,Anax imperator,41.5300267363,2.4331518263,False,Spain,research,1263,mcomerma,cc-by,2,0,Animalia,Arthropoda,Insecta,Odonata,Aeshnidae,Anax
 272338,2024-05-26,2024-05-26,2024-05-19,10:21:00,aves,253078,species,Phalacrocorax carbo,41.4645169565,2.2786676511,False,Spain,needs_id,2800,marionaclaramunt,cc-by,0,0,Animalia,Chordata,Aves,Ciconiiformes,Phalacrocoracidae,Phalacrocorax
 272337,2024-05-26,2024-05-26,2024-05-25,07:57:00,actinopterygii,34798,species,Diplodus vulgaris,41.3785973,2.1927438,False,"La Barceloneta, Ciutat Vella, Barcelona, España",research,746,martinacm,C,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
 272336,2024-05-26,2024-05-26,2024-05-25,07:57:00,actinopterygii,35040,genus,Symphodus,41.3785973,2.1927438,False,"La Barceloneta, Ciutat Vella, Barcelona, España",needs_id,746,martinacm,C,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,
@@ -85,7 +85,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 272302,2024-05-26,2024-05-26,2024-05-25,07:09:00,,nan,,,41.3785973,2.1927438,False,"La Barceloneta, Ciutat Vella, Barcelona, España",needs_id,746,martinacm,C,0,0,,,,,,
 272298,2024-05-26,2024-05-26,2024-05-26,10:56:00,mollusca,248495,species,Mytilus galloprovincialis,41.3827261,2.1947891,False,Spain,research,3196,vmitjans,cc-by,1,0,Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,Mytilus
 272296,2024-05-26,2024-05-26,2024-05-26,10:43:00,mollusca,53500,species,Stramonita haemastoma,41.3826257,2.1945795,False,Spain,research,3196,vmitjans,cc-by,1,0,Animalia,Mollusca,Gastropoda,Neogastropoda,Muricidae,Stramonita
-272289,2024-05-26,2024-05-26,2024-05-26,10:26:00,amphibia,244076,species,Alytes obstetricans,41.53003527,2.4331303686,False,Spain,research,1263,mcomerma,cc-by,1,0,Animalia,Chordata,Amphibia,Anura,Alytidae,Alytes
+272289,2024-05-26,2024-05-27,2024-05-26,10:26:00,amphibia,244076,species,Alytes obstetricans,41.53003527,2.4331303686,False,Spain,research,1263,mcomerma,cc-by,2,0,Animalia,Chordata,Amphibia,Anura,Alytidae,Alytes
 272270,2024-05-26,2024-05-26,2024-05-26,10:20:00,,nan,,,41.2671555556,2.019025,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,,,,,,
 272269,2024-05-26,2024-05-26,2024-05-26,10:18:00,,nan,,,41.267725,2.0213472222,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,,,,,,
 272268,2024-05-26,2024-05-26,2024-05-26,10:17:00,,nan,,,41.2674583333,2.0185944444,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,,,,,,
@@ -101,7 +101,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 272258,2024-05-26,2024-05-26,2024-05-26,10:18:00,,nan,,,41.2667732222,2.0200450278,False,,needs_id,3200,marki,cc-by,0,0,,,,,,
 272257,2024-05-26,2024-05-26,2024-05-26,10:22:00,,nan,,,41.2667290997,2.0205535983,False,,needs_id,3199,domenica,cc-by,0,0,,,,,,
 272256,2024-05-26,2024-05-26,2024-05-26,10:21:00,,nan,,,41.2668902826,2.0192747429,False,,needs_id,3199,domenica,cc-by,0,0,,,,,,
-272255,2024-05-26,2024-05-26,2024-05-26,10:22:00,life,1,stateofmatter,Life,41.5300385329,2.4331779778,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,,,,,,
+272255,2024-05-26,2024-05-27,2024-05-26,10:22:00,insecta,14178,genus,Notonecta,41.5300385329,2.4331779778,False,Spain,needs_id,1263,mcomerma,cc-by,1,0,Animalia,Arthropoda,Insecta,Hemiptera,Notonectidae,
 272254,2024-05-26,2024-05-26,2024-05-26,10:13:00,,nan,,,41.2669811212,2.0196802542,False,,needs_id,3199,domenica,cc-by,0,0,,,,,,
 272253,2024-05-26,2024-05-26,2024-05-26,10:03:00,,nan,,,41.2671982,2.0192298,False,,needs_id,3197,sergito,cc-by,0,0,,,,,,
 272251,2024-05-26,2024-05-26,2024-05-26,10:03:00,,nan,,,41.2671912,2.0192228,False,,needs_id,3197,sergito,cc-by,0,0,,,,,,
