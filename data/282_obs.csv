@@ -99,7 +99,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 272269,2024-05-26,2024-05-26,2024-05-26,10:18:00,,nan,,,41.267725,2.0213472222,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,,,,,,
 272268,2024-05-26,2024-05-26,2024-05-26,10:17:00,,nan,,,41.2674583333,2.0185944444,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,,,,,,
 272267,2024-05-26,2024-05-26,2024-05-26,10:17:00,,nan,,,41.2672,2.0192111111,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,,,,,,
-272266,2024-05-26,2024-05-26,2024-05-26,10:13:00,,nan,,,41.2674583333,2.0185944444,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,,,,,,
+272266,2024-05-26,2024-05-27,2024-05-26,10:13:00,plantae,24979,genus,Centaurea,41.2674583333,2.0185944444,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,
 272265,2024-05-26,2024-05-26,2024-05-26,10:11:00,insecta,11,class,Insecta,41.2672083333,2.0192055556,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,Animalia,Arthropoda,,,,
 272264,2024-05-26,2024-05-26,2024-05-26,10:11:00,insecta,11,class,Insecta,41.2671888889,2.0192111111,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,Animalia,Arthropoda,,,,
 272263,2024-05-26,2024-05-26,2024-05-26,10:11:00,insecta,11,class,Insecta,41.2672083333,2.0192055556,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,Animalia,Arthropoda,,,,
@@ -108,13 +108,13 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 272260,2024-05-26,2024-05-27,2024-05-26,10:20:00,plantae,244728,species,Lobularia maritima,41.2671555556,2.019025,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Capparales,Brassicaceae,
 272259,2024-05-26,2024-05-26,2024-05-26,10:21:00,,nan,,,41.2662391667,2.0205700278,False,,needs_id,3201,mariio01,cc-by,0,0,,,,,,
 272258,2024-05-26,2024-05-26,2024-05-26,10:18:00,,nan,,,41.2667732222,2.0200450278,False,,needs_id,3200,marki,cc-by,0,0,,,,,,
-272257,2024-05-26,2024-05-26,2024-05-26,10:22:00,,nan,,,41.2667290997,2.0205535983,False,,needs_id,3199,domenica,cc-by,0,0,,,,,,
-272256,2024-05-26,2024-05-26,2024-05-26,10:21:00,,nan,,,41.2668902826,2.0192747429,False,,needs_id,3199,domenica,cc-by,0,0,,,,,,
+272257,2024-05-26,2024-05-27,2024-05-26,10:22:00,plantae,90169,species,Calystegia soldanella,41.2667290997,2.0205535983,False,,needs_id,3199,domenica,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Convolvulaceae,Calystegia
+272256,2024-05-26,2024-05-27,2024-05-26,10:21:00,plantae,244728,species,Lobularia maritima,41.2668902826,2.0192747429,False,,needs_id,3199,domenica,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Capparales,Brassicaceae,
 272255,2024-05-26,2024-05-27,2024-05-26,10:22:00,insecta,14178,genus,Notonecta,41.5300385329,2.4331779778,False,Spain,needs_id,1263,mcomerma,cc-by,1,0,Animalia,Arthropoda,Insecta,Hemiptera,Notonectidae,
-272254,2024-05-26,2024-05-26,2024-05-26,10:13:00,,nan,,,41.2669811212,2.0196802542,False,,needs_id,3199,domenica,cc-by,0,0,,,,,,
-272253,2024-05-26,2024-05-26,2024-05-26,10:03:00,,nan,,,41.2671982,2.0192298,False,,needs_id,3197,sergito,cc-by,0,0,,,,,,
-272251,2024-05-26,2024-05-26,2024-05-26,10:03:00,,nan,,,41.2671912,2.0192228,False,,needs_id,3197,sergito,cc-by,0,0,,,,,,
-272249,2024-05-26,2024-05-26,2024-05-26,10:03:00,,nan,,,41.2671842,2.0192158,False,,needs_id,3197,sergito,cc-by,0,0,,,,,,
+272254,2024-05-26,2024-05-27,2024-05-26,10:13:00,insecta,249057,species,Carcharodus alceae,41.2669811212,2.0196802542,False,,needs_id,3199,domenica,cc-by,0,0,Animalia,Arthropoda,Insecta,Lepidoptera,Hesperiidae,Carcharodus
+272253,2024-05-26,2024-05-27,2024-05-26,10:03:00,plantae,39299,genus,Hordeum,41.2671982,2.0192298,False,,needs_id,3197,sergito,cc-by,0,0,Plantae,Magnoliophyta,Liliopsida,Poales,Poaceae,
+272251,2024-05-26,2024-05-27,2024-05-26,10:03:00,plantae,366,family,Asteraceae,41.2671912,2.0192228,False,,needs_id,3197,sergito,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,,
+272249,2024-05-26,2024-05-27,2024-05-26,10:03:00,plantae,40121,genus,Malva,41.2671842,2.0192158,False,,needs_id,3197,sergito,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Malvales,Malvaceae,
 272248,2024-05-26,2024-05-27,2024-05-26,09:47:00,mollusca,12284,genus,Donax,41.2746602,2.0653142,False,,needs_id,3192,miriam,cc-by,1,0,Animalia,Mollusca,Bivalvia,Cardiida,Donacidae,
 272247,2024-05-26,2024-05-27,2024-05-26,09:46:00,mollusca,241878,species,Acanthocardia tuberculata,41.2747158,2.0653894,False,,research,3192,miriam,cc-by,1,0,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Acanthocardia
 272246,2024-05-26,2024-05-27,2024-05-26,09:44:00,mollusca,116,class,Gastropoda,41.2747108,2.0653948,False,,needs_id,3192,miriam,cc-by,2,0,Animalia,Mollusca,,,,
@@ -124,7 +124,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 272242,2024-05-26,2024-05-27,2024-05-25,09:28:00,cnidaria,254144,species,Aiptasia couchi,41.3762591483,2.1939016568,False,"Sant Miquel, Barcelona, España",research,83,nuriasireni,cc-by-nc,1,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Aiptasiidae,Aiptasia
 272241,2024-05-26,2024-05-27,2024-05-25,09:28:00,actinopterygii,34805,species,Sarpa salpa,41.3762591483,2.1939016568,False,"Sant Miquel, Barcelona, España",research,83,nuriasireni,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
 272240,2024-05-26,2024-05-27,2024-05-25,09:28:00,plantae,246914,species,Asparagopsis taxiformis,41.3762591483,2.1939016568,False,"Sant Miquel, Barcelona, España",research,83,nuriasireni,cc-by-nc,1,0,Plantae,Rhodophyta,Florideophyceae,Bonnemaisoniales,Bonnemaisoniaceae,Asparagopsis
-272239,2024-05-26,2024-05-26,2024-05-25,09:28:00,aves,16286,genus,Phalacrocorax,41.3762591483,2.1939016568,False,"Sant Miquel, Barcelona, España",needs_id,83,nuriasireni,cc-by-nc,0,0,Animalia,Chordata,Aves,Ciconiiformes,Phalacrocoracidae,
+272239,2024-05-26,2024-05-27,2024-05-25,09:28:00,aves,253078,species,Phalacrocorax carbo,41.3762591483,2.1939016568,False,"Sant Miquel, Barcelona, España",needs_id,83,nuriasireni,cc-by-nc,1,0,Animalia,Chordata,Aves,Ciconiiformes,Phalacrocoracidae,Phalacrocorax
 272238,2024-05-26,2024-05-27,2024-05-25,09:28:00,mollusca,53500,species,Stramonita haemastoma,41.3762591483,2.1939016568,False,"Sant Miquel, Barcelona, España",research,83,nuriasireni,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Neogastropoda,Muricidae,Stramonita
 272237,2024-05-26,2024-05-27,2024-05-25,09:28:00,plantae,246914,species,Asparagopsis taxiformis,41.3762591483,2.1939016568,False,"Sant Miquel, Barcelona, España",research,83,nuriasireni,cc-by-nc,1,0,Plantae,Rhodophyta,Florideophyceae,Bonnemaisoniales,Bonnemaisoniaceae,Asparagopsis
 272236,2024-05-26,2024-05-27,2024-05-25,09:28:00,plantae,246914,species,Asparagopsis taxiformis,41.3762591483,2.1939016568,False,"Sant Miquel, Barcelona, España",research,83,nuriasireni,cc-by-nc,1,0,Plantae,Rhodophyta,Florideophyceae,Bonnemaisoniales,Bonnemaisoniaceae,Asparagopsis

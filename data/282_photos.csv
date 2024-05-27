@@ -136,7 +136,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 272269,365516,,,https://minka-sdg.org/attachments/local_photos/files/365516/medium.jpg,iago,41.267725,2.0213472222,cc-by,"(c) iago, some rights reserved (CC BY)",272269_365516.jpg
 272268,365514,,,https://minka-sdg.org/attachments/local_photos/files/365514/medium.jpg,iago,41.2674583333,2.0185944444,cc-by,"(c) iago, some rights reserved (CC BY)",272268_365514.jpg
 272267,365513,,,https://minka-sdg.org/attachments/local_photos/files/365513/medium.jpg,iago,41.2672,2.0192111111,cc-by,"(c) iago, some rights reserved (CC BY)",272267_365513.jpg
-272266,365512,,,https://minka-sdg.org/attachments/local_photos/files/365512/medium.jpg,iago,41.2674583333,2.0185944444,cc-by,"(c) iago, some rights reserved (CC BY)",272266_365512.jpg
+272266,365512,plantae,Centaurea,https://minka-sdg.org/attachments/local_photos/files/365512/medium.jpg,iago,41.2674583333,2.0185944444,cc-by,"(c) iago, some rights reserved (CC BY)",272266_365512.jpg
 272265,365510,insecta,Insecta,https://minka-sdg.org/attachments/local_photos/files/365510/medium.jpg,iago,41.2672083333,2.0192055556,cc-by,"(c) iago, some rights reserved (CC BY)",272265_365510.jpg
 272264,365509,insecta,Insecta,https://minka-sdg.org/attachments/local_photos/files/365509/medium.jpg,iago,41.2671888889,2.0192111111,cc-by,"(c) iago, some rights reserved (CC BY)",272264_365509.jpg
 272263,365505,insecta,Insecta,https://minka-sdg.org/attachments/local_photos/files/365505/medium.jpg,iago,41.2672083333,2.0192055556,cc-by,"(c) iago, some rights reserved (CC BY)",272263_365505.jpg
@@ -149,13 +149,13 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 272258,365490,,,https://minka-sdg.org/attachments/local_photos/files/365490/medium.jpg,marki,41.2667732222,2.0200450278,cc-by,"(c) Marc Castillo Marin, some rights reserved (CC BY)",272258_365490.jpg
 272258,365491,,,https://minka-sdg.org/attachments/local_photos/files/365491/medium.jpg,marki,41.2667732222,2.0200450278,cc-by,"(c) Marc Castillo Marin, some rights reserved (CC BY)",272258_365491.jpg
 272258,365493,,,https://minka-sdg.org/attachments/local_photos/files/365493/medium.jpg,marki,41.2667732222,2.0200450278,cc-by,"(c) Marc Castillo Marin, some rights reserved (CC BY)",272258_365493.jpg
-272257,365489,,,https://minka-sdg.org/attachments/local_photos/files/365489/medium.jpg,domenica,41.2667290997,2.0205535983,cc-by,"(c) domenica, some rights reserved (CC BY)",272257_365489.jpg
-272256,365488,,,https://minka-sdg.org/attachments/local_photos/files/365488/medium.jpg,domenica,41.2668902826,2.0192747429,cc-by,"(c) domenica, some rights reserved (CC BY)",272256_365488.jpg
+272257,365489,plantae,Calystegia soldanella,https://minka-sdg.org/attachments/local_photos/files/365489/medium.jpg,domenica,41.2667290997,2.0205535983,cc-by,"(c) domenica, some rights reserved (CC BY)",272257_365489.jpg
+272256,365488,plantae,Lobularia maritima,https://minka-sdg.org/attachments/local_photos/files/365488/medium.jpg,domenica,41.2668902826,2.0192747429,cc-by,"(c) domenica, some rights reserved (CC BY)",272256_365488.jpg
 272255,365487,insecta,Notonecta,https://minka-sdg.org/attachments/local_photos/files/365487/medium.jpg,mcomerma,41.5300385329,2.4331779778,cc-by,"(c) Marta Comerma, some rights reserved (CC BY)",272255_365487.jpg
-272254,365486,,,https://minka-sdg.org/attachments/local_photos/files/365486/medium.jpg,domenica,41.2669811212,2.0196802542,cc-by,"(c) domenica, some rights reserved (CC BY)",272254_365486.jpg
-272253,365485,,,https://minka-sdg.org/attachments/local_photos/files/365485/medium.jpg,sergito,41.2671982,2.0192298,cc-by,"(c) Sergi diaz marzo, some rights reserved (CC BY)",272253_365485.jpg
-272251,365484,,,https://minka-sdg.org/attachments/local_photos/files/365484/medium.jpg,sergito,41.2671912,2.0192228,cc-by,"(c) Sergi diaz marzo, some rights reserved (CC BY)",272251_365484.jpg
-272249,365483,,,https://minka-sdg.org/attachments/local_photos/files/365483/medium.jpg,sergito,41.2671842,2.0192158,cc-by,"(c) Sergi diaz marzo, some rights reserved (CC BY)",272249_365483.jpg
+272254,365486,insecta,Carcharodus alceae,https://minka-sdg.org/attachments/local_photos/files/365486/medium.jpg,domenica,41.2669811212,2.0196802542,cc-by,"(c) domenica, some rights reserved (CC BY)",272254_365486.jpg
+272253,365485,plantae,Hordeum,https://minka-sdg.org/attachments/local_photos/files/365485/medium.jpg,sergito,41.2671982,2.0192298,cc-by,"(c) Sergi diaz marzo, some rights reserved (CC BY)",272253_365485.jpg
+272251,365484,plantae,Asteraceae,https://minka-sdg.org/attachments/local_photos/files/365484/medium.jpg,sergito,41.2671912,2.0192228,cc-by,"(c) Sergi diaz marzo, some rights reserved (CC BY)",272251_365484.jpg
+272249,365483,plantae,Malva,https://minka-sdg.org/attachments/local_photos/files/365483/medium.jpg,sergito,41.2671842,2.0192158,cc-by,"(c) Sergi diaz marzo, some rights reserved (CC BY)",272249_365483.jpg
 272248,365482,mollusca,Donax,https://minka-sdg.org/attachments/local_photos/files/365482/medium.jpg,miriam,41.2746602,2.0653142,cc-by,"(c) Laguna, some rights reserved (CC BY)",272248_365482.jpg
 272247,365481,mollusca,Acanthocardia tuberculata,https://minka-sdg.org/attachments/local_photos/files/365481/medium.jpg,miriam,41.2747158,2.0653894,cc-by,"(c) Laguna, some rights reserved (CC BY)",272247_365481.jpg
 272246,365480,mollusca,Gastropoda,https://minka-sdg.org/attachments/local_photos/files/365480/medium.jpg,miriam,41.2747108,2.0653948,cc-by,"(c) Laguna, some rights reserved (CC BY)",272246_365480.jpg
@@ -165,7 +165,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 272242,365475,cnidaria,Aiptasia couchi,https://minka-sdg.org/attachments/local_photos/files/365475/medium.jpeg,nuriasireni,41.3762591483,2.1939016568,cc-by-nc,"(c) NÚRIA, some rights reserved (CC BY-NC)",272242_365475.jpg
 272241,365474,actinopterygii,Sarpa salpa,https://minka-sdg.org/attachments/local_photos/files/365474/medium.jpeg,nuriasireni,41.3762591483,2.1939016568,cc-by-nc,"(c) NÚRIA, some rights reserved (CC BY-NC)",272241_365474.jpg
 272240,365473,plantae,Asparagopsis taxiformis,https://minka-sdg.org/attachments/local_photos/files/365473/medium.jpeg,nuriasireni,41.3762591483,2.1939016568,cc-by-nc,"(c) NÚRIA, some rights reserved (CC BY-NC)",272240_365473.jpg
-272239,365472,aves,Phalacrocorax,https://minka-sdg.org/attachments/local_photos/files/365472/medium.jpeg,nuriasireni,41.3762591483,2.1939016568,cc-by-nc,"(c) NÚRIA, some rights reserved (CC BY-NC)",272239_365472.jpg
+272239,365472,aves,Phalacrocorax carbo,https://minka-sdg.org/attachments/local_photos/files/365472/medium.jpeg,nuriasireni,41.3762591483,2.1939016568,cc-by-nc,"(c) NÚRIA, some rights reserved (CC BY-NC)",272239_365472.jpg
 272238,365471,mollusca,Stramonita haemastoma,https://minka-sdg.org/attachments/local_photos/files/365471/medium.jpeg,nuriasireni,41.3762591483,2.1939016568,cc-by-nc,"(c) NÚRIA, some rights reserved (CC BY-NC)",272238_365471.jpg
 272237,365470,plantae,Asparagopsis taxiformis,https://minka-sdg.org/attachments/local_photos/files/365470/medium.jpeg,nuriasireni,41.3762591483,2.1939016568,cc-by-nc,"(c) NÚRIA, some rights reserved (CC BY-NC)",272237_365470.jpg
 272236,365469,plantae,Asparagopsis taxiformis,https://minka-sdg.org/attachments/local_photos/files/365469/medium.jpeg,nuriasireni,41.3762591483,2.1939016568,cc-by-nc,"(c) NÚRIA, some rights reserved (CC BY-NC)",272236_365469.jpg

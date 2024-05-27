@@ -380,7 +380,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 272576,2024-05-26,2024-05-26,2024-05-26,14:05:00,mollusca,245025,species,Doto pygmaea,41.622825125,2.6976193764,False,"08397 Pineda de Mar, Barcelona, España",research,72,badosa,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Dotidae,Doto
 272575,2024-05-26,2024-05-26,2024-05-26,13:51:00,crustacea,243588,species,Lepas pectinata,41.6228400355,2.6975724377,False,"08397 Pineda de Mar, Barcelona, España",research,72,badosa,cc-by-nc,1,0,Animalia,Arthropoda,,,Lepadidae,Lepas
 272574,2024-05-26,2024-05-26,2024-05-26,13:51:00,crustacea,252571,species,Idotea metallica,41.6228068005,2.6976098145,False,"08397 Pineda de Mar, Barcelona, España",research,72,badosa,cc-by-nc,1,0,Animalia,Arthropoda,Malacostraca,Isopoda,Idoteidae,Idotea
-272573,2024-05-26,2024-05-26,2024-05-26,10:59:00,,nan,,,41.2755367126,2.0658648759,False,,needs_id,2800,marionaclaramunt,cc-by,0,0,,,,,,
+272573,2024-05-26,2024-05-27,2024-05-26,10:59:00,insecta,747,family,Noctuidae,41.2755367126,2.0658648759,False,,needs_id,2800,marionaclaramunt,cc-by,0,0,Animalia,Arthropoda,Insecta,Lepidoptera,,
 272572,2024-05-26,2024-05-26,2024-05-26,09:48:00,mollusca,241878,species,Acanthocardia tuberculata,41.2747196925,2.0654121715,False,,research,2800,marionaclaramunt,cc-by,1,0,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Acanthocardia
 272571,2024-05-26,2024-05-26,2024-05-26,09:46:00,mollusca,252874,species,Patella rustica,41.2747126925,2.0654051715,False,,research,2800,marionaclaramunt,cc-by,1,0,Animalia,Mollusca,Gastropoda,Patellogastropoda,Patellidae,Patella
 272570,2024-05-26,2024-05-27,2024-05-26,09:44:00,mollusca,116,class,Gastropoda,41.2747056925,2.0653981715,False,,needs_id,2800,marionaclaramunt,cc-by,2,0,Animalia,Mollusca,,,,
@@ -653,7 +653,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 272269,2024-05-26,2024-05-26,2024-05-26,10:18:00,,nan,,,41.267725,2.0213472222,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,,,,,,
 272268,2024-05-26,2024-05-26,2024-05-26,10:17:00,,nan,,,41.2674583333,2.0185944444,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,,,,,,
 272267,2024-05-26,2024-05-26,2024-05-26,10:17:00,,nan,,,41.2672,2.0192111111,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,,,,,,
-272266,2024-05-26,2024-05-26,2024-05-26,10:13:00,,nan,,,41.2674583333,2.0185944444,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,,,,,,
+272266,2024-05-26,2024-05-27,2024-05-26,10:13:00,plantae,24979,genus,Centaurea,41.2674583333,2.0185944444,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,
 272265,2024-05-26,2024-05-26,2024-05-26,10:11:00,insecta,11,class,Insecta,41.2672083333,2.0192055556,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,Animalia,Arthropoda,,,,
 272264,2024-05-26,2024-05-26,2024-05-26,10:11:00,insecta,11,class,Insecta,41.2671888889,2.0192111111,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,Animalia,Arthropoda,,,,
 272263,2024-05-26,2024-05-26,2024-05-26,10:11:00,insecta,11,class,Insecta,41.2672083333,2.0192055556,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,Animalia,Arthropoda,,,,
@@ -662,7 +662,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 272260,2024-05-26,2024-05-27,2024-05-26,10:20:00,plantae,244728,species,Lobularia maritima,41.2671555556,2.019025,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Capparales,Brassicaceae,
 272259,2024-05-26,2024-05-26,2024-05-26,10:21:00,,nan,,,41.2662391667,2.0205700278,False,,needs_id,3201,mariio01,cc-by,0,0,,,,,,
 272258,2024-05-26,2024-05-26,2024-05-26,10:18:00,,nan,,,41.2667732222,2.0200450278,False,,needs_id,3200,marki,cc-by,0,0,,,,,,
-272257,2024-05-26,2024-05-26,2024-05-26,10:22:00,,nan,,,41.2667290997,2.0205535983,False,,needs_id,3199,domenica,cc-by,0,0,,,,,,
+272257,2024-05-26,2024-05-27,2024-05-26,10:22:00,plantae,90169,species,Calystegia soldanella,41.2667290997,2.0205535983,False,,needs_id,3199,domenica,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Convolvulaceae,Calystegia
 272256,2024-05-26,2024-05-26,2024-05-26,10:21:00,,nan,,,41.2668902826,2.0192747429,False,,needs_id,3199,domenica,cc-by,0,0,,,,,,
 272255,2024-05-26,2024-05-27,2024-05-26,10:22:00,insecta,14178,genus,Notonecta,41.5300385329,2.4331779778,False,Spain,needs_id,1263,mcomerma,cc-by,1,0,Animalia,Arthropoda,Insecta,Hemiptera,Notonectidae,
 272254,2024-05-26,2024-05-26,2024-05-26,10:13:00,,nan,,,41.2669811212,2.0196802542,False,,needs_id,3199,domenica,cc-by,0,0,,,,,,
@@ -723,7 +723,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 272193,2024-05-25,2024-05-27,2024-05-25,00:47:00,actinopterygii,35040,genus,Symphodus,40.9117209379,0.8340630023,False,"Tarragona, Espanya",needs_id,197,peixderoca24,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,
 272192,2024-05-25,2024-05-26,2024-05-25,00:47:00,actinopterygii,35216,species,Symphodus tinca,40.9117209379,0.8340630023,False,"Tarragona, Espanya",research,197,peixderoca24,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
 272191,2024-05-25,2024-05-26,2024-05-25,00:48:00,actinopterygii,34805,species,Sarpa salpa,40.9117209379,0.8340630023,False,"Tarragona, Espanya",research,197,peixderoca24,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
-272190,2024-05-25,2024-05-27,2024-05-25,00:48:00,actinopterygii,35040,genus,Symphodus,40.9117209379,0.8340630023,False,"Tarragona, Espanya",needs_id,197,peixderoca24,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,
+272190,2024-05-25,2024-05-27,2024-05-25,00:48:00,actinopterygii,240397,species,Symphodus ocellatus,40.9117209379,0.8340630023,False,"Tarragona, Espanya",research,197,peixderoca24,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
 272189,2024-05-25,2024-05-26,2024-05-25,00:49:00,mollusca,244625,species,Lithophaga lithophaga,40.9117209379,0.8340630023,False,"Tarragona, Espanya",research,197,peixderoca24,cc-by-nc,1,0,Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,Lithophaga
 272188,2024-05-25,2024-05-26,2024-05-25,00:48:00,actinopterygii,13765,species,Serranus scriba,40.9117209379,0.8340630023,False,"Tarragona, Espanya",research,197,peixderoca24,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Serranus
 272187,2024-05-25,2024-05-27,2024-05-25,00:51:00,bryozoa,245637,species,Electra posidoniae,40.9117209379,0.8340630023,False,"Tarragona, Espanya",research,197,peixderoca24,cc-by-nc,1,0,Animalia,Bryozoa,Gymnolaemata,Cheilostomatida,Electridae,Electra
@@ -747,7 +747,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 272169,2024-05-25,2024-05-26,2024-05-25,00:23:00,,252060,species,Clibanarius erythropus,40.9117209379,0.8340630023,False,"Tarragona, Espanya",research,197,peixderoca24,cc-by-nc,1,0,Animalia,Arthropoda,Malacostraca,Decapoda,Diogenidae,Clibanarius
 272168,2024-05-25,2024-05-26,2024-05-25,00:25:00,mollusca,245702,species,Elysia timida,40.9117209379,0.8340630023,False,"Tarragona, Espanya",research,197,peixderoca24,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Sacoglossa,Plakobranchidae,Elysia
 272167,2024-05-25,2024-05-26,2024-05-25,00:29:00,actinopterygii,35250,species,Parablennius pilicornis,40.9117209379,0.8340630023,False,"Tarragona, Espanya",research,197,peixderoca24,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
-272166,2024-05-25,2024-05-27,2024-05-25,00:30:00,cnidaria,254144,species,Aiptasia couchi,40.9117209379,0.8340630023,False,"Tarragona, Espanya",needs_id,197,peixderoca24,cc-by-nc,1,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Aiptasiidae,Aiptasia
+272166,2024-05-25,2024-05-27,2024-05-25,00:30:00,cnidaria,254144,species,Aiptasia couchi,40.9117209379,0.8340630023,False,"Tarragona, Espanya",research,197,peixderoca24,cc-by-nc,1,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Aiptasiidae,Aiptasia
 272165,2024-05-25,2024-05-26,2024-05-25,00:30:00,porifera,242281,species,Crambe crambe,40.9117209379,0.8340630023,False,"Tarragona, Espanya",research,197,peixderoca24,cc-by-nc,1,0,Animalia,Porifera,Demospongiae,Poecilosclerida,Crambeidae,Crambe
 272164,2024-05-25,2024-05-26,2024-05-25,00:30:00,chromista,35106,species,Padina pavonica,40.9117209379,0.8340630023,False,"Tarragona, Espanya",research,197,peixderoca24,cc-by-nc,1,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
 272163,2024-05-25,2024-05-27,2024-05-25,00:32:00,annelida,247041,species,Sabella spallanzanii,40.9117209379,0.8340630023,False,"Tarragona, Espanya",research,197,peixderoca24,cc-by-nc,1,0,Animalia,Annelida,Polychaeta,Sabellida,Sabellidae,Sabella
