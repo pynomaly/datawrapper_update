@@ -86,7 +86,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 272298,2024-05-26,2024-05-26,2024-05-26,10:56:00,mollusca,248495,species,Mytilus galloprovincialis,41.3827261,2.1947891,False,Spain,research,3196,vmitjans,cc-by,1,0,Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,Mytilus
 272296,2024-05-26,2024-05-26,2024-05-26,10:43:00,mollusca,53500,species,Stramonita haemastoma,41.3826257,2.1945795,False,Spain,research,3196,vmitjans,cc-by,1,0,Animalia,Mollusca,Gastropoda,Neogastropoda,Muricidae,Stramonita
 272289,2024-05-26,2024-05-27,2024-05-26,10:26:00,amphibia,244076,species,Alytes obstetricans,41.53003527,2.4331303686,False,Spain,research,1263,mcomerma,cc-by,2,0,Animalia,Chordata,Amphibia,Anura,Alytidae,Alytes
-272270,2024-05-26,2024-05-26,2024-05-26,10:20:00,,nan,,,41.2671555556,2.019025,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,,,,,,
+272270,2024-05-26,2024-05-27,2024-05-26,10:20:00,plantae,244728,species,Lobularia maritima,41.2671555556,2.019025,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Capparales,Brassicaceae,
 272269,2024-05-26,2024-05-26,2024-05-26,10:18:00,,nan,,,41.267725,2.0213472222,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,,,,,,
 272268,2024-05-26,2024-05-26,2024-05-26,10:17:00,,nan,,,41.2674583333,2.0185944444,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,,,,,,
 272267,2024-05-26,2024-05-26,2024-05-26,10:17:00,,nan,,,41.2672,2.0192111111,False,"Barcelona, España",needs_id,3198,iago,cc-by,0,0,,,,,,
