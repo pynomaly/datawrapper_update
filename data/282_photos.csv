@@ -415,13 +415,12 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 272289,365553,amphibia,Alytes obstetricans,https://minka-sdg.org/attachments/local_photos/files/365553/medium.jpg,mcomerma,41.53003527,2.4331303686,cc-by,"(c) Marta Comerma, some rights reserved (CC BY)",272289_365553.jpg
 272289,365554,amphibia,Alytes obstetricans,https://minka-sdg.org/attachments/local_photos/files/365554/medium.jpg,mcomerma,41.53003527,2.4331303686,cc-by,"(c) Marta Comerma, some rights reserved (CC BY)",272289_365554.jpg
 272270,365517,plantae,Lobularia maritima,https://minka-sdg.org/attachments/local_photos/files/365517/medium.jpg,iago,41.2671555556,2.019025,cc-by,"(c) iago, some rights reserved (CC BY)",272270_365517.jpg
-272269,365516,,,https://minka-sdg.org/attachments/local_photos/files/365516/medium.jpg,iago,41.267725,2.0213472222,cc-by,"(c) iago, some rights reserved (CC BY)",272269_365516.jpg
-272268,365514,,,https://minka-sdg.org/attachments/local_photos/files/365514/medium.jpg,iago,41.2674583333,2.0185944444,cc-by,"(c) iago, some rights reserved (CC BY)",272268_365514.jpg
-272267,365513,,,https://minka-sdg.org/attachments/local_photos/files/365513/medium.jpg,iago,41.2672,2.0192111111,cc-by,"(c) iago, some rights reserved (CC BY)",272267_365513.jpg
+272269,365516,insecta,Lachnaia,https://minka-sdg.org/attachments/local_photos/files/365516/medium.jpg,iago,41.267725,2.0213472222,cc-by,"(c) iago, some rights reserved (CC BY)",272269_365516.jpg
+272268,365514,plantae,Plantae,https://minka-sdg.org/attachments/local_photos/files/365514/medium.jpg,iago,41.2674583333,2.0185944444,cc-by,"(c) iago, some rights reserved (CC BY)",272268_365514.jpg
+272267,365513,plantae,Plantago,https://minka-sdg.org/attachments/local_photos/files/365513/medium.jpg,iago,41.2672,2.0192111111,cc-by,"(c) iago, some rights reserved (CC BY)",272267_365513.jpg
 272266,365512,plantae,Centaurea,https://minka-sdg.org/attachments/local_photos/files/365512/medium.jpg,iago,41.2674583333,2.0185944444,cc-by,"(c) iago, some rights reserved (CC BY)",272266_365512.jpg
-272265,365510,insecta,Insecta,https://minka-sdg.org/attachments/local_photos/files/365510/medium.jpg,iago,41.2672083333,2.0192055556,cc-by,"(c) iago, some rights reserved (CC BY)",272265_365510.jpg
-272264,365509,insecta,Insecta,https://minka-sdg.org/attachments/local_photos/files/365509/medium.jpg,iago,41.2671888889,2.0192111111,cc-by,"(c) iago, some rights reserved (CC BY)",272264_365509.jpg
-272263,365505,insecta,Insecta,https://minka-sdg.org/attachments/local_photos/files/365505/medium.jpg,iago,41.2672083333,2.0192055556,cc-by,"(c) iago, some rights reserved (CC BY)",272263_365505.jpg
+272264,365509,insecta,Zygaena,https://minka-sdg.org/attachments/local_photos/files/365509/medium.jpg,iago,41.2671888889,2.0192111111,cc-by,"(c) iago, some rights reserved (CC BY)",272264_365509.jpg
+272263,365505,insecta,Zygaena,https://minka-sdg.org/attachments/local_photos/files/365505/medium.jpg,iago,41.2672083333,2.0192055556,cc-by,"(c) iago, some rights reserved (CC BY)",272263_365505.jpg
 272262,365502,insecta,Formicidae,https://minka-sdg.org/attachments/local_photos/files/365502/medium.jpg,iago,41.2670916667,2.0216555556,cc-by,"(c) iago, some rights reserved (CC BY)",272262_365502.jpg
 272261,365501,mollusca,Theba pisana,https://minka-sdg.org/attachments/local_photos/files/365501/medium.jpg,iago,41.2681111111,2.0196138889,cc-by,"(c) iago, some rights reserved (CC BY)",272261_365501.jpg
 272260,365498,plantae,Lobularia maritima,https://minka-sdg.org/attachments/local_photos/files/365498/medium.jpg,iago,41.2671555556,2.019025,cc-by,"(c) iago, some rights reserved (CC BY)",272260_365498.jpg
