@@ -1,4 +1,24 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+274262,2024-05-29,2024-05-29,2024-05-25,15:19:00,,nan,,,41.3805495858,2.195652542,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+274261,2024-05-29,2024-05-29,2024-05-25,15:19:00,,nan,,,41.3805495858,2.195652542,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+274260,2024-05-29,2024-05-29,2024-05-25,15:19:00,,nan,,,41.3805495858,2.195652542,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+274259,2024-05-29,2024-05-29,2024-05-25,15:19:00,,nan,,,41.3805495858,2.195652542,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+274258,2024-05-29,2024-05-29,2024-05-25,15:19:00,,nan,,,41.3805495858,2.195652542,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+274257,2024-05-29,2024-05-29,2024-05-25,15:19:00,,nan,,,41.3805495858,2.195652542,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+274256,2024-05-29,2024-05-29,2024-05-25,15:19:00,,nan,,,41.3805495858,2.195652542,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+274255,2024-05-29,2024-05-29,2024-05-25,15:19:00,,nan,,,41.3805495858,2.195652542,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+274254,2024-05-29,2024-05-29,2024-05-25,15:19:00,,nan,,,41.3805495858,2.195652542,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+274253,2024-05-29,2024-05-29,2024-05-25,15:19:00,,nan,,,41.3805495858,2.195652542,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+274252,2024-05-29,2024-05-29,2024-05-25,15:19:00,,nan,,,41.3805495858,2.195652542,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+274251,2024-05-29,2024-05-29,2024-05-25,15:19:00,,nan,,,41.3805495858,2.195652542,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+274250,2024-05-29,2024-05-29,2024-05-25,15:19:00,,nan,,,41.3805495858,2.195652542,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+274249,2024-05-29,2024-05-29,2024-05-25,15:19:00,,nan,,,41.3805495858,2.195652542,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+274248,2024-05-29,2024-05-29,2024-05-25,15:19:00,,nan,,,41.3805495858,2.195652542,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+274247,2024-05-29,2024-05-29,2024-05-25,15:19:00,,nan,,,41.3805495858,2.195652542,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+274246,2024-05-29,2024-05-29,2024-05-25,15:19:00,,nan,,,41.3805495858,2.195652542,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+274245,2024-05-29,2024-05-29,2024-05-25,15:19:00,,nan,,,41.3805495858,2.195652542,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+274244,2024-05-29,2024-05-29,2024-05-25,15:19:00,,nan,,,41.3805495858,2.195652542,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+274243,2024-05-29,2024-05-29,2024-05-25,15:19:00,,nan,,,41.3805495858,2.195652542,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
 274181,2024-05-29,2024-05-29,2024-05-28,09:52:00,insecta,159939,species,Polyommatus icarus,41.2888885674,2.1049396171,False,Bassa de l'Illa,research,15,mediambient_ajelprat,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Polyommatus
 274180,2024-05-29,2024-05-29,2024-05-28,09:01:00,fungi,13,kingdom,Fungi,41.2885396323,2.1019369182,False,Pineda de can Camins,needs_id,15,mediambient_ajelprat,cc-by-nc,0,0,,,,,,
 274179,2024-05-29,2024-05-29,2024-05-27,08:28:00,insecta,159939,species,Polyommatus icarus,41.2803664299,2.0855607308,False,Platja de la Roberta,research,15,mediambient_ajelprat,cc-by-nc,2,0,Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Polyommatus
@@ -30,7 +50,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 274140,2024-05-29,2024-05-29,2024-05-24,08:54:00,insecta,324,order,Coleoptera,41.2790877234,2.0810048943,False,Platja del Remolar,needs_id,15,mediambient_ajelprat,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,,,
 274139,2024-05-29,2024-05-29,2024-05-24,07:51:00,insecta,7921,genus,Colletes,41.2790877234,2.0810048943,False,Platja del Remolar,needs_id,15,mediambient_ajelprat,cc-by-nc,0,0,Animalia,Arthropoda,Insecta,Hymenoptera,Colletidae,
 274138,2024-05-29,2024-05-29,2024-05-24,09:45:00,aves,248112,species,Calidris alba,41.2859753277,2.1021102879,False,Platja de can Camins,research,15,mediambient_ajelprat,cc-by-nc,1,0,Animalia,Chordata,Aves,Ciconiiformes,Scolopacidae,Calidris
-274135,2024-05-29,2024-05-29,2024-05-23,07:39:00,aves,252107,species,Tringa totanus,41.3077770791,2.1245222798,False,Desembocadura del riu Llobregat,needs_id,15,mediambient_ajelprat,cc-by-nc,0,0,Animalia,Chordata,Aves,Ciconiiformes,Scolopacidae,Tringa
+274135,2024-05-29,2024-05-29,2024-05-23,07:39:00,aves,252107,species,Tringa totanus,41.3077770791,2.1245222798,False,Desembocadura del riu Llobregat,research,15,mediambient_ajelprat,cc-by-nc,1,0,Animalia,Chordata,Aves,Ciconiiformes,Scolopacidae,Tringa
 274134,2024-05-29,2024-05-29,2024-05-22,08:24:00,insecta,252125,species,Hyles euphorbiae,41.280120581,2.0848452043,False,Platja de la Roberta,research,15,mediambient_ajelprat,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,Lepidoptera,Sphingidae,Hyles
 274133,2024-05-29,2024-05-29,2024-05-21,09:13:00,insecta,252618,species,Helicoverpa armigera,41.2890071735,2.1046801885,False,Bassa de l'Illa,research,15,mediambient_ajelprat,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,Lepidoptera,Noctuidae,Helicoverpa
 274132,2024-05-29,2024-05-29,2024-05-17,05:57:00,insecta,245666,species,Macroglossum stellatarum,41.2890071735,2.1046801885,False,Bassa de l'Illa,research,15,mediambient_ajelprat,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,Lepidoptera,Sphingidae,Macroglossum
