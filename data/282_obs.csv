@@ -66,13 +66,13 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 274016,2024-05-28,2024-05-28,2024-05-28,14:25:00,echinodermata,240406,species,Arbacia lixula,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Echinodermata,Echinoidea,Arbacioida,Arbaciidae,Arbacia
 274015,2024-05-28,2024-05-28,2024-05-28,14:25:00,echinodermata,250594,species,Sphaerechinus granularis,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Echinodermata,Echinoidea,Camarodonta,Toxopneustidae,Sphaerechinus
 274014,2024-05-28,2024-05-28,2024-05-28,14:24:00,plantae,35128,species,Posidonia oceanica,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Posidoniaceae,Posidonia
-274013,2024-05-28,2024-05-28,2024-05-28,14:24:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-274012,2024-05-28,2024-05-28,2024-05-28,14:24:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+274013,2024-05-28,2024-05-29,2024-05-28,14:24:00,mollusca,241384,species,Manupecten pesfelis,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Mollusca,Bivalvia,Pectinida,Pectinidae,Manupecten
+274012,2024-05-28,2024-05-29,2024-05-28,14:24:00,cnidaria,35248,species,Leptogorgia sarmentosa,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Cnidaria,Anthozoa,Alcyonacea,Gorgoniidae,Leptogorgia
 274011,2024-05-28,2024-05-28,2024-05-28,14:24:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-274010,2024-05-28,2024-05-28,2024-05-28,14:23:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+274010,2024-05-28,2024-05-29,2024-05-28,14:23:00,bryozoa,252951,species,Pentapora fascialis,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Bryozoa,Gymnolaemata,Cheilostomatida,Bitectiporidae,Pentapora
 274009,2024-05-28,2024-05-28,2024-05-28,14:23:00,cnidaria,35252,species,Eunicella gazella,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Cnidaria,Anthozoa,Alcyonacea,Gorgoniidae,Eunicella
 274008,2024-05-28,2024-05-29,2024-05-28,14:23:00,echinodermata,35260,species,Echinaster sepositus,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Echinodermata,Asteroidea,Spinulosida,Echinasteridae,Echinaster
-274007,2024-05-28,2024-05-28,2024-05-28,14:23:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+274007,2024-05-28,2024-05-29,2024-05-28,14:23:00,actinopterygii,13765,species,Serranus scriba,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Serranus
 274006,2024-05-28,2024-05-28,2024-05-28,14:23:00,mollusca,34853,species,Flabellina affinis,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Flabellinidae,Flabellina
 274005,2024-05-28,2024-05-28,2024-05-28,14:22:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
 274004,2024-05-28,2024-05-28,2024-05-28,14:22:00,echinodermata,251866,species,Holothuria forskali,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria
@@ -98,17 +98,17 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 273984,2024-05-28,2024-05-28,2024-05-28,14:15:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
 273983,2024-05-28,2024-05-28,2024-05-28,14:15:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
 273982,2024-05-28,2024-05-28,2024-05-28,14:14:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-273981,2024-05-28,2024-05-28,2024-05-28,14:14:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+273981,2024-05-28,2024-05-29,2024-05-28,14:14:00,animalia,245576,species,Aplidium conicum,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Ascidiacea,Enterogona,Polyclinidae,Aplidium
 273980,2024-05-28,2024-05-28,2024-05-28,14:14:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
 273979,2024-05-28,2024-05-28,2024-05-28,14:14:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
 273978,2024-05-28,2024-05-28,2024-05-28,14:13:00,animalia,35134,species,Halocynthia papillosa,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Ascidiacea,Pleurogona,Pyuridae,Halocynthia
 273977,2024-05-28,2024-05-28,2024-05-28,14:13:00,echinodermata,34848,species,Paracentrotus lividus,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Echinodermata,Echinoidea,Camarodonta,Parechinidae,Paracentrotus
-273976,2024-05-28,2024-05-28,2024-05-28,14:13:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+273976,2024-05-28,2024-05-29,2024-05-28,14:13:00,echinodermata,251866,species,Holothuria forskali,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria
 273975,2024-05-28,2024-05-29,2024-05-28,14:13:00,actinopterygii,13765,species,Serranus scriba,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Serranus
 273974,2024-05-28,2024-05-29,2024-05-28,14:13:00,echinodermata,35260,species,Echinaster sepositus,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Echinodermata,Asteroidea,Spinulosida,Echinasteridae,Echinaster
 273973,2024-05-28,2024-05-29,2024-05-28,14:13:00,actinopterygii,240398,species,Symphodus mediterraneus,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
-273972,2024-05-28,2024-05-28,2024-05-28,14:12:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-273971,2024-05-28,2024-05-28,2024-05-28,14:12:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+273972,2024-05-28,2024-05-29,2024-05-28,14:12:00,echinodermata,251866,species,Holothuria forskali,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria
+273971,2024-05-28,2024-05-29,2024-05-28,14:12:00,echinodermata,251866,species,Holothuria forskali,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria
 273970,2024-05-28,2024-05-28,2024-05-28,14:12:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
 273969,2024-05-28,2024-05-28,2024-05-28,14:12:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
 273968,2024-05-28,2024-05-28,2024-05-28,14:11:00,cnidaria,35166,species,Cladocora caespitosa,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,2,0,Animalia,Cnidaria,Anthozoa,Scleractinia,Caryophylliidae,Cladocora
