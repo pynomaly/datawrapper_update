@@ -1,4 +1,8 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+274457,368374,,,https://minka-sdg.org/attachments/local_photos/files/368374/medium.jpeg,evararo,41.0893115159,1.2294455991,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",274457_368374.jpg
+274456,368373,,,https://minka-sdg.org/attachments/local_photos/files/368373/medium.jpeg,evararo,41.0893115159,1.2294455991,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",274456_368373.jpg
+274455,368372,,,https://minka-sdg.org/attachments/local_photos/files/368372/medium.jpeg,evararo,41.0893115159,1.2294455991,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",274455_368372.jpg
+274455,368371,,,https://minka-sdg.org/attachments/local_photos/files/368371/medium.jpeg,evararo,41.0893115159,1.2294455991,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",274455_368371.jpg
 274367,368255,,,https://minka-sdg.org/attachments/local_photos/files/368255/medium.jpeg,evararo,41.0890551526,1.2325448365,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",274367_368255.jpg
 274367,368256,,,https://minka-sdg.org/attachments/local_photos/files/368256/medium.jpeg,evararo,41.0890551526,1.2325448365,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",274367_368256.jpg
 274366,368254,,,https://minka-sdg.org/attachments/local_photos/files/368254/medium.jpeg,evararo,41.0890551526,1.2325448365,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",274366_368254.jpg
@@ -789,4 +793,4 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 264127,353855,plantae,Lobularia maritima,https://minka-sdg.org/attachments/local_photos/files/353855/medium.jpg,bertinhaco,41.1808714549,1.5256441294,cc-by-nc,"(c) Berta Companys Oliva, some rights reserved (CC BY-NC)",264127_353855.jpg
 264126,353857,plantae,Malva parviflora,https://minka-sdg.org/attachments/local_photos/files/353857/medium.jpg,bertinhaco,41.1808514472,1.5255561639,cc-by-nc,"(c) Berta Companys Oliva, some rights reserved (CC BY-NC)",264126_353857.jpg
 264126,353856,plantae,Malva parviflora,https://minka-sdg.org/attachments/local_photos/files/353856/medium.jpg,bertinhaco,41.1808514472,1.5255561639,cc-by-nc,"(c) Berta Companys Oliva, some rights reserved (CC BY-NC)",264126_353856.jpg
-263395,352763,actinopterygii,Sciaena umbra,https://minka-sdg.org/attachments/local_photos/files/352763/medium.jpg,jolumase,41.083254041,1.2385777654,cc-by-nc,"(c) José Luis Martin, some rights reserved (CC BY-NC)",263395_352763.jpg
+263395,352763,actinopterygii,Sciaena umbra,,jolumase,41.083254041,1.2385777654,,"(c) José Luis Martin, some rights reserved (CC BY-NC)",263395_352763.jpg
