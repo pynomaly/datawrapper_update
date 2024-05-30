@@ -1,4 +1,5 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+274517,368431,actinopterygii,Sciaena umbra,https://minka-sdg.org/attachments/local_photos/files/368431/medium.jpeg,oscarcg31,42.0500893235,3.2226419485,cc-by-nc,"(c) Óscar Comellas Garcia, some rights reserved (CC BY-NC)",274517_368431.jpg
 274516,368430,mollusca,Muricidae,https://minka-sdg.org/attachments/local_photos/files/368430/medium.jpeg,josepdegea,41.77815039,3.031059223,cc-by-nc,"(c) Josep, some rights reserved (CC BY-NC)",274516_368430.jpg
 274515,368429,actinopterygii,Gobius cruentatus,https://minka-sdg.org/attachments/local_photos/files/368429/medium.jpeg,josepdegea,41.7771262773,3.0322608527,cc-by-nc,"(c) Josep, some rights reserved (CC BY-NC)",274515_368429.jpg
 274514,368428,porifera,Porifera,https://minka-sdg.org/attachments/local_photos/files/368428/medium.jpeg,josepdegea,41.7786624402,3.0312308844,cc-by-nc,"(c) Josep, some rights reserved (CC BY-NC)",274514_368428.jpg
@@ -382,7 +383,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 273267,366743,life,Life,https://minka-sdg.org/attachments/local_photos/files/366743/medium.jpeg,yespi,42.3435478017,3.2546373193,cc-by-nc,"(c) Gustavo Zafra, some rights reserved (CC BY-NC)",273267_366743.jpg
 273267,366742,life,Life,https://minka-sdg.org/attachments/local_photos/files/366742/medium.jpeg,yespi,42.3435478017,3.2546373193,cc-by-nc,"(c) Gustavo Zafra, some rights reserved (CC BY-NC)",273267_366742.jpg
 273266,366741,actinopterygii,Coris julis,https://minka-sdg.org/attachments/local_photos/files/366741/medium.jpeg,yespi,42.3435478017,3.2546373193,cc-by-nc,"(c) Gustavo Zafra, some rights reserved (CC BY-NC)",273266_366741.jpg
-273265,366740,cnidaria,Dendrophylliidae,https://minka-sdg.org/attachments/local_photos/files/366740/medium.jpeg,yespi,42.3435478017,3.2546373193,cc-by-nc,"(c) Gustavo Zafra, some rights reserved (CC BY-NC)",273265_366740.jpg
+273265,366740,cnidaria,Balanophyllia regia,https://minka-sdg.org/attachments/local_photos/files/366740/medium.jpeg,yespi,42.3435478017,3.2546373193,cc-by-nc,"(c) Gustavo Zafra, some rights reserved (CC BY-NC)",273265_366740.jpg
 273264,366739,chromista,Dictyota dichotoma,https://minka-sdg.org/attachments/local_photos/files/366739/medium.jpeg,yespi,42.3435478017,3.2546373193,cc-by-nc,"(c) Gustavo Zafra, some rights reserved (CC BY-NC)",273264_366739.jpg
 273263,366738,plantae,Corallinaceae,https://minka-sdg.org/attachments/local_photos/files/366738/medium.jpeg,yespi,42.3435478017,3.2546373193,cc-by-nc,"(c) Gustavo Zafra, some rights reserved (CC BY-NC)",273263_366738.jpg
 273262,366737,plantae,Mesophyllum expansum,https://minka-sdg.org/attachments/local_photos/files/366737/medium.jpeg,yespi,42.3435478017,3.2546373193,cc-by-nc,"(c) Gustavo Zafra, some rights reserved (CC BY-NC)",273262_366737.jpg
