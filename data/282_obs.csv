@@ -1,4 +1,5 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+274745,2024-05-31,2024-05-31,2024-05-20,10:12:00,aves,249912,species,Garrulus glandarius,41.5374350565,2.4404005409,False,"Eixample, Mataró, Barcelona, España",research,1263,mcomerma,cc-by,1,0,Animalia,Chordata,Aves,Passeriformes,Corvidae,Garrulus
 274530,2024-05-30,2024-05-30,2024-05-29,10:40:00,insecta,82,order,Hemiptera,41.2658055556,2.0144527778,False,"Barcelona, España",needs_id,3369,supergava,cc-by,0,0,Animalia,Arthropoda,Insecta,,,
 274529,2024-05-30,2024-05-30,2024-05-26,11:44:00,plantae,1053,family,Lamiaceae,41.2662111111,2.0178972222,False,"Barcelona, España",needs_id,3369,supergava,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,,
 274528,2024-05-30,2024-05-30,2024-05-26,11:22:00,plantae,48184,genus,Metrosideros,41.2653527778,2.0012,False,"Castelldefels, Barcelona, España",needs_id,3369,supergava,cc-by,2,0,Plantae,Magnoliophyta,Magnoliopsida,Myrtales,Myrtaceae,
