@@ -1,10 +1,10 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
-274816,2024-05-31,2024-05-31,2024-05-31,15:12:00,,nan,,,41.5336443538,2.5078298022,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
-274815,2024-05-31,2024-05-31,2024-05-31,15:12:00,,nan,,,41.5336413538,2.5078268022,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
-274814,2024-05-31,2024-05-31,2024-05-31,15:12:00,,nan,,,41.5336383538,2.5078238022,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
-274813,2024-05-31,2024-05-31,2024-05-31,15:12:00,,nan,,,41.5336353538,2.5078208022,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
-274812,2024-05-31,2024-05-31,2024-05-31,15:12:00,,nan,,,41.5336323538,2.5078178022,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
-274811,2024-05-31,2024-05-31,2024-05-31,15:12:00,,nan,,,41.5336293538,2.5078148022,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+274816,2024-05-31,2024-05-31,2024-05-31,15:12:00,platyhelminthes,35020,species,Prostheceraeus moseleyi,41.5336443538,2.5078298022,False,,needs_id,2500,jordi2000,cc-by,0,0,Animalia,Platyhelminthes,,,,Prostheceraeus
+274815,2024-05-31,2024-05-31,2024-05-31,15:12:00,bryozoa,245741,species,Reteporella grimaldii,41.5336413538,2.5078268022,False,,needs_id,2500,jordi2000,cc-by,0,0,Animalia,Bryozoa,Gymnolaemata,Cheilostomatida,Phidoloporidae,Reteporella
+274814,2024-05-31,2024-05-31,2024-05-31,15:12:00,actinopterygii,248737,species,Scorpaena maderensis,41.5336383538,2.5078238022,False,,needs_id,2500,jordi2000,cc-by,0,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,Scorpaena
+274813,2024-05-31,2024-05-31,2024-05-31,15:12:00,animalia,35150,subphylum,Tunicata,41.5336353538,2.5078208022,False,,needs_id,2500,jordi2000,cc-by,0,0,Animalia,Chordata,,,,
+274812,2024-05-31,2024-05-31,2024-05-31,15:12:00,platyhelminthes,35020,species,Prostheceraeus moseleyi,41.5336323538,2.5078178022,False,,needs_id,2500,jordi2000,cc-by,0,0,Animalia,Platyhelminthes,,,,Prostheceraeus
+274811,2024-05-31,2024-05-31,2024-05-31,15:12:00,cnidaria,35248,species,Leptogorgia sarmentosa,41.5336293538,2.5078148022,False,,needs_id,2500,jordi2000,cc-by,0,0,Animalia,Cnidaria,Anthozoa,Alcyonacea,Gorgoniidae,Leptogorgia
 274802,2024-05-31,2024-05-31,2024-05-31,12:53:00,arachnida,41,family,Salticidae,41.4983527778,2.3589305556,False,Spain,needs_id,1244,meri,cc-by,1,0,Animalia,Arthropoda,Arachnida,Araneae,,
 274796,2024-05-31,2024-05-31,2024-05-30,13:13:00,aves,158468,species,Ichthyaetus audouinii,41.2269948292,1.7901310051,False,"Barcelona, España",research,68,jcoines,cc-by-nc,1,0,Animalia,Chordata,Aves,Ciconiiformes,Laridae,Ichthyaetus
 274795,2024-05-31,2024-05-31,2024-05-30,13:11:00,aves,257383,species,Gulosus aristotelis,41.2252818101,1.7899638872,False,,research,68,jcoines,cc-by-nc,1,0,Animalia,Chordata,Aves,Ciconiiformes,Phalacrocoracidae,

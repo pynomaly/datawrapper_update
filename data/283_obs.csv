@@ -1,11 +1,11 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
-274817,2024-05-31,2024-05-31,2024-05-26,13:23:00,chromista,253784,species,Zanardinia typus,40.9108610306,0.8432122489,False,"L'Ametlla de Mar, Tarragona, España",needs_id,759,monyant,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Cutleriales,Cutleriaceae,Zanardinia
-274816,2024-05-31,2024-05-31,2024-05-31,15:12:00,,nan,,,41.5336443538,2.5078298022,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
-274815,2024-05-31,2024-05-31,2024-05-31,15:12:00,,nan,,,41.5336413538,2.5078268022,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
-274814,2024-05-31,2024-05-31,2024-05-31,15:12:00,,nan,,,41.5336383538,2.5078238022,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
-274813,2024-05-31,2024-05-31,2024-05-31,15:12:00,,nan,,,41.5336353538,2.5078208022,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
-274812,2024-05-31,2024-05-31,2024-05-31,15:12:00,,nan,,,41.5336323538,2.5078178022,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
-274811,2024-05-31,2024-05-31,2024-05-31,15:12:00,,nan,,,41.5336293538,2.5078148022,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+274817,2024-05-31,2024-05-31,2024-05-26,13:23:00,chromista,253784,species,Zanardinia typus,40.9108610306,0.8432122489,False,"L'Ametlla de Mar, Tarragona, España",research,759,monyant,cc-by-nc,1,0,Chromista,Ochrophyta,Phaeophyceae,Cutleriales,Cutleriaceae,Zanardinia
+274816,2024-05-31,2024-05-31,2024-05-31,15:12:00,platyhelminthes,35020,species,Prostheceraeus moseleyi,41.5336443538,2.5078298022,False,,needs_id,2500,jordi2000,cc-by,0,0,Animalia,Platyhelminthes,,,,Prostheceraeus
+274815,2024-05-31,2024-05-31,2024-05-31,15:12:00,bryozoa,245741,species,Reteporella grimaldii,41.5336413538,2.5078268022,False,,needs_id,2500,jordi2000,cc-by,0,0,Animalia,Bryozoa,Gymnolaemata,Cheilostomatida,Phidoloporidae,Reteporella
+274814,2024-05-31,2024-05-31,2024-05-31,15:12:00,actinopterygii,248737,species,Scorpaena maderensis,41.5336383538,2.5078238022,False,,needs_id,2500,jordi2000,cc-by,0,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,Scorpaena
+274813,2024-05-31,2024-05-31,2024-05-31,15:12:00,animalia,35150,subphylum,Tunicata,41.5336353538,2.5078208022,False,,needs_id,2500,jordi2000,cc-by,0,0,Animalia,Chordata,,,,
+274812,2024-05-31,2024-05-31,2024-05-31,15:12:00,platyhelminthes,35020,species,Prostheceraeus moseleyi,41.5336323538,2.5078178022,False,,needs_id,2500,jordi2000,cc-by,0,0,Animalia,Platyhelminthes,,,,Prostheceraeus
+274811,2024-05-31,2024-05-31,2024-05-31,15:12:00,cnidaria,35248,species,Leptogorgia sarmentosa,41.5336293538,2.5078148022,False,,needs_id,2500,jordi2000,cc-by,0,0,Animalia,Cnidaria,Anthozoa,Alcyonacea,Gorgoniidae,Leptogorgia
 274810,2024-05-31,2024-05-31,2024-05-26,09:04:00,cnidaria,11684,genus,Sertularella,40.8721544243,0.8328001917,False,,needs_id,759,monyant,cc-by-nc,1,0,Animalia,Cnidaria,Hydrozoa,Leptothecata,Sertulariidae,
 274809,2024-05-31,2024-05-31,2024-05-26,09:04:00,porifera,242281,species,Crambe crambe,40.8721544243,0.8328001917,False,,research,759,monyant,cc-by-nc,1,0,Animalia,Porifera,Demospongiae,Poecilosclerida,Crambeidae,Crambe
 274808,2024-05-31,2024-05-31,2024-05-26,13:23:00,chromista,35106,species,Padina pavonica,40.909739668,0.8380969219,False,Spain,research,759,monyant,cc-by-nc,1,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
