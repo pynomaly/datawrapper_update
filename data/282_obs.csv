@@ -1,5 +1,5 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
-274971,2024-06-01,2024-06-01,2024-06-01,12:34:00,,nan,,,41.5304288219,2.4342226982,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,,,,,,
+274971,2024-06-01,2024-06-01,2024-06-01,12:34:00,insecta,159939,species,Polyommatus icarus,41.5304288219,2.4342226982,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Polyommatus
 274970,2024-06-01,2024-06-01,2024-06-01,12:22:00,aves,253889,species,Pica pica,41.5302179908,2.4348111078,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Animalia,Chordata,Aves,Passeriformes,Corvidae,Pica
 274969,2024-06-01,2024-06-01,2024-06-01,12:25:00,plantae,249924,species,Centaurea aspera,41.5302498665,2.4344925955,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Centaurea
 274934,2024-06-01,2024-06-01,2024-06-01,08:15:00,aves,158468,species,Ichthyaetus audouinii,41.2260748216,1.7901643848,False,,needs_id,68,jcoines,cc-by-nc,0,0,Animalia,Chordata,Aves,Ciconiiformes,Laridae,Ichthyaetus
