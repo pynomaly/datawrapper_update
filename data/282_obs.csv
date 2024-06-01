@@ -1,4 +1,25 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+275000,2024-06-01,2024-06-01,2024-06-01,15:07:00,life,1,stateofmatter,Life,41.5290302963,2.4538078532,False,Spain,needs_id,3403,jarderiu,cc-by,0,0,,,,,,
+274999,2024-06-01,2024-06-01,2024-06-01,15:22:00,plantae,247608,species,Avena barbata,41.5315711,2.4360258,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Plantae,Magnoliophyta,Liliopsida,Poales,Poaceae,Avena
+274998,2024-06-01,2024-06-01,2024-06-01,15:13:00,plantae,262854,species,Plantago lagopus,41.5289399,2.434783,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Plantaginales,Plantaginaceae,Plantago
+274997,2024-06-01,2024-06-01,2024-06-01,14:54:00,,nan,,,41.5305042253,2.4356887601,False,Spain,needs_id,3403,jarderiu,cc-by,0,0,,,,,,
+274996,2024-06-01,2024-06-01,2024-06-01,15:08:00,life,1,stateofmatter,Life,41.5302854,2.4359667,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,,,,,,
+274995,2024-06-01,2024-06-01,2024-06-01,14:54:00,aves,252264,species,Columba livia,41.5304972253,2.4356817601,False,Spain,needs_id,3403,jarderiu,cc-by,0,0,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
+274993,2024-06-01,2024-06-01,2024-06-01,14:53:00,,nan,,,41.5316951,2.4359725,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,,,,,,
+274992,2024-06-01,2024-06-01,2024-06-01,14:49:00,,nan,,,41.5306690395,2.4355084879,False,Spain,needs_id,3403,jarderiu,cc-by,0,0,,,,,,
+274991,2024-06-01,2024-06-01,2024-06-01,14:51:00,,nan,,,41.5309583,2.4358974,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,,,,,,
+274990,2024-06-01,2024-06-01,2024-06-01,14:52:00,,nan,,,41.5301834,2.436123,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,,,,,,
+274989,2024-06-01,2024-06-01,2024-06-01,14:33:00,insecta,241863,species,Pieris rapae,41.5306513651,2.4342960013,False,Spain,needs_id,3403,jarderiu,cc-by,0,0,Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pieris
+274987,2024-06-01,2024-06-01,2024-06-01,14:33:00,plantae,252413,species,Convolvulus althaeoides,41.5306373651,2.4342820013,False,Spain,needs_id,3403,jarderiu,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Convolvulaceae,Convolvulus
+274986,2024-06-01,2024-06-01,2024-06-01,14:46:00,life,1,stateofmatter,Life,41.5306505,2.4343146,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,,,,,,
+274985,2024-06-01,2024-06-01,2024-06-01,14:42:00,plantae,262554,complex,Medicago sativa,41.5315312,2.4360358,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Medicago
+274984,2024-06-01,2024-06-01,2024-06-01,14:42:00,plantae,262554,complex,Medicago sativa,41.5315312,2.4360358,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Medicago
+274983,2024-06-01,2024-06-01,2024-06-01,14:33:00,plantae,244728,species,Lobularia maritima,41.5306303651,2.4342750013,False,Spain,needs_id,3403,jarderiu,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Capparales,Brassicaceae,
+274982,2024-06-01,2024-06-01,2024-06-01,14:36:00,plantae,249924,species,Centaurea aspera,41.5305828,2.4362956,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Centaurea
+274981,2024-06-01,2024-06-01,2024-06-01,14:36:00,plantae,249924,species,Centaurea aspera,41.5305828,2.4362956,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Centaurea
+274980,2024-06-01,2024-06-01,2024-06-01,12:34:00,plantae,244452,species,Anacyclus valentinus,41.5303751102,2.4342059344,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Anacyclus
+274979,2024-06-01,2024-06-01,2024-06-01,14:30:00,life,1,stateofmatter,Life,41.5306082511,2.4342122639,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,,,,,,
+274978,2024-06-01,2024-06-01,2024-06-01,14:28:00,plantae,243633,species,Dactylis glomerata,41.5306012511,2.4342052639,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Plantae,Magnoliophyta,Liliopsida,Poales,Poaceae,Dactylis
 274971,2024-06-01,2024-06-01,2024-06-01,12:34:00,insecta,159939,species,Polyommatus icarus,41.5304288219,2.4342226982,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Animalia,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Polyommatus
 274970,2024-06-01,2024-06-01,2024-06-01,12:22:00,aves,253889,species,Pica pica,41.5302179908,2.4348111078,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Animalia,Chordata,Aves,Passeriformes,Corvidae,Pica
 274969,2024-06-01,2024-06-01,2024-06-01,12:25:00,plantae,249924,species,Centaurea aspera,41.5302498665,2.4344925955,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Centaurea
