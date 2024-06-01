@@ -1,6 +1,6 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
-275146,2024-06-01,2024-06-01,2024-06-01,07:26:00,,nan,,,41.5269489626,2.5412590717,False,,needs_id,231,mochilo75,cc-by-nc,0,0,,,,,,
-275145,2024-06-01,2024-06-01,2024-06-01,07:14:00,,nan,,,41.5332077407,2.5736595802,False,,needs_id,231,mochilo75,cc-by-nc,0,0,,,,,,
+275146,2024-06-01,2024-06-01,2024-06-01,07:26:00,actinopterygii,34871,species,Tripterygion delaisi,41.5269489626,2.5412590717,False,,research,231,mochilo75,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Tripterygiidae,Tripterygion
+275145,2024-06-01,2024-06-01,2024-06-01,07:14:00,mollusca,34988,species,Felimare tricolor,41.5332077407,2.5736595802,False,,research,231,mochilo75,cc-by-nc,2,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Felimare
 275062,2024-06-01,2024-06-01,2024-06-01,12:58:00,aves,253889,species,Pica pica,41.5304313318,2.4329687655,False,Spain,research,1263,mcomerma,cc-by,1,0,Animalia,Chordata,Aves,Passeriformes,Corvidae,Pica
 275060,2024-06-01,2024-06-01,2024-06-01,17:02:00,chromista,35541,genus,Dictyota,41.4643455082,2.2784894157,False,"Platja de Montgat, España",research,83,nuriasireni,cc-by-nc,2,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,
 275059,2024-06-01,2024-06-01,2024-06-01,17:02:00,echinodermata,240406,species,Arbacia lixula,41.4643455082,2.2784894157,False,"Platja de Montgat, España",research,83,nuriasireni,cc-by-nc,1,0,Animalia,Echinodermata,Echinoidea,Arbacioida,Arbaciidae,Arbacia
