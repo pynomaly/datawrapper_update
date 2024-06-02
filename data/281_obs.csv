@@ -1,4 +1,10 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+275710,2024-06-02,2024-06-02,2024-06-02,10:27:00,,nan,,,41.7844810754,3.029149028,False,Spain,needs_id,2276,alicate_cr,cc-by,0,0,,,,,,
+275709,2024-06-02,2024-06-02,2024-06-02,10:27:00,,nan,,,41.7844780754,3.029146028,False,Spain,needs_id,2276,alicate_cr,cc-by,0,0,,,,,,
+275708,2024-06-02,2024-06-02,2024-06-02,10:27:00,,nan,,,41.7844750754,3.029143028,False,Spain,needs_id,2276,alicate_cr,cc-by,0,0,,,,,,
+275707,2024-06-02,2024-06-02,2024-06-02,09:54:00,actinopterygii,34965,species,Scorpaena porcus,41.7889119369,3.0318926275,False,Spain,needs_id,2276,alicate_cr,cc-by,0,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,Scorpaena
+275705,2024-06-02,2024-06-02,2024-06-02,10:23:00,,nan,,,41.7841328233,3.0309803411,False,,needs_id,2276,alicate_cr,cc-by,0,0,,,,,,
+275704,2024-06-02,2024-06-02,2024-06-02,10:17:00,,nan,,,41.7854983207,3.0314309523,False,Spain,needs_id,2276,alicate_cr,cc-by,0,0,,,,,,
 275694,2024-06-02,2024-06-02,2024-06-01,09:22:00,annelida,35119,species,Bonellia viridis,41.6962121221,2.8960775184,False,"Roca Muladera, Lloret, Girona, España",needs_id,55,yespi,cc-by-nc,0,0,Animalia,Annelida,Polychaeta,,Bonelliidae,Bonellia
 275693,2024-06-02,2024-06-02,2024-06-01,09:22:00,platyhelminthes,35049,species,Thysanozoon brocchii,41.6962121221,2.8960775184,False,"Roca Muladera, Lloret, Girona, España",needs_id,55,yespi,cc-by-nc,0,0,Animalia,Platyhelminthes,Archoophora,Polycladida,Pseudoceritidae,Thysanozoon
 275692,2024-06-02,2024-06-02,2024-06-01,09:22:00,,nan,,,41.6962121221,2.8960775184,False,"Roca Muladera, Lloret, Girona, España",needs_id,55,yespi,cc-by-nc,0,0,,,,,,
