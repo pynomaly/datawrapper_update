@@ -1,23 +1,53 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
-276204,2024-06-03,2024-06-03,2024-05-25,09:38:00,mollusca,35006,species,Calmella cavolini,41.8885912675,3.1950914326,False,"Calella de Palafrugell, Girona, España",needs_id,857,xavibou,C,0,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Flabellinidae,Calmella
-276203,2024-06-03,2024-06-03,2024-05-25,09:51:00,platyhelminthes,244061,species,Prostheceraeus roseus,41.8885912675,3.1950914326,False,"Calella de Palafrugell, Girona, España",needs_id,857,xavibou,C,0,0,Animalia,Platyhelminthes,,,,Prostheceraeus
-276202,2024-06-03,2024-06-03,2024-05-25,09:48:00,mollusca,35273,species,Edmundsella pedata,41.8885912675,3.1950914326,False,"Calella de Palafrugell, Girona, España",needs_id,857,xavibou,C,0,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Flabellinidae,Edmundsella
-276201,2024-06-03,2024-06-03,2024-05-25,09:52:00,porifera,246221,species,Sycon raphanus,41.8885912675,3.1950914326,False,"Calella de Palafrugell, Girona, España",needs_id,857,xavibou,C,0,0,Animalia,Porifera,Calcarea,Leucosolenida,Sycettidae,Sycon
-276200,2024-06-03,2024-06-03,2024-05-25,09:58:00,porifera,56,phylum,Porifera,41.8885912675,3.1950914326,False,"Calella de Palafrugell, Girona, España",needs_id,857,xavibou,C,0,0,Animalia,,,,,
-276199,2024-06-03,2024-06-03,2024-05-26,10:11:00,mollusca,35218,species,Diaphorodoris papillata,41.8885912675,3.1950914326,False,"Calella de Palafrugell, Girona, España",needs_id,857,xavibou,C,0,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Onchidorididae,Diaphorodoris
-276198,2024-06-03,2024-06-03,2024-05-26,10:08:00,mollusca,35113,species,Felimida krohni,41.8885912675,3.1950914326,False,"Calella de Palafrugell, Girona, España",needs_id,857,xavibou,C,0,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Felimida
-276197,2024-06-03,2024-06-03,2024-05-26,10:37:00,actinopterygii,243584,species,Lepadogaster lepadogaster,41.8885912675,3.1950914326,False,"Calella de Palafrugell, Girona, España",needs_id,857,xavibou,C,0,0,Animalia,Chordata,Actinopterygii,Gobiesociformes,Gobiesocidae,Lepadogaster
-276196,2024-06-03,2024-06-03,2024-05-26,10:14:00,mollusca,35036,species,Cratena peregrina,41.8885912675,3.1950914326,False,"Calella de Palafrugell, Girona, España",needs_id,857,xavibou,C,0,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Facelinidae,Cratena
-276195,2024-06-03,2024-06-03,2024-06-02,09:31:00,,112153,genus,Leptomysis,40.8949012291,0.8187485007,False,Spain,needs_id,857,xavibou,C,0,0,Animalia,Arthropoda,Malacostraca,Mysida,Mysidae,
-276194,2024-06-03,2024-06-03,2024-06-02,09:13:00,porifera,14419,genus,Tethya,40.8949012291,0.8187485007,False,Spain,needs_id,857,xavibou,C,0,0,Animalia,Porifera,Demospongiae,Hadromerida,Tethyidae,
-276193,2024-06-03,2024-06-03,2024-06-02,09:12:00,cnidaria,35166,species,Cladocora caespitosa,40.8949012291,0.8187485007,False,Spain,needs_id,857,xavibou,C,0,0,Animalia,Cnidaria,Anthozoa,Scleractinia,Caryophylliidae,Cladocora
-276192,2024-06-03,2024-06-03,2024-06-02,09:37:00,mollusca,35087,species,Columbella rustica,40.8949012291,0.8187485007,False,Spain,needs_id,857,xavibou,C,0,0,Animalia,Mollusca,Gastropoda,Neogastropoda,Columbellidae,Columbella
-276191,2024-06-03,2024-06-03,2024-06-02,09:49:00,plantae,64,phylum,Rhodophyta,40.8949012291,0.8187485007,False,Spain,needs_id,857,xavibou,C,0,0,Plantae,,,,,
-276190,2024-06-03,2024-06-03,2024-06-02,09:54:00,mollusca,35075,species,Octopus vulgaris,40.8949012291,0.8187485007,False,Spain,needs_id,857,xavibou,C,0,0,Animalia,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus
-276189,2024-06-03,2024-06-03,2024-06-02,09:59:00,actinopterygii,240405,species,Syngnathus typhle,40.8949012291,0.8187485007,False,Spain,needs_id,857,xavibou,C,0,0,Animalia,Chordata,Actinopterygii,Syngnathiformes,Syngnathidae,Syngnathus
-276188,2024-06-03,2024-06-03,2024-06-02,10:05:00,actinopterygii,35178,species,Parablennius incognitus,40.8949012291,0.8187485007,False,Spain,needs_id,857,xavibou,C,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
-276187,2024-06-03,2024-06-03,2024-06-02,09:26:00,elasmobranchii,31067,species,Dasyatis pastinaca,40.8949012291,0.8187485007,False,Spain,needs_id,857,xavibou,C,0,0,Animalia,Chordata,Elasmobranchii,Rajiformes,Dasyatidae,Dasyatis
-276186,2024-06-03,2024-06-03,2024-06-02,10:08:00,actinopterygii,35201,species,Microlipophrys dalmatinus,40.8949012291,0.8187485007,False,"43860 Cala Nova, Tarragona, España",needs_id,857,xavibou,C,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Microlipophrys
+276235,2024-06-03,2024-06-03,2024-06-01,08:05:00,,nan,,,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+276234,2024-06-03,2024-06-03,2024-06-01,08:05:00,,nan,,,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+276233,2024-06-03,2024-06-03,2024-06-01,08:02:00,,nan,,,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+276232,2024-06-03,2024-06-03,2024-06-01,08:01:00,,nan,,,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+276231,2024-06-03,2024-06-03,2024-06-01,07:59:00,,nan,,,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+276230,2024-06-03,2024-06-03,2024-06-01,07:59:00,,nan,,,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+276229,2024-06-03,2024-06-03,2024-06-01,07:58:00,,nan,,,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+276228,2024-06-03,2024-06-03,2024-06-01,07:56:00,,nan,,,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+276227,2024-06-03,2024-06-03,2024-06-01,07:55:00,,nan,,,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+276226,2024-06-03,2024-06-03,2024-06-01,07:55:00,,nan,,,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+276225,2024-06-03,2024-06-03,2024-06-01,07:54:00,,nan,,,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+276224,2024-06-03,2024-06-03,2024-06-01,07:46:00,,nan,,,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+276223,2024-06-03,2024-06-03,2024-06-01,07:40:00,,nan,,,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+276222,2024-06-03,2024-06-03,2024-06-01,07:37:00,,nan,,,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+276221,2024-06-03,2024-06-03,2024-06-01,07:36:00,,nan,,,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+276220,2024-06-03,2024-06-03,2024-06-01,07:35:00,,nan,,,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+276219,2024-06-03,2024-06-03,2024-06-01,07:27:00,,nan,,,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+276218,2024-06-03,2024-06-03,2024-06-01,07:23:00,,nan,,,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+276217,2024-06-03,2024-06-03,2024-06-01,07:15:00,,nan,,,41.2263325875,1.7906802892,False,"Barcelona, Espanya",needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+276216,2024-06-03,2024-06-03,2024-06-01,07:15:00,,nan,,,41.2263325875,1.7906802892,False,"Barcelona, Espanya",needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+276215,2024-06-03,2024-06-03,2024-06-01,07:14:00,,nan,,,41.2263325875,1.7906802892,False,"Barcelona, Espanya",needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+276214,2024-06-03,2024-06-03,2024-06-01,07:13:00,,nan,,,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+276213,2024-06-03,2024-06-03,2024-06-01,07:18:00,,nan,,,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+276212,2024-06-03,2024-06-03,2024-06-01,07:18:00,,nan,,,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+276211,2024-06-03,2024-06-03,2024-06-01,07:18:00,,nan,,,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+276210,2024-06-03,2024-06-03,2024-06-01,07:18:00,,nan,,,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+276209,2024-06-03,2024-06-03,2024-06-01,07:18:00,,nan,,,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+276208,2024-06-03,2024-06-03,2024-06-01,07:17:00,,nan,,,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+276207,2024-06-03,2024-06-03,2024-06-01,07:15:00,,nan,,,41.2263325875,1.7906802892,False,"Barcelona, Espanya",needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+276206,2024-06-03,2024-06-03,2024-05-30,09:20:00,,nan,,,41.3699128603,2.1910370291,False,"Platja de Sant Sebastià, Espanya",needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+276204,2024-06-03,2024-06-03,2024-05-25,09:38:00,mollusca,35006,species,Calmella cavolini,41.8885912675,3.1950914326,False,"Calella de Palafrugell, Girona, España",research,857,xavibou,C,1,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Flabellinidae,Calmella
+276203,2024-06-03,2024-06-03,2024-05-25,09:51:00,platyhelminthes,244061,species,Prostheceraeus roseus,41.8885912675,3.1950914326,False,"Calella de Palafrugell, Girona, España",research,857,xavibou,C,1,0,Animalia,Platyhelminthes,,,,Prostheceraeus
+276202,2024-06-03,2024-06-03,2024-05-25,09:48:00,mollusca,35273,species,Edmundsella pedata,41.8885912675,3.1950914326,False,"Calella de Palafrugell, Girona, España",research,857,xavibou,C,1,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Flabellinidae,Edmundsella
+276201,2024-06-03,2024-06-03,2024-05-25,09:52:00,porifera,246221,species,Sycon raphanus,41.8885912675,3.1950914326,False,"Calella de Palafrugell, Girona, España",research,857,xavibou,C,1,0,Animalia,Porifera,Calcarea,Leucosolenida,Sycettidae,Sycon
+276200,2024-06-03,2024-06-03,2024-05-25,09:58:00,porifera,141,class,Demospongiae,41.8885912675,3.1950914326,False,"Calella de Palafrugell, Girona, España",needs_id,857,xavibou,C,1,0,Animalia,Porifera,,,,
+276199,2024-06-03,2024-06-03,2024-05-26,10:11:00,mollusca,35218,species,Diaphorodoris papillata,41.8885912675,3.1950914326,False,"Calella de Palafrugell, Girona, España",research,857,xavibou,C,1,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Onchidorididae,Diaphorodoris
+276198,2024-06-03,2024-06-03,2024-05-26,10:08:00,mollusca,35113,species,Felimida krohni,41.8885912675,3.1950914326,False,"Calella de Palafrugell, Girona, España",research,857,xavibou,C,1,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Felimida
+276197,2024-06-03,2024-06-03,2024-05-26,10:37:00,actinopterygii,243584,species,Lepadogaster lepadogaster,41.8885912675,3.1950914326,False,"Calella de Palafrugell, Girona, España",research,857,xavibou,C,1,0,Animalia,Chordata,Actinopterygii,Gobiesociformes,Gobiesocidae,Lepadogaster
+276196,2024-06-03,2024-06-03,2024-05-26,10:14:00,mollusca,35036,species,Cratena peregrina,41.8885912675,3.1950914326,False,"Calella de Palafrugell, Girona, España",research,857,xavibou,C,1,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Facelinidae,Cratena
+276195,2024-06-03,2024-06-03,2024-06-02,09:31:00,,112153,genus,Leptomysis,40.8949012291,0.8187485007,False,Spain,research,857,xavibou,C,1,0,Animalia,Arthropoda,Malacostraca,Mysida,Mysidae,
+276194,2024-06-03,2024-06-03,2024-06-02,09:13:00,porifera,250844,species,Tethya aurantium,40.8949012291,0.8187485007,False,Spain,needs_id,857,xavibou,C,1,0,Animalia,Porifera,Demospongiae,Hadromerida,Tethyidae,Tethya
+276193,2024-06-03,2024-06-03,2024-06-02,09:12:00,cnidaria,35166,species,Cladocora caespitosa,40.8949012291,0.8187485007,False,Spain,research,857,xavibou,C,1,0,Animalia,Cnidaria,Anthozoa,Scleractinia,Caryophylliidae,Cladocora
+276192,2024-06-03,2024-06-03,2024-06-02,09:37:00,mollusca,35087,species,Columbella rustica,40.8949012291,0.8187485007,False,Spain,research,857,xavibou,C,1,0,Animalia,Mollusca,Gastropoda,Neogastropoda,Columbellidae,Columbella
+276191,2024-06-03,2024-06-03,2024-06-02,09:49:00,plantae,251996,species,Tricleocarpa fragilis,40.8949012291,0.8187485007,False,Spain,needs_id,857,xavibou,C,1,0,Plantae,Rhodophyta,Florideophyceae,Nemaliales,Galaxauraceae,Tricleocarpa
+276190,2024-06-03,2024-06-03,2024-06-02,09:54:00,mollusca,35075,species,Octopus vulgaris,40.8949012291,0.8187485007,False,Spain,research,857,xavibou,C,1,0,Animalia,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus
+276189,2024-06-03,2024-06-03,2024-06-02,09:59:00,actinopterygii,240405,species,Syngnathus typhle,40.8949012291,0.8187485007,False,Spain,research,857,xavibou,C,1,0,Animalia,Chordata,Actinopterygii,Syngnathiformes,Syngnathidae,Syngnathus
+276188,2024-06-03,2024-06-03,2024-06-02,10:05:00,actinopterygii,35178,species,Parablennius incognitus,40.8949012291,0.8187485007,False,Spain,research,857,xavibou,C,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+276187,2024-06-03,2024-06-03,2024-06-02,09:26:00,elasmobranchii,31067,species,Dasyatis pastinaca,40.8949012291,0.8187485007,False,Spain,research,857,xavibou,C,1,0,Animalia,Chordata,Elasmobranchii,Rajiformes,Dasyatidae,Dasyatis
+276186,2024-06-03,2024-06-03,2024-06-02,10:08:00,actinopterygii,35201,species,Microlipophrys dalmatinus,40.8949012291,0.8187485007,False,"43860 Cala Nova, Tarragona, España",research,857,xavibou,C,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Microlipophrys
 276185,2024-06-03,2024-06-03,2024-06-01,07:46:00,mollusca,34853,species,Flabellina affinis,42.042977649,3.2258753994,False,"Racó del Sant Istiu, Illes Medes, Girona, Espanya",needs_id,832,eul_a_liarc,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Flabellinidae,Flabellina
 276184,2024-06-03,2024-06-03,2024-06-01,07:40:00,annelida,480,order,Sabellida,42.042977649,3.2258753994,False,"Racó del Sant Istiu, Illes Medes, Girona, Espanya",needs_id,832,eul_a_liarc,cc-by-nc,2,0,Animalia,Annelida,Polychaeta,,,
 276183,2024-06-03,2024-06-03,2024-06-01,07:38:00,actinopterygii,1952,family,Sparidae,42.042977649,3.2258753994,False,"Racó del Sant Istiu, Illes Medes, Girona, Espanya",needs_id,832,eul_a_liarc,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Perciformes,,

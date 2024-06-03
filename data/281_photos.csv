@@ -1,9 +1,15 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+276241,370494,actinopterygii,Epinephelus marginatus,https://minka-sdg.org/attachments/local_photos/files/370494/medium.jpeg,francismpp,42.0449408986,3.2241392083,cc-by-nc,"(c) Francis, some rights reserved (CC BY-NC)",276241_370494.jpg
+276240,370493,actinopterygii,Scorpaena scrofa,https://minka-sdg.org/attachments/local_photos/files/370493/medium.jpeg,francismpp,42.0449767521,3.2242035814,cc-by-nc,"(c) Francis, some rights reserved (CC BY-NC)",276240_370493.jpg
+276239,370492,mollusca,Cratena peregrina,https://minka-sdg.org/attachments/local_photos/files/370492/medium.jpeg,francismpp,42.04492098,3.2241821237,cc-by-nc,"(c) Francis, some rights reserved (CC BY-NC)",276239_370492.jpg
+276238,370491,mollusca,Diaphorodoris papillata,https://minka-sdg.org/attachments/local_photos/files/370491/medium.jpeg,francismpp,42.0449050451,3.2241982169,cc-by-nc,"(c) Francis, some rights reserved (CC BY-NC)",276238_370491.jpg
+276237,370490,mollusca,Felimare fontandraui,https://minka-sdg.org/attachments/local_photos/files/370490/medium.jpeg,francismpp,42.04492098,3.2242143102,cc-by-nc,"(c) Francis, some rights reserved (CC BY-NC)",276237_370490.jpg
+276236,370489,elasmobranchii,Raja undulata,https://minka-sdg.org/attachments/local_photos/files/370489/medium.jpeg,francismpp,42.0449231562,3.2242304034,cc-by-nc,"(c) Francis, some rights reserved (CC BY-NC)",276236_370489.jpg
 276204,370486,mollusca,Calmella cavolini,https://minka-sdg.org/attachments/local_photos/files/370486/medium.jpg,xavibou,41.8885912675,3.1950914326,C,"(c) Xavi Bou, all rights reserved",276204_370486.jpg
 276203,370484,platyhelminthes,Prostheceraeus roseus,https://minka-sdg.org/attachments/local_photos/files/370484/medium.jpg,xavibou,41.8885912675,3.1950914326,C,"(c) Xavi Bou, all rights reserved",276203_370484.jpg
 276202,370485,mollusca,Edmundsella pedata,https://minka-sdg.org/attachments/local_photos/files/370485/medium.jpg,xavibou,41.8885912675,3.1950914326,C,"(c) Xavi Bou, all rights reserved",276202_370485.jpg
 276201,370483,porifera,Sycon raphanus,https://minka-sdg.org/attachments/local_photos/files/370483/medium.jpg,xavibou,41.8885912675,3.1950914326,C,"(c) Xavi Bou, all rights reserved",276201_370483.jpg
-276200,370482,porifera,Porifera,https://minka-sdg.org/attachments/local_photos/files/370482/medium.jpg,xavibou,41.8885912675,3.1950914326,C,"(c) Xavi Bou, all rights reserved",276200_370482.jpg
+276200,370482,porifera,Demospongiae,https://minka-sdg.org/attachments/local_photos/files/370482/medium.jpg,xavibou,41.8885912675,3.1950914326,C,"(c) Xavi Bou, all rights reserved",276200_370482.jpg
 276199,370481,mollusca,Diaphorodoris papillata,https://minka-sdg.org/attachments/local_photos/files/370481/medium.jpg,xavibou,41.8885912675,3.1950914326,C,"(c) Xavi Bou, all rights reserved",276199_370481.jpg
 276198,370480,mollusca,Felimida krohni,https://minka-sdg.org/attachments/local_photos/files/370480/medium.jpg,xavibou,41.8885912675,3.1950914326,C,"(c) Xavi Bou, all rights reserved",276198_370480.jpg
 276197,370479,actinopterygii,Lepadogaster lepadogaster,https://minka-sdg.org/attachments/local_photos/files/370479/medium.jpg,xavibou,41.8885912675,3.1950914326,C,"(c) Xavi Bou, all rights reserved",276197_370479.jpg
