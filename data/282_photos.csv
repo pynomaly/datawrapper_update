@@ -1,7 +1,7 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
-275702,369943,,,https://minka-sdg.org/attachments/local_photos/files/369943/medium.jpeg,yespi,41.2801604853,2.0884105411,cc-by-nc,"(c) Gustavo Zafra, some rights reserved (CC BY-NC)",275702_369943.jpg
-275702,369945,,,https://minka-sdg.org/attachments/local_photos/files/369945/medium.jpeg,yespi,41.2801604853,2.0884105411,cc-by-nc,"(c) Gustavo Zafra, some rights reserved (CC BY-NC)",275702_369945.jpg
-275702,369944,,,https://minka-sdg.org/attachments/local_photos/files/369944/medium.jpeg,yespi,41.2801604853,2.0884105411,cc-by-nc,"(c) Gustavo Zafra, some rights reserved (CC BY-NC)",275702_369944.jpg
+275702,369943,insecta,Heliconius,https://minka-sdg.org/attachments/local_photos/files/369943/medium.jpeg,yespi,41.2801604853,2.0884105411,cc-by-nc,"(c) Gustavo Zafra, some rights reserved (CC BY-NC)",275702_369943.jpg
+275702,369945,insecta,Heliconius,https://minka-sdg.org/attachments/local_photos/files/369945/medium.jpeg,yespi,41.2801604853,2.0884105411,cc-by-nc,"(c) Gustavo Zafra, some rights reserved (CC BY-NC)",275702_369945.jpg
+275702,369944,insecta,Heliconius,https://minka-sdg.org/attachments/local_photos/files/369944/medium.jpeg,yespi,41.2801604853,2.0884105411,cc-by-nc,"(c) Gustavo Zafra, some rights reserved (CC BY-NC)",275702_369944.jpg
 275701,369942,,,https://minka-sdg.org/attachments/local_photos/files/369942/medium.jpeg,yespi,41.2801604853,2.0884105411,cc-by-nc,"(c) Gustavo Zafra, some rights reserved (CC BY-NC)",275701_369942.jpg
 275700,369941,,,https://minka-sdg.org/attachments/local_photos/files/369941/medium.jpeg,yespi,41.2801604853,2.0884105411,cc-by-nc,"(c) Gustavo Zafra, some rights reserved (CC BY-NC)",275700_369941.jpg
 275699,369940,,,https://minka-sdg.org/attachments/local_photos/files/369940/medium.jpeg,yespi,41.2801604853,2.0884105411,cc-by-nc,"(c) Gustavo Zafra, some rights reserved (CC BY-NC)",275699_369940.jpg
