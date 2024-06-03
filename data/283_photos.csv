@@ -1,4 +1,5 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+276068,370267,plantae,Palmophyllum crassum,https://minka-sdg.org/attachments/local_photos/files/370267/medium.jpeg,alexdesagarra,42.0433128324,3.2264047506,cc-by,"(c) alexdesagarra, some rights reserved (CC BY)",276068_370267.jpg
 276020,370203,plantae,Jania,https://minka-sdg.org/attachments/local_photos/files/370203/medium.jpeg,josepdegea,41.7778493586,3.0317458685,cc-by-nc,"(c) Josep, some rights reserved (CC BY-NC)",276020_370203.jpg
 276019,370203,chromista,Dictyotaceae,https://minka-sdg.org/attachments/local_photos/files/370203/medium.jpeg,josepdegea,41.7778493586,3.0317458685,cc-by-nc,"(c) Josep, some rights reserved (CC BY-NC)",276019_370203.jpg
 276018,370203,plantae,Acetabularia acetabulum,https://minka-sdg.org/attachments/local_photos/files/370203/medium.jpeg,josepdegea,41.7778493586,3.0317458685,cc-by-nc,"(c) Josep, some rights reserved (CC BY-NC)",276018_370203.jpg
@@ -32,7 +33,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 275990,370158,chromista,Dictyotaceae,https://minka-sdg.org/attachments/local_photos/files/370158/medium.jpeg,josepdegea,41.7784894237,3.0350074347,cc-by-nc,"(c) Josep, some rights reserved (CC BY-NC)",275990_370158.jpg
 275989,370158,,Clibanarius erythropus,https://minka-sdg.org/attachments/local_photos/files/370158/medium.jpeg,josepdegea,41.7784894237,3.0350074347,cc-by-nc,"(c) Josep, some rights reserved (CC BY-NC)",275989_370158.jpg
 275988,370158,mollusca,Cerithium vulgatum,https://minka-sdg.org/attachments/local_photos/files/370158/medium.jpeg,josepdegea,41.7784894237,3.0350074347,cc-by-nc,"(c) Josep, some rights reserved (CC BY-NC)",275988_370158.jpg
-275987,370155,crustacea,Balanomorpha,https://minka-sdg.org/attachments/local_photos/files/370155/medium.jpeg,alexdesagarra,42.0434989998,3.2263939104,cc-by,"(c) alexdesagarra, some rights reserved (CC BY)",275987_370155.jpg
+275987,370155,crustacea,Balanus crenatus,https://minka-sdg.org/attachments/local_photos/files/370155/medium.jpeg,alexdesagarra,42.0434989998,3.2263939104,cc-by,"(c) alexdesagarra, some rights reserved (CC BY)",275987_370155.jpg
 275986,370154,actinopterygii,Sarpa salpa,https://minka-sdg.org/attachments/local_photos/files/370154/medium.jpeg,alexdesagarra,42.0434989998,3.2263939104,cc-by,"(c) alexdesagarra, some rights reserved (CC BY)",275986_370154.jpg
 275985,370152,actinopterygii,Diplodus sargus,https://minka-sdg.org/attachments/local_photos/files/370152/medium.jpeg,alexdesagarra,42.0434989998,3.2263939104,cc-by,"(c) alexdesagarra, some rights reserved (CC BY)",275985_370152.jpg
 275985,370153,actinopterygii,Diplodus sargus,https://minka-sdg.org/attachments/local_photos/files/370153/medium.jpeg,alexdesagarra,42.0434989998,3.2263939104,cc-by,"(c) alexdesagarra, some rights reserved (CC BY)",275985_370153.jpg
