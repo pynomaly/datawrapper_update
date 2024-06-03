@@ -1,4 +1,11 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+276077,2024-06-03,2024-06-03,2024-06-01,12:56:00,,nan,,,41.4644763375,2.2780727629,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+276076,2024-06-03,2024-06-03,2024-06-01,12:56:00,,nan,,,41.4644763375,2.2780727629,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+276075,2024-06-03,2024-06-03,2024-06-01,12:56:00,,nan,,,41.4644763375,2.2780727629,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+276074,2024-06-03,2024-06-03,2024-06-01,12:56:00,,nan,,,41.4644763375,2.2780727629,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+276073,2024-06-03,2024-06-03,2024-06-01,12:56:00,,nan,,,41.4644763375,2.2780727629,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+276072,2024-06-03,2024-06-03,2024-06-01,12:56:00,,nan,,,41.4644763375,2.2780727629,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+276071,2024-06-03,2024-06-03,2024-06-01,12:56:00,,nan,,,41.4644763375,2.2780727629,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
 276070,2024-06-03,2024-06-03,2024-06-02,12:06:00,cnidaria,252904,species,Pelagia noctiluca,41.0845335805,1.2304308122,False,,research,975,jolumase,cc-by-nc,1,0,Animalia,Cnidaria,Scyphozoa,Semaeostomeae,Pelagiidae,Pelagia
 276068,2024-06-03,2024-06-03,2024-06-01,07:36:00,plantae,252692,species,Palmophyllum crassum,42.0433128324,3.2264047506,False,Immersió de Sant Istiu,research,2772,alexdesagarra,cc-by,1,0,Plantae,Chlorophyta,Chlorophyceae,Tetrasporales,Palmellopsidaceae,Palmophyllum
 276020,2024-06-03,2024-06-03,2024-05-24,09:03:00,plantae,90277,genus,Jania,41.7778493586,3.0317458685,False,"17220 Sant Feliu de Guíxols, Girona, España",needs_id,92,josepdegea,cc-by-nc,2,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,
