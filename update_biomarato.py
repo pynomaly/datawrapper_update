@@ -166,7 +166,7 @@ def get_missing_taxon(taxon_id, rank):
 
 def _get_species(user_name, proj_id):
     species = f"{API_PATH}/observations/species_counts"
-    params = {"project_id": proj_id, "user_login": user_name}
+    params = {"project_id": proj_id, "user_login": user_name, "rank": "species"}
     return requests.get(species, params=params).json()["total_results"]
 
 
