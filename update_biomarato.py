@@ -45,6 +45,7 @@ exclude_users = [
     "marinatorresgi",
     "monyant",
     "ura4dive",
+    "lauracoro",
     # vanessa,
     # teresa,
 ]
