@@ -28,25 +28,21 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 276230,2024-06-03,2024-06-04,2024-06-01,07:59:00,plantae,35158,species,Acetabularia acetabulum,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,Plantae,Chlorophyta,Ulvophyceae,Dasycladales,Polyphysaceae,Acetabularia
 276229,2024-06-03,2024-06-04,2024-06-01,07:58:00,annelida,34800,species,Branchiomma luctuosum,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Annelida,Polychaeta,Sabellida,Sabellidae,Branchiomma
 276228,2024-06-03,2024-06-04,2024-06-01,07:56:00,actinopterygii,240399,species,Tripterygion tripteronotum,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Tripterygiidae,Tripterygion
-276227,2024-06-03,2024-06-03,2024-06-01,07:55:00,,nan,,,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+276227,2024-06-03,2024-06-04,2024-06-01,07:55:00,actinopterygii,35194,species,Thalassoma pavo,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
 276226,2024-06-03,2024-06-04,2024-06-01,07:55:00,actinopterygii,35194,species,Thalassoma pavo,41.2263325875,1.7906802892,False,,research,9,andrea,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
 276225,2024-06-03,2024-06-04,2024-06-01,07:54:00,mollusca,35075,species,Octopus vulgaris,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus
 276224,2024-06-03,2024-06-04,2024-06-01,07:46:00,mollusca,53500,species,Stramonita haemastoma,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Neogastropoda,Muricidae,Stramonita
 276223,2024-06-03,2024-06-04,2024-06-01,07:40:00,mollusca,35075,species,Octopus vulgaris,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus
 276222,2024-06-03,2024-06-04,2024-06-01,07:37:00,mollusca,35075,species,Octopus vulgaris,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus
-276221,2024-06-03,2024-06-04,2024-06-01,07:36:00,mollusca,35075,species,Octopus vulgaris,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus
 276220,2024-06-03,2024-06-04,2024-06-01,07:35:00,mollusca,250214,species,Cerithium vulgatum,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,,Cerithiidae,Cerithium
 276219,2024-06-03,2024-06-04,2024-06-01,07:27:00,plantae,35158,species,Acetabularia acetabulum,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,Plantae,Chlorophyta,Ulvophyceae,Dasycladales,Polyphysaceae,Acetabularia
 276218,2024-06-03,2024-06-04,2024-06-01,07:23:00,plantae,35158,species,Acetabularia acetabulum,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,Plantae,Chlorophyta,Ulvophyceae,Dasycladales,Polyphysaceae,Acetabularia
-276217,2024-06-03,2024-06-03,2024-06-01,07:15:00,,nan,,,41.2263325875,1.7906802892,False,"Barcelona, Espanya",needs_id,9,andrea,cc-by-nc,0,0,,,,,,
-276216,2024-06-03,2024-06-03,2024-06-01,07:15:00,,nan,,,41.2263325875,1.7906802892,False,"Barcelona, Espanya",needs_id,9,andrea,cc-by-nc,0,0,,,,,,
-276215,2024-06-03,2024-06-03,2024-06-01,07:14:00,,nan,,,41.2263325875,1.7906802892,False,"Barcelona, Espanya",needs_id,9,andrea,cc-by-nc,0,0,,,,,,
-276214,2024-06-03,2024-06-03,2024-06-01,07:13:00,,nan,,,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,,,,,,
-276213,2024-06-03,2024-06-03,2024-06-01,07:18:00,,nan,,,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,,,,,,
-276212,2024-06-03,2024-06-03,2024-06-01,07:18:00,,nan,,,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,,,,,,
-276211,2024-06-03,2024-06-03,2024-06-01,07:18:00,,nan,,,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,,,,,,
-276210,2024-06-03,2024-06-03,2024-06-01,07:18:00,,nan,,,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,,,,,,
-276209,2024-06-03,2024-06-03,2024-06-01,07:18:00,,nan,,,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,,,,,,
+276217,2024-06-03,2024-06-04,2024-06-01,07:15:00,plantae,35158,species,Acetabularia acetabulum,41.2263325875,1.7906802892,False,"Barcelona, Espanya",needs_id,9,andrea,cc-by-nc,0,0,Plantae,Chlorophyta,Ulvophyceae,Dasycladales,Polyphysaceae,Acetabularia
+276216,2024-06-03,2024-06-04,2024-06-01,07:15:00,plantae,35158,species,Acetabularia acetabulum,41.2263325875,1.7906802892,False,"Barcelona, Espanya",needs_id,9,andrea,cc-by-nc,0,0,Plantae,Chlorophyta,Ulvophyceae,Dasycladales,Polyphysaceae,Acetabularia
+276215,2024-06-03,2024-06-04,2024-06-01,07:14:00,plantae,18129,genus,Ulva,41.2263325875,1.7906802892,False,"Barcelona, Espanya",needs_id,9,andrea,cc-by-nc,0,0,Plantae,Chlorophyta,Ulvophyceae,Ulvales,Ulvaceae,
+276214,2024-06-03,2024-06-04,2024-06-01,07:13:00,plantae,18129,genus,Ulva,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,Plantae,Chlorophyta,Ulvophyceae,Ulvales,Ulvaceae,
+276213,2024-06-03,2024-06-04,2024-06-01,07:18:00,plantae,35128,species,Posidonia oceanica,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Posidoniaceae,Posidonia
+276210,2024-06-03,2024-06-04,2024-06-01,07:18:00,chromista,35541,genus,Dictyota,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,
 276208,2024-06-03,2024-06-04,2024-06-01,07:17:00,chromista,35541,genus,Dictyota,41.2263325875,1.7906802892,False,,needs_id,9,andrea,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,
 276207,2024-06-03,2024-06-04,2024-06-01,07:15:00,plantae,35158,species,Acetabularia acetabulum,41.2263325875,1.7906802892,False,"Barcelona, Espanya",needs_id,9,andrea,cc-by-nc,0,0,Plantae,Chlorophyta,Ulvophyceae,Dasycladales,Polyphysaceae,Acetabularia
 276206,2024-06-03,2024-06-04,2024-05-30,09:20:00,crustacea,1561,family,Mysidae,41.3699128603,2.1910370291,False,"Platja de Sant Sebastià, Espanya",needs_id,9,andrea,cc-by-nc,0,0,Animalia,Arthropoda,Malacostraca,Mysida,,
@@ -199,6 +195,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 274772,2024-05-31,2024-05-31,2024-05-27,09:39:00,insecta,247674,species,Eupeodes corollae,41.2877546301,2.1074653283,False,Platja de la Ricarda,research,15,mediambient_ajelprat,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,Diptera,Syrphidae,Eupeodes
 274745,2024-05-31,2024-05-31,2024-05-20,10:12:00,aves,249912,species,Garrulus glandarius,41.5374350565,2.4404005409,False,"Eixample, Mataró, Barcelona, España",research,1263,mcomerma,cc-by,1,0,Animalia,Chordata,Aves,Passeriformes,Corvidae,Garrulus
 274530,2024-05-30,2024-05-30,2024-05-29,10:40:00,insecta,82,order,Hemiptera,41.2658055556,2.0144527778,False,"Barcelona, España",needs_id,3369,supergava,cc-by,0,0,Animalia,Arthropoda,Insecta,,,
+274529,2024-05-30,2024-06-02,2024-05-26,11:44:00,plantae,31,class,Magnoliopsida,41.2662111111,2.0178972222,False,"Barcelona, España",needs_id,3369,supergava,cc-by,2,0,Plantae,Magnoliophyta,,,,
 274528,2024-05-30,2024-05-30,2024-05-26,11:22:00,plantae,48184,genus,Metrosideros,41.2653527778,2.0012,False,"Castelldefels, Barcelona, España",needs_id,3369,supergava,cc-by,2,0,Plantae,Magnoliophyta,Magnoliopsida,Myrtales,Myrtaceae,
 274527,2024-05-30,2024-05-30,2024-05-26,10:22:00,plantae,12,kingdom,Plantae,41.2654888889,2.005725,False,"Barcelona, España",needs_id,3369,supergava,cc-by,0,0,,,,,,
 274526,2024-05-30,2024-05-30,2024-05-26,10:05:00,plantae,253501,species,Urospermum dalechampii,41.266175,2.0172611111,False,"Barcelona, España",research,3369,supergava,cc-by,2,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Urospermum
