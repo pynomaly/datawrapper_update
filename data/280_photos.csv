@@ -1,10 +1,10 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
-277071,371482,,,https://minka-sdg.org/attachments/local_photos/files/371482/medium.jpeg,evararo,40.910355,0.832596,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",277071_371482.jpg
+277071,371482,actinopterygii,Mullus,https://minka-sdg.org/attachments/local_photos/files/371482/medium.jpeg,evararo,40.910355,0.832596,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",277071_371482.jpg
 277070,371481,,,https://minka-sdg.org/attachments/local_photos/files/371481/medium.jpeg,evararo,40.910355,0.832596,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",277070_371481.jpg
 277069,371480,,,https://minka-sdg.org/attachments/local_photos/files/371480/medium.jpeg,evararo,40.910355,0.832596,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",277069_371480.jpg
 277068,371479,,,https://minka-sdg.org/attachments/local_photos/files/371479/medium.jpeg,evararo,40.910355,0.832596,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",277068_371479.jpg
-277067,371478,,,https://minka-sdg.org/attachments/local_photos/files/371478/medium.jpeg,evararo,40.910355,0.832596,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",277067_371478.jpg
-277066,371477,,,https://minka-sdg.org/attachments/local_photos/files/371477/medium.jpeg,evararo,40.910355,0.832596,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",277066_371477.jpg
+277067,371478,actinopterygii,Coris julis,https://minka-sdg.org/attachments/local_photos/files/371478/medium.jpeg,evararo,40.910355,0.832596,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",277067_371478.jpg
+277066,371477,echinodermata,Echinaster sepositus,https://minka-sdg.org/attachments/local_photos/files/371477/medium.jpeg,evararo,40.910355,0.832596,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",277066_371477.jpg
 277065,371475,,,https://minka-sdg.org/attachments/local_photos/files/371475/medium.jpeg,evararo,40.910355,0.832596,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",277065_371475.jpg
 277064,371476,,,https://minka-sdg.org/attachments/local_photos/files/371476/medium.jpeg,evararo,40.910355,0.832596,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",277064_371476.jpg
 277063,371441,chromista,Padina pavonica,https://minka-sdg.org/attachments/local_photos/files/371441/medium.jpeg,evararo,40.910151,0.831859,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",277063_371441.jpg
@@ -15,7 +15,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 277060,371464,actinopterygii,Symphodus tinca,https://minka-sdg.org/attachments/local_photos/files/371464/medium.jpeg,evararo,40.9105799603,0.8329907469,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",277060_371464.jpg
 277059,371463,echinodermata,Paracentrotus lividus,https://minka-sdg.org/attachments/local_photos/files/371463/medium.jpeg,evararo,40.9105799603,0.8329907469,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",277059_371463.jpg
 277058,371462,,,https://minka-sdg.org/attachments/local_photos/files/371462/medium.jpeg,evararo,40.9105799603,0.8329907469,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",277058_371462.jpg
-277057,371461,,,https://minka-sdg.org/attachments/local_photos/files/371461/medium.jpeg,evararo,40.9105799603,0.8329907469,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",277057_371461.jpg
+277057,371461,plantae,Acetabularia acetabulum,https://minka-sdg.org/attachments/local_photos/files/371461/medium.jpeg,evararo,40.9105799603,0.8329907469,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",277057_371461.jpg
 277056,371460,,,https://minka-sdg.org/attachments/local_photos/files/371460/medium.jpeg,evararo,40.9105799603,0.8329907469,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",277056_371460.jpg
 277055,371459,mollusca,Venus casina,https://minka-sdg.org/attachments/local_photos/files/371459/medium.jpeg,evararo,40.9105799603,0.8329907469,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",277055_371459.jpg
 277054,371457,mollusca,Stramonita haemastoma,https://minka-sdg.org/attachments/local_photos/files/371457/medium.jpeg,evararo,40.9105799603,0.8329907469,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",277054_371457.jpg
