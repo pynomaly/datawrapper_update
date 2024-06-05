@@ -1,4 +1,5 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+277703,2024-06-05,2024-06-05,2024-06-05,20:43:00,,nan,,,40.6202398,0.5917504,False,Spain,needs_id,2495,albagarri,cc-by,0,0,,,,,,
 277225,2024-06-05,2024-06-05,2024-06-05,09:33:00,aves,251700,species,Himantopus himantopus,40.6270899,0.660197,False,Spain,research,2495,albagarri,cc-by,1,0,Animalia,Chordata,Aves,Charadriiformes,,Himantopus
 277071,2024-06-04,2024-06-05,2024-06-02,12:03:00,actinopterygii,35125,species,Mullus surmuletus,40.910355,0.832596,False,CALA VIDRE,research,543,evararo,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Mullidae,Mullus
 277070,2024-06-04,2024-06-05,2024-06-02,12:04:00,actinopterygii,35213,species,Diplodus puntazzo,40.910355,0.832596,False,CALA VIDRE,research,543,evararo,cc-by-nc,3,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
