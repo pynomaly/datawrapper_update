@@ -1,6 +1,6 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
-277071,371482,actinopterygii,Mullus,https://minka-sdg.org/attachments/local_photos/files/371482/medium.jpeg,evararo,40.910355,0.832596,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",277071_371482.jpg
-277070,371481,actinopterygii,Diplodus sargus,https://minka-sdg.org/attachments/local_photos/files/371481/medium.jpeg,evararo,40.910355,0.832596,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",277070_371481.jpg
+277071,371482,actinopterygii,Mullus surmuletus,https://minka-sdg.org/attachments/local_photos/files/371482/medium.jpeg,evararo,40.910355,0.832596,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",277071_371482.jpg
+277070,371481,actinopterygii,Diplodus,https://minka-sdg.org/attachments/local_photos/files/371481/medium.jpeg,evararo,40.910355,0.832596,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",277070_371481.jpg
 277069,371480,porifera,Phorbas tenacior,https://minka-sdg.org/attachments/local_photos/files/371480/medium.jpeg,evararo,40.910355,0.832596,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",277069_371480.jpg
 277068,371479,cnidaria,Parazoanthus axinellae,https://minka-sdg.org/attachments/local_photos/files/371479/medium.jpeg,evararo,40.910355,0.832596,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",277068_371479.jpg
 277067,371478,actinopterygii,Coris julis,https://minka-sdg.org/attachments/local_photos/files/371478/medium.jpeg,evararo,40.910355,0.832596,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",277067_371478.jpg
@@ -8,7 +8,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 277065,371475,porifera,Phorbas tenacior,https://minka-sdg.org/attachments/local_photos/files/371475/medium.jpeg,evararo,40.910355,0.832596,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",277065_371475.jpg
 277064,371476,mollusca,Octopus vulgaris,https://minka-sdg.org/attachments/local_photos/files/371476/medium.jpeg,evararo,40.910355,0.832596,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",277064_371476.jpg
 277063,371441,chromista,Padina pavonica,https://minka-sdg.org/attachments/local_photos/files/371441/medium.jpeg,evararo,40.910151,0.831859,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",277063_371441.jpg
-277062,371441,cnidaria,Cladocora caespitosa,https://minka-sdg.org/attachments/local_photos/files/371441/medium.jpeg,evararo,40.910151,0.831859,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",277062_371441.jpg
+277062,371441,cnidaria,Scleractinia,https://minka-sdg.org/attachments/local_photos/files/371441/medium.jpeg,evararo,40.910151,0.831859,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",277062_371441.jpg
 277061,371465,actinopterygii,Scorpaena notata,https://minka-sdg.org/attachments/local_photos/files/371465/medium.jpeg,evararo,40.9105799603,0.8329907469,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",277061_371465.jpg
 277061,371466,actinopterygii,Scorpaena notata,https://minka-sdg.org/attachments/local_photos/files/371466/medium.jpeg,evararo,40.9105799603,0.8329907469,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",277061_371466.jpg
 277061,371411,actinopterygii,Scorpaena notata,https://minka-sdg.org/attachments/local_photos/files/371411/medium.jpeg,evararo,40.9105799603,0.8329907469,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",277061_371411.jpg
