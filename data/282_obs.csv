@@ -29,7 +29,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 277602,2024-06-05,2024-06-06,2024-06-05,07:32:00,actinopterygii,9783,genus,Gobius,41.4409703282,2.2470724995,False,Spain,needs_id,147,gregoribdn,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,
 277601,2024-06-05,2024-06-06,2024-06-05,07:37:00,plantae,18129,genus,Ulva,41.4409703282,2.2470724995,False,Spain,research,147,gregoribdn,cc-by-nc,1,0,Plantae,Chlorophyta,Ulvophyceae,Ulvales,Ulvaceae,
 277600,2024-06-05,2024-06-06,2024-06-05,07:36:00,plantae,18129,genus,Ulva,41.4409703282,2.2470724995,False,Spain,research,147,gregoribdn,cc-by-nc,1,0,Plantae,Chlorophyta,Ulvophyceae,Ulvales,Ulvaceae,
-277599,2024-06-05,2024-06-05,2024-06-05,07:26:00,annelida,35308,species,Myxicola infundibulum,41.4409703282,2.2470724995,False,Spain,research,147,gregoribdn,cc-by-nc,1,0,Animalia,Annelida,Polychaeta,Sabellida,Sabellidae,Myxicola
+277599,2024-06-05,2024-06-06,2024-06-05,07:26:00,annelida,1847,family,Sabellidae,41.4409703282,2.2470724995,False,Spain,needs_id,147,gregoribdn,cc-by-nc,3,0,Animalia,Annelida,Polychaeta,Sabellida,,
 277598,2024-06-05,2024-06-05,2024-06-05,07:24:00,actinopterygii,12553,species,Diplodus sargus,41.4409703282,2.2470724995,False,Spain,research,147,gregoribdn,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
 277597,2024-06-05,2024-06-06,2024-06-05,07:12:00,actinopterygii,1682,family,Blenniidae,41.4409703282,2.2470724995,False,Spain,needs_id,147,gregoribdn,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Perciformes,,
 277596,2024-06-05,2024-06-06,2024-06-05,07:11:00,actinopterygii,1682,family,Blenniidae,41.4409703282,2.2470724995,False,Spain,needs_id,147,gregoribdn,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Perciformes,,
