@@ -1,4 +1,5 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+278102,2024-06-07,2024-06-07,2024-06-05,20:43:00,insecta,1256,family,Sphingidae,40.6194820033,0.5924687907,False,Spain,needs_id,2495,albagarri,cc-by,0,0,Animalia,Arthropoda,Insecta,Lepidoptera,,
 278099,2024-06-07,2024-06-07,2024-06-07,07:46:00,aves,256663,species,Phoenicopterus roseus,40.6370002,0.7140986,False,Spain,research,2495,albagarri,cc-by,1,0,Animalia,Chordata,Aves,Ciconiiformes,Phoenicopteridae,Phoenicopterus
 278098,2024-06-07,2024-06-07,2024-06-07,07:51:00,aves,253078,species,Phalacrocorax carbo,40.6369375,0.7136115,False,Spain,research,2495,albagarri,cc-by,1,0,Animalia,Chordata,Aves,Ciconiiformes,Phalacrocoracidae,Phalacrocorax
 278097,2024-06-07,2024-06-07,2024-06-07,07:35:00,aves,245945,species,Ardeola ralloides,40.6401225,0.7118901,False,Spain,research,2495,albagarri,cc-by,2,0,Animalia,Chordata,Aves,Ciconiiformes,Ardeidae,Ardeola
