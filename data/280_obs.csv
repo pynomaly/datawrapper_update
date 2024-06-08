@@ -1,4 +1,8 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+278204,2024-06-08,2024-06-08,2024-06-08,15:34:00,mollusca,248225,species,Callista chione,41.1794832843,1.5281031813,False,,needs_id,3755,hectorserranocereijo,cc-by,0,0,Animalia,Mollusca,Bivalvia,Venerida,Veneridae,Callista
+278203,2024-06-08,2024-06-08,2024-06-08,15:34:00,mollusca,244937,species,Donax trunculus,41.1795560232,1.5284196822,False,,needs_id,3755,hectorserranocereijo,cc-by,0,0,Animalia,Mollusca,Bivalvia,Cardiida,Donacidae,Donax
+278202,2024-06-08,2024-06-08,2024-06-08,15:34:00,mollusca,241878,species,Acanthocardia tuberculata,41.1796797351,1.5287844625,False,,needs_id,3755,hectorserranocereijo,cc-by,0,0,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Acanthocardia
+278201,2024-06-08,2024-06-08,2024-06-08,15:20:00,crustacea,243588,species,Lepas pectinata,41.1798269949,1.5287613218,False,"Tarragona, España",needs_id,3755,hectorserranocereijo,cc-by,0,0,Animalia,Arthropoda,,,Lepadidae,Lepas
 278195,2024-06-08,2024-06-08,2024-06-08,07:45:00,,nan,,,41.1790705992,1.5288604796,False,,needs_id,3754,rele,cc-by,0,0,,,,,,
 278192,2024-06-08,2024-06-08,2024-06-08,07:54:00,mollusca,244937,species,Donax trunculus,41.1766163,1.5255479,False,,needs_id,356,bernatperalta,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Cardiida,Donacidae,Donax
 278191,2024-06-08,2024-06-08,2024-06-08,07:54:00,mollusca,244937,species,Donax trunculus,41.1766133,1.5255449,False,,needs_id,356,bernatperalta,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Cardiida,Donacidae,Donax
