@@ -1,5 +1,5 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
-278269,2024-06-08,2024-06-08,2024-06-08,20:17:00,,nan,,,41.7234488559,2.9401433095,False,,needs_id,2858,aritz,cc-by,0,0,,,,,,
+278269,2024-06-08,2024-06-08,2024-06-08,20:17:00,mollusca,253209,species,Phorcus turbinatus,41.7234488559,2.9401433095,False,,needs_id,2858,aritz,cc-by,0,0,Animalia,Mollusca,Gastropoda,Trochida,Trochidae,Phorcus
 278268,2024-06-08,2024-06-08,2024-06-08,08:10:00,mollusca,245729,species,Mactra stultorum,42.1828166518,3.1420453961,False,Spain,needs_id,147,gregoribdn,cc-by-nc,1,0,Animalia,Mollusca,Bivalvia,Venerida,Mactridae,Mactra
 278267,2024-06-08,2024-06-08,2024-06-08,08:09:00,actinopterygii,13760,species,Serranus hepatus,42.1828166518,3.1420453961,False,Spain,research,147,gregoribdn,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Serranus
 278266,2024-06-08,2024-06-08,2024-06-08,08:06:00,annelida,247041,species,Sabella spallanzanii,42.1828166518,3.1420453961,False,Spain,research,147,gregoribdn,cc-by-nc,1,0,Animalia,Annelida,Polychaeta,Sabellida,Sabellidae,Sabella
@@ -17,20 +17,20 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 278254,2024-06-08,2024-06-08,2024-06-08,07:26:00,mollusca,1500,family,Naticidae,42.1828166518,3.1420453961,False,Spain,needs_id,147,gregoribdn,cc-by-nc,2,0,Animalia,Mollusca,Gastropoda,Littorinimorpha,,
 278253,2024-06-08,2024-06-08,2024-06-08,11:11:00,cnidaria,34999,species,Actinia mediterranea,41.7300833333,2.9473472222,False,,needs_id,2858,aritz,cc-by,1,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Actinia
 278252,2024-06-08,2024-06-08,2024-06-08,10:29:00,,nan,,,42.0672701421,3.2111406326,False,Spain,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
-278251,2024-06-08,2024-06-08,2024-06-02,18:40:00,,nan,,,42.3120290029,3.3097010852,False,,needs_id,3763,psoler,cc-by,0,0,,,,,,
-278250,2024-06-08,2024-06-08,2024-06-02,18:40:00,,nan,,,42.3120290029,3.3097010852,False,,needs_id,3763,psoler,cc-by,0,0,,,,,,
-278249,2024-06-08,2024-06-08,2024-06-02,18:40:00,,nan,,,42.3120290029,3.3097010852,False,,needs_id,3763,psoler,cc-by,0,0,,,,,,
+278251,2024-06-08,2024-06-08,2024-06-02,18:40:00,plantae,244409,species,Amphiroa rigida,42.3120290029,3.3097010852,False,,needs_id,3763,psoler,cc-by,0,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,Amphiroa
+278250,2024-06-08,2024-06-08,2024-06-02,18:40:00,cnidaria,35220,species,Anemonia viridis,42.3120290029,3.3097010852,False,,needs_id,3763,psoler,cc-by,0,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Anemonia
+278249,2024-06-08,2024-06-08,2024-06-02,18:40:00,,9369,species,Taonia atomaria,42.3120290029,3.3097010852,False,,needs_id,3763,psoler,cc-by,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Taonia
 278248,2024-06-08,2024-06-08,2024-06-02,18:40:00,,nan,,,42.3120290029,3.3097010852,False,,needs_id,3763,psoler,cc-by,0,0,,,,,,
 278247,2024-06-08,2024-06-08,2024-06-02,18:40:00,,nan,,,42.3120290029,3.3097010852,False,,needs_id,3763,psoler,cc-by,0,0,,,,,,
-278246,2024-06-08,2024-06-08,2024-06-02,18:40:00,platyhelminthes,244061,species,Prostheceraeus roseus,42.3120290029,3.3097010852,False,,needs_id,3763,psoler,cc-by,0,0,Animalia,Platyhelminthes,,,,Prostheceraeus
+278246,2024-06-08,2024-06-08,2024-06-02,18:40:00,platyhelminthes,244061,species,Prostheceraeus roseus,42.3120290029,3.3097010852,False,,research,3763,psoler,cc-by,2,0,Animalia,Platyhelminthes,,,,Prostheceraeus
 278245,2024-06-08,2024-06-08,2024-06-02,18:40:00,,nan,,,42.3120290029,3.3097010852,False,,needs_id,3763,psoler,cc-by,0,0,,,,,,
 278244,2024-06-08,2024-06-08,2024-06-02,18:40:00,,nan,,,42.3120290029,3.3097010852,False,,needs_id,3763,psoler,cc-by,0,0,,,,,,
-278243,2024-06-08,2024-06-08,2024-06-02,18:40:00,actinopterygii,13755,species,Serranus cabrilla,42.3120290029,3.3097010852,False,,needs_id,3763,psoler,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Serranus
-278242,2024-06-08,2024-06-08,2024-06-02,18:40:00,,nan,,,42.3120290029,3.3097010852,False,,needs_id,3763,psoler,cc-by,0,0,,,,,,
+278243,2024-06-08,2024-06-08,2024-06-02,18:40:00,actinopterygii,13755,species,Serranus cabrilla,42.3120290029,3.3097010852,False,,research,3763,psoler,cc-by,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Serranus
+278242,2024-06-08,2024-06-08,2024-06-02,18:40:00,mollusca,250214,species,Cerithium vulgatum,42.3120290029,3.3097010852,False,,needs_id,3763,psoler,cc-by,0,0,Animalia,Mollusca,Gastropoda,,Cerithiidae,Cerithium
 278241,2024-06-08,2024-06-08,2024-06-02,18:40:00,,nan,,,42.3120290029,3.3097010852,False,,needs_id,3763,psoler,cc-by,0,0,,,,,,
 278240,2024-06-08,2024-06-08,2024-06-02,18:40:00,,nan,,,42.3120290029,3.3097010852,False,,needs_id,3763,psoler,cc-by,0,0,,,,,,
 278239,2024-06-08,2024-06-08,2024-06-02,18:40:00,,nan,,,42.3120290029,3.3097010852,False,,needs_id,3763,psoler,cc-by,0,0,,,,,,
-278238,2024-06-08,2024-06-08,2024-06-02,18:40:00,actinopterygii,34835,species,Coris julis,42.3120290029,3.3097010852,False,,needs_id,3763,psoler,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+278238,2024-06-08,2024-06-08,2024-06-02,18:40:00,actinopterygii,34835,species,Coris julis,42.3120290029,3.3097010852,False,,research,3763,psoler,cc-by,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
 278237,2024-06-08,2024-06-08,2024-06-02,18:40:00,,nan,,,42.3120290029,3.3097010852,False,,needs_id,3763,psoler,cc-by,0,0,,,,,,
 278236,2024-06-08,2024-06-08,2024-06-02,18:40:00,,nan,,,42.3120290029,3.3097010852,False,,needs_id,3763,psoler,cc-by,0,0,,,,,,
 278235,2024-06-08,2024-06-08,2024-06-02,18:40:00,,nan,,,42.3120290029,3.3097010852,False,,needs_id,3763,psoler,cc-by,0,0,,,,,,
@@ -45,7 +45,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 278226,2024-06-08,2024-06-08,2024-06-02,18:40:00,,nan,,,42.3120290029,3.3097010852,False,,needs_id,3763,psoler,cc-by,0,0,,,,,,
 278225,2024-06-08,2024-06-08,2024-06-02,18:40:00,,nan,,,42.3120290029,3.3097010852,False,,needs_id,3763,psoler,cc-by,0,0,,,,,,
 278224,2024-06-08,2024-06-08,2024-06-02,18:40:00,,nan,,,42.3120290029,3.3097010852,False,,needs_id,3763,psoler,cc-by,0,0,,,,,,
-278223,2024-06-08,2024-06-08,2024-06-02,18:40:00,,nan,,,42.3120290029,3.3097010852,False,,needs_id,3763,psoler,cc-by,0,0,,,,,,
+278223,2024-06-08,2024-06-08,2024-06-02,18:40:00,actinopterygii,149455,species,Anthias anthias,42.3120290029,3.3097010852,False,,needs_id,3763,psoler,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Anthias
 278222,2024-06-08,2024-06-08,2024-06-02,18:40:00,,nan,,,42.3120290029,3.3097010852,False,,needs_id,3763,psoler,cc-by,0,0,,,,,,
 278221,2024-06-08,2024-06-08,2024-06-02,18:40:00,,nan,,,42.3120290029,3.3097010852,False,,needs_id,3763,psoler,cc-by,0,0,,,,,,
 278220,2024-06-08,2024-06-08,2024-06-02,18:40:00,,nan,,,42.3120290029,3.3097010852,False,,needs_id,3763,psoler,cc-by,0,0,,,,,,
@@ -56,9 +56,9 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 278215,2024-06-08,2024-06-08,2024-06-02,18:40:00,,nan,,,42.3120290029,3.3097010852,False,,needs_id,3763,psoler,cc-by,0,0,,,,,,
 278214,2024-06-08,2024-06-08,2024-06-02,18:40:00,,nan,,,42.3120290029,3.3097010852,False,,needs_id,3763,psoler,cc-by,0,0,,,,,,
 278213,2024-06-08,2024-06-08,2024-06-02,18:40:00,,nan,,,42.3120290029,3.3097010852,False,,needs_id,3763,psoler,cc-by,0,0,,,,,,
-278200,2024-06-08,2024-06-08,2024-06-08,06:17:00,plantae,35128,species,Posidonia oceanica,41.7199362036,2.9407530426,False,"17320 Tossa de Mar, Girona, España",needs_id,769,raulcalella,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Posidoniaceae,Posidonia
-278199,2024-06-08,2024-06-08,2024-06-08,06:04:00,mollusca,34875,species,Hexaplex trunculus,41.7199362036,2.9407530426,False,"17320 Tossa de Mar, Girona, España",needs_id,769,raulcalella,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Neogastropoda,Muricidae,Hexaplex
-278198,2024-06-08,2024-06-08,2024-06-08,05:57:00,actinopterygii,35053,species,Scorpaena scrofa,41.7199362036,2.9407530426,False,"17320 Tossa de Mar, Girona, España",needs_id,769,raulcalella,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,Scorpaena
+278200,2024-06-08,2024-06-08,2024-06-08,06:17:00,plantae,35128,species,Posidonia oceanica,41.7199362036,2.9407530426,False,"17320 Tossa de Mar, Girona, España",research,769,raulcalella,cc-by-nc,1,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Posidoniaceae,Posidonia
+278199,2024-06-08,2024-06-08,2024-06-08,06:04:00,mollusca,34875,species,Hexaplex trunculus,41.7199362036,2.9407530426,False,"17320 Tossa de Mar, Girona, España",research,769,raulcalella,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Neogastropoda,Muricidae,Hexaplex
+278198,2024-06-08,2024-06-08,2024-06-08,05:57:00,actinopterygii,35053,species,Scorpaena scrofa,41.7199362036,2.9407530426,False,"17320 Tossa de Mar, Girona, España",research,769,raulcalella,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,Scorpaena
 278197,2024-06-08,2024-06-08,2024-06-08,05:42:00,mollusca,35185,species,Felimare picta,41.7199362036,2.9407530426,False,"17320 Tossa de Mar, Girona, España",needs_id,769,raulcalella,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Felimare
 278061,2024-06-07,2024-06-07,2024-06-02,10:06:00,crustacea,373,order,Isopoda,42.041083,3.226932,False,"Unnamed Road, 17257 Torroella de Montgrí, Girona, España",needs_id,1038,rickydiving,cc-by-nc,2,0,Animalia,Arthropoda,Malacostraca,,,
 277870,2024-06-06,2024-06-06,2024-06-02,05:54:00,actinopterygii,34971,species,Phycis phycis,41.7199362036,2.9407530426,False,"17320 Tossa de Mar, Girona, España",research,769,raulcalella,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Gadiformes,Phycidae,Phycis

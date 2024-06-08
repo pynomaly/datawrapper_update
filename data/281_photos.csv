@@ -1,5 +1,5 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
-278269,373142,,,https://minka-sdg.org/attachments/local_photos/files/373142/medium.png,aritz,41.7234488559,2.9401433095,cc-by,"(c) ariadna, some rights reserved (CC BY)",278269_373142.jpg
+278269,373142,mollusca,Phorcus turbinatus,https://minka-sdg.org/attachments/local_photos/files/373142/medium.png,aritz,41.7234488559,2.9401433095,cc-by,"(c) ariadna, some rights reserved (CC BY)",278269_373142.jpg
 278268,373119,mollusca,Mactra stultorum,https://minka-sdg.org/attachments/local_photos/files/373119/medium.jpeg,gregoribdn,42.1828166518,3.1420453961,cc-by-nc,"(c) gregoribdn, some rights reserved (CC BY-NC)",278268_373119.jpg
 278267,373118,actinopterygii,Serranus hepatus,https://minka-sdg.org/attachments/local_photos/files/373118/medium.jpeg,gregoribdn,42.1828166518,3.1420453961,cc-by-nc,"(c) gregoribdn, some rights reserved (CC BY-NC)",278267_373118.jpg
 278266,373117,annelida,Sabella spallanzanii,https://minka-sdg.org/attachments/local_photos/files/373117/medium.jpeg,gregoribdn,42.1828166518,3.1420453961,cc-by-nc,"(c) gregoribdn, some rights reserved (CC BY-NC)",278266_373117.jpg
@@ -63,16 +63,16 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 278252,373101,,,https://minka-sdg.org/attachments/local_photos/files/373101/medium.jpg,jordi2000,42.0672701421,3.2111406326,cc-by,"(c) Jordi Vivancos, some rights reserved (CC BY)",278252_373101.jpg
 278252,373102,,,https://minka-sdg.org/attachments/local_photos/files/373102/medium.jpg,jordi2000,42.0672701421,3.2111406326,cc-by,"(c) Jordi Vivancos, some rights reserved (CC BY)",278252_373102.jpg
 278252,373103,,,https://minka-sdg.org/attachments/local_photos/files/373103/medium.jpg,jordi2000,42.0672701421,3.2111406326,cc-by,"(c) Jordi Vivancos, some rights reserved (CC BY)",278252_373103.jpg
-278251,373057,,,https://minka-sdg.org/attachments/local_photos/files/373057/medium.jpeg,psoler,42.3120290029,3.3097010852,cc-by,"(c) psoler, some rights reserved (CC BY)",278251_373057.jpg
-278250,373056,,,https://minka-sdg.org/attachments/local_photos/files/373056/medium.jpeg,psoler,42.3120290029,3.3097010852,cc-by,"(c) psoler, some rights reserved (CC BY)",278250_373056.jpg
-278249,373055,,,https://minka-sdg.org/attachments/local_photos/files/373055/medium.jpeg,psoler,42.3120290029,3.3097010852,cc-by,"(c) psoler, some rights reserved (CC BY)",278249_373055.jpg
+278251,373057,plantae,Amphiroa rigida,https://minka-sdg.org/attachments/local_photos/files/373057/medium.jpeg,psoler,42.3120290029,3.3097010852,cc-by,"(c) psoler, some rights reserved (CC BY)",278251_373057.jpg
+278250,373056,cnidaria,Anemonia viridis,https://minka-sdg.org/attachments/local_photos/files/373056/medium.jpeg,psoler,42.3120290029,3.3097010852,cc-by,"(c) psoler, some rights reserved (CC BY)",278250_373056.jpg
+278249,373055,,Taonia atomaria,https://minka-sdg.org/attachments/local_photos/files/373055/medium.jpeg,psoler,42.3120290029,3.3097010852,cc-by,"(c) psoler, some rights reserved (CC BY)",278249_373055.jpg
 278248,373054,,,https://minka-sdg.org/attachments/local_photos/files/373054/medium.jpeg,psoler,42.3120290029,3.3097010852,cc-by,"(c) psoler, some rights reserved (CC BY)",278248_373054.jpg
 278247,373053,,,https://minka-sdg.org/attachments/local_photos/files/373053/medium.jpeg,psoler,42.3120290029,3.3097010852,cc-by,"(c) psoler, some rights reserved (CC BY)",278247_373053.jpg
 278246,373052,platyhelminthes,Prostheceraeus roseus,https://minka-sdg.org/attachments/local_photos/files/373052/medium.jpeg,psoler,42.3120290029,3.3097010852,cc-by,"(c) psoler, some rights reserved (CC BY)",278246_373052.jpg
 278245,373051,,,https://minka-sdg.org/attachments/local_photos/files/373051/medium.jpeg,psoler,42.3120290029,3.3097010852,cc-by,"(c) psoler, some rights reserved (CC BY)",278245_373051.jpg
 278244,373050,,,https://minka-sdg.org/attachments/local_photos/files/373050/medium.jpeg,psoler,42.3120290029,3.3097010852,cc-by,"(c) psoler, some rights reserved (CC BY)",278244_373050.jpg
 278243,373049,actinopterygii,Serranus cabrilla,https://minka-sdg.org/attachments/local_photos/files/373049/medium.jpeg,psoler,42.3120290029,3.3097010852,cc-by,"(c) psoler, some rights reserved (CC BY)",278243_373049.jpg
-278242,373048,,,https://minka-sdg.org/attachments/local_photos/files/373048/medium.jpeg,psoler,42.3120290029,3.3097010852,cc-by,"(c) psoler, some rights reserved (CC BY)",278242_373048.jpg
+278242,373048,mollusca,Cerithium vulgatum,https://minka-sdg.org/attachments/local_photos/files/373048/medium.jpeg,psoler,42.3120290029,3.3097010852,cc-by,"(c) psoler, some rights reserved (CC BY)",278242_373048.jpg
 278241,373047,,,https://minka-sdg.org/attachments/local_photos/files/373047/medium.jpeg,psoler,42.3120290029,3.3097010852,cc-by,"(c) psoler, some rights reserved (CC BY)",278241_373047.jpg
 278240,373046,,,https://minka-sdg.org/attachments/local_photos/files/373046/medium.jpeg,psoler,42.3120290029,3.3097010852,cc-by,"(c) psoler, some rights reserved (CC BY)",278240_373046.jpg
 278239,373045,,,https://minka-sdg.org/attachments/local_photos/files/373045/medium.jpeg,psoler,42.3120290029,3.3097010852,cc-by,"(c) psoler, some rights reserved (CC BY)",278239_373045.jpg
@@ -91,7 +91,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 278226,373032,,,https://minka-sdg.org/attachments/local_photos/files/373032/medium.jpeg,psoler,42.3120290029,3.3097010852,cc-by,"(c) psoler, some rights reserved (CC BY)",278226_373032.jpg
 278225,373031,,,https://minka-sdg.org/attachments/local_photos/files/373031/medium.jpeg,psoler,42.3120290029,3.3097010852,cc-by,"(c) psoler, some rights reserved (CC BY)",278225_373031.jpg
 278224,373030,,,https://minka-sdg.org/attachments/local_photos/files/373030/medium.jpeg,psoler,42.3120290029,3.3097010852,cc-by,"(c) psoler, some rights reserved (CC BY)",278224_373030.jpg
-278223,373029,,,https://minka-sdg.org/attachments/local_photos/files/373029/medium.jpeg,psoler,42.3120290029,3.3097010852,cc-by,"(c) psoler, some rights reserved (CC BY)",278223_373029.jpg
+278223,373029,actinopterygii,Anthias anthias,https://minka-sdg.org/attachments/local_photos/files/373029/medium.jpeg,psoler,42.3120290029,3.3097010852,cc-by,"(c) psoler, some rights reserved (CC BY)",278223_373029.jpg
 278222,373028,,,https://minka-sdg.org/attachments/local_photos/files/373028/medium.jpeg,psoler,42.3120290029,3.3097010852,cc-by,"(c) psoler, some rights reserved (CC BY)",278222_373028.jpg
 278221,373027,,,https://minka-sdg.org/attachments/local_photos/files/373027/medium.jpeg,psoler,42.3120290029,3.3097010852,cc-by,"(c) psoler, some rights reserved (CC BY)",278221_373027.jpg
 278220,373026,,,https://minka-sdg.org/attachments/local_photos/files/373026/medium.jpeg,psoler,42.3120290029,3.3097010852,cc-by,"(c) psoler, some rights reserved (CC BY)",278220_373026.jpg
