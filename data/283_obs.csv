@@ -12,7 +12,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 278572,2024-06-09,2024-06-09,2024-06-08,22:07:00,mollusca,584,family,Mytilidae,42.1200583907,3.1469926209,False,"port de l'Escala,Girona, España",needs_id,55,yespi,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Mytilida,,
 278571,2024-06-09,2024-06-09,2024-06-08,22:07:00,chromista,35106,species,Padina pavonica,42.1200583907,3.1469926209,False,"port de l'Escala,Girona, España",needs_id,55,yespi,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
 278570,2024-06-09,2024-06-09,2024-06-08,22:07:00,,nan,,,42.1200583907,3.1469926209,False,"port de l'Escala,Girona, España",needs_id,55,yespi,cc-by-nc,0,0,,,,,,
-278569,2024-06-09,2024-06-09,2024-06-08,22:07:00,aves,2437,family,Laridae,42.1200583907,3.1469926209,False,"port de l'Escala,Girona, España",needs_id,55,yespi,cc-by-nc,0,0,Animalia,Chordata,Aves,Ciconiiformes,,
+278569,2024-06-09,2024-06-09,2024-06-08,22:07:00,aves,243187,species,Larus michahellis,42.1200583907,3.1469926209,False,"port de l'Escala,Girona, España",research,55,yespi,cc-by-nc,1,0,Animalia,Chordata,Aves,Ciconiiformes,Laridae,Larus
 278565,2024-06-09,2024-06-09,2024-06-08,07:32:00,,nan,,,41.1796801879,1.5298346291,False,,needs_id,3682,pirotte_,cc-by,0,0,,,,,,
 278561,2024-06-09,2024-06-09,2024-06-08,07:37:00,,nan,,,41.1796531879,1.5298076291,False,,needs_id,3682,pirotte_,cc-by,0,0,,,,,,
 278560,2024-06-09,2024-06-09,2024-06-08,07:30:00,,nan,,,41.1796431879,1.5297976291,False,,needs_id,3682,pirotte_,cc-by,0,0,,,,,,
@@ -367,7 +367,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 278059,2024-06-06,2024-06-08,2024-06-01,16:25:00,animalia,8827,genus,Didemnum,41.4644817821,2.2780966758,False,Spain,needs_id,175,eloi_sanz,cc-by-nc,1,0,Animalia,Chordata,Ascidiacea,Enterogona,Didemnidae,
 278058,2024-06-06,2024-06-06,2024-06-01,16:15:00,actinopterygii,35250,species,Parablennius pilicornis,41.4644817821,2.2780966758,False,Spain,research,175,eloi_sanz,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
 278057,2024-06-06,2024-06-06,2024-06-01,16:15:00,actinopterygii,35250,species,Parablennius pilicornis,41.4644817821,2.2780966758,False,Spain,research,175,eloi_sanz,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
-278056,2024-06-06,2024-06-08,2024-06-01,16:15:00,mollusca,35107,species,Patella caerulea,41.4644817821,2.2780966758,False,Spain,research,175,eloi_sanz,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Patellogastropoda,Patellidae,Patella
+278056,2024-06-06,2024-06-09,2024-06-01,16:15:00,mollusca,35107,species,Patella caerulea,41.4644817821,2.2780966758,False,Spain,research,175,eloi_sanz,cc-by-nc,2,0,Animalia,Mollusca,Gastropoda,Patellogastropoda,Patellidae,Patella
 278055,2024-06-06,2024-06-07,2024-06-01,16:15:00,echinodermata,240406,species,Arbacia lixula,41.4644817821,2.2780966758,False,Spain,research,175,eloi_sanz,cc-by-nc,1,0,Animalia,Echinodermata,Echinoidea,Arbacioida,Arbaciidae,Arbacia
 278054,2024-06-06,2024-06-07,2024-06-01,16:14:00,crustacea,237075,species,Perforatus perforatus,41.4644817821,2.2780966758,False,Spain,research,175,eloi_sanz,cc-by-nc,2,0,Animalia,Arthropoda,,,Balanidae,Perforatus
 278053,2024-06-06,2024-06-07,2024-06-01,16:14:00,annelida,34800,species,Branchiomma luctuosum,41.4644817821,2.2780966758,False,Spain,research,175,eloi_sanz,cc-by-nc,2,0,Animalia,Annelida,Polychaeta,Sabellida,Sabellidae,Branchiomma

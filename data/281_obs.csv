@@ -2,7 +2,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 278572,2024-06-09,2024-06-09,2024-06-08,22:07:00,mollusca,584,family,Mytilidae,42.1200583907,3.1469926209,False,"port de l'Escala,Girona, España",needs_id,55,yespi,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Mytilida,,
 278571,2024-06-09,2024-06-09,2024-06-08,22:07:00,chromista,35106,species,Padina pavonica,42.1200583907,3.1469926209,False,"port de l'Escala,Girona, España",needs_id,55,yespi,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
 278570,2024-06-09,2024-06-09,2024-06-08,22:07:00,,nan,,,42.1200583907,3.1469926209,False,"port de l'Escala,Girona, España",needs_id,55,yespi,cc-by-nc,0,0,,,,,,
-278569,2024-06-09,2024-06-09,2024-06-08,22:07:00,aves,2437,family,Laridae,42.1200583907,3.1469926209,False,"port de l'Escala,Girona, España",needs_id,55,yespi,cc-by-nc,0,0,Animalia,Chordata,Aves,Ciconiiformes,,
+278569,2024-06-09,2024-06-09,2024-06-08,22:07:00,aves,243187,species,Larus michahellis,42.1200583907,3.1469926209,False,"port de l'Escala,Girona, España",research,55,yespi,cc-by-nc,1,0,Animalia,Chordata,Aves,Ciconiiformes,Laridae,Larus
 278547,2024-06-09,2024-06-09,2024-06-08,10:29:00,,nan,,,42.0671453292,3.2110556329,False,Spain,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
 278546,2024-06-09,2024-06-09,2024-06-08,10:29:00,,nan,,,42.0671423292,3.2110526329,False,Spain,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
 278545,2024-06-09,2024-06-09,2024-06-08,10:29:00,,nan,,,42.0671393292,3.2110496329,False,Spain,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
