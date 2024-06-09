@@ -1,4 +1,15 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+278565,2024-06-09,2024-06-09,2024-06-08,07:32:00,,nan,,,41.1796801879,1.5298346291,False,,needs_id,3682,pirotte_,cc-by,0,0,,,,,,
+278561,2024-06-09,2024-06-09,2024-06-08,07:37:00,,nan,,,41.1796531879,1.5298076291,False,,needs_id,3682,pirotte_,cc-by,0,0,,,,,,
+278560,2024-06-09,2024-06-09,2024-06-08,07:30:00,,nan,,,41.1796431879,1.5297976291,False,,needs_id,3682,pirotte_,cc-by,0,0,,,,,,
+278559,2024-06-09,2024-06-09,2024-06-08,07:38:00,,nan,,,41.1796331879,1.5297876291,False,,needs_id,3682,pirotte_,cc-by,0,0,,,,,,
+278558,2024-06-09,2024-06-09,2024-06-08,07:39:00,,nan,,,41.1796231879,1.5297776291,False,,needs_id,3682,pirotte_,cc-by,0,0,,,,,,
+278557,2024-06-09,2024-06-09,2024-06-08,07:39:00,,nan,,,41.1796131879,1.5297676291,False,,needs_id,3682,pirotte_,cc-by,0,0,,,,,,
+278555,2024-06-09,2024-06-09,2024-06-08,07:41:00,mollusca,255708,species,Cerastoderma glaucum,41.1796001879,1.5297546291,False,,needs_id,3682,pirotte_,cc-by,0,0,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Cerastoderma
+278553,2024-06-09,2024-06-09,2024-06-08,07:44:00,,nan,,,41.1795801879,1.5297346291,False,,needs_id,3682,pirotte_,cc-by,0,0,,,,,,
+278552,2024-06-09,2024-06-09,2024-06-08,07:44:00,,nan,,,41.1795701879,1.5297246291,False,,needs_id,3682,pirotte_,cc-by,0,0,,,,,,
+278551,2024-06-09,2024-06-09,2024-06-08,07:44:00,,nan,,,41.1795601879,1.5297146291,False,,needs_id,3682,pirotte_,cc-by,0,0,,,,,,
+278548,2024-06-09,2024-06-09,2024-06-08,07:43:00,mollusca,34855,species,Sepia officinalis,41.1795371879,1.5296916291,False,,needs_id,3682,pirotte_,cc-by,0,0,Animalia,Mollusca,Cephalopoda,Sepiida,Sepiidae,Sepia
 278438,2024-06-08,2024-06-09,2024-06-07,09:29:00,cnidaria,252904,species,Pelagia noctiluca,40.9102799268,0.8311379476,False,Spain,research,759,monyant,cc-by-nc,1,0,Animalia,Cnidaria,Scyphozoa,Semaeostomeae,Pelagiidae,Pelagia
 278437,2024-06-08,2024-06-09,2024-06-07,09:30:00,cnidaria,252904,species,Pelagia noctiluca,40.9102610249,0.831127985,False,"L'Ametlla de Mar, Tarragona, España",research,759,monyant,cc-by-nc,1,0,Animalia,Cnidaria,Scyphozoa,Semaeostomeae,Pelagiidae,Pelagia
 278436,2024-06-08,2024-06-09,2024-06-07,09:33:00,cnidaria,252904,species,Pelagia noctiluca,40.9102708792,0.8311197925,False,Spain,research,759,monyant,cc-by-nc,1,0,Animalia,Cnidaria,Scyphozoa,Semaeostomeae,Pelagiidae,Pelagia

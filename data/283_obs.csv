@@ -1,4 +1,23 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+278572,2024-06-09,2024-06-09,2024-06-08,22:07:00,mollusca,584,family,Mytilidae,42.1200583907,3.1469926209,False,"port de l'Escala,Girona, España",needs_id,55,yespi,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Mytilida,,
+278571,2024-06-09,2024-06-09,2024-06-08,22:07:00,chromista,35106,species,Padina pavonica,42.1200583907,3.1469926209,False,"port de l'Escala,Girona, España",needs_id,55,yespi,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
+278570,2024-06-09,2024-06-09,2024-06-08,22:07:00,,nan,,,42.1200583907,3.1469926209,False,"port de l'Escala,Girona, España",needs_id,55,yespi,cc-by-nc,0,0,,,,,,
+278569,2024-06-09,2024-06-09,2024-06-08,22:07:00,aves,2437,family,Laridae,42.1200583907,3.1469926209,False,"port de l'Escala,Girona, España",needs_id,55,yespi,cc-by-nc,0,0,Animalia,Chordata,Aves,Ciconiiformes,,
+278565,2024-06-09,2024-06-09,2024-06-08,07:32:00,,nan,,,41.1796801879,1.5298346291,False,,needs_id,3682,pirotte_,cc-by,0,0,,,,,,
+278561,2024-06-09,2024-06-09,2024-06-08,07:37:00,,nan,,,41.1796531879,1.5298076291,False,,needs_id,3682,pirotte_,cc-by,0,0,,,,,,
+278560,2024-06-09,2024-06-09,2024-06-08,07:30:00,,nan,,,41.1796431879,1.5297976291,False,,needs_id,3682,pirotte_,cc-by,0,0,,,,,,
+278559,2024-06-09,2024-06-09,2024-06-08,07:38:00,,nan,,,41.1796331879,1.5297876291,False,,needs_id,3682,pirotte_,cc-by,0,0,,,,,,
+278558,2024-06-09,2024-06-09,2024-06-08,07:39:00,,nan,,,41.1796231879,1.5297776291,False,,needs_id,3682,pirotte_,cc-by,0,0,,,,,,
+278557,2024-06-09,2024-06-09,2024-06-08,07:39:00,,nan,,,41.1796131879,1.5297676291,False,,needs_id,3682,pirotte_,cc-by,0,0,,,,,,
+278555,2024-06-09,2024-06-09,2024-06-08,07:41:00,mollusca,255708,species,Cerastoderma glaucum,41.1796001879,1.5297546291,False,,needs_id,3682,pirotte_,cc-by,0,0,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Cerastoderma
+278553,2024-06-09,2024-06-09,2024-06-08,07:44:00,,nan,,,41.1795801879,1.5297346291,False,,needs_id,3682,pirotte_,cc-by,0,0,,,,,,
+278552,2024-06-09,2024-06-09,2024-06-08,07:44:00,,nan,,,41.1795701879,1.5297246291,False,,needs_id,3682,pirotte_,cc-by,0,0,,,,,,
+278551,2024-06-09,2024-06-09,2024-06-08,07:44:00,,nan,,,41.1795601879,1.5297146291,False,,needs_id,3682,pirotte_,cc-by,0,0,,,,,,
+278548,2024-06-09,2024-06-09,2024-06-08,07:43:00,mollusca,34855,species,Sepia officinalis,41.1795371879,1.5296916291,False,,needs_id,3682,pirotte_,cc-by,0,0,Animalia,Mollusca,Cephalopoda,Sepiida,Sepiidae,Sepia
+278547,2024-06-09,2024-06-09,2024-06-08,10:29:00,,nan,,,42.0671453292,3.2110556329,False,Spain,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+278546,2024-06-09,2024-06-09,2024-06-08,10:29:00,,nan,,,42.0671423292,3.2110526329,False,Spain,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+278545,2024-06-09,2024-06-09,2024-06-08,10:29:00,,nan,,,42.0671393292,3.2110496329,False,Spain,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+278544,2024-06-09,2024-06-09,2024-06-08,10:29:00,,nan,,,42.0671363292,3.2110466329,False,Spain,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
 278543,2024-06-09,2024-06-09,2024-06-08,10:29:00,,nan,,,42.0671333292,3.2110436329,False,Spain,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
 278542,2024-06-09,2024-06-09,2024-06-08,10:29:00,,nan,,,42.0671303292,3.2110406329,False,Spain,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
 278541,2024-06-09,2024-06-09,2024-06-08,10:29:00,,nan,,,42.0671273292,3.2110376329,False,Spain,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
@@ -198,7 +217,6 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 278269,2024-06-08,2024-06-08,2024-06-08,20:17:00,mollusca,253209,species,Phorcus turbinatus,41.7234488559,2.9401433095,False,,needs_id,2858,aritz,cc-by,0,0,Animalia,Mollusca,Gastropoda,Trochida,Trochidae,Phorcus
 278268,2024-06-08,2024-06-08,2024-06-08,08:10:00,mollusca,245729,species,Mactra stultorum,42.1828166518,3.1420453961,False,Spain,needs_id,147,gregoribdn,cc-by-nc,1,0,Animalia,Mollusca,Bivalvia,Venerida,Mactridae,Mactra
 278267,2024-06-08,2024-06-08,2024-06-08,08:09:00,actinopterygii,13760,species,Serranus hepatus,42.1828166518,3.1420453961,False,Spain,research,147,gregoribdn,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Serranus
-278266,2024-06-08,2024-06-08,2024-06-08,08:06:00,annelida,247041,species,Sabella spallanzanii,42.1828166518,3.1420453961,False,Spain,research,147,gregoribdn,cc-by-nc,1,0,Animalia,Annelida,Polychaeta,Sabellida,Sabellidae,Sabella
 278266,2024-06-08,2024-06-08,2024-06-08,08:06:00,annelida,247041,species,Sabella spallanzanii,42.1828166518,3.1420453961,False,Spain,research,147,gregoribdn,cc-by-nc,1,0,Animalia,Annelida,Polychaeta,Sabellida,Sabellidae,Sabella
 278265,2024-06-08,2024-06-08,2024-06-08,08:04:00,annelida,35259,species,Mesochaetopterus rogeri,42.1828166518,3.1420453961,False,Spain,research,147,gregoribdn,cc-by-nc,1,0,Animalia,Annelida,Polychaeta,Spionida,Chaetopteridae,Mesochaetopterus
 278264,2024-06-08,2024-06-08,2024-06-08,08:01:00,mollusca,253938,genus,Tritia,42.1828166518,3.1420453961,False,Spain,needs_id,147,gregoribdn,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Neogastropoda,Nassariidae,
@@ -598,7 +616,6 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 277383,2024-06-05,2024-06-05,2024-05-26,07:03:00,echinodermata,173,class,Echinoidea,42.3371390106,3.275834419,False,Spain,needs_id,224,manelsalvador,cc-by-nc,2,0,Animalia,Echinodermata,,,,
 277382,2024-06-05,2024-06-05,2024-05-26,07:03:00,annelida,244097,species,Protula tubularia,42.3371390106,3.275834419,False,Spain,research,224,manelsalvador,cc-by-nc,1,0,Animalia,Annelida,Polychaeta,Sabellida,Serpulidae,Protula
 277381,2024-06-05,2024-06-05,2024-05-26,07:04:00,annelida,247041,species,Sabella spallanzanii,42.3371390106,3.275834419,False,Spain,research,224,manelsalvador,cc-by-nc,1,0,Animalia,Annelida,Polychaeta,Sabellida,Sabellidae,Sabella
-277380,2024-06-05,2024-06-05,2024-05-26,07:05:00,platyhelminthes,244061,species,Prostheceraeus roseus,42.3371390106,3.275834419,False,Spain,research,224,manelsalvador,cc-by-nc,1,0,Animalia,Platyhelminthes,,,,Prostheceraeus
 277380,2024-06-05,2024-06-05,2024-05-26,07:05:00,platyhelminthes,244061,species,Prostheceraeus roseus,42.3371390106,3.275834419,False,Spain,research,224,manelsalvador,cc-by-nc,1,0,Animalia,Platyhelminthes,,,,Prostheceraeus
 277379,2024-06-05,2024-06-06,2024-05-26,07:06:00,mollusca,184298,species,Paraflabellina gabinierei,42.3371390106,3.275834419,False,Spain,research,224,manelsalvador,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Flabellinidae,Paraflabellina
 277378,2024-06-05,2024-06-05,2024-05-26,07:07:00,actinopterygii,34835,species,Coris julis,42.3371390106,3.275834419,False,Spain,research,224,manelsalvador,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
@@ -1199,7 +1216,6 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 276493,2024-06-04,2024-06-04,2024-05-30,11:11:00,animalia,8827,genus,Didemnum,41.0556218326,1.043523085,False,,needs_id,359,oceanicos,cc-by-nc,1,0,Animalia,Chordata,Ascidiacea,Enterogona,Didemnidae,
 276492,2024-06-04,2024-06-04,2024-05-30,11:10:00,plantae,12569,genus,Peyssonnelia,41.0556218326,1.043523085,False,,needs_id,359,oceanicos,cc-by-nc,2,0,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Peyssonneliaceae,
 276491,2024-06-04,2024-06-04,2024-05-30,10:57:00,plantae,256585,species,Hydrolithon farinosum,41.0556218326,1.043523085,False,,research,359,oceanicos,cc-by-nc,1,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,Hydrolithon
-276491,2024-06-04,2024-06-04,2024-05-30,10:57:00,plantae,256585,species,Hydrolithon farinosum,41.0556218326,1.043523085,False,,research,359,oceanicos,cc-by-nc,1,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,Hydrolithon
 276490,2024-06-04,2024-06-04,2024-05-30,10:57:00,echinodermata,251875,species,Holothuria tubulosa,41.0556218326,1.043523085,False,,research,359,oceanicos,cc-by-nc,1,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria
 276489,2024-06-04,2024-06-04,2024-05-30,10:52:00,bryozoa,55,phylum,Bryozoa,41.0556218326,1.043523085,False,,needs_id,359,oceanicos,cc-by-nc,1,0,Animalia,,,,,
 276488,2024-06-04,2024-06-04,2024-05-30,10:40:00,actinopterygii,35225,species,Chromis chromis,41.0556218326,1.043523085,False,,research,359,oceanicos,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
@@ -1798,7 +1814,6 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 275685,2024-06-02,2024-06-03,2024-06-01,09:22:00,crustacea,237075,species,Perforatus perforatus,41.6962121221,2.8960775184,False,"Roca Muladera, Lloret, Girona, España",research,55,yespi,cc-by-nc,1,0,Animalia,Arthropoda,,,Balanidae,Perforatus
 275684,2024-06-02,2024-06-03,2024-06-01,09:22:00,echinodermata,240406,species,Arbacia lixula,41.6962121221,2.8960775184,False,"Roca Muladera, Lloret, Girona, España",research,55,yespi,cc-by-nc,1,0,Animalia,Echinodermata,Echinoidea,Arbacioida,Arbaciidae,Arbacia
 275683,2024-06-02,2024-06-03,2024-06-01,09:22:00,chromista,35106,species,Padina pavonica,41.6962121221,2.8960775184,False,"Roca Muladera, Lloret, Girona, España",research,55,yespi,cc-by-nc,1,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
-275682,2024-06-02,2024-06-03,2024-06-01,09:22:00,plantae,625,order,Corallinales,41.6962121221,2.8960775184,False,"Roca Muladera, Lloret, Girona, España",needs_id,55,yespi,cc-by-nc,1,0,Plantae,Rhodophyta,Florideophyceae,,,
 275682,2024-06-02,2024-06-03,2024-06-01,09:22:00,plantae,625,order,Corallinales,41.6962121221,2.8960775184,False,"Roca Muladera, Lloret, Girona, España",needs_id,55,yespi,cc-by-nc,1,0,Plantae,Rhodophyta,Florideophyceae,,,
 275681,2024-06-02,2024-06-03,2024-06-01,09:22:00,actinopterygii,35194,species,Thalassoma pavo,41.6962121221,2.8960775184,False,"Roca Muladera, Lloret, Girona, España",research,55,yespi,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
 275680,2024-06-02,2024-06-03,2024-06-01,09:22:00,actinopterygii,35225,species,Chromis chromis,41.6962121221,2.8960775184,False,"Roca Muladera, Lloret, Girona, España",research,55,yespi,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
@@ -7383,6 +7398,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 267550,2024-05-15,2024-05-15,2024-05-09,06:22:00,aves,256663,species,Phoenicopterus roseus,41.3053841331,2.1269866871,False,Desembocadura del riu Llobregat,research,15,mediambient_ajelprat,cc-by-nc,1,0,Animalia,Chordata,Aves,Ciconiiformes,Phoenicopteridae,Phoenicopterus
 267549,2024-05-15,2024-05-15,2024-05-09,06:20:00,aves,262222,species,Mareca strepera,41.3053841331,2.1269866871,False,Desembocadura del riu Llobregat,research,15,mediambient_ajelprat,cc-by-nc,1,0,Animalia,Chordata,Aves,Anseriformes,Anatidae,
 267548,2024-05-15,2024-05-15,2024-05-09,06:20:00,aves,251700,species,Himantopus himantopus,41.3053841331,2.1269866871,False,Desembocadura del riu Llobregat,research,15,mediambient_ajelprat,cc-by-nc,1,0,Animalia,Chordata,Aves,Charadriiformes,,Himantopus
+267547,2024-05-15,2024-05-15,2024-05-09,06:20:00,aves,250950,species,Chroicocephalus ridibundus,41.3053841331,2.1269866871,False,Desembocadura del riu Llobregat,research,15,mediambient_ajelprat,cc-by-nc,1,0,Animalia,Chordata,Aves,Ciconiiformes,Laridae,Chroicocephalus
 267547,2024-05-15,2024-05-15,2024-05-09,06:20:00,aves,250950,species,Chroicocephalus ridibundus,41.3053841331,2.1269866871,False,Desembocadura del riu Llobregat,research,15,mediambient_ajelprat,cc-by-nc,1,0,Animalia,Chordata,Aves,Ciconiiformes,Laridae,Chroicocephalus
 267545,2024-05-15,2024-05-15,2024-05-09,07:03:00,aves,246541,species,Tachybaptus ruficollis,41.301968144,2.1238982091,False,Observatori de cal Tet,research,15,mediambient_ajelprat,cc-by-nc,1,0,Animalia,Chordata,Aves,Ciconiiformes,Podicipedidae,Tachybaptus
 267544,2024-05-15,2024-05-15,2024-05-09,07:15:00,aves,249670,species,Serinus serinus,41.301968144,2.1238982091,False,Observatori de cal Tet,research,15,mediambient_ajelprat,cc-by-nc,1,0,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Serinus
