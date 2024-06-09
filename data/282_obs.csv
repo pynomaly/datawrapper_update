@@ -1,4 +1,13 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+278586,2024-06-09,2024-06-09,2024-06-09,10:34:00,,nan,,,41.4188752222,2.2323391111,False,Spain,needs_id,3779,cecilius,cc-by,0,0,,,,,,
+278585,2024-06-09,2024-06-09,2024-06-09,10:34:00,,nan,,,41.4188722222,2.2323361111,False,Spain,needs_id,3779,cecilius,cc-by,0,0,,,,,,
+278584,2024-06-09,2024-06-09,2024-06-09,10:31:00,,nan,,,41.4187925556,2.2322842222,False,Spain,needs_id,3779,cecilius,cc-by,0,0,,,,,,
+278583,2024-06-09,2024-06-09,2024-06-09,10:31:00,,nan,,,41.4187895556,2.2322812222,False,Spain,needs_id,3779,cecilius,cc-by,0,0,,,,,,
+278580,2024-06-09,2024-06-09,2024-06-09,10:31:00,,nan,,,41.4187805556,2.2322722222,False,Spain,needs_id,3779,cecilius,cc-by,0,0,,,,,,
+278578,2024-06-09,2024-06-09,2024-06-09,10:27:00,,nan,,,41.4184173333,2.2320478889,False,Spain,needs_id,3779,cecilius,cc-by,0,0,,,,,,
+278577,2024-06-09,2024-06-09,2024-06-09,10:27:00,,nan,,,41.4184143333,2.2320448889,False,Spain,needs_id,3779,cecilius,cc-by,0,0,,,,,,
+278576,2024-06-09,2024-06-09,2024-06-09,10:27:00,,nan,,,41.4184113333,2.2320418889,False,Spain,needs_id,3779,cecilius,cc-by,0,0,,,,,,
+278575,2024-06-09,2024-06-09,2024-06-09,10:27:00,,nan,,,41.4184083333,2.2320388889,False,Spain,needs_id,3779,cecilius,cc-by,0,0,,,,,,
 278573,2024-06-09,2024-06-09,2024-06-09,10:13:00,life,1,stateofmatter,Life,41.2663268889,2.0196828611,False,,needs_id,3780,alexia123,cc-by,0,0,,,,,,
 278442,2024-06-09,2024-06-09,2024-06-01,07:53:00,,nan,,,41.2261333585,1.7901728185,False,"Passeig Marítim, 72, 08870 Sitges, Barcelona, España",needs_id,3775,iria_apr7,cc-by,0,0,,,,,,
 278441,2024-06-09,2024-06-09,2024-06-01,07:37:00,mollusca,35075,species,Octopus vulgaris,41.2261333585,1.7901728185,False,"Passeig Marítim, 72, 08870 Sitges, Barcelona, España",needs_id,3775,iria_apr7,cc-by,0,0,Animalia,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus
