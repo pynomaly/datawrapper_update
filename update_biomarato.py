@@ -46,6 +46,13 @@ exclude_users = [
     "lauracoro",
     "pirotte_",
     "oceanicos",
+    "abril",
+    "alba_barrera",
+    "amb_platges",
+    "daniel_palacios",
+    "davidpiquer",
+    "laiamanyer",
+    "rogerpuig",
     # vanessa,
     # teresa,
 ]
