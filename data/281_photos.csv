@@ -1,7 +1,7 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
 279451,374754,actinopterygii,Tripterygion tripteronotum,https://minka-sdg.org/attachments/local_photos/files/374754/medium.jpeg,manelor,42.3842206146,3.1609272741,cc-by,"(c) manelor, some rights reserved (CC BY)",279451_374754.jpg
-279450,374753,,,https://minka-sdg.org/attachments/local_photos/files/374753/medium.jpeg,manelor,42.3840652693,3.1609679593,cc-by,"(c) manelor, some rights reserved (CC BY)",279450_374753.jpg
-279448,374750,,,https://minka-sdg.org/attachments/local_photos/files/374750/medium.jpeg,manelor,42.3836489978,3.160914387,cc-by,"(c) manelor, some rights reserved (CC BY)",279448_374750.jpg
+279450,374753,porifera,Petrosia ficiformis,https://minka-sdg.org/attachments/local_photos/files/374753/medium.jpeg,manelor,42.3840652693,3.1609679593,cc-by,"(c) manelor, some rights reserved (CC BY)",279450_374753.jpg
+279448,374750,annelida,Polycirrus,https://minka-sdg.org/attachments/local_photos/files/374750/medium.jpeg,manelor,42.3836489978,3.160914387,cc-by,"(c) manelor, some rights reserved (CC BY)",279448_374750.jpg
 279447,374749,porifera,Chondrosia reniformis,https://minka-sdg.org/attachments/local_photos/files/374749/medium.jpeg,manelor,42.3827411045,3.1582207241,cc-by,"(c) manelor, some rights reserved (CC BY)",279447_374749.jpg
 279446,374748,porifera,Crella,https://minka-sdg.org/attachments/local_photos/files/374748/medium.jpeg,manelor,42.3908610145,3.1557199354,cc-by,"(c) manelor, some rights reserved (CC BY)",279446_374748.jpg
 279444,374746,annelida,Sabella spallanzanii,https://minka-sdg.org/attachments/local_photos/files/374746/medium.jpeg,manelor,42.3839929393,3.1607133325,cc-by,"(c) manelor, some rights reserved (CC BY)",279444_374746.jpg
