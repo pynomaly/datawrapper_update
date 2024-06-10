@@ -53,6 +53,7 @@ exclude_users = [
     "davidpiquer",
     "laiamanyer",
     "rogerpuig",
+    "guillemdavila",
     # vanessa,
     # teresa,
 ]
