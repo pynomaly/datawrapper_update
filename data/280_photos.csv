@@ -1,4 +1,8 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+279363,374588,echinodermata,Antedon mediterranea,https://minka-sdg.org/attachments/local_photos/files/374588/medium.jpg,aff,41.0897245527,1.2282708481,cc-by,"(c) Àngels Folch, some rights reserved (CC BY)",279363_374588.jpg
+279362,374587,echinodermata,Antedon mediterranea,https://minka-sdg.org/attachments/local_photos/files/374587/medium.jpg,aff,41.0897245527,1.2282708481,cc-by,"(c) Àngels Folch, some rights reserved (CC BY)",279362_374587.jpg
+279361,374586,echinodermata,Antedon mediterranea,https://minka-sdg.org/attachments/local_photos/files/374586/medium.jpg,aff,41.0897245527,1.2282708481,cc-by,"(c) Àngels Folch, some rights reserved (CC BY)",279361_374586.jpg
+279360,374585,echinodermata,Antedon mediterranea,https://minka-sdg.org/attachments/local_photos/files/374585/medium.jpg,aff,41.0897245527,1.2282708481,cc-by,"(c) Àngels Folch, some rights reserved (CC BY)",279360_374585.jpg
 279293,374530,plantae,Laurencia,https://minka-sdg.org/attachments/local_photos/files/374530/medium.jpeg,jalaball,40.8818492184,0.8109181899,cc-by-nc,"(c) jalaball, some rights reserved (CC BY-NC)",279293_374530.jpg
 279293,374532,plantae,Laurencia,https://minka-sdg.org/attachments/local_photos/files/374532/medium.jpeg,jalaball,40.8818492184,0.8109181899,cc-by-nc,"(c) jalaball, some rights reserved (CC BY-NC)",279293_374532.jpg
 279293,374531,plantae,Laurencia,https://minka-sdg.org/attachments/local_photos/files/374531/medium.jpeg,jalaball,40.8818492184,0.8109181899,cc-by-nc,"(c) jalaball, some rights reserved (CC BY-NC)",279293_374531.jpg
@@ -1741,4 +1745,4 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 264127,353855,plantae,Lobularia maritima,https://minka-sdg.org/attachments/local_photos/files/353855/medium.jpg,bertinhaco,41.1808714549,1.5256441294,cc-by-nc,"(c) Berta Companys Oliva, some rights reserved (CC BY-NC)",264127_353855.jpg
 264126,353857,plantae,Malva parviflora,https://minka-sdg.org/attachments/local_photos/files/353857/medium.jpg,bertinhaco,41.1808514472,1.5255561639,cc-by-nc,"(c) Berta Companys Oliva, some rights reserved (CC BY-NC)",264126_353857.jpg
 264126,353856,plantae,Malva parviflora,https://minka-sdg.org/attachments/local_photos/files/353856/medium.jpg,bertinhaco,41.1808514472,1.5255561639,cc-by-nc,"(c) Berta Companys Oliva, some rights reserved (CC BY-NC)",264126_353856.jpg
-263395,352763,actinopterygii,Sciaena umbra,,jolumase,41.083254041,1.2385777654,,"(c) José Luis Martin, some rights reserved (CC BY-NC)",263395_352763.jpg
+263395,352763,actinopterygii,Sciaena umbra,https://minka-sdg.org/attachments/local_photos/files/352763/medium.jpg,jolumase,41.083254041,1.2385777654,cc-by-nc,"(c) José Luis Martin, some rights reserved (CC BY-NC)",263395_352763.jpg
