@@ -4360,7 +4360,6 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 278935,2024-06-09,2024-06-09,2024-05-10,07:41:00,cnidaria,240421,species,Forskalia edwardsii,42.247993384,3.2419427108,False,"Roses, Girona, España",research,1732,manelor,cc-by,1,0,Animalia,Cnidaria,Hydrozoa,Siphonophorae,Forskaliidae,Forskalia
 278934,2024-06-09,2024-06-09,2024-05-10,07:41:00,animalia,99521,genus,Salpa,42.2502806188,3.240226097,False,"Roses, Girona, España",research,1732,manelor,cc-by,1,0,Animalia,Chordata,Thaliacea,Salpida,Salpidae,
 278933,2024-06-09,2024-06-09,2024-05-26,08:21:00,mollusca,35243,species,Nemesignis banyulensis,41.0895619584,1.2292775182,False,"Dic de Llevant, Parc Subaquatic., 43004 Tarragona, España",research,543,evararo,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Myrrhinidae,Nemesignis
-278931,2024-06-09,2024-06-09,2024-06-09,18:04:00,insecta,247244,species,Brithys crini,41.2658533,2.0149637,False,,research,3787,lageslos,cc-by,2,0,Animalia,Arthropoda,Insecta,Lepidoptera,Noctuidae,Brithys
 278930,2024-06-09,2024-06-09,2024-05-25,15:34:00,,9369,species,Taonia atomaria,41.380755403,2.1946666201,False,"Playa de la Barceloneta, España",research,175,eloi_sanz,cc-by-nc,1,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Taonia
 278929,2024-06-09,2024-06-09,2024-05-11,20:50:00,echinodermata,34848,species,Paracentrotus lividus,41.4049722276,2.2201603101,False,"Llevant, Sant Martí, Barcelona, España",research,175,eloi_sanz,cc-by-nc,1,0,Animalia,Echinodermata,Echinoidea,Camarodonta,Parechinidae,Paracentrotus
 278928,2024-06-09,2024-06-09,2024-05-11,20:50:00,actinopterygii,34878,species,Lipophrys trigloides,41.4049722276,2.2201603101,False,"Llevant, Sant Martí, Barcelona, España",research,175,eloi_sanz,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Lipophrys
@@ -10436,7 +10435,32 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 270003,2024-05-20,2024-05-20,2024-05-18,09:01:00,actinopterygii,34871,species,Tripterygion delaisi,41.8118451645,3.0887418349,False,"La Llosa, Platja d'Aro, Girona, España",research,55,yespi,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Tripterygiidae,Tripterygion
 270002,2024-05-20,2024-05-20,2024-05-18,09:01:00,plantae,34884,species,Flabellia petiolata,41.8118451645,3.0887418349,False,"La Llosa, Platja d'Aro, Girona, España",research,55,yespi,cc-by-nc,2,0,Plantae,Chlorophyta,Bryopsidophyceae,Bryopsidales,Codiaceae,Flabellia
 270001,2024-05-20,2024-05-20,2024-05-18,09:01:00,chromista,29375,genus,Halopteris,41.8118451645,3.0887418349,False,"La Llosa, Platja d'Aro, Girona, España",needs_id,55,yespi,cc-by-nc,1,0,Chromista,Ochrophyta,Phaeophyceae,Sphacelariales,Stypocaulaceae,
-280086,2024-06-11,2024-06-11,2024-06-11,18:46:00,insecta,324,order,Coleoptera,40.6061553,0.5795801,False,Spain,needs_id,2495,albagarri,cc-by,0,0,Animalia,Arthropoda,Insecta,,,
+280113,2024-06-11,2024-06-11,2024-06-08,15:30:00,cnidaria,35220,species,Anemonia viridis,42.1493083078,3.1795094371,False,,research,801,sergio_zafra,cc-by-nc,1,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Anemonia
+280112,2024-06-11,2024-06-11,2024-06-08,15:29:00,plantae,243333,species,Cymodocea nodosa,42.1493083078,3.1795094371,False,,research,801,sergio_zafra,cc-by-nc,1,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Cymodoceaceae,Cymodocea
+280111,2024-06-11,2024-06-11,2024-06-08,15:27:00,,nan,,,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
+280110,2024-06-11,2024-06-11,2024-06-08,15:25:00,mollusca,248495,species,Mytilus galloprovincialis,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,1,0,Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,Mytilus
+280109,2024-06-11,2024-06-11,2024-06-08,15:30:00,mollusca,11305,genus,Sepia,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,1,0,Animalia,Mollusca,Cephalopoda,Sepiida,Sepiidae,
+280108,2024-06-11,2024-06-11,2024-06-08,15:47:00,,nan,,,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
+280107,2024-06-11,2024-06-11,2024-06-08,15:46:00,mollusca,243178,species,Aglaja tricolorata,42.1493083078,3.1795094371,False,,research,801,sergio_zafra,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Cephalaspidea,Aglajidae,Aglaja
+280106,2024-06-11,2024-06-11,2024-06-08,15:45:00,mollusca,501,order,Cephalaspidea,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,,,
+280105,2024-06-11,2024-06-11,2024-06-08,15:40:00,mollusca,243178,species,Aglaja tricolorata,42.1493083078,3.1795094371,False,,research,801,sergio_zafra,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Cephalaspidea,Aglajidae,Aglaja
+280104,2024-06-11,2024-06-11,2024-06-08,15:38:00,mollusca,243178,species,Aglaja tricolorata,42.1493083078,3.1795094371,False,,research,801,sergio_zafra,cc-by-nc,2,0,Animalia,Mollusca,Gastropoda,Cephalaspidea,Aglajidae,Aglaja
+280103,2024-06-11,2024-06-11,2024-06-08,15:37:00,,nan,,,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
+280102,2024-06-11,2024-06-11,2024-06-08,15:37:00,,nan,,,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
+280101,2024-06-11,2024-06-11,2024-06-08,15:36:00,,nan,,,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
+280100,2024-06-11,2024-06-11,2024-06-08,15:33:00,,nan,,,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
+280099,2024-06-11,2024-06-11,2024-06-08,15:31:00,annelida,247041,species,Sabella spallanzanii,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,0,0,Animalia,Annelida,Polychaeta,Sabellida,Sabellidae,Sabella
+280098,2024-06-11,2024-06-11,2024-06-08,15:31:00,chromista,35541,genus,Dictyota,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,1,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,
+280097,2024-06-11,2024-06-11,2024-06-08,15:30:00,cnidaria,35220,species,Anemonia viridis,42.1493083078,3.1795094371,False,,research,801,sergio_zafra,cc-by-nc,1,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Anemonia
+280096,2024-06-11,2024-06-11,2024-06-08,15:30:00,annelida,249709,species,Serpula vermicularis,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,0,0,Animalia,Annelida,Polychaeta,Sabellida,Serpulidae,Serpula
+280095,2024-06-11,2024-06-11,2024-06-08,15:54:00,,nan,,,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
+280094,2024-06-11,2024-06-11,2024-06-08,15:54:00,,nan,,,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
+280093,2024-06-11,2024-06-11,2024-06-08,15:52:00,,nan,,,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
+280092,2024-06-11,2024-06-11,2024-06-08,15:51:00,,nan,,,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
+280091,2024-06-11,2024-06-11,2024-06-08,15:50:00,mollusca,243178,species,Aglaja tricolorata,42.1493083078,3.1795094371,False,,research,801,sergio_zafra,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Cephalaspidea,Aglajidae,Aglaja
+280090,2024-06-11,2024-06-11,2024-06-08,15:47:00,,nan,,,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
+280089,2024-06-11,2024-06-11,2024-06-08,15:47:00,,nan,,,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
+280086,2024-06-11,2024-06-11,2024-06-11,18:46:00,insecta,40510,genus,Lachnaia,40.6061553,0.5795801,False,Spain,needs_id,2495,albagarri,cc-by,1,0,Animalia,Arthropoda,Insecta,Coleoptera,Chrysomelidae,
 280085,2024-06-11,2024-06-11,2024-06-01,18:17:00,cnidaria,445,order,Alcyonacea,41.8889022518,3.1982369239,False,ullastres 3,needs_id,2888,tonihillaalos,cc-by,2,0,Animalia,Cnidaria,Anthozoa,,,
 280084,2024-06-11,2024-06-11,2024-06-01,18:14:00,annelida,35119,species,Bonellia viridis,41.8865348232,3.1900659182,False,Ullastres 3,research,2888,tonihillaalos,cc-by,1,0,Animalia,Annelida,Polychaeta,,Bonelliidae,Bonellia
 280042,2024-06-11,2024-06-11,2024-06-07,08:32:00,actinopterygii,12553,species,Diplodus sargus,41.4096029437,2.2272226497,False,"Zona de Banys Fòrum, Barcelona, España",research,92,josepdegea,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus

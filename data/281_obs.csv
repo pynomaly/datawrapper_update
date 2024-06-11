@@ -1,4 +1,29 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+280113,2024-06-11,2024-06-11,2024-06-08,15:30:00,cnidaria,35220,species,Anemonia viridis,42.1493083078,3.1795094371,False,,research,801,sergio_zafra,cc-by-nc,1,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Anemonia
+280112,2024-06-11,2024-06-11,2024-06-08,15:29:00,plantae,243333,species,Cymodocea nodosa,42.1493083078,3.1795094371,False,,research,801,sergio_zafra,cc-by-nc,1,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Cymodoceaceae,Cymodocea
+280111,2024-06-11,2024-06-11,2024-06-08,15:27:00,,nan,,,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
+280110,2024-06-11,2024-06-11,2024-06-08,15:25:00,mollusca,248495,species,Mytilus galloprovincialis,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,1,0,Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,Mytilus
+280109,2024-06-11,2024-06-11,2024-06-08,15:30:00,mollusca,11305,genus,Sepia,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,1,0,Animalia,Mollusca,Cephalopoda,Sepiida,Sepiidae,
+280108,2024-06-11,2024-06-11,2024-06-08,15:47:00,,nan,,,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
+280107,2024-06-11,2024-06-11,2024-06-08,15:46:00,mollusca,243178,species,Aglaja tricolorata,42.1493083078,3.1795094371,False,,research,801,sergio_zafra,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Cephalaspidea,Aglajidae,Aglaja
+280106,2024-06-11,2024-06-11,2024-06-08,15:45:00,mollusca,501,order,Cephalaspidea,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,,,
+280105,2024-06-11,2024-06-11,2024-06-08,15:40:00,mollusca,243178,species,Aglaja tricolorata,42.1493083078,3.1795094371,False,,research,801,sergio_zafra,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Cephalaspidea,Aglajidae,Aglaja
+280104,2024-06-11,2024-06-11,2024-06-08,15:38:00,mollusca,243178,species,Aglaja tricolorata,42.1493083078,3.1795094371,False,,research,801,sergio_zafra,cc-by-nc,2,0,Animalia,Mollusca,Gastropoda,Cephalaspidea,Aglajidae,Aglaja
+280103,2024-06-11,2024-06-11,2024-06-08,15:37:00,,nan,,,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
+280102,2024-06-11,2024-06-11,2024-06-08,15:37:00,,nan,,,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
+280101,2024-06-11,2024-06-11,2024-06-08,15:36:00,,nan,,,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
+280100,2024-06-11,2024-06-11,2024-06-08,15:33:00,,nan,,,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
+280099,2024-06-11,2024-06-11,2024-06-08,15:31:00,annelida,247041,species,Sabella spallanzanii,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,0,0,Animalia,Annelida,Polychaeta,Sabellida,Sabellidae,Sabella
+280098,2024-06-11,2024-06-11,2024-06-08,15:31:00,chromista,35541,genus,Dictyota,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,1,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,
+280097,2024-06-11,2024-06-11,2024-06-08,15:30:00,cnidaria,35220,species,Anemonia viridis,42.1493083078,3.1795094371,False,,research,801,sergio_zafra,cc-by-nc,1,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Anemonia
+280096,2024-06-11,2024-06-11,2024-06-08,15:30:00,annelida,249709,species,Serpula vermicularis,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,0,0,Animalia,Annelida,Polychaeta,Sabellida,Serpulidae,Serpula
+280095,2024-06-11,2024-06-11,2024-06-08,15:54:00,,nan,,,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
+280094,2024-06-11,2024-06-11,2024-06-08,15:54:00,,nan,,,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
+280093,2024-06-11,2024-06-11,2024-06-08,15:52:00,,nan,,,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
+280092,2024-06-11,2024-06-11,2024-06-08,15:51:00,,nan,,,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
+280091,2024-06-11,2024-06-11,2024-06-08,15:50:00,mollusca,243178,species,Aglaja tricolorata,42.1493083078,3.1795094371,False,,research,801,sergio_zafra,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Cephalaspidea,Aglajidae,Aglaja
+280090,2024-06-11,2024-06-11,2024-06-08,15:47:00,,nan,,,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
+280089,2024-06-11,2024-06-11,2024-06-08,15:47:00,,nan,,,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
 280085,2024-06-11,2024-06-11,2024-06-01,18:17:00,cnidaria,445,order,Alcyonacea,41.8889022518,3.1982369239,False,ullastres 3,needs_id,2888,tonihillaalos,cc-by,2,0,Animalia,Cnidaria,Anthozoa,,,
 280084,2024-06-11,2024-06-11,2024-06-01,18:14:00,annelida,35119,species,Bonellia viridis,41.8865348232,3.1900659182,False,Ullastres 3,research,2888,tonihillaalos,cc-by,1,0,Animalia,Annelida,Polychaeta,,Bonelliidae,Bonellia
 279998,2024-06-11,2024-06-11,2024-06-08,08:52:00,mollusca,246328,species,Rissoa monodonta,42.1439503266,3.1340411573,False,Spain,needs_id,2493,pauperrim,cc-by,0,0,Animalia,Mollusca,Gastropoda,Littorinimorpha,Rissoidae,Rissoa
