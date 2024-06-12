@@ -10445,15 +10445,14 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 280106,2024-06-11,2024-06-11,2024-06-08,15:45:00,mollusca,501,order,Cephalaspidea,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,,,
 280105,2024-06-11,2024-06-11,2024-06-08,15:40:00,mollusca,243178,species,Aglaja tricolorata,42.1493083078,3.1795094371,False,,research,801,sergio_zafra,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Cephalaspidea,Aglajidae,Aglaja
 280104,2024-06-11,2024-06-11,2024-06-08,15:38:00,mollusca,243178,species,Aglaja tricolorata,42.1493083078,3.1795094371,False,,research,801,sergio_zafra,cc-by-nc,2,0,Animalia,Mollusca,Gastropoda,Cephalaspidea,Aglajidae,Aglaja
-280103,2024-06-11,2024-06-11,2024-06-08,15:37:00,,nan,,,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
-280102,2024-06-11,2024-06-11,2024-06-08,15:37:00,,nan,,,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
-280101,2024-06-11,2024-06-11,2024-06-08,15:36:00,,nan,,,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
+280103,2024-06-11,2024-06-12,2024-06-08,15:37:00,annelida,251212,species,Spirobranchus triqueter,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,0,0,Animalia,Annelida,Polychaeta,Sabellida,Serpulidae,Spirobranchus
+280102,2024-06-11,2024-06-12,2024-06-08,15:37:00,mollusca,119,class,Bivalvia,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,0,0,Animalia,Mollusca,,,,
+280101,2024-06-11,2024-06-12,2024-06-08,15:36:00,annelida,32706,genus,Spirobranchus,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,0,0,Animalia,Annelida,Polychaeta,Sabellida,Serpulidae,
 280100,2024-06-11,2024-06-12,2024-06-08,15:33:00,annelida,35259,species,Mesochaetopterus rogeri,42.1493083078,3.1795094371,False,,research,801,sergio_zafra,cc-by-nc,2,0,Animalia,Annelida,Polychaeta,Spionida,Chaetopteridae,Mesochaetopterus
 280099,2024-06-11,2024-06-12,2024-06-08,15:31:00,annelida,247041,species,Sabella spallanzanii,42.1493083078,3.1795094371,False,,research,801,sergio_zafra,cc-by-nc,2,0,Animalia,Annelida,Polychaeta,Sabellida,Sabellidae,Sabella
 280098,2024-06-11,2024-06-12,2024-06-08,15:31:00,chromista,255632,species,Dictyota implexa,42.1493083078,3.1795094371,False,,research,801,sergio_zafra,cc-by-nc,2,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota
 280097,2024-06-11,2024-06-11,2024-06-08,15:30:00,cnidaria,35220,species,Anemonia viridis,42.1493083078,3.1795094371,False,,research,801,sergio_zafra,cc-by-nc,1,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Anemonia
 280096,2024-06-11,2024-06-12,2024-06-08,15:30:00,annelida,249709,species,Serpula vermicularis,42.1493083078,3.1795094371,False,,research,801,sergio_zafra,cc-by-nc,2,0,Animalia,Annelida,Polychaeta,Sabellida,Serpulidae,Serpula
-280095,2024-06-11,2024-06-11,2024-06-08,15:54:00,,nan,,,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
 280094,2024-06-11,2024-06-12,2024-06-08,15:54:00,crustacea,1842,superfamily,Paguroidea,42.1493083078,3.1795094371,False,,needs_id,801,sergio_zafra,cc-by-nc,2,0,Animalia,Arthropoda,Malacostraca,Decapoda,,
 280093,2024-06-11,2024-06-12,2024-06-08,15:52:00,mollusca,255590,species,Fustiaria rubescens,42.1493083078,3.1795094371,False,,research,801,sergio_zafra,cc-by-nc,2,0,Animalia,Mollusca,Scaphopoda,Dentaliida,Fustiariidae,Fustiaria
 280092,2024-06-11,2024-06-12,2024-06-08,15:51:00,plantae,243333,species,Cymodocea nodosa,42.1493083078,3.1795094371,False,,research,801,sergio_zafra,cc-by-nc,2,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Cymodoceaceae,Cymodocea
