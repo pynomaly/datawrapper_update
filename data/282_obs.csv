@@ -229,7 +229,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 278584,2024-06-09,2024-06-10,2024-06-09,10:31:00,insecta,241863,species,Pieris rapae,41.4187925556,2.2322842222,False,Spain,needs_id,3779,cecilius,cc-by,0,0,Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pieris
 278583,2024-06-09,2024-06-10,2024-06-09,10:31:00,plantae,24979,genus,Centaurea,41.4187895556,2.2322812222,False,Spain,needs_id,3779,cecilius,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,
 278580,2024-06-09,2024-06-12,2024-06-09,10:31:00,insecta,241863,species,Pieris rapae,41.4187805556,2.2322722222,False,Spain,research,3779,cecilius,cc-by,2,0,Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pieris
-278578,2024-06-09,2024-06-10,2024-06-09,10:27:00,plantae,249580,species,Senecio pterophorus,41.4184173333,2.2320478889,False,Spain,needs_id,3779,cecilius,cc-by,0,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Senecio
+278578,2024-06-09,2024-06-13,2024-06-09,10:27:00,plantae,249580,species,Senecio pterophorus,41.4184173333,2.2320478889,False,Spain,research,3779,cecilius,cc-by,2,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Senecio
 278576,2024-06-09,2024-06-10,2024-06-09,10:27:00,insecta,326,order,Hymenoptera,41.4184113333,2.2320418889,False,Spain,needs_id,3779,cecilius,cc-by,0,0,Animalia,Arthropoda,Insecta,,,
 278575,2024-06-09,2024-06-09,2024-06-09,10:27:00,,nan,,,41.4184083333,2.2320388889,False,Spain,needs_id,3779,cecilius,cc-by,0,0,,,,,,
 278573,2024-06-09,2024-06-10,2024-06-09,10:13:00,mollusca,1286,family,Helicidae,41.2663268889,2.0196828611,False,,needs_id,3780,alexia123,cc-by,1,0,Animalia,Mollusca,Gastropoda,Stylommatophora,,
