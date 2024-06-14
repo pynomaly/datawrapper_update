@@ -1,4 +1,7 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+280732,2024-06-14,2024-06-14,2024-06-13,21:40:00,,nan,,,41.4482015218,2.2528041931,False,"Badalona, Barcelona, Espanya",needs_id,3864,alina,cc-by,0,0,,,,,,
+280731,2024-06-14,2024-06-14,2024-06-13,09:25:00,,nan,,,41.4481628914,2.2534418212,False,"Platja de Badalona, Espanya",needs_id,3864,alina,cc-by,0,0,,,,,,
+280730,2024-06-14,2024-06-14,2024-06-13,09:33:00,,nan,,,41.4469125842,2.2515091513,False,"Badalona, Barcelona, Espanya",needs_id,3864,alina,cc-by,0,0,,,,,,
 280724,2024-06-14,2024-06-14,2024-06-13,08:17:00,crustacea,430,order,Cyclopoida,41.4466944772,2.250559741,False,Badalona,needs_id,3852,luciathalassa,cc-by,0,0,Animalia,Arthropoda,,,,
 280389,2024-06-13,2024-06-13,2024-06-01,14:38:00,plantae,100585,species,Medicago sativa,41.5304857963,2.4352050573,False,Spain,research,2506,encmontse,cc-by,1,0,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Medicago
 280381,2024-06-13,2024-06-13,2024-06-12,08:36:00,mollusca,245882,species,Ensis minor,41.2859789098,2.1024404225,False,Platja de can Camins,research,15,mediambient_ajelprat,cc-by-nc,1,0,Animalia,Mollusca,Bivalvia,Adapedonta,Pharidae,Ensis
