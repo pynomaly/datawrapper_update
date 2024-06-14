@@ -1,7 +1,7 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
 280809,376410,annelida,Filograna implexa,https://minka-sdg.org/attachments/local_photos/files/376410/medium.jpeg,eduardmarques,42.3493421182,3.1881718694,cc-by-nc,"(c) eduardmarques, some rights reserved (CC BY-NC)",280809_376410.jpg
 280809,376411,annelida,Filograna implexa,https://minka-sdg.org/attachments/local_photos/files/376411/medium.jpeg,eduardmarques,42.3493421182,3.1881718694,cc-by-nc,"(c) eduardmarques, some rights reserved (CC BY-NC)",280809_376411.jpg
-280801,376400,actinopterygii,Pagrus pagrus,https://minka-sdg.org/attachments/local_photos/files/376400/medium.jpeg,manelor,42.3957083319,3.1572429584,cc-by,"(c) manelor, some rights reserved (CC BY)",280801_376400.jpg
+280801,376400,actinopterygii,Sparidae,https://minka-sdg.org/attachments/local_photos/files/376400/medium.jpeg,manelor,42.3957083319,3.1572429584,cc-by,"(c) manelor, some rights reserved (CC BY)",280801_376400.jpg
 280767,376398,mollusca,Haliotis tuberculata,https://minka-sdg.org/attachments/local_photos/files/376398/medium.jpeg,manelor,42.395328012,3.1563846515,cc-by,"(c) manelor, some rights reserved (CC BY)",280767_376398.jpg
 280767,376399,mollusca,Haliotis tuberculata,https://minka-sdg.org/attachments/local_photos/files/376399/medium.jpeg,manelor,42.395328012,3.1563846515,cc-by,"(c) manelor, some rights reserved (CC BY)",280767_376399.jpg
 280766,376397,porifera,Ircinia oros,https://minka-sdg.org/attachments/local_photos/files/376397/medium.jpeg,manelor,42.3952646251,3.1559554981,cc-by,"(c) manelor, some rights reserved (CC BY)",280766_376397.jpg
