@@ -1,4 +1,5 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+280810,376430,bryozoa,Myriapora truncata,https://minka-sdg.org/attachments/local_photos/files/376430/medium.jpeg,eduardmarques,42.346366532,3.1898619757,cc-by-nc,"(c) eduardmarques, some rights reserved (CC BY-NC)",280810_376430.jpg
 280809,376410,annelida,Filograna implexa,https://minka-sdg.org/attachments/local_photos/files/376410/medium.jpeg,eduardmarques,42.3493421182,3.1881718694,cc-by-nc,"(c) eduardmarques, some rights reserved (CC BY-NC)",280809_376410.jpg
 280809,376411,annelida,Filograna implexa,https://minka-sdg.org/attachments/local_photos/files/376411/medium.jpeg,eduardmarques,42.3493421182,3.1881718694,cc-by-nc,"(c) eduardmarques, some rights reserved (CC BY-NC)",280809_376411.jpg
 280801,376400,actinopterygii,Sparidae,https://minka-sdg.org/attachments/local_photos/files/376400/medium.jpeg,manelor,42.3957083319,3.1572429584,cc-by,"(c) manelor, some rights reserved (CC BY)",280801_376400.jpg
@@ -15,7 +16,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 280752,376331,actinopterygii,Parablennius sanguinolentus,https://minka-sdg.org/attachments/local_photos/files/376331/medium.jpeg,manelor,42.3952646251,3.1563846515,cc-by,"(c) manelor, some rights reserved (CC BY)",280752_376331.jpg
 280751,376330,cnidaria,Aiptasia couchi,https://minka-sdg.org/attachments/local_photos/files/376330/medium.jpeg,manelor,42.395328012,3.1562129902,cc-by,"(c) manelor, some rights reserved (CC BY)",280751_376330.jpg
 280750,376324,mollusca,Octopus vulgaris,https://minka-sdg.org/attachments/local_photos/files/376324/medium.jpeg,manelor,42.3945673652,3.1550113605,cc-by,"(c) manelor, some rights reserved (CC BY)",280750_376324.jpg
-280749,376321,actinopterygii,Atherina,https://minka-sdg.org/attachments/local_photos/files/376321/medium.jpeg,manelor,42.395328012,3.1557838367,cc-by,"(c) manelor, some rights reserved (CC BY)",280749_376321.jpg
+280749,376321,actinopterygii,Atherina hepsetus,https://minka-sdg.org/attachments/local_photos/files/376321/medium.jpeg,manelor,42.395328012,3.1557838367,cc-by,"(c) manelor, some rights reserved (CC BY)",280749_376321.jpg
 280581,376086,actinopterygii,Callionymus,https://minka-sdg.org/attachments/local_photos/files/376086/medium.jpeg,eduardmarques,42.3928686118,3.1539332163,cc-by-nc,"(c) eduardmarques, some rights reserved (CC BY-NC)",280581_376086.jpg
 280581,376087,actinopterygii,Callionymus,https://minka-sdg.org/attachments/local_photos/files/376087/medium.jpeg,eduardmarques,42.3928686118,3.1539332163,cc-by-nc,"(c) eduardmarques, some rights reserved (CC BY-NC)",280581_376087.jpg
 280580,376085,actinopterygii,Callionymus,https://minka-sdg.org/attachments/local_photos/files/376085/medium.jpeg,eduardmarques,42.3925441424,3.1542048702,cc-by-nc,"(c) eduardmarques, some rights reserved (CC BY-NC)",280580_376085.jpg
