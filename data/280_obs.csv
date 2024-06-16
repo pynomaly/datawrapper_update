@@ -1,4 +1,7 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+281500,2024-06-16,2024-06-16,2024-06-16,08:04:00,plantae,35456,genus,Posidonia,40.9808098101,0.905632452,False,Spain,needs_id,543,evararo,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Posidoniaceae,
+281499,2024-06-16,2024-06-16,2024-06-16,08:49:00,life,1,stateofmatter,Life,40.9807998101,0.905622452,False,Spain,needs_id,543,evararo,cc-by-nc,0,0,,,,,,
+281498,2024-06-16,2024-06-16,2024-06-16,08:49:00,life,1,stateofmatter,Life,40.9807968101,0.905619452,False,Spain,needs_id,543,evararo,cc-by-nc,0,0,,,,,,
 281422,2024-06-16,2024-06-16,2024-06-14,15:12:00,plantae,62742,genus,Nemastoma,41.0895457855,1.2288483646,False,"ANERIS - Parc Subaquàtic del Port… ., 43004 Tarragona, España",needs_id,866,biosub,cc-by-nc,0,0,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Nemastomataceae,
 281420,2024-06-15,2024-06-16,2024-06-15,01:03:00,mollusca,245702,species,Elysia timida,40.8470292145,0.7567955613,False,,research,197,peixderoca24,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Sacoglossa,Plakobranchidae,Elysia
 281419,2024-06-15,2024-06-16,2024-06-15,00:55:00,mollusca,261846,superorder,Imparidentia,40.8470292145,0.7567955613,False,,needs_id,197,peixderoca24,cc-by-nc,2,0,Animalia,Mollusca,Bivalvia,,,
