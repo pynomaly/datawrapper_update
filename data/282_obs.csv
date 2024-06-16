@@ -1,4 +1,5 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+281540,2024-06-16,2024-06-16,2024-06-16,08:47:00,,nan,,,41.4112701,2.227734,False,"Zona de Banys Fòrum, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
 281497,2024-06-16,2024-06-16,2024-06-12,09:40:00,crustacea,430,order,Cyclopoida,41.4469883,2.2450325,False,"Badalona, Barcelona, España",needs_id,3799,joel_ruz_mengual,cc-by,0,0,Animalia,Arthropoda,,,,
 281423,2024-06-16,2024-06-16,2024-06-16,07:39:00,,nan,,,41.41743,2.2266966667,False,Spain,needs_id,1311,srolivella,cc-by,0,0,,,,,,
 281298,2024-06-15,2024-06-15,2024-06-15,06:38:00,,nan,,,41.5294960168,2.4960748832,False,,needs_id,231,mochilo75,cc-by-nc,0,0,,,,,,
