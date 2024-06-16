@@ -1,4 +1,10 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+281825,377801,,,https://minka-sdg.org/attachments/local_photos/files/377801/medium.jpg,evararo,40.9919859733,0.9369028976,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",281825_377801.jpg
+281824,377800,,,https://minka-sdg.org/attachments/local_photos/files/377800/medium.jpg,evararo,40.9919829733,0.9368998976,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",281824_377800.jpg
+281823,377799,,,https://minka-sdg.org/attachments/local_photos/files/377799/medium.jpg,evararo,40.9919799733,0.9368968976,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",281823_377799.jpg
+281822,377798,,,https://minka-sdg.org/attachments/local_photos/files/377798/medium.jpg,evararo,40.9919769733,0.9368938976,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",281822_377798.jpg
+281821,377797,,,https://minka-sdg.org/attachments/local_photos/files/377797/medium.jpg,evararo,40.9919739733,0.9368908976,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",281821_377797.jpg
+281820,377796,,,https://minka-sdg.org/attachments/local_photos/files/377796/medium.jpg,evararo,40.9919709733,0.9368878976,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",281820_377796.jpg
 281819,377763,plantae,Codium bursa,https://minka-sdg.org/attachments/local_photos/files/377763/medium.jpeg,evararo,40.9902654439,0.9341494592,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",281819_377763.jpg
 281818,377763,actinopterygii,Chromis chromis,https://minka-sdg.org/attachments/local_photos/files/377763/medium.jpeg,evararo,40.9902654439,0.9341494592,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",281818_377763.jpg
 281817,377782,plantae,Halimeda tuna,https://minka-sdg.org/attachments/local_photos/files/377782/medium.jpeg,evararo,40.9902654439,0.9341494592,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",281817_377782.jpg
@@ -31,8 +37,8 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 281793,377775,,,https://minka-sdg.org/attachments/local_photos/files/377775/medium.jpeg,evararo,40.9902654439,0.9341494592,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",281793_377775.jpg
 281792,377774,echinodermata,Holothuria tubulosa,https://minka-sdg.org/attachments/local_photos/files/377774/medium.jpeg,evararo,40.9902654439,0.9341494592,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",281792_377774.jpg
 281791,377773,actinopterygii,Scorpaena porcus,https://minka-sdg.org/attachments/local_photos/files/377773/medium.jpeg,evararo,40.9902654439,0.9341494592,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",281791_377773.jpg
-281790,377771,,,https://minka-sdg.org/attachments/local_photos/files/377771/medium.jpeg,evararo,40.9902654439,0.9341494592,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",281790_377771.jpg
-281790,377772,,,https://minka-sdg.org/attachments/local_photos/files/377772/medium.jpeg,evararo,40.9902654439,0.9341494592,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",281790_377772.jpg
+281790,377771,mollusca,Loligo,https://minka-sdg.org/attachments/local_photos/files/377771/medium.jpeg,evararo,40.9902654439,0.9341494592,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",281790_377771.jpg
+281790,377772,mollusca,Loligo,https://minka-sdg.org/attachments/local_photos/files/377772/medium.jpeg,evararo,40.9902654439,0.9341494592,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",281790_377772.jpg
 281789,377770,plantae,Posidonia oceanica,https://minka-sdg.org/attachments/local_photos/files/377770/medium.jpeg,evararo,40.9902654439,0.9341494592,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",281789_377770.jpg
 281788,377768,actinopterygii,Chromis chromis,https://minka-sdg.org/attachments/local_photos/files/377768/medium.jpeg,evararo,40.9902654439,0.9341494592,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",281788_377768.jpg
 281787,377767,plantae,Posidonia oceanica,https://minka-sdg.org/attachments/local_photos/files/377767/medium.jpeg,evararo,40.9902654439,0.9341494592,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",281787_377767.jpg
