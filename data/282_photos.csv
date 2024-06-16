@@ -1,5 +1,5 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
-281497,377362,,,https://minka-sdg.org/attachments/local_photos/files/377362/medium.jpg,joel_ruz_mengual,41.4469883,2.2450325,cc-by,"(c) joel_ruz_mengual, some rights reserved (CC BY)",281497_377362.jpg
+281497,377362,crustacea,Cyclopoida,https://minka-sdg.org/attachments/local_photos/files/377362/medium.jpg,joel_ruz_mengual,41.4469883,2.2450325,cc-by,"(c) joel_ruz_mengual, some rights reserved (CC BY)",281497_377362.jpg
 281423,377258,,,https://minka-sdg.org/attachments/local_photos/files/377258/medium.jpg,srolivella,41.41743,2.2266966667,cc-by,"(c) Santi, some rights reserved (CC BY)",281423_377258.jpg
 281298,377163,,,https://minka-sdg.org/attachments/local_photos/files/377163/medium.jpg,mochilo75,41.5294960168,2.4960748832,cc-by-nc,"(c) mochilo75, some rights reserved (CC BY-NC)",281298_377163.jpg
 281261,377080,mollusca,Retusa mammillata,https://minka-sdg.org/attachments/local_photos/files/377080/medium.jpg,guillermoalvarez_fecdas,41.5252620157,2.4519503778,cc-by-nc,"(c) Guillermo Alvarez Lerma, some rights reserved (CC BY-NC)",281261_377080.jpg
@@ -109,7 +109,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 280885,376557,chromista,Dictyota dichotoma,https://minka-sdg.org/attachments/local_photos/files/376557/medium.jpeg,mar_avelles,41.3817191149,2.1968364918,C,"(c) Sofía, all rights reserved",280885_376557.jpg
 280884,376555,actinopterygii,Tripterygion tripteronotum,https://minka-sdg.org/attachments/local_photos/files/376555/medium.jpeg,mar_avelles,41.3817996157,2.197083255,C,"(c) Sofía, all rights reserved",280884_376555.jpg
 280884,376556,actinopterygii,Tripterygion tripteronotum,https://minka-sdg.org/attachments/local_photos/files/376556/medium.jpeg,mar_avelles,41.3817996157,2.197083255,C,"(c) Sofía, all rights reserved",280884_376556.jpg
-280883,376554,actinopterygii,Chelon labrosus,https://minka-sdg.org/attachments/local_photos/files/376554/medium.jpeg,mar_avelles,41.3816708144,2.1969008648,C,"(c) Sofía, all rights reserved",280883_376554.jpg
+280883,376554,actinopterygii,Mugilidae,https://minka-sdg.org/attachments/local_photos/files/376554/medium.jpeg,mar_avelles,41.3816708144,2.1969008648,C,"(c) Sofía, all rights reserved",280883_376554.jpg
 280882,376552,mollusca,Aplysia,https://minka-sdg.org/attachments/local_photos/files/376552/medium.jpeg,mar_avelles,41.3817191149,2.1969008648,C,"(c) Sofía, all rights reserved",280882_376552.jpg
 280882,376553,mollusca,Aplysia,https://minka-sdg.org/attachments/local_photos/files/376553/medium.jpeg,mar_avelles,41.3817191149,2.1969008648,C,"(c) Sofía, all rights reserved",280882_376553.jpg
 280881,376551,echinodermata,Arbacia lixula,https://minka-sdg.org/attachments/local_photos/files/376551/medium.jpeg,mar_avelles,41.3817513151,2.1969223226,C,"(c) Sofía, all rights reserved",280881_376551.jpg
