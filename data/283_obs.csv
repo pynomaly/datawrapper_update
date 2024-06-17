@@ -10433,6 +10433,27 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 270003,2024-05-20,2024-05-20,2024-05-18,09:01:00,actinopterygii,34871,species,Tripterygion delaisi,41.8118451645,3.0887418349,False,"La Llosa, Platja d'Aro, Girona, España",research,55,yespi,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Tripterygiidae,Tripterygion
 270002,2024-05-20,2024-05-20,2024-05-18,09:01:00,plantae,34884,species,Flabellia petiolata,41.8118451645,3.0887418349,False,"La Llosa, Platja d'Aro, Girona, España",research,55,yespi,cc-by-nc,2,0,Plantae,Chlorophyta,Bryopsidophyceae,Bryopsidales,Codiaceae,Flabellia
 270001,2024-05-20,2024-05-20,2024-05-18,09:01:00,chromista,29375,genus,Halopteris,41.8118451645,3.0887418349,False,"La Llosa, Platja d'Aro, Girona, España",needs_id,55,yespi,cc-by-nc,1,0,Chromista,Ochrophyta,Phaeophyceae,Sphacelariales,Stypocaulaceae,
+282165,2024-06-17,2024-06-17,2024-06-16,07:48:00,,nan,,,41.410225082,2.2277497501,False,Spain,needs_id,822,prema,C,0,0,,,,,,
+282164,2024-06-17,2024-06-17,2024-06-16,10:02:00,,nan,,,41.410218082,2.2277427501,False,Spain,needs_id,822,prema,C,0,0,,,,,,
+282163,2024-06-17,2024-06-17,2024-06-16,09:46:00,mollusca,35075,species,Octopus vulgaris,41.410211082,2.2277357501,False,Spain,needs_id,822,prema,C,0,0,Animalia,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus
+282162,2024-06-17,2024-06-17,2024-06-16,06:45:00,,nan,,,41.410204082,2.2277287501,False,Spain,needs_id,822,prema,C,0,0,,,,,,
+282161,2024-06-17,2024-06-17,2024-06-16,09:44:00,,nan,,,41.410197082,2.2277217501,False,Spain,needs_id,822,prema,C,0,0,,,,,,
+282160,2024-06-17,2024-06-17,2024-06-16,07:44:00,,nan,,,41.410190082,2.2277147501,False,Spain,needs_id,822,prema,C,0,0,,,,,,
+282159,2024-06-17,2024-06-17,2024-06-16,09:43:00,,nan,,,41.410183082,2.2277077501,False,Spain,needs_id,822,prema,C,0,0,,,,,,
+282158,2024-06-17,2024-06-17,2024-06-16,09:42:00,,nan,,,41.410176082,2.2277007501,False,Spain,needs_id,822,prema,C,0,0,,,,,,
+282157,2024-06-17,2024-06-17,2024-06-16,06:59:00,,nan,,,41.410169082,2.2276937501,False,Spain,needs_id,822,prema,C,0,0,,,,,,
+282156,2024-06-17,2024-06-17,2024-06-16,08:41:00,mollusca,245605,species,Aplysia punctata,41.410162082,2.2276867501,False,Spain,needs_id,822,prema,C,0,0,Animalia,Mollusca,Gastropoda,Aplysiida,Aplysiidae,Aplysia
+282155,2024-06-17,2024-06-17,2024-06-16,08:40:00,actinopterygii,35120,species,Gobius incognitus,41.410155082,2.2276797501,False,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Gobius
+282154,2024-06-17,2024-06-17,2024-06-15,18:55:00,,nan,,,41.410148082,2.2276727501,False,Spain,needs_id,822,prema,C,0,0,,,,,,
+282153,2024-06-17,2024-06-17,2024-06-15,18:53:00,mollusca,35075,species,Octopus vulgaris,41.410141082,2.2276657501,False,Spain,needs_id,822,prema,C,0,0,Animalia,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus
+282152,2024-06-17,2024-06-17,2024-06-15,19:37:00,actinopterygii,34965,species,Scorpaena porcus,41.410134082,2.2276587501,False,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,Scorpaena
+282151,2024-06-17,2024-06-17,2024-06-15,20:58:00,,nan,,,41.410127082,2.2276517501,False,Spain,needs_id,822,prema,C,0,0,,,,,,
+282150,2024-06-17,2024-06-17,2024-06-15,18:52:00,actinopterygii,34965,species,Scorpaena porcus,41.410120082,2.2276447501,False,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,Scorpaena
+282149,2024-06-17,2024-06-17,2024-06-15,18:53:00,mollusca,245599,species,Aplysia fasciata,41.410113082,2.2276377501,False,Spain,needs_id,822,prema,C,0,0,Animalia,Mollusca,Gastropoda,Aplysiida,Aplysiidae,Aplysia
+282148,2024-06-17,2024-06-17,2024-06-15,19:30:00,actinopterygii,34965,species,Scorpaena porcus,41.410106082,2.2276307501,False,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,Scorpaena
+282147,2024-06-17,2024-06-17,2024-06-15,17:55:00,mollusca,35075,species,Octopus vulgaris,41.410099082,2.2276237501,False,Spain,needs_id,822,prema,C,0,0,Animalia,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus
+282146,2024-06-17,2024-06-17,2024-06-15,20:54:00,life,1,stateofmatter,Life,41.410092082,2.2276167501,False,Spain,needs_id,822,prema,C,0,0,,,,,,
+282145,2024-06-17,2024-06-17,2024-06-15,18:53:00,life,1,stateofmatter,Life,41.410085082,2.2276097501,False,Spain,needs_id,822,prema,C,0,0,,,,,,
 282144,2024-06-17,2024-06-17,2024-06-15,20:55:00,,nan,,,41.410078082,2.2276027501,False,Spain,needs_id,822,prema,C,0,0,,,,,,
 282143,2024-06-17,2024-06-17,2024-06-15,19:58:00,mollusca,35075,species,Octopus vulgaris,41.4100561716,2.2275126105,False,Spain,needs_id,822,prema,C,0,0,Animalia,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus
 282142,2024-06-17,2024-06-17,2024-06-15,18:54:00,,nan,,,41.4100491716,2.2275056105,False,Spain,needs_id,822,prema,C,0,0,,,,,,
@@ -10902,7 +10923,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 281570,2024-06-16,2024-06-16,2024-06-16,06:38:00,crustacea,35193,species,Diogenes pugilator,42.1070754333,3.1695197329,False,Spain,needs_id,72,badosa,cc-by-nc,0,0,Animalia,Arthropoda,Malacostraca,Decapoda,Diogenidae,Diogenes
 281569,2024-06-16,2024-06-16,2024-06-16,06:35:00,echinodermata,245411,species,Echinocardium cordatum,42.1070417739,3.1695733771,False,Spain,needs_id,72,badosa,cc-by-nc,0,0,Animalia,Echinodermata,Echinoidea,Spatangoida,Loveniidae,Echinocardium
 281568,2024-06-16,2024-06-16,2024-06-16,06:31:00,plantae,35158,species,Acetabularia acetabulum,42.1070897561,3.1694012799,False,Spain,needs_id,72,badosa,cc-by-nc,0,0,Plantae,Chlorophyta,Ulvophyceae,Dasycladales,Polyphysaceae,Acetabularia
-281567,2024-06-16,2024-06-16,2024-06-16,06:40:00,echinodermata,35292,species,Astropecten spinulosus,42.1074459493,3.1697285094,False,Spain,needs_id,72,badosa,cc-by-nc,0,0,Animalia,Echinodermata,Asteroidea,Paxillosida,Astropectinidae,Astropecten
+281567,2024-06-16,2024-06-17,2024-06-16,06:40:00,echinodermata,247293,species,Astropecten platyacanthus,42.1074459493,3.1697285094,False,Spain,needs_id,72,badosa,cc-by-nc,0,0,Animalia,Echinodermata,Asteroidea,Paxillosida,Astropectinidae,Astropecten
 281566,2024-06-16,2024-06-16,2024-06-16,06:28:00,actinopterygii,250650,species,Chelon auratus,42.1073842624,3.1696721831,False,Spain,needs_id,72,badosa,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Mugiliformes,Mugilidae,Chelon
 281565,2024-06-16,2024-06-16,2024-06-16,06:23:00,actinopterygii,35209,species,Hippocampus hippocampus,42.1072531601,3.1696706274,False,Spain,needs_id,72,badosa,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Syngnathiformes,Syngnathidae,Hippocampus
 281564,2024-06-16,2024-06-16,2024-06-16,06:15:00,actinopterygii,35282,species,Bothus podas,42.107456296,3.1698386846,False,Spain,needs_id,72,badosa,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Pleuronectiformes,Bothidae,Bothus

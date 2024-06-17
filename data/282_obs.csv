@@ -1,4 +1,21 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+282165,2024-06-17,2024-06-17,2024-06-16,07:48:00,,nan,,,41.410225082,2.2277497501,False,Spain,needs_id,822,prema,C,0,0,,,,,,
+282164,2024-06-17,2024-06-17,2024-06-16,10:02:00,,nan,,,41.410218082,2.2277427501,False,Spain,needs_id,822,prema,C,0,0,,,,,,
+282163,2024-06-17,2024-06-17,2024-06-16,09:46:00,mollusca,35075,species,Octopus vulgaris,41.410211082,2.2277357501,False,Spain,needs_id,822,prema,C,0,0,Animalia,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus
+282162,2024-06-17,2024-06-17,2024-06-16,06:45:00,,nan,,,41.410204082,2.2277287501,False,Spain,needs_id,822,prema,C,0,0,,,,,,
+282161,2024-06-17,2024-06-17,2024-06-16,09:44:00,,nan,,,41.410197082,2.2277217501,False,Spain,needs_id,822,prema,C,0,0,,,,,,
+282160,2024-06-17,2024-06-17,2024-06-16,07:44:00,,nan,,,41.410190082,2.2277147501,False,Spain,needs_id,822,prema,C,0,0,,,,,,
+282159,2024-06-17,2024-06-17,2024-06-16,09:43:00,,nan,,,41.410183082,2.2277077501,False,Spain,needs_id,822,prema,C,0,0,,,,,,
+282158,2024-06-17,2024-06-17,2024-06-16,09:42:00,,nan,,,41.410176082,2.2277007501,False,Spain,needs_id,822,prema,C,0,0,,,,,,
+282157,2024-06-17,2024-06-17,2024-06-16,06:59:00,,nan,,,41.410169082,2.2276937501,False,Spain,needs_id,822,prema,C,0,0,,,,,,
+282156,2024-06-17,2024-06-17,2024-06-16,08:41:00,mollusca,245605,species,Aplysia punctata,41.410162082,2.2276867501,False,Spain,needs_id,822,prema,C,0,0,Animalia,Mollusca,Gastropoda,Aplysiida,Aplysiidae,Aplysia
+282155,2024-06-17,2024-06-17,2024-06-16,08:40:00,actinopterygii,35120,species,Gobius incognitus,41.410155082,2.2276797501,False,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Gobius
+282154,2024-06-17,2024-06-17,2024-06-15,18:55:00,,nan,,,41.410148082,2.2276727501,False,Spain,needs_id,822,prema,C,0,0,,,,,,
+282153,2024-06-17,2024-06-17,2024-06-15,18:53:00,mollusca,35075,species,Octopus vulgaris,41.410141082,2.2276657501,False,Spain,needs_id,822,prema,C,0,0,Animalia,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus
+282152,2024-06-17,2024-06-17,2024-06-15,19:37:00,actinopterygii,34965,species,Scorpaena porcus,41.410134082,2.2276587501,False,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,Scorpaena
+282151,2024-06-17,2024-06-17,2024-06-15,20:58:00,,nan,,,41.410127082,2.2276517501,False,Spain,needs_id,822,prema,C,0,0,,,,,,
+282150,2024-06-17,2024-06-17,2024-06-15,18:52:00,actinopterygii,34965,species,Scorpaena porcus,41.410120082,2.2276447501,False,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,Scorpaena
+282149,2024-06-17,2024-06-17,2024-06-15,18:53:00,mollusca,245599,species,Aplysia fasciata,41.410113082,2.2276377501,False,Spain,needs_id,822,prema,C,0,0,Animalia,Mollusca,Gastropoda,Aplysiida,Aplysiidae,Aplysia
 282148,2024-06-17,2024-06-17,2024-06-15,19:30:00,actinopterygii,34965,species,Scorpaena porcus,41.410106082,2.2276307501,False,Spain,needs_id,822,prema,C,0,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,Scorpaena
 282147,2024-06-17,2024-06-17,2024-06-15,17:55:00,mollusca,35075,species,Octopus vulgaris,41.410099082,2.2276237501,False,Spain,needs_id,822,prema,C,0,0,Animalia,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus
 282146,2024-06-17,2024-06-17,2024-06-15,20:54:00,life,1,stateofmatter,Life,41.410092082,2.2276167501,False,Spain,needs_id,822,prema,C,0,0,,,,,,
@@ -398,7 +415,6 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 280786,2024-06-14,2024-06-14,2024-06-13,07:06:00,,nan,,,41.3042745052,2.1280146727,False,Desembocadura del riu Llobregat,needs_id,15,mediambient_ajelprat,cc-by-nc,0,0,,,,,,
 280785,2024-06-14,2024-06-15,2024-06-13,09:03:00,insecta,253551,species,Vanessa atalanta,41.303781595,2.122263322,False,Observatori del Sabogal,research,15,mediambient_ajelprat,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Vanessa
 280784,2024-06-14,2024-06-15,2024-06-13,08:43:00,reptilia,254136,species,Podarcis liolepis,41.303781595,2.122263322,False,Observatori del Sabogal,research,15,mediambient_ajelprat,cc-by-nc,1,0,Animalia,Chordata,Reptilia,Squamata,Lacertidae,Podarcis
-280783,2024-06-14,2024-06-15,2024-06-13,08:52:00,insecta,252648,species,Oxythyrea funesta,41.303781595,2.122263322,False,Observatori del Sabogal,research,15,mediambient_ajelprat,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,Coleoptera,Cetoniidae,Oxythyrea
 280783,2024-06-14,2024-06-15,2024-06-13,08:52:00,insecta,252648,species,Oxythyrea funesta,41.303781595,2.122263322,False,Observatori del Sabogal,research,15,mediambient_ajelprat,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,Coleoptera,Cetoniidae,Oxythyrea
 280782,2024-06-14,2024-06-15,2024-06-13,08:43:00,insecta,252522,species,Orthetrum cancellatum,41.303781595,2.122263322,False,Observatori del Sabogal,research,15,mediambient_ajelprat,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,Odonata,Libellulidae,Orthetrum
 280781,2024-06-14,2024-06-15,2024-06-13,08:52:00,insecta,101291,species,Lasiommata megera,41.303781595,2.122263322,False,Observatori del Sabogal,research,15,mediambient_ajelprat,cc-by-nc,1,0,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Lasiommata
