@@ -1,6 +1,5 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
 282384,378742,bryozoa,Myriapora truncata,https://minka-sdg.org/attachments/local_photos/files/378742/medium.jpg,biosub,41.0896752629,1.2285137519,cc-by-nc,"(c) Gregorio Marco Naya, some rights reserved (CC BY-NC)",282384_378742.jpg
-282383,378741,,Doridicola agilis,https://minka-sdg.org/attachments/local_photos/files/378741/medium.jpg,biosub,41.0896752629,1.2285137519,cc-by-nc,"(c) Gregorio Marco Naya, some rights reserved (CC BY-NC)",282383_378741.jpg
 282382,378740,mollusca,Felimare tricolor,https://minka-sdg.org/attachments/local_photos/files/378740/medium.jpg,biosub,41.0896752629,1.2285137519,cc-by-nc,"(c) Gregorio Marco Naya, some rights reserved (CC BY-NC)",282382_378740.jpg
 282381,378739,cnidaria,Leptopsammia pruvoti,https://minka-sdg.org/attachments/local_photos/files/378739/medium.jpg,biosub,41.0896752629,1.2285137519,cc-by-nc,"(c) Gregorio Marco Naya, some rights reserved (CC BY-NC)",282381_378739.jpg
 282380,378738,mollusca,Phyllidia flava,https://minka-sdg.org/attachments/local_photos/files/378738/medium.jpg,biosub,41.0896752629,1.2285137519,cc-by-nc,"(c) Gregorio Marco Naya, some rights reserved (CC BY-NC)",282380_378738.jpg
@@ -42,13 +41,13 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 281815,377764,plantae,Codium bursa,https://minka-sdg.org/attachments/local_photos/files/377764/medium.jpeg,evararo,40.9902654439,0.9341494592,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",281815_377764.jpg
 281814,377764,plantae,Posidonia oceanica,https://minka-sdg.org/attachments/local_photos/files/377764/medium.jpeg,evararo,40.9902654439,0.9341494592,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",281814_377764.jpg
 281813,377764,chromista,Padina pavonica,https://minka-sdg.org/attachments/local_photos/files/377764/medium.jpeg,evararo,40.9902654439,0.9341494592,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",281813_377764.jpg
-281812,377780,animalia,Animalia,https://minka-sdg.org/attachments/local_photos/files/377780/medium.jpeg,evararo,40.9902654439,0.9341494592,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",281812_377780.jpg
+281812,377780,bryozoa,Myriapora truncata,https://minka-sdg.org/attachments/local_photos/files/377780/medium.jpeg,evararo,40.9902654439,0.9341494592,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",281812_377780.jpg
 281810,377749,chromista,Padina pavonica,https://minka-sdg.org/attachments/local_photos/files/377749/medium.jpeg,evararo,40.9902654439,0.9341494592,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",281810_377749.jpg
 281808,377795,mollusca,Lima,https://minka-sdg.org/attachments/local_photos/files/377795/medium.jpeg,evararo,40.9902654439,0.9341494592,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",281808_377795.jpg
 281807,377794,,,https://minka-sdg.org/attachments/local_photos/files/377794/medium.jpeg,evararo,40.9902654439,0.9341494592,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",281807_377794.jpg
 281806,377793,chromista,Padina pavonica,https://minka-sdg.org/attachments/local_photos/files/377793/medium.jpeg,evararo,40.9902654439,0.9341494592,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",281806_377793.jpg
 281805,377792,,,https://minka-sdg.org/attachments/local_photos/files/377792/medium.jpeg,evararo,40.9902654439,0.9341494592,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",281805_377792.jpg
-281804,377791,,,https://minka-sdg.org/attachments/local_photos/files/377791/medium.jpeg,evararo,40.9902654439,0.9341494592,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",281804_377791.jpg
+281804,377791,crustacea,Maja crispata,https://minka-sdg.org/attachments/local_photos/files/377791/medium.jpeg,evararo,40.9902654439,0.9341494592,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",281804_377791.jpg
 281803,377788,,,https://minka-sdg.org/attachments/local_photos/files/377788/medium.jpeg,evararo,40.9902654439,0.9341494592,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",281803_377788.jpg
 281802,377786,plantae,Codium bursa,https://minka-sdg.org/attachments/local_photos/files/377786/medium.jpeg,evararo,40.9902654439,0.9341494592,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",281802_377786.jpg
 281802,377787,plantae,Codium bursa,https://minka-sdg.org/attachments/local_photos/files/377787/medium.jpeg,evararo,40.9902654439,0.9341494592,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",281802_377787.jpg
