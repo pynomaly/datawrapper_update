@@ -1,5 +1,5 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
-282570,378976,cnidaria,Eunicella,https://minka-sdg.org/attachments/local_photos/files/378976/medium.png,aff,41.0897053846,1.228294118,cc-by,"(c) Àngels Folch, some rights reserved (CC BY)",282570_378976.jpg
+282570,378976,cnidaria,Gorgoniidae,https://minka-sdg.org/attachments/local_photos/files/378976/medium.png,aff,41.0897053846,1.228294118,cc-by,"(c) Àngels Folch, some rights reserved (CC BY)",282570_378976.jpg
 282505,378891,cnidaria,Chrysaora hysoscella,https://minka-sdg.org/attachments/local_photos/files/378891/medium.jpeg,eso2c,40.8867829863,0.8068481185,cc-by,"(c) eso2c, some rights reserved (CC BY)",282505_378891.jpg
 282384,378742,bryozoa,Myriapora truncata,https://minka-sdg.org/attachments/local_photos/files/378742/medium.jpg,biosub,41.0896752629,1.2285137519,cc-by-nc,"(c) Gregorio Marco Naya, some rights reserved (CC BY-NC)",282384_378742.jpg
 282382,378740,mollusca,Felimare tricolor,https://minka-sdg.org/attachments/local_photos/files/378740/medium.jpg,biosub,41.0896752629,1.2285137519,cc-by-nc,"(c) Gregorio Marco Naya, some rights reserved (CC BY-NC)",282382_378740.jpg
@@ -8,7 +8,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 282379,378737,mollusca,Thuridilla hopei,https://minka-sdg.org/attachments/local_photos/files/378737/medium.jpg,biosub,41.0896752629,1.2285137519,cc-by-nc,"(c) Gregorio Marco Naya, some rights reserved (CC BY-NC)",282379_378737.jpg
 282378,378736,plantae,Sphaerococcus coronopifolius,https://minka-sdg.org/attachments/local_photos/files/378736/medium.jpg,biosub,41.0896752629,1.2285137519,cc-by-nc,"(c) Gregorio Marco Naya, some rights reserved (CC BY-NC)",282378_378736.jpg
 282377,378735,plantae,Halimeda tuna,https://minka-sdg.org/attachments/local_photos/files/378735/medium.jpg,biosub,41.0896752629,1.2285137519,cc-by-nc,"(c) Gregorio Marco Naya, some rights reserved (CC BY-NC)",282377_378735.jpg
-282371,378734,porifera,Corticium candelabrum,https://minka-sdg.org/attachments/local_photos/files/378734/medium.jpg,biosub,41.0896752629,1.2285137519,cc-by-nc,"(c) Gregorio Marco Naya, some rights reserved (CC BY-NC)",282371_378734.jpg
+282371,378734,porifera,Porifera,https://minka-sdg.org/attachments/local_photos/files/378734/medium.jpg,biosub,41.0896752629,1.2285137519,cc-by-nc,"(c) Gregorio Marco Naya, some rights reserved (CC BY-NC)",282371_378734.jpg
 282370,378733,porifera,Clathrina clathrus,https://minka-sdg.org/attachments/local_photos/files/378733/medium.jpg,biosub,41.0896752629,1.2285137519,cc-by-nc,"(c) Gregorio Marco Naya, some rights reserved (CC BY-NC)",282370_378733.jpg
 281840,377819,plantae,Posidonia oceanica,https://minka-sdg.org/attachments/local_photos/files/377819/medium.jpg,monyant,40.9095562765,0.83011924,cc-by-nc,"(c) Monique Mendoza, some rights reserved (CC BY-NC)",281840_377819.jpg
 281840,377820,plantae,Posidonia oceanica,https://minka-sdg.org/attachments/local_photos/files/377820/medium.jpg,monyant,40.9095562765,0.83011924,cc-by-nc,"(c) Monique Mendoza, some rights reserved (CC BY-NC)",281840_377820.jpg
