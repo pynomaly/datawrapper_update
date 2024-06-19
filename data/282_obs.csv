@@ -1,24 +1,25 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
-283093,2024-06-19,2024-06-19,2024-06-19,10:38:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-283092,2024-06-19,2024-06-19,2024-06-19,10:38:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-283091,2024-06-19,2024-06-19,2024-06-19,10:37:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-283090,2024-06-19,2024-06-19,2024-06-19,10:37:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-283089,2024-06-19,2024-06-19,2024-06-19,10:37:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-283087,2024-06-19,2024-06-19,2024-06-19,10:36:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-283088,2024-06-19,2024-06-19,2024-06-19,10:37:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-283086,2024-06-19,2024-06-19,2024-06-19,10:36:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-283085,2024-06-19,2024-06-19,2024-06-19,10:35:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-283084,2024-06-19,2024-06-19,2024-06-19,10:35:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+283094,2024-06-19,2024-06-19,2024-06-19,10:38:00,chromista,35106,species,Padina pavonica,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
+283093,2024-06-19,2024-06-19,2024-06-19,10:38:00,cnidaria,35166,species,Cladocora caespitosa,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Cnidaria,Anthozoa,Scleractinia,Caryophylliidae,Cladocora
+283092,2024-06-19,2024-06-19,2024-06-19,10:38:00,bryozoa,34982,species,Myriapora truncata,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Bryozoa,Gymnolaemata,Cheilostomatida,Myriaporidae,Myriapora
+283091,2024-06-19,2024-06-19,2024-06-19,10:37:00,porifera,242281,species,Crambe crambe,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Porifera,Demospongiae,Poecilosclerida,Crambeidae,Crambe
+283090,2024-06-19,2024-06-19,2024-06-19,10:37:00,crustacea,35084,species,Dardanus calidus,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Arthropoda,Malacostraca,Decapoda,Diogenidae,Dardanus
+283089,2024-06-19,2024-06-19,2024-06-19,10:37:00,cnidaria,248155,species,Calliactis parasitica,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Hormathiidae,Calliactis
+283087,2024-06-19,2024-06-19,2024-06-19,10:36:00,cnidaria,35220,species,Anemonia viridis,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Anemonia
+283088,2024-06-19,2024-06-19,2024-06-19,10:37:00,plantae,35004,species,Halimeda tuna,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Plantae,Chlorophyta,Bryopsidophyceae,Bryopsidales,Halimedaceae,Halimeda
+283086,2024-06-19,2024-06-19,2024-06-19,10:36:00,cnidaria,35248,species,Leptogorgia sarmentosa,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Cnidaria,Anthozoa,Alcyonacea,Gorgoniidae,Leptogorgia
+283085,2024-06-19,2024-06-19,2024-06-19,10:35:00,echinodermata,251875,species,Holothuria tubulosa,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria
+283084,2024-06-19,2024-06-19,2024-06-19,10:35:00,porifera,242281,species,Crambe crambe,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Porifera,Demospongiae,Poecilosclerida,Crambeidae,Crambe
 283083,2024-06-19,2024-06-19,2024-06-19,10:35:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-283082,2024-06-19,2024-06-19,2024-06-19,10:35:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-283081,2024-06-19,2024-06-19,2024-06-19,10:34:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-283080,2024-06-19,2024-06-19,2024-06-19,10:34:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-283079,2024-06-19,2024-06-19,2024-06-19,10:33:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-283078,2024-06-19,2024-06-19,2024-06-19,10:33:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-283077,2024-06-19,2024-06-19,2024-06-19,10:33:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-283076,2024-06-19,2024-06-19,2024-06-19,10:32:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-283075,2024-06-19,2024-06-19,2024-06-19,10:32:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-283074,2024-06-19,2024-06-19,2024-06-19,10:32:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+283082,2024-06-19,2024-06-19,2024-06-19,10:35:00,actinopterygii,34796,species,Scorpaena notata,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,Scorpaena
+283081,2024-06-19,2024-06-19,2024-06-19,10:34:00,plantae,35128,species,Posidonia oceanica,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Posidoniaceae,Posidonia
+283080,2024-06-19,2024-06-19,2024-06-19,10:34:00,chromista,35106,species,Padina pavonica,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
+283079,2024-06-19,2024-06-19,2024-06-19,10:33:00,cnidaria,35166,species,Cladocora caespitosa,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Cnidaria,Anthozoa,Scleractinia,Caryophylliidae,Cladocora
+283078,2024-06-19,2024-06-19,2024-06-19,10:33:00,porifera,242281,species,Crambe crambe,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Porifera,Demospongiae,Poecilosclerida,Crambeidae,Crambe
+283077,2024-06-19,2024-06-19,2024-06-19,10:33:00,plantae,35128,species,Posidonia oceanica,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Posidoniaceae,Posidonia
+283076,2024-06-19,2024-06-19,2024-06-19,10:32:00,actinopterygii,34805,species,Sarpa salpa,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
+283075,2024-06-19,2024-06-19,2024-06-19,10:32:00,actinopterygii,12378,species,Apogon imberbis,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Apogonidae,Apogon
+283074,2024-06-19,2024-06-19,2024-06-19,10:32:00,porifera,250915,species,Chondrosia reniformis,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Porifera,Demospongiae,Chondrosida,Chondrillidae,Chondrosia
 283073,2024-06-19,2024-06-19,2024-06-19,10:30:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
 283072,2024-06-19,2024-06-19,2024-06-19,10:32:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
 283071,2024-06-19,2024-06-19,2024-06-19,10:30:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
