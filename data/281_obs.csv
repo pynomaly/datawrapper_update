@@ -1,7 +1,7 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
 283397,2024-06-20,2024-06-20,2024-06-20,08:45:00,,nan,,,41.7719902518,3.0216641396,False,,needs_id,2888,tonihillaalos,cc-by,0,0,,,,,,
 283396,2024-06-20,2024-06-20,2024-06-20,08:49:00,,nan,,,41.7720317967,3.0216172273,False,,needs_id,2888,tonihillaalos,cc-by,0,0,,,,,,
-283395,2024-06-20,2024-06-20,2024-06-20,08:32:00,,nan,,,41.7717496014,3.0215496656,False,,needs_id,2888,tonihillaalos,cc-by,0,0,,,,,,
+283395,2024-06-20,2024-06-20,2024-06-20,08:32:00,actinopterygii,34971,species,Phycis phycis,41.7717496014,3.0215496656,False,,needs_id,2888,tonihillaalos,cc-by,0,0,Animalia,Chordata,Actinopterygii,Gadiformes,Phycidae,Phycis
 283394,2024-06-20,2024-06-20,2024-06-20,08:24:00,,261265,family,Poseidoniaceae,41.7709875205,3.0209165704,False,,needs_id,2888,tonihillaalos,cc-by,0,0,Archaea,,,,,
 283324,2024-06-20,2024-06-20,2024-06-20,16:22:00,mollusca,34988,species,Felimare tricolor,42.0668008369,3.2124264316,False,Spain,research,834,xavimarimon8,cc-by-nc-nd,1,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Felimare
 283323,2024-06-20,2024-06-20,2024-06-20,16:20:00,mollusca,35113,species,Felimida krohni,42.0667678062,3.2124339721,False,Spain,research,834,xavimarimon8,cc-by-nc-nd,1,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Felimida
