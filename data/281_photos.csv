@@ -1,4 +1,8 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+283397,380217,,,https://minka-sdg.org/attachments/local_photos/files/380217/medium.jpeg,tonihillaalos,41.7719902518,3.0216641396,cc-by,"(c) Toni Hilla Alòs, some rights reserved (CC BY)",283397_380217.jpg
+283396,380216,,,https://minka-sdg.org/attachments/local_photos/files/380216/medium.jpeg,tonihillaalos,41.7720317967,3.0216172273,cc-by,"(c) Toni Hilla Alòs, some rights reserved (CC BY)",283396_380216.jpg
+283395,380215,,,https://minka-sdg.org/attachments/local_photos/files/380215/medium.jpeg,tonihillaalos,41.7717496014,3.0215496656,cc-by,"(c) Toni Hilla Alòs, some rights reserved (CC BY)",283395_380215.jpg
+283394,380213,,Poseidoniaceae,https://minka-sdg.org/attachments/local_photos/files/380213/medium.jpeg,tonihillaalos,41.7709875205,3.0209165704,cc-by,"(c) Toni Hilla Alòs, some rights reserved (CC BY)",283394_380213.jpg
 283324,380194,mollusca,Felimare tricolor,https://minka-sdg.org/attachments/local_photos/files/380194/medium.jpeg,xavimarimon8,42.0668008369,3.2124264316,cc-by-nc-nd,"(c) Xavimarimon8, some rights reserved (CC BY-NC-ND)",283324_380194.jpg
 283323,380195,mollusca,Felimida krohni,https://minka-sdg.org/attachments/local_photos/files/380195/medium.jpeg,xavimarimon8,42.0667678062,3.2124339721,cc-by-nc-nd,"(c) Xavimarimon8, some rights reserved (CC BY-NC-ND)",283323_380195.jpg
 283322,380193,mollusca,Felimare tricolor,https://minka-sdg.org/attachments/local_photos/files/380193/medium.jpeg,xavimarimon8,42.066806256,3.2124030081,cc-by-nc-nd,"(c) Xavimarimon8, some rights reserved (CC BY-NC-ND)",283322_380193.jpg
@@ -385,7 +389,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 281715,377681,cnidaria,Aiptasia couchi,https://minka-sdg.org/attachments/local_photos/files/377681/medium.jpeg,adriacompte,41.9212978565,3.2159056215,cc-by-nc,"(c) adriacompte, some rights reserved (CC BY-NC)",281715_377681.jpg
 281714,377680,plantae,Acetabularia acetabulum,https://minka-sdg.org/attachments/local_photos/files/377680/medium.jpeg,adriacompte,41.9212978565,3.2159056215,cc-by-nc,"(c) adriacompte, some rights reserved (CC BY-NC)",281714_377680.jpg
 281589,377543,,,https://minka-sdg.org/attachments/local_photos/files/377543/medium.jpeg,tonihillaalos,41.7987843807,3.065091682,cc-by,"(c) Toni Hilla Alòs, some rights reserved (CC BY)",281589_377543.jpg
-281588,377542,,,https://minka-sdg.org/attachments/local_photos/files/377542/medium.jpeg,tonihillaalos,41.798140157,3.0666819781,cc-by,"(c) Toni Hilla Alòs, some rights reserved (CC BY)",281588_377542.jpg
+281588,377542,echinodermata,Sphaerechinus granularis,https://minka-sdg.org/attachments/local_photos/files/377542/medium.jpeg,tonihillaalos,41.798140157,3.0666819781,cc-by,"(c) Toni Hilla Alòs, some rights reserved (CC BY)",281588_377542.jpg
 281586,377536,actinopterygii,Boops boops,https://minka-sdg.org/attachments/local_photos/files/377536/medium.jpeg,badosa,42.1079622334,3.1711688881,cc-by-nc,"(c) Enric Badosa, some rights reserved (CC BY-NC)",281586_377536.jpg
 281586,377535,actinopterygii,Boops boops,https://minka-sdg.org/attachments/local_photos/files/377535/medium.jpeg,badosa,42.1079622334,3.1711688881,cc-by-nc,"(c) Enric Badosa, some rights reserved (CC BY-NC)",281586_377535.jpg
 281585,377532,plantae,Posidonia oceanica,https://minka-sdg.org/attachments/local_photos/files/377532/medium.jpeg,badosa,42.1079701929,3.1711327462,cc-by-nc,"(c) Enric Badosa, some rights reserved (CC BY-NC)",281585_377532.jpg

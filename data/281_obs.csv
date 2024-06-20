@@ -1,4 +1,8 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+283397,2024-06-20,2024-06-20,2024-06-20,08:45:00,,nan,,,41.7719902518,3.0216641396,False,,needs_id,2888,tonihillaalos,cc-by,0,0,,,,,,
+283396,2024-06-20,2024-06-20,2024-06-20,08:49:00,,nan,,,41.7720317967,3.0216172273,False,,needs_id,2888,tonihillaalos,cc-by,0,0,,,,,,
+283395,2024-06-20,2024-06-20,2024-06-20,08:32:00,,nan,,,41.7717496014,3.0215496656,False,,needs_id,2888,tonihillaalos,cc-by,0,0,,,,,,
+283394,2024-06-20,2024-06-20,2024-06-20,08:24:00,,261265,family,Poseidoniaceae,41.7709875205,3.0209165704,False,,needs_id,2888,tonihillaalos,cc-by,0,0,Archaea,,,,,
 283324,2024-06-20,2024-06-20,2024-06-20,16:22:00,mollusca,34988,species,Felimare tricolor,42.0668008369,3.2124264316,False,Spain,research,834,xavimarimon8,cc-by-nc-nd,1,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Felimare
 283323,2024-06-20,2024-06-20,2024-06-20,16:20:00,mollusca,35113,species,Felimida krohni,42.0667678062,3.2124339721,False,Spain,research,834,xavimarimon8,cc-by-nc-nd,1,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Felimida
 283322,2024-06-20,2024-06-20,2024-06-20,16:25:00,mollusca,34988,species,Felimare tricolor,42.066806256,3.2124030081,False,Spain,research,834,xavimarimon8,cc-by-nc-nd,1,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Felimare
@@ -338,7 +342,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 281715,2024-06-16,2024-06-16,2024-06-15,11:06:00,cnidaria,254144,species,Aiptasia couchi,41.9212978565,3.2159056215,False,Aigua Xelida,needs_id,211,adriacompte,cc-by-nc,0,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Aiptasiidae,Aiptasia
 281714,2024-06-16,2024-06-16,2024-06-15,11:06:00,plantae,35158,species,Acetabularia acetabulum,41.9212978565,3.2159056215,False,Aigua Xelida,research,211,adriacompte,cc-by-nc,1,0,Plantae,Chlorophyta,Ulvophyceae,Dasycladales,Polyphysaceae,Acetabularia
 281589,2024-06-16,2024-06-16,2024-06-16,07:55:00,,nan,,,41.7987843807,3.065091682,False,,needs_id,2888,tonihillaalos,cc-by,0,0,,,,,,
-281588,2024-06-16,2024-06-16,2024-06-16,08:00:00,,nan,,,41.798140157,3.0666819781,False,,needs_id,2888,tonihillaalos,cc-by,0,0,,,,,,
+281588,2024-06-16,2024-06-20,2024-06-16,08:00:00,echinodermata,250594,species,Sphaerechinus granularis,41.798140157,3.0666819781,False,,needs_id,2888,tonihillaalos,cc-by,0,0,Animalia,Echinodermata,Echinoidea,Camarodonta,Toxopneustidae,Sphaerechinus
 281586,2024-06-16,2024-06-16,2024-06-16,07:55:00,actinopterygii,246899,species,Boops boops,42.1079622334,3.1711688881,False,Spain,research,72,badosa,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Boops
 281585,2024-06-16,2024-06-16,2024-06-16,07:53:00,plantae,35128,species,Posidonia oceanica,42.1079701929,3.1711327462,False,Spain,research,72,badosa,cc-by-nc,1,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Posidoniaceae,Posidonia
 281584,2024-06-16,2024-06-16,2024-06-16,07:52:00,actinopterygii,68960,species,Sparus aurata,42.1078866178,3.1708351569,False,Spain,needs_id,72,badosa,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sparus
