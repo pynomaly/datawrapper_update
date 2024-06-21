@@ -1,4 +1,5 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+283723,380715,annelida,Serpula vermicularis,https://minka-sdg.org/attachments/local_photos/files/380715/medium.jpeg,manelor,42.3908907756,3.1596462177,cc-by,"(c) manelor, some rights reserved (CC BY)",283723_380715.jpg
 283599,380539,mollusca,Elysia timida,https://minka-sdg.org/attachments/local_photos/files/380539/medium.jpeg,andreurocamora,41.6864453363,2.81741852,cc-by-nc-nd,"(c) Andreu Rocamora Martorell, some rights reserved (CC BY-NC-ND)",283599_380539.jpg
 283599,380535,mollusca,Elysia timida,https://minka-sdg.org/attachments/local_photos/files/380535/medium.jpeg,andreurocamora,41.6864453363,2.81741852,cc-by-nc-nd,"(c) Andreu Rocamora Martorell, some rights reserved (CC BY-NC-ND)",283599_380535.jpg
 283599,380537,mollusca,Elysia timida,https://minka-sdg.org/attachments/local_photos/files/380537/medium.jpeg,andreurocamora,41.6864453363,2.81741852,cc-by-nc-nd,"(c) Andreu Rocamora Martorell, some rights reserved (CC BY-NC-ND)",283599_380537.jpg
@@ -9,7 +10,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 283594,380490,animalia,Pycnoclavella communis,https://minka-sdg.org/attachments/local_photos/files/380490/medium.jpeg,manelor,42.3907006014,3.1578437732,cc-by,"(c) manelor, some rights reserved (CC BY)",283594_380490.jpg
 283593,380489,annelida,Sabella spallanzanii,https://minka-sdg.org/attachments/local_photos/files/380489/medium.jpeg,manelor,42.3907006014,3.1579296039,cc-by,"(c) manelor, some rights reserved (CC BY)",283593_380489.jpg
 283592,380488,porifera,Crambe crambe,https://minka-sdg.org/attachments/local_photos/files/380488/medium.jpeg,manelor,42.3908907756,3.1576721119,cc-by,"(c) manelor, some rights reserved (CC BY)",283592_380488.jpg
-283591,380487,actinopterygii,Parablennius,https://minka-sdg.org/attachments/local_photos/files/380487/medium.jpeg,manelor,42.3907006014,3.1589595722,cc-by,"(c) manelor, some rights reserved (CC BY)",283591_380487.jpg
+283591,380487,actinopterygii,Parablennius gattorugine,https://minka-sdg.org/attachments/local_photos/files/380487/medium.jpeg,manelor,42.3907006014,3.1589595722,cc-by,"(c) manelor, some rights reserved (CC BY)",283591_380487.jpg
 283590,380486,porifera,Phorbas tenacior,https://minka-sdg.org/attachments/local_photos/files/380486/medium.jpeg,manelor,42.3910175582,3.1574146198,cc-by,"(c) manelor, some rights reserved (CC BY)",283590_380486.jpg
 283589,380485,porifera,Chondrosia reniformis,https://minka-sdg.org/attachments/local_photos/files/380485/medium.jpeg,manelor,42.3911443405,3.1564704822,cc-by,"(c) manelor, some rights reserved (CC BY)",283589_380485.jpg
 283588,380484,cnidaria,Parazoanthus axinellae,https://minka-sdg.org/attachments/local_photos/files/380484/medium.jpeg,manelor,42.3908907756,3.158187096,cc-by,"(c) manelor, some rights reserved (CC BY)",283588_380484.jpg
