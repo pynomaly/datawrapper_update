@@ -1,9 +1,9 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
-283552,380440,actinopterygii,Parablennius,https://minka-sdg.org/attachments/local_photos/files/380440/medium.jpeg,mar_avelles,41.4094973332,2.2269522969,C,"(c) Sofía, all rights reserved",283552_380440.jpg
-283552,380441,actinopterygii,Parablennius,https://minka-sdg.org/attachments/local_photos/files/380441/medium.jpeg,mar_avelles,41.4094973332,2.2269522969,C,"(c) Sofía, all rights reserved",283552_380441.jpg
+283552,380440,actinopterygii,Blenniidae,https://minka-sdg.org/attachments/local_photos/files/380440/medium.jpeg,mar_avelles,41.4094973332,2.2269522969,C,"(c) Sofía, all rights reserved",283552_380440.jpg
+283552,380441,actinopterygii,Blenniidae,https://minka-sdg.org/attachments/local_photos/files/380441/medium.jpeg,mar_avelles,41.4094973332,2.2269522969,C,"(c) Sofía, all rights reserved",283552_380441.jpg
 283551,380442,actinopterygii,Salaria pavo,https://minka-sdg.org/attachments/local_photos/files/380442/medium.jpeg,mar_avelles,41.4095743141,2.2269576613,C,"(c) Sofía, all rights reserved",283551_380442.jpg
-283550,380438,,Pagurus anachoretus,https://minka-sdg.org/attachments/local_photos/files/380438/medium.jpeg,mar_avelles,41.4096180328,2.2269844834,C,"(c) Sofía, all rights reserved",283550_380438.jpg
-283550,380439,,Pagurus anachoretus,https://minka-sdg.org/attachments/local_photos/files/380439/medium.jpeg,mar_avelles,41.4096180328,2.2269844834,C,"(c) Sofía, all rights reserved",283550_380439.jpg
+283550,380438,crustacea,Paguroidea,https://minka-sdg.org/attachments/local_photos/files/380438/medium.jpeg,mar_avelles,41.4096180328,2.2269844834,C,"(c) Sofía, all rights reserved",283550_380438.jpg
+283550,380439,crustacea,Paguroidea,https://minka-sdg.org/attachments/local_photos/files/380439/medium.jpeg,mar_avelles,41.4096180328,2.2269844834,C,"(c) Sofía, all rights reserved",283550_380439.jpg
 283549,380436,,,https://minka-sdg.org/attachments/local_photos/files/380436/medium.jpeg,mar_avelles,41.409609149,2.226831766,C,"(c) Sofía, all rights reserved",283549_380436.jpg
 283549,380437,,,https://minka-sdg.org/attachments/local_photos/files/380437/medium.jpeg,mar_avelles,41.409609149,2.226831766,C,"(c) Sofía, all rights reserved",283549_380437.jpg
 283548,380434,crustacea,Crustacea,https://minka-sdg.org/attachments/local_photos/files/380434/medium.jpeg,mar_avelles,41.4095870208,2.2269551476,C,"(c) Sofía, all rights reserved",283548_380434.jpg
@@ -25,27 +25,27 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 283542,380420,crustacea,Xantho pilipes,https://minka-sdg.org/attachments/local_photos/files/380420/medium.jpeg,mar_avelles,41.4095284448,2.2269497832,C,"(c) Sofía, all rights reserved",283542_380420.jpg
 283541,380416,actinopterygii,Actinopterygii,https://minka-sdg.org/attachments/local_photos/files/380416/medium.jpeg,mar_avelles,41.4095666663,2.2269524654,C,"(c) Sofía, all rights reserved",283541_380416.jpg
 283541,380417,actinopterygii,Actinopterygii,https://minka-sdg.org/attachments/local_photos/files/380417/medium.jpeg,mar_avelles,41.4095666663,2.2269524654,C,"(c) Sofía, all rights reserved",283541_380417.jpg
-283540,380414,crustacea,Crustacea,https://minka-sdg.org/attachments/local_photos/files/380414/medium.jpeg,mar_avelles,41.4095767246,2.2269122323,C,"(c) Sofía, all rights reserved",283540_380414.jpg
-283540,380415,crustacea,Crustacea,https://minka-sdg.org/attachments/local_photos/files/380415/medium.jpeg,mar_avelles,41.4095767246,2.2269122323,C,"(c) Sofía, all rights reserved",283540_380415.jpg
-283539,380413,porifera,Porifera,https://minka-sdg.org/attachments/local_photos/files/380413/medium.jpeg,mar_avelles,41.4095465497,2.2269283255,C,"(c) Sofía, all rights reserved",283539_380413.jpg
+283540,380414,,Pirimela denticulata,https://minka-sdg.org/attachments/local_photos/files/380414/medium.jpeg,mar_avelles,41.4095767246,2.2269122323,C,"(c) Sofía, all rights reserved",283540_380414.jpg
+283540,380415,,Pirimela denticulata,https://minka-sdg.org/attachments/local_photos/files/380415/medium.jpeg,mar_avelles,41.4095767246,2.2269122323,C,"(c) Sofía, all rights reserved",283540_380415.jpg
+283539,380413,animalia,Animalia,https://minka-sdg.org/attachments/local_photos/files/380413/medium.jpeg,mar_avelles,41.4095465497,2.2269283255,C,"(c) Sofía, all rights reserved",283539_380413.jpg
 283538,380411,plantae,Lithophyllum incrustans,https://minka-sdg.org/attachments/local_photos/files/380411/medium.jpeg,mar_avelles,41.4096149461,2.2269283255,C,"(c) Sofía, all rights reserved",283538_380411.jpg
 283538,380412,plantae,Lithophyllum incrustans,https://minka-sdg.org/attachments/local_photos/files/380412/medium.jpeg,mar_avelles,41.4096149461,2.2269283255,C,"(c) Sofía, all rights reserved",283538_380412.jpg
 283537,380409,crustacea,Acanthonyx lunulatus,https://minka-sdg.org/attachments/local_photos/files/380409/medium.jpeg,mar_avelles,41.4094801648,2.2269015035,C,"(c) Sofía, all rights reserved",283537_380409.jpg
 283537,380410,crustacea,Acanthonyx lunulatus,https://minka-sdg.org/attachments/local_photos/files/380410/medium.jpeg,mar_avelles,41.4094801648,2.2269015035,C,"(c) Sofía, all rights reserved",283537_380410.jpg
-283536,380407,crustacea,Crustacea,https://minka-sdg.org/attachments/local_photos/files/380407/medium.jpeg,mar_avelles,41.4096229927,2.2269578298,C,"(c) Sofía, all rights reserved",283536_380407.jpg
-283536,380408,crustacea,Crustacea,https://minka-sdg.org/attachments/local_photos/files/380408/medium.jpeg,mar_avelles,41.4096229927,2.2269578298,C,"(c) Sofía, all rights reserved",283536_380408.jpg
-283535,380405,annelida,Polychaeta,https://minka-sdg.org/attachments/local_photos/files/380405/medium.jpeg,mar_avelles,41.4095586197,2.2269658764,C,"(c) Sofía, all rights reserved",283535_380405.jpg
-283535,380406,annelida,Polychaeta,https://minka-sdg.org/attachments/local_photos/files/380406/medium.jpeg,mar_avelles,41.4095586197,2.2269658764,C,"(c) Sofía, all rights reserved",283535_380406.jpg
+283536,380407,,Pirimela denticulata,https://minka-sdg.org/attachments/local_photos/files/380407/medium.jpeg,mar_avelles,41.4096229927,2.2269578298,C,"(c) Sofía, all rights reserved",283536_380407.jpg
+283536,380408,,Pirimela denticulata,https://minka-sdg.org/attachments/local_photos/files/380408/medium.jpeg,mar_avelles,41.4096229927,2.2269578298,C,"(c) Sofía, all rights reserved",283536_380408.jpg
+283535,380405,annelida,Lepidonotus,https://minka-sdg.org/attachments/local_photos/files/380405/medium.jpeg,mar_avelles,41.4095586197,2.2269658764,C,"(c) Sofía, all rights reserved",283535_380405.jpg
+283535,380406,annelida,Lepidonotus,https://minka-sdg.org/attachments/local_photos/files/380406/medium.jpeg,mar_avelles,41.4095586197,2.2269658764,C,"(c) Sofía, all rights reserved",283535_380406.jpg
 283534,380404,echinodermata,Amphipholis squamata,https://minka-sdg.org/attachments/local_photos/files/380404/medium.jpeg,mar_avelles,41.409550573,2.2269283255,C,"(c) Sofía, all rights reserved",283534_380404.jpg
-283533,380403,porifera,Clathrina contorta,https://minka-sdg.org/attachments/local_photos/files/380403/medium.jpeg,mar_avelles,41.4095445381,2.2269041856,C,"(c) Sofía, all rights reserved",283533_380403.jpg
-283532,380402,bryozoa,Bryozoa,https://minka-sdg.org/attachments/local_photos/files/380402/medium.jpeg,mar_avelles,41.4095465497,2.2269390544,C,"(c) Sofía, all rights reserved",283532_380402.jpg
+283533,380403,porifera,Clathrina,https://minka-sdg.org/attachments/local_photos/files/380403/medium.jpeg,mar_avelles,41.4095445381,2.2269041856,C,"(c) Sofía, all rights reserved",283533_380403.jpg
+283532,380402,bryozoa,Watersipora cucullata,https://minka-sdg.org/attachments/local_photos/files/380402/medium.jpeg,mar_avelles,41.4095465497,2.2269390544,C,"(c) Sofía, all rights reserved",283532_380402.jpg
 283531,380400,crustacea,Eriphia verrucosa,https://minka-sdg.org/attachments/local_photos/files/380400/medium.jpeg,mar_avelles,41.409568678,2.2269015034,C,"(c) Sofía, all rights reserved",283531_380400.jpg
 283531,380401,crustacea,Eriphia verrucosa,https://minka-sdg.org/attachments/local_photos/files/380401/medium.jpeg,mar_avelles,41.409568678,2.2269015034,C,"(c) Sofía, all rights reserved",283531_380401.jpg
-283530,380399,annelida,Polychaeta,https://minka-sdg.org/attachments/local_photos/files/380399/medium.jpeg,mar_avelles,41.4095078524,2.2269159247,C,"(c) Sofía, all rights reserved",283530_380399.jpg
+283530,380399,annelida,Protula,https://minka-sdg.org/attachments/local_photos/files/380399/medium.jpeg,mar_avelles,41.4095078524,2.2269159247,C,"(c) Sofía, all rights reserved",283530_380399.jpg
 283529,380398,animalia,Lissoclinum perforatum,https://minka-sdg.org/attachments/local_photos/files/380398/medium.jpeg,mar_avelles,41.4095948295,2.2269152513,C,"(c) Sofía, all rights reserved",283529_380398.jpg
 283529,380425,animalia,Lissoclinum perforatum,https://minka-sdg.org/attachments/local_photos/files/380425/medium.jpeg,mar_avelles,41.4095948295,2.2269152513,C,"(c) Sofía, all rights reserved",283529_380425.jpg
 283528,380397,animalia,Pyura dura,https://minka-sdg.org/attachments/local_photos/files/380397/medium.jpeg,mar_avelles,41.4095803219,2.2270044377,C,"(c) Sofía, all rights reserved",283528_380397.jpg
-283527,380396,actinopterygii,Parablennius,https://minka-sdg.org/attachments/local_photos/files/380396/medium.jpeg,mar_avelles,41.3897074173,2.2046503164,C,"(c) Sofía, all rights reserved",283527_380396.jpg
+283527,380396,actinopterygii,Blenniidae,https://minka-sdg.org/attachments/local_photos/files/380396/medium.jpeg,mar_avelles,41.3897074173,2.2046503164,C,"(c) Sofía, all rights reserved",283527_380396.jpg
 283526,380395,actinopterygii,Aidablennius sphynx,https://minka-sdg.org/attachments/local_photos/files/380395/medium.jpeg,mar_avelles,41.3905445175,2.2048219778,C,"(c) Sofía, all rights reserved",283526_380395.jpg
 283525,380393,actinopterygii,Serranus cabrilla,https://minka-sdg.org/attachments/local_photos/files/380393/medium.jpeg,mar_avelles,41.390737693,2.2049936391,C,"(c) Sofía, all rights reserved",283525_380393.jpg
 283525,380394,actinopterygii,Serranus cabrilla,https://minka-sdg.org/attachments/local_photos/files/380394/medium.jpeg,mar_avelles,41.390737693,2.2049936391,C,"(c) Sofía, all rights reserved",283525_380394.jpg
@@ -217,7 +217,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 283065,379561,actinopterygii,Chromis chromis,https://minka-sdg.org/attachments/local_photos/files/379561/medium.jpeg,ealcaniz,41.5186367323,2.4593223621,cc-by-nc-sa,"(c) Edu Alcaniz, some rights reserved (CC BY-NC-SA)",283065_379561.jpg
 283064,379560,cnidaria,Leptogorgia sarmentosa,https://minka-sdg.org/attachments/local_photos/files/379560/medium.jpeg,ealcaniz,41.5186367323,2.4593223621,cc-by-nc-sa,"(c) Edu Alcaniz, some rights reserved (CC BY-NC-SA)",283064_379560.jpg
 283063,379559,mollusca,Venus verrucosa,https://minka-sdg.org/attachments/local_photos/files/379559/medium.jpeg,ealcaniz,41.5186367323,2.4593223621,cc-by-nc-sa,"(c) Edu Alcaniz, some rights reserved (CC BY-NC-SA)",283063_379559.jpg
-283062,379558,,,https://minka-sdg.org/attachments/local_photos/files/379558/medium.jpeg,ealcaniz,41.5186367323,2.4593223621,cc-by-nc-sa,"(c) Edu Alcaniz, some rights reserved (CC BY-NC-SA)",283062_379558.jpg
+283062,379558,plantae,Sphaerococcus coronopifolius,https://minka-sdg.org/attachments/local_photos/files/379558/medium.jpeg,ealcaniz,41.5186367323,2.4593223621,cc-by-nc-sa,"(c) Edu Alcaniz, some rights reserved (CC BY-NC-SA)",283062_379558.jpg
 283061,379557,porifera,Crambe crambe,https://minka-sdg.org/attachments/local_photos/files/379557/medium.jpeg,ealcaniz,41.5186367323,2.4593223621,cc-by-nc-sa,"(c) Edu Alcaniz, some rights reserved (CC BY-NC-SA)",283061_379557.jpg
 283060,379556,actinopterygii,Gobius cruentatus,https://minka-sdg.org/attachments/local_photos/files/379556/medium.jpeg,ealcaniz,41.5186367323,2.4593223621,cc-by-nc-sa,"(c) Edu Alcaniz, some rights reserved (CC BY-NC-SA)",283060_379556.jpg
 283059,379555,chromista,Padina pavonica,https://minka-sdg.org/attachments/local_photos/files/379555/medium.jpeg,ealcaniz,41.5186367323,2.4593223621,cc-by-nc-sa,"(c) Edu Alcaniz, some rights reserved (CC BY-NC-SA)",283059_379555.jpg
