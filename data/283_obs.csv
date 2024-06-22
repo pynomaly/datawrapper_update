@@ -10432,6 +10432,13 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 270003,2024-05-20,2024-05-20,2024-05-18,09:01:00,actinopterygii,34871,species,Tripterygion delaisi,41.8118451645,3.0887418349,False,"La Llosa, Platja d'Aro, Girona, España",research,55,yespi,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Tripterygiidae,Tripterygion
 270002,2024-05-20,2024-05-20,2024-05-18,09:01:00,plantae,34884,species,Flabellia petiolata,41.8118451645,3.0887418349,False,"La Llosa, Platja d'Aro, Girona, España",research,55,yespi,cc-by-nc,2,0,Plantae,Chlorophyta,Bryopsidophyceae,Bryopsidales,Codiaceae,Flabellia
 270001,2024-05-20,2024-05-20,2024-05-18,09:01:00,chromista,29375,genus,Halopteris,41.8118451645,3.0887418349,False,"La Llosa, Platja d'Aro, Girona, España",needs_id,55,yespi,cc-by-nc,1,0,Chromista,Ochrophyta,Phaeophyceae,Sphacelariales,Stypocaulaceae,
+283820,2024-06-22,2024-06-22,2024-06-22,07:28:00,,nan,,,41.9802905735,3.1999967036,False,Spain,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+283819,2024-06-22,2024-06-22,2024-06-22,07:28:00,,nan,,,41.9802875735,3.1999937036,False,Spain,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+283818,2024-06-22,2024-06-22,2024-06-22,07:28:00,,nan,,,41.9802845735,3.1999907036,False,Spain,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+283817,2024-06-22,2024-06-22,2024-06-22,07:28:00,,nan,,,41.9802815735,3.1999877036,False,Spain,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+283816,2024-06-22,2024-06-22,2024-06-22,07:28:00,,nan,,,41.9802785735,3.1999847036,False,Spain,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+283815,2024-06-22,2024-06-22,2024-06-22,07:28:00,,nan,,,41.9802755735,3.1999817036,False,Spain,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+283814,2024-06-22,2024-06-22,2024-06-22,07:28:00,,nan,,,41.9802725735,3.1999787036,False,Spain,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
 283813,2024-06-22,2024-06-22,2024-06-22,00:19:00,actinopterygii,35194,species,Thalassoma pavo,40.8852000975,0.807505299,False,,needs_id,197,peixderoca24,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
 283812,2024-06-22,2024-06-22,2024-06-22,00:19:00,plantae,253832,species,Zostera marina,40.8852000975,0.807505299,False,,needs_id,197,peixderoca24,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Zosteraceae,Zostera
 283811,2024-06-22,2024-06-22,2024-06-22,00:17:00,echinodermata,9659,genus,Holothuria,40.8852000975,0.807505299,False,,needs_id,197,peixderoca24,cc-by-nc,2,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,
@@ -10514,7 +10521,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 283734,2024-06-22,2024-06-22,2024-06-22,00:23:00,mollusca,35006,species,Calmella cavolini,40.8852000975,0.807505299,False,,needs_id,197,peixderoca24,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Flabellinidae,Calmella
 283730,2024-06-22,2024-06-22,2024-06-15,13:37:00,actinopterygii,13765,species,Serranus scriba,41.9212978565,3.2159056215,False,Aigua Xelida,research,211,adriacompte,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Serranus
 283729,2024-06-22,2024-06-22,2024-06-15,13:37:00,actinopterygii,240400,species,Oblada melanura,41.9212978565,3.2159056215,False,Aigua Xelida,research,211,adriacompte,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Oblada
-283728,2024-06-22,2024-06-22,2024-06-16,08:22:00,animalia,2,kingdom,Animalia,41.6731452693,2.8025743975,False,"17300 Blanes, Girona, Espanya",needs_id,1458,alexdot,cc-by,2,0,,,,,,
+283728,2024-06-22,2024-06-22,2024-06-16,08:22:00,cnidaria,254147,species,Adamsia palliata,41.6731452693,2.8025743975,False,"17300 Blanes, Girona, Espanya",research,1458,alexdot,cc-by,1,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Hormathiidae,Adamsia
 283727,2024-06-22,2024-06-22,2024-06-16,08:47:00,actinopterygii,35174,species,Hippocampus guttulatus,41.6731452693,2.8025743975,False,"17300 Blanes, Girona, Espanya",research,1458,alexdot,cc-by,1,0,Animalia,Chordata,Actinopterygii,Syngnathiformes,Syngnathidae,Hippocampus
 283726,2024-06-22,2024-06-22,2024-06-08,10:02:00,actinopterygii,34989,species,Parablennius gattorugine,41.6731452693,2.8025743975,False,"17300 Blanes, Girona, Espanya",research,1458,alexdot,cc-by,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
 283723,2024-06-21,2024-06-22,2024-06-21,08:26:00,annelida,249709,species,Serpula vermicularis,42.3908907756,3.1596462177,False,"17496 Platja de Garbet, Girona, España",research,1732,manelor,cc-by,1,0,Animalia,Annelida,Polychaeta,Sabellida,Serpulidae,Serpula
