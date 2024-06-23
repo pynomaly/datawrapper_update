@@ -10432,6 +10432,74 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 270003,2024-05-20,2024-05-20,2024-05-18,09:01:00,actinopterygii,34871,species,Tripterygion delaisi,41.8118451645,3.0887418349,False,"La Llosa, Platja d'Aro, Girona, España",research,55,yespi,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Tripterygiidae,Tripterygion
 270002,2024-05-20,2024-05-20,2024-05-18,09:01:00,plantae,34884,species,Flabellia petiolata,41.8118451645,3.0887418349,False,"La Llosa, Platja d'Aro, Girona, España",research,55,yespi,cc-by-nc,2,0,Plantae,Chlorophyta,Bryopsidophyceae,Bryopsidales,Codiaceae,Flabellia
 270001,2024-05-20,2024-05-20,2024-05-18,09:01:00,chromista,29375,genus,Halopteris,41.8118451645,3.0887418349,False,"La Llosa, Platja d'Aro, Girona, España",needs_id,55,yespi,cc-by-nc,1,0,Chromista,Ochrophyta,Phaeophyceae,Sphacelariales,Stypocaulaceae,
+284639,2024-06-23,2024-06-23,2024-06-22,16:21:00,,nan,,,41.3767392851,2.1919555923,False,"La Barceloneta, Ciutat Vella, Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284638,2024-06-23,2024-06-23,2024-06-22,16:21:00,,nan,,,41.3767392851,2.1919555923,False,"La Barceloneta, Ciutat Vella, Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284637,2024-06-23,2024-06-23,2024-06-22,16:21:00,,nan,,,41.3767392851,2.1919555923,False,"La Barceloneta, Ciutat Vella, Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284636,2024-06-23,2024-06-23,2024-06-22,16:21:00,,nan,,,41.3767392851,2.1919555923,False,"La Barceloneta, Ciutat Vella, Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284635,2024-06-23,2024-06-23,2024-06-22,16:21:00,,nan,,,41.3767392851,2.1919555923,False,"La Barceloneta, Ciutat Vella, Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284634,2024-06-23,2024-06-23,2024-06-22,16:18:00,actinopterygii,246069,species,Epinephelus marginatus,41.3766301886,2.1921986009,False,"La Barceloneta, Ciutat Vella, Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Epinephelus
+284633,2024-06-23,2024-06-23,2024-06-22,16:18:00,actinopterygii,35194,species,Thalassoma pavo,41.3766301886,2.1921986009,False,"La Barceloneta, Ciutat Vella, Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
+284632,2024-06-23,2024-06-23,2024-06-22,16:14:00,,nan,,,41.3766074514,2.1922931684,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284631,2024-06-23,2024-06-23,2024-06-22,16:14:00,actinopterygii,246069,species,Epinephelus marginatus,41.3766074514,2.1922931684,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Epinephelus
+284630,2024-06-23,2024-06-23,2024-06-23,00:21:00,actinopterygii,34837,species,Dicentrarchus labrax,40.9302917997,0.8520354679,False,Spain,needs_id,197,peixderoca24,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Moronidae,Dicentrarchus
+284629,2024-06-23,2024-06-23,2024-06-23,00:22:00,actinopterygii,34798,species,Diplodus vulgaris,40.9302917997,0.8520354679,False,Spain,needs_id,197,peixderoca24,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+284628,2024-06-23,2024-06-23,2024-06-23,00:22:00,actinopterygii,35125,species,Mullus surmuletus,40.9302917997,0.8520354679,False,Spain,needs_id,197,peixderoca24,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Mullidae,Mullus
+284627,2024-06-23,2024-06-23,2024-06-23,00:25:00,actinopterygii,250650,species,Chelon auratus,40.9302917997,0.8520354679,False,Spain,needs_id,197,peixderoca24,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Mugiliformes,Mugilidae,Chelon
+284626,2024-06-23,2024-06-23,2024-06-23,00:31:00,actinopterygii,240402,species,Pagellus acarne,40.9302917997,0.8520354679,False,Spain,needs_id,197,peixderoca24,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Pagellus
+284625,2024-06-23,2024-06-23,2024-06-23,00:38:00,actinopterygii,100584,species,Chelidonichthys lucerna,40.9302917997,0.8520354679,False,Spain,needs_id,197,peixderoca24,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Triglidae,Chelidonichthys
+284624,2024-06-23,2024-06-23,2024-06-23,00:46:00,annelida,244097,species,Protula tubularia,40.9302917997,0.8520354679,False,Spain,needs_id,197,peixderoca24,cc-by-nc,0,0,Animalia,Annelida,Polychaeta,Sabellida,Serpulidae,Protula
+284623,2024-06-23,2024-06-23,2024-06-23,00:47:00,chromista,35106,species,Padina pavonica,40.9302917997,0.8520354679,False,Spain,needs_id,197,peixderoca24,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
+284622,2024-06-23,2024-06-23,2024-06-23,00:47:00,actinopterygii,68960,species,Sparus aurata,40.9302917997,0.8520354679,False,Spain,needs_id,197,peixderoca24,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sparus
+284621,2024-06-23,2024-06-23,2024-06-23,00:48:00,porifera,34842,species,Cliona celata,40.9302917997,0.8520354679,False,Spain,needs_id,197,peixderoca24,cc-by-nc,0,0,Animalia,Porifera,Demospongiae,Hadromerida,Clionaidae,Cliona
+284620,2024-06-23,2024-06-23,2024-06-23,00:49:00,actinopterygii,13765,species,Serranus scriba,40.9302917997,0.8520354679,False,Spain,needs_id,197,peixderoca24,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Serranus
+284619,2024-06-23,2024-06-23,2024-06-23,00:51:00,actinopterygii,34805,species,Sarpa salpa,40.9302917997,0.8520354679,False,Spain,needs_id,197,peixderoca24,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
+284618,2024-06-23,2024-06-23,2024-06-23,00:53:00,actinopterygii,34989,species,Parablennius gattorugine,40.9302917997,0.8520354679,False,Spain,needs_id,197,peixderoca24,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+284617,2024-06-23,2024-06-23,2024-06-23,00:15:00,actinopterygii,35125,species,Mullus surmuletus,40.9302917997,0.8520354679,False,Spain,needs_id,197,peixderoca24,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Mullidae,Mullus
+284616,2024-06-23,2024-06-23,2024-06-23,00:15:00,actinopterygii,35077,species,Gobius geniporus,40.9302917997,0.8520354679,False,Spain,needs_id,197,peixderoca24,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Gobius
+284615,2024-06-23,2024-06-23,2024-06-23,00:16:00,actinopterygii,48596,species,Lithognathus mormyrus,40.9302917997,0.8520354679,False,Spain,needs_id,197,peixderoca24,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Lithognathus
+284614,2024-06-23,2024-06-23,2024-06-23,00:16:00,actinopterygii,68960,species,Sparus aurata,40.9302917997,0.8520354679,False,Spain,needs_id,197,peixderoca24,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sparus
+284613,2024-06-23,2024-06-23,2024-06-23,00:16:00,actinopterygii,240400,species,Oblada melanura,40.9302917997,0.8520354679,False,Spain,needs_id,197,peixderoca24,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Oblada
+284612,2024-06-23,2024-06-23,2024-06-22,16:08:00,,nan,,,41.3761947806,2.1929643584,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284611,2024-06-23,2024-06-23,2024-06-22,16:08:00,,nan,,,41.3761947806,2.1929643584,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284610,2024-06-23,2024-06-23,2024-06-22,16:08:00,,nan,,,41.3761947806,2.1929643584,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284609,2024-06-23,2024-06-23,2024-06-22,16:08:00,,nan,,,41.3761947806,2.1929643584,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284608,2024-06-23,2024-06-23,2024-06-22,16:08:00,,nan,,,41.3761947806,2.1929643584,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284607,2024-06-23,2024-06-23,2024-06-22,16:08:00,,nan,,,41.3761947806,2.1929643584,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284606,2024-06-23,2024-06-23,2024-06-22,16:08:00,,nan,,,41.3761947806,2.1929643584,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284605,2024-06-23,2024-06-23,2024-06-22,16:08:00,,nan,,,41.3761947806,2.1929643584,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284604,2024-06-23,2024-06-23,2024-06-22,16:08:00,,nan,,,41.3761947806,2.1929643584,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284603,2024-06-23,2024-06-23,2024-06-22,16:08:00,,nan,,,41.3761947806,2.1929643584,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284602,2024-06-23,2024-06-23,2024-06-22,16:08:00,,nan,,,41.3761947806,2.1929643584,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284601,2024-06-23,2024-06-23,2024-06-22,16:08:00,,nan,,,41.3761947806,2.1929643584,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284600,2024-06-23,2024-06-23,2024-06-22,16:08:00,,nan,,,41.3761947806,2.1929643584,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284599,2024-06-23,2024-06-23,2024-06-22,16:08:00,,nan,,,41.3761947806,2.1929643584,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284598,2024-06-23,2024-06-23,2024-06-22,16:08:00,,nan,,,41.3761947806,2.1929643584,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284597,2024-06-23,2024-06-23,2024-06-22,16:08:00,,nan,,,41.3761947806,2.1929643584,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284596,2024-06-23,2024-06-23,2024-06-22,16:08:00,,nan,,,41.3761947806,2.1929643584,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284595,2024-06-23,2024-06-23,2024-06-22,16:08:00,,nan,,,41.3761947806,2.1929643584,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284594,2024-06-23,2024-06-23,2024-06-22,16:08:00,,nan,,,41.3761947806,2.1929643584,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284593,2024-06-23,2024-06-23,2024-06-22,16:08:00,,nan,,,41.3761947806,2.1929643584,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284592,2024-06-23,2024-06-23,2024-06-22,16:08:00,,nan,,,41.3761947806,2.1929643584,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284591,2024-06-23,2024-06-23,2024-06-22,16:08:00,,nan,,,41.3761947806,2.1929643584,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284590,2024-06-23,2024-06-23,2024-06-22,16:01:00,,nan,,,41.3789715075,2.193326741,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284589,2024-06-23,2024-06-23,2024-06-22,16:01:00,,nan,,,41.3789715075,2.193326741,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284588,2024-06-23,2024-06-23,2024-06-22,16:01:00,,nan,,,41.3789715075,2.193326741,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284587,2024-06-23,2024-06-23,2024-06-22,16:01:00,,nan,,,41.3789715075,2.193326741,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284586,2024-06-23,2024-06-23,2024-06-22,16:01:00,,nan,,,41.3789715075,2.193326741,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284585,2024-06-23,2024-06-23,2024-06-22,16:01:00,,nan,,,41.3789715075,2.193326741,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284584,2024-06-23,2024-06-23,2024-06-22,16:01:00,,nan,,,41.3789715075,2.193326741,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284583,2024-06-23,2024-06-23,2024-06-22,16:01:00,,nan,,,41.3789715075,2.193326741,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284582,2024-06-23,2024-06-23,2024-06-22,16:01:00,,nan,,,41.3789715075,2.193326741,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284581,2024-06-23,2024-06-23,2024-06-22,16:01:00,,nan,,,41.3789715075,2.193326741,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284580,2024-06-23,2024-06-23,2024-06-22,16:01:00,,nan,,,41.3789715075,2.193326741,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284579,2024-06-23,2024-06-23,2024-06-22,16:01:00,,nan,,,41.3789715075,2.193326741,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284578,2024-06-23,2024-06-23,2024-06-22,16:01:00,,nan,,,41.3789715075,2.193326741,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284577,2024-06-23,2024-06-23,2024-06-22,16:01:00,,nan,,,41.3789715075,2.193326741,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284576,2024-06-23,2024-06-23,2024-06-22,16:01:00,,nan,,,41.3789715075,2.193326741,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284575,2024-06-23,2024-06-23,2024-06-22,16:01:00,,nan,,,41.3789715075,2.193326741,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284574,2024-06-23,2024-06-23,2024-06-22,16:01:00,,nan,,,41.3789715075,2.193326741,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284573,2024-06-23,2024-06-23,2024-06-22,16:01:00,,nan,,,41.3789715075,2.193326741,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+284572,2024-06-23,2024-06-23,2024-06-22,16:01:00,,nan,,,41.3789715075,2.193326741,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
 284465,2024-06-23,2024-06-23,2024-06-23,13:01:00,,nan,,,41.4027852167,2.2172413766,False,Spain,needs_id,4120,anag,cc-by,0,0,,,,,,
 284463,2024-06-23,2024-06-23,2024-06-22,14:26:00,,nan,,,41.3784881705,2.1936436248,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
 284462,2024-06-23,2024-06-23,2024-06-22,14:26:00,,nan,,,41.3784881705,2.1936436248,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
@@ -10633,13 +10701,13 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 284124,2024-06-23,2024-06-23,2024-06-01,09:06:00,mollusca,244058,species,Alvania lineata,41.7029597042,2.8918743005,False,LLoret de Mar - Roca Muladera,needs_id,16,guillermoalvarez_fecdas,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Littorinimorpha,Rissoidae,Alvania
 284123,2024-06-23,2024-06-23,2024-06-18,08:11:00,mollusca,35107,species,Patella caerulea,41.410015,2.227305,False,Zona de Banys Fòrum,needs_id,16,guillermoalvarez_fecdas,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Patellogastropoda,Patellidae,Patella
 284122,2024-06-23,2024-06-23,2024-06-18,08:11:00,animalia,34972,species,Pyura dura,41.41016,2.227273,False,Zona de Banys Fòrum,needs_id,16,guillermoalvarez_fecdas,cc-by-nc,0,0,Animalia,Chordata,Ascidiacea,Pleurogona,Pyuridae,Pyura
-284121,2024-06-23,2024-06-23,2024-06-18,08:10:00,mollusca,254010,species,Rhyssoplax olivacea,41.4112701,2.227734,False,Zona de Banys Fòrum,needs_id,16,guillermoalvarez_fecdas,cc-by-nc,0,0,Animalia,Mollusca,Polyplacophora,,Chitonidae,Rhyssoplax
-284120,2024-06-23,2024-06-23,2024-06-18,08:09:00,actinopterygii,35250,species,Parablennius pilicornis,41.4112701,2.227734,False,Zona de Banys Fòrum,needs_id,16,guillermoalvarez_fecdas,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
-284119,2024-06-23,2024-06-23,2024-06-18,08:09:00,chromista,35214,species,Dictyota cyanoloma,41.4112701,2.227734,False,Zona de Banys Fòrum,needs_id,16,guillermoalvarez_fecdas,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota
-284118,2024-06-23,2024-06-23,2024-06-18,08:09:00,animalia,246845,species,Ascidia mentula,41.4112701,2.227734,False,Zona de Banys Fòrum,needs_id,16,guillermoalvarez_fecdas,cc-by-nc,0,0,Animalia,Chordata,Ascidiacea,Enterogona,Ascidiidae,Ascidia
-284117,2024-06-23,2024-06-23,2024-06-18,08:08:00,animalia,35094,genus,Botrylloides,41.4112701,2.227734,False,Zona de Banys Fòrum,needs_id,16,guillermoalvarez_fecdas,cc-by-nc,0,0,Animalia,Chordata,Ascidiacea,Pleurogona,Styelidae,
-284116,2024-06-23,2024-06-23,2024-06-18,08:07:00,actinopterygii,9783,genus,Gobius,41.4112701,2.227734,False,Zona de Banys Fòrum,needs_id,16,guillermoalvarez_fecdas,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,
-284115,2024-06-23,2024-06-23,2024-06-18,08:06:00,mollusca,245692,species,Elysia flava,41.4112701,2.227734,False,Zona de Banys Fòrum,needs_id,16,guillermoalvarez_fecdas,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Sacoglossa,Plakobranchidae,Elysia
+284121,2024-06-23,2024-06-23,2024-06-18,08:10:00,mollusca,254010,species,Rhyssoplax olivacea,41.410184,2.227294,False,Zona de Banys Fòrum,needs_id,16,guillermoalvarez_fecdas,cc-by-nc,0,0,Animalia,Mollusca,Polyplacophora,,Chitonidae,Rhyssoplax
+284120,2024-06-23,2024-06-23,2024-06-18,08:09:00,actinopterygii,35250,species,Parablennius pilicornis,41.410073,2.227287,False,Zona de Banys Fòrum,needs_id,16,guillermoalvarez_fecdas,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+284119,2024-06-23,2024-06-23,2024-06-18,08:09:00,chromista,35214,species,Dictyota cyanoloma,41.409918,2.227219,False,Zona de Banys Fòrum,needs_id,16,guillermoalvarez_fecdas,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota
+284118,2024-06-23,2024-06-23,2024-06-18,08:09:00,animalia,246845,species,Ascidia mentula,41.409902,2.227133,False,Zona de Banys Fòrum,needs_id,16,guillermoalvarez_fecdas,cc-by-nc,0,0,Animalia,Chordata,Ascidiacea,Enterogona,Ascidiidae,Ascidia
+284117,2024-06-23,2024-06-23,2024-06-18,08:08:00,animalia,35094,genus,Botrylloides,41.409744,2.227141,False,Zona de Banys Fòrum,needs_id,16,guillermoalvarez_fecdas,cc-by-nc,0,0,Animalia,Chordata,Ascidiacea,Pleurogona,Styelidae,
+284116,2024-06-23,2024-06-23,2024-06-18,08:07:00,actinopterygii,9783,genus,Gobius,41.410015,2.227262,False,Zona de Banys Fòrum,needs_id,16,guillermoalvarez_fecdas,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,
+284115,2024-06-23,2024-06-23,2024-06-18,08:06:00,mollusca,245692,species,Elysia flava,41.410211,2.227524,False,Zona de Banys Fòrum,needs_id,16,guillermoalvarez_fecdas,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Sacoglossa,Plakobranchidae,Elysia
 284114,2024-06-23,2024-06-23,2024-06-18,08:06:00,mollusca,138559,species,Rocellaria dubia,41.4112701,2.227734,False,Zona de Banys Fòrum,needs_id,16,guillermoalvarez_fecdas,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,,Gastrochaenidae,Rocellaria
 284113,2024-06-23,2024-06-23,2024-06-18,08:04:00,animalia,244588,species,Lissoclinum perforatum,41.4112701,2.227734,False,Zona de Banys Fòrum,needs_id,16,guillermoalvarez_fecdas,cc-by-nc,0,0,Animalia,Chordata,Ascidiacea,Enterogona,Didemnidae,Lissoclinum
 284112,2024-06-23,2024-06-23,2024-06-18,08:04:00,mollusca,35003,species,Pleurehdera stellata,41.4112701,2.227734,False,Zona de Banys Fòrum,needs_id,16,guillermoalvarez_fecdas,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,,Pleurobranchidae,
