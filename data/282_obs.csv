@@ -40,7 +40,6 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 284574,2024-06-23,2024-06-23,2024-06-22,16:01:00,echinodermata,34848,species,Paracentrotus lividus,41.3789715075,2.193326741,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Echinodermata,Echinoidea,Camarodonta,Parechinidae,Paracentrotus
 284573,2024-06-23,2024-06-23,2024-06-22,16:01:00,actinopterygii,35120,species,Gobius incognitus,41.3789715075,2.193326741,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Gobius
 284572,2024-06-23,2024-06-23,2024-06-22,16:01:00,mollusca,53500,species,Stramonita haemastoma,41.3789715075,2.193326741,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Neogastropoda,Muricidae,Stramonita
-284465,2024-06-23,2024-06-23,2024-06-23,13:01:00,,nan,,,41.4027852167,2.2172413766,False,Spain,needs_id,4120,anag,cc-by,0,0,,,,,,
 284463,2024-06-23,2024-06-23,2024-06-22,14:26:00,,nan,,,41.3784881705,2.1936436248,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
 284462,2024-06-23,2024-06-23,2024-06-22,14:26:00,,nan,,,41.3784881705,2.1936436248,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
 284461,2024-06-23,2024-06-23,2024-06-22,14:26:00,,nan,,,41.3784881705,2.1936436248,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
