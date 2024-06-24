@@ -10432,6 +10432,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 270003,2024-05-20,2024-05-20,2024-05-18,09:01:00,actinopterygii,34871,species,Tripterygion delaisi,41.8118451645,3.0887418349,False,"La Llosa, Platja d'Aro, Girona, España",research,55,yespi,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Tripterygiidae,Tripterygion
 270002,2024-05-20,2024-05-20,2024-05-18,09:01:00,plantae,34884,species,Flabellia petiolata,41.8118451645,3.0887418349,False,"La Llosa, Platja d'Aro, Girona, España",research,55,yespi,cc-by-nc,2,0,Plantae,Chlorophyta,Bryopsidophyceae,Bryopsidales,Codiaceae,Flabellia
 270001,2024-05-20,2024-05-20,2024-05-18,09:01:00,chromista,29375,genus,Halopteris,41.8118451645,3.0887418349,False,"La Llosa, Platja d'Aro, Girona, España",needs_id,55,yespi,cc-by-nc,1,0,Chromista,Ochrophyta,Phaeophyceae,Sphacelariales,Stypocaulaceae,
+285205,2024-06-24,2024-06-24,2024-06-22,05:51:00,,nan,,,41.9638716904,3.2282739508,False,"Begur,Aiguafreda",needs_id,806,david_marco,cc-by-nc,0,0,,,,,,
 285176,2024-06-24,2024-06-24,2024-06-08,08:35:00,,nan,,,41.4096167006,2.2272124749,False,Barcelona_Piscines del Forum,needs_id,806,david_marco,cc-by-nc,0,0,,,,,,
 285175,2024-06-24,2024-06-24,2024-06-08,08:15:00,,nan,,,41.4096167006,2.2272124749,False,Barcelona_Piscines del Forum,needs_id,806,david_marco,cc-by-nc,0,0,,,,,,
 285174,2024-06-24,2024-06-24,2024-06-08,07:48:00,,nan,,,41.4096167006,2.2272124749,False,Barcelona_Piscines del Forum,needs_id,806,david_marco,cc-by-nc,0,0,,,,,,
