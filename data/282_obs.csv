@@ -1,4 +1,157 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+286040,2024-06-26,2024-06-26,2024-06-26,07:53:00,cnidaria,35248,species,Leptogorgia sarmentosa,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Cnidaria,Anthozoa,Alcyonacea,Gorgoniidae,Leptogorgia
+286039,2024-06-26,2024-06-26,2024-06-26,07:54:00,cnidaria,35248,species,Leptogorgia sarmentosa,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Cnidaria,Anthozoa,Alcyonacea,Gorgoniidae,Leptogorgia
+286038,2024-06-26,2024-06-26,2024-06-26,07:54:00,cnidaria,35248,species,Leptogorgia sarmentosa,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Cnidaria,Anthozoa,Alcyonacea,Gorgoniidae,Leptogorgia
+286037,2024-06-26,2024-06-26,2024-06-26,07:54:00,actinopterygii,34835,species,Coris julis,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+286036,2024-06-26,2024-06-26,2024-06-26,07:54:00,chromista,35106,species,Padina pavonica,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
+286035,2024-06-26,2024-06-26,2024-06-26,07:55:00,chromista,35063,species,Dictyota dichotoma,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota
+286034,2024-06-26,2024-06-26,2024-06-26,07:55:00,cnidaria,35248,species,Leptogorgia sarmentosa,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Cnidaria,Anthozoa,Alcyonacea,Gorgoniidae,Leptogorgia
+286033,2024-06-26,2024-06-26,2024-06-26,07:55:00,echinodermata,251875,species,Holothuria tubulosa,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria
+286032,2024-06-26,2024-06-26,2024-06-26,07:55:00,echinodermata,35260,species,Echinaster sepositus,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Echinodermata,Asteroidea,Spinulosida,Echinasteridae,Echinaster
+286031,2024-06-26,2024-06-26,2024-06-26,07:55:00,porifera,250915,species,Chondrosia reniformis,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Porifera,Demospongiae,Chondrosida,Chondrillidae,Chondrosia
+286030,2024-06-26,2024-06-26,2024-06-26,07:56:00,cnidaria,35248,species,Leptogorgia sarmentosa,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Cnidaria,Anthozoa,Alcyonacea,Gorgoniidae,Leptogorgia
+286029,2024-06-26,2024-06-26,2024-06-26,07:56:00,actinopterygii,13765,species,Serranus scriba,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Serranus
+286028,2024-06-26,2024-06-26,2024-06-26,07:56:00,actinopterygii,34835,species,Coris julis,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+286027,2024-06-26,2024-06-26,2024-06-26,07:56:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+286026,2024-06-26,2024-06-26,2024-06-26,07:57:00,echinodermata,251875,species,Holothuria tubulosa,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria
+286025,2024-06-26,2024-06-26,2024-06-26,07:58:00,annelida,244097,species,Protula tubularia,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Annelida,Polychaeta,Sabellida,Serpulidae,Protula
+286024,2024-06-26,2024-06-26,2024-06-26,07:58:00,mollusca,35036,species,Cratena peregrina,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Facelinidae,Cratena
+286023,2024-06-26,2024-06-26,2024-06-26,07:59:00,mollusca,35036,species,Cratena peregrina,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Facelinidae,Cratena
+286022,2024-06-26,2024-06-26,2024-06-26,07:59:00,mollusca,250214,species,Cerithium vulgatum,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Mollusca,Gastropoda,,Cerithiidae,Cerithium
+286021,2024-06-26,2024-06-26,2024-06-26,07:59:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+286020,2024-06-26,2024-06-26,2024-06-26,07:59:00,cnidaria,35248,species,Leptogorgia sarmentosa,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Cnidaria,Anthozoa,Alcyonacea,Gorgoniidae,Leptogorgia
+286019,2024-06-26,2024-06-26,2024-06-26,08:01:00,plantae,35004,species,Halimeda tuna,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Plantae,Chlorophyta,Bryopsidophyceae,Bryopsidales,Halimedaceae,Halimeda
+286018,2024-06-26,2024-06-26,2024-06-26,08:01:00,echinodermata,251875,species,Holothuria tubulosa,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria
+286017,2024-06-26,2024-06-26,2024-06-26,08:02:00,actinopterygii,34835,species,Coris julis,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+286016,2024-06-26,2024-06-26,2024-06-26,08:02:00,actinopterygii,34835,species,Coris julis,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+286015,2024-06-26,2024-06-26,2024-06-26,08:02:00,cnidaria,35248,species,Leptogorgia sarmentosa,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Cnidaria,Anthozoa,Alcyonacea,Gorgoniidae,Leptogorgia
+286014,2024-06-26,2024-06-26,2024-06-26,08:03:00,actinopterygii,13765,species,Serranus scriba,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Serranus
+286013,2024-06-26,2024-06-26,2024-06-26,08:03:00,actinopterygii,13765,species,Serranus scriba,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Serranus
+286012,2024-06-26,2024-06-26,2024-06-26,08:04:00,echinodermata,251875,species,Holothuria tubulosa,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria
+286011,2024-06-26,2024-06-26,2024-06-26,08:04:00,actinopterygii,35225,species,Chromis chromis,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
+286010,2024-06-26,2024-06-26,2024-06-26,08:04:00,actinopterygii,14022,species,Muraena helena,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Anguilliformes,Muraenidae,Muraena
+286009,2024-06-26,2024-06-26,2024-06-26,08:05:00,actinopterygii,35053,species,Scorpaena scrofa,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,Scorpaena
+286008,2024-06-26,2024-06-26,2024-06-26,08:05:00,cnidaria,34869,species,Parazoanthus axinellae,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Cnidaria,Anthozoa,Zoantharia,Parazoanthidae,Parazoanthus
+286007,2024-06-26,2024-06-26,2024-06-26,08:06:00,actinopterygii,35065,species,Gobius xanthocephalus,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Gobius
+286006,2024-06-26,2024-06-26,2024-06-26,08:06:00,echinodermata,251875,species,Holothuria tubulosa,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria
+286005,2024-06-26,2024-06-26,2024-06-26,08:07:00,porifera,242281,species,Crambe crambe,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Porifera,Demospongiae,Poecilosclerida,Crambeidae,Crambe
+286004,2024-06-26,2024-06-26,2024-06-26,08:07:00,annelida,35119,species,Bonellia viridis,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Annelida,Polychaeta,,Bonelliidae,Bonellia
+286003,2024-06-26,2024-06-26,2024-06-26,08:07:00,actinopterygii,34835,species,Coris julis,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+286002,2024-06-26,2024-06-26,2024-06-26,08:07:00,porifera,253021,species,Petrosia ficiformis,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Porifera,Demospongiae,Haplosclerida,Petrosiidae,Petrosia
+286001,2024-06-26,2024-06-26,2024-06-26,08:08:00,cnidaria,35166,species,Cladocora caespitosa,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Cnidaria,Anthozoa,Scleractinia,Caryophylliidae,Cladocora
+286000,2024-06-26,2024-06-26,2024-06-26,08:08:00,porifera,253956,species,Axinella damicornis,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Porifera,Demospongiae,,Axinellidae,Axinella
+285999,2024-06-26,2024-06-26,2024-06-26,08:08:00,bryozoa,34982,species,Myriapora truncata,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Bryozoa,Gymnolaemata,Cheilostomatida,Myriaporidae,Myriapora
+285998,2024-06-26,2024-06-26,2024-06-26,08:09:00,porifera,250915,species,Chondrosia reniformis,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Porifera,Demospongiae,Chondrosida,Chondrillidae,Chondrosia
+285997,2024-06-26,2024-06-26,2024-06-26,08:09:00,actinopterygii,35194,species,Thalassoma pavo,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
+285996,2024-06-26,2024-06-26,2024-06-26,08:09:00,cnidaria,35166,species,Cladocora caespitosa,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Cnidaria,Anthozoa,Scleractinia,Caryophylliidae,Cladocora
+285995,2024-06-26,2024-06-26,2024-06-26,08:10:00,actinopterygii,12378,species,Apogon imberbis,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Apogonidae,Apogon
+285994,2024-06-26,2024-06-26,2024-06-26,08:10:00,echinodermata,34848,species,Paracentrotus lividus,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Echinodermata,Echinoidea,Camarodonta,Parechinidae,Paracentrotus
+285993,2024-06-26,2024-06-26,2024-06-26,08:10:00,annelida,244097,species,Protula tubularia,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Annelida,Polychaeta,Sabellida,Serpulidae,Protula
+285992,2024-06-26,2024-06-26,2024-06-26,08:10:00,plantae,35128,species,Posidonia oceanica,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Posidoniaceae,Posidonia
+285991,2024-06-26,2024-06-26,2024-06-26,08:10:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285990,2024-06-26,2024-06-26,2024-06-26,08:11:00,chromista,35063,species,Dictyota dichotoma,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota
+285989,2024-06-26,2024-06-26,2024-06-26,08:11:00,porifera,242281,species,Crambe crambe,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Porifera,Demospongiae,Poecilosclerida,Crambeidae,Crambe
+285988,2024-06-26,2024-06-26,2024-06-26,08:11:00,plantae,35128,species,Posidonia oceanica,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Posidoniaceae,Posidonia
+285987,2024-06-26,2024-06-26,2024-06-26,08:12:00,echinodermata,35260,species,Echinaster sepositus,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Echinodermata,Asteroidea,Spinulosida,Echinasteridae,Echinaster
+285986,2024-06-26,2024-06-26,2024-06-26,08:12:00,mollusca,34875,species,Hexaplex trunculus,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Mollusca,Gastropoda,Neogastropoda,Muricidae,Hexaplex
+285985,2024-06-26,2024-06-26,2024-06-26,08:12:00,echinodermata,35260,species,Echinaster sepositus,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Echinodermata,Asteroidea,Spinulosida,Echinasteridae,Echinaster
+285984,2024-06-26,2024-06-26,2024-06-26,08:12:00,mollusca,250214,species,Cerithium vulgatum,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Mollusca,Gastropoda,,Cerithiidae,Cerithium
+285983,2024-06-26,2024-06-26,2024-06-26,08:13:00,actinopterygii,240390,species,Symphodus cinereus,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
+285982,2024-06-26,2024-06-26,2024-06-26,08:15:00,mollusca,34988,species,Felimare tricolor,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Felimare
+285981,2024-06-26,2024-06-26,2024-06-26,08:16:00,actinopterygii,34835,species,Coris julis,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+285980,2024-06-26,2024-06-26,2024-06-26,08:16:00,cnidaria,35248,species,Leptogorgia sarmentosa,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Cnidaria,Anthozoa,Alcyonacea,Gorgoniidae,Leptogorgia
+285979,2024-06-26,2024-06-26,2024-06-26,08:16:00,animalia,35134,species,Halocynthia papillosa,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Ascidiacea,Pleurogona,Pyuridae,Halocynthia
+285978,2024-06-26,2024-06-26,2024-06-26,08:17:00,actinopterygii,34835,species,Coris julis,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+285977,2024-06-26,2024-06-26,2024-06-26,08:17:00,cnidaria,35248,species,Leptogorgia sarmentosa,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Cnidaria,Anthozoa,Alcyonacea,Gorgoniidae,Leptogorgia
+285976,2024-06-26,2024-06-26,2024-06-26,08:18:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285975,2024-06-26,2024-06-26,2024-06-26,08:18:00,chromista,35106,species,Padina pavonica,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
+285974,2024-06-26,2024-06-26,2024-06-26,08:18:00,plantae,35004,species,Halimeda tuna,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Plantae,Chlorophyta,Bryopsidophyceae,Bryopsidales,Halimedaceae,Halimeda
+285973,2024-06-26,2024-06-26,2024-06-26,08:19:00,echinodermata,35260,species,Echinaster sepositus,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Echinodermata,Asteroidea,Spinulosida,Echinasteridae,Echinaster
+285972,2024-06-26,2024-06-26,2024-06-26,08:19:00,actinopterygii,35225,species,Chromis chromis,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
+285971,2024-06-26,2024-06-26,2024-06-26,08:20:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285970,2024-06-26,2024-06-26,2024-06-26,08:20:00,mollusca,34875,species,Hexaplex trunculus,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Mollusca,Gastropoda,Neogastropoda,Muricidae,Hexaplex
+285969,2024-06-26,2024-06-26,2024-06-26,08:21:00,cnidaria,35248,species,Leptogorgia sarmentosa,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Cnidaria,Anthozoa,Alcyonacea,Gorgoniidae,Leptogorgia
+285968,2024-06-26,2024-06-26,2024-06-26,08:21:00,actinopterygii,34835,species,Coris julis,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+285967,2024-06-26,2024-06-26,2024-06-26,08:21:00,mollusca,34875,species,Hexaplex trunculus,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Mollusca,Gastropoda,Neogastropoda,Muricidae,Hexaplex
+285966,2024-06-26,2024-06-26,2024-06-26,08:23:00,actinopterygii,34871,species,Tripterygion delaisi,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Tripterygiidae,Tripterygion
+285965,2024-06-26,2024-06-26,2024-06-26,08:23:00,actinopterygii,35194,species,Thalassoma pavo,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
+285964,2024-06-26,2024-06-26,2024-06-26,08:23:00,mollusca,35075,species,Octopus vulgaris,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus
+285963,2024-06-26,2024-06-26,2024-06-26,08:24:00,porifera,242281,species,Crambe crambe,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Porifera,Demospongiae,Poecilosclerida,Crambeidae,Crambe
+285962,2024-06-26,2024-06-26,2024-06-26,08:24:00,echinodermata,35260,species,Echinaster sepositus,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Echinodermata,Asteroidea,Spinulosida,Echinasteridae,Echinaster
+285961,2024-06-26,2024-06-26,2024-06-26,08:24:00,plantae,35004,species,Halimeda tuna,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Plantae,Chlorophyta,Bryopsidophyceae,Bryopsidales,Halimedaceae,Halimeda
+285960,2024-06-26,2024-06-26,2024-06-26,08:25:00,actinopterygii,13765,species,Serranus scriba,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Serranus
+285959,2024-06-26,2024-06-26,2024-06-26,08:25:00,actinopterygii,12378,species,Apogon imberbis,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Apogonidae,Apogon
+285958,2024-06-26,2024-06-26,2024-06-26,08:26:00,actinopterygii,34835,species,Coris julis,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+285957,2024-06-26,2024-06-26,2024-06-26,08:26:00,actinopterygii,34835,species,Coris julis,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+285956,2024-06-26,2024-06-26,2024-06-26,08:27:00,porifera,242281,species,Crambe crambe,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Porifera,Demospongiae,Poecilosclerida,Crambeidae,Crambe
+285955,2024-06-26,2024-06-26,2024-06-26,08:28:00,actinopterygii,34835,species,Coris julis,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+285954,2024-06-26,2024-06-26,2024-06-26,08:28:00,bryozoa,34982,species,Myriapora truncata,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Bryozoa,Gymnolaemata,Cheilostomatida,Myriaporidae,Myriapora
+285953,2024-06-26,2024-06-26,2024-06-26,08:30:00,actinopterygii,240397,species,Symphodus ocellatus,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
+285952,2024-06-26,2024-06-26,2024-06-26,08:29:00,actinopterygii,13765,species,Serranus scriba,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Serranus
+285951,2024-06-26,2024-06-26,2024-06-26,08:30:00,actinopterygii,35194,species,Thalassoma pavo,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
+285950,2024-06-26,2024-06-26,2024-06-26,08:31:00,actinopterygii,34798,species,Diplodus vulgaris,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+285949,2024-06-26,2024-06-26,2024-06-26,08:33:00,mollusca,35075,species,Octopus vulgaris,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus
+285948,2024-06-26,2024-06-26,2024-06-26,08:34:00,cnidaria,35248,species,Leptogorgia sarmentosa,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Cnidaria,Anthozoa,Alcyonacea,Gorgoniidae,Leptogorgia
+285947,2024-06-26,2024-06-26,2024-06-26,08:35:00,actinopterygii,34835,species,Coris julis,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+285946,2024-06-26,2024-06-26,2024-06-26,08:35:00,plantae,35004,species,Halimeda tuna,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Plantae,Chlorophyta,Bryopsidophyceae,Bryopsidales,Halimedaceae,Halimeda
+285945,2024-06-26,2024-06-26,2024-06-26,08:35:00,actinopterygii,34835,species,Coris julis,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+285944,2024-06-26,2024-06-26,2024-06-26,08:35:00,actinopterygii,35225,species,Chromis chromis,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
+285943,2024-06-26,2024-06-26,2024-06-26,08:36:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285942,2024-06-26,2024-06-26,2024-06-26,08:36:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285941,2024-06-26,2024-06-26,2024-06-26,08:37:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285940,2024-06-26,2024-06-26,2024-06-26,08:37:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285939,2024-06-26,2024-06-26,2024-06-26,08:38:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285938,2024-06-26,2024-06-26,2024-06-26,08:38:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285937,2024-06-26,2024-06-26,2024-06-26,08:38:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285936,2024-06-26,2024-06-26,2024-06-26,08:38:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285935,2024-06-26,2024-06-26,2024-06-26,08:39:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285934,2024-06-26,2024-06-26,2024-06-26,08:39:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285933,2024-06-26,2024-06-26,2024-06-26,08:39:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285932,2024-06-26,2024-06-26,2024-06-26,08:39:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285931,2024-06-26,2024-06-26,2024-06-26,08:40:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285930,2024-06-26,2024-06-26,2024-06-26,08:40:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285929,2024-06-26,2024-06-26,2024-06-26,08:40:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285928,2024-06-26,2024-06-26,2024-06-26,08:40:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285927,2024-06-26,2024-06-26,2024-06-26,08:41:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285926,2024-06-26,2024-06-26,2024-06-26,08:41:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285925,2024-06-26,2024-06-26,2024-06-26,08:41:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285924,2024-06-26,2024-06-26,2024-06-26,08:41:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285923,2024-06-26,2024-06-26,2024-06-26,08:41:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285922,2024-06-26,2024-06-26,2024-06-26,08:42:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285921,2024-06-26,2024-06-26,2024-06-26,08:41:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285920,2024-06-26,2024-06-26,2024-06-26,08:42:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285919,2024-06-26,2024-06-26,2024-06-26,08:42:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285918,2024-06-26,2024-06-26,2024-06-26,08:43:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285917,2024-06-26,2024-06-26,2024-06-26,08:43:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285916,2024-06-26,2024-06-26,2024-06-26,08:43:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285915,2024-06-26,2024-06-26,2024-06-26,08:44:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285914,2024-06-26,2024-06-26,2024-06-26,08:44:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285913,2024-06-26,2024-06-26,2024-06-26,08:44:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285912,2024-06-26,2024-06-26,2024-06-26,08:44:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285911,2024-06-26,2024-06-26,2024-06-26,08:45:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285910,2024-06-26,2024-06-26,2024-06-26,08:45:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285909,2024-06-26,2024-06-26,2024-06-26,08:46:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285908,2024-06-26,2024-06-26,2024-06-26,08:46:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285907,2024-06-26,2024-06-26,2024-06-26,08:46:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285906,2024-06-26,2024-06-26,2024-06-26,08:46:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285905,2024-06-26,2024-06-26,2024-06-26,08:46:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285904,2024-06-26,2024-06-26,2024-06-26,08:47:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285903,2024-06-26,2024-06-26,2024-06-26,08:47:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285902,2024-06-26,2024-06-26,2024-06-26,08:47:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285901,2024-06-26,2024-06-26,2024-06-26,08:48:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285900,2024-06-26,2024-06-26,2024-06-26,08:48:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285899,2024-06-26,2024-06-26,2024-06-26,08:48:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285898,2024-06-26,2024-06-26,2024-06-26,08:48:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285897,2024-06-26,2024-06-26,2024-06-26,08:49:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285896,2024-06-26,2024-06-26,2024-06-26,08:49:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285895,2024-06-26,2024-06-26,2024-06-26,08:50:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285894,2024-06-26,2024-06-26,2024-06-26,08:50:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285893,2024-06-26,2024-06-26,2024-06-26,08:50:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285892,2024-06-26,2024-06-26,2024-06-26,08:51:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285891,2024-06-26,2024-06-26,2024-06-26,08:52:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285890,2024-06-26,2024-06-26,2024-06-26,08:52:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285889,2024-06-26,2024-06-26,2024-06-26,08:52:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+285888,2024-06-26,2024-06-26,2024-06-26,08:53:00,,nan,,,41.5186367323,2.4593223621,False,Blaumar,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
 285884,2024-06-26,2024-06-26,2024-06-25,09:12:00,insecta,253249,species,Phyllognathus excavatus,41.2841722222,2.0958027778,False,"Barcelona, España",research,1239,amb_platges,cc-by,1,0,Animalia,Arthropoda,Insecta,Coleoptera,Dynastidae,Phyllognathus
 285883,2024-06-26,2024-06-26,2024-06-25,08:40:00,plantae,261975,species,Cenchrus incertus,41.2837694444,2.0953138889,False,"Barcelona, España",research,1239,amb_platges,cc-by,1,0,Plantae,Magnoliophyta,Liliopsida,Poales,Poaceae,Cenchrus
 285799,2024-06-26,2024-06-26,2024-06-23,18:06:00,plantae,90449,species,Sixalix atropurpurea,41.2650866667,1.9826166667,False,,research,318,amaliacardenas,cc-by-nc,2,0,Plantae,Magnoliophyta,Magnoliopsida,Dipsacales,Caprifoliaceae,Sixalix
