@@ -1,4 +1,7 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+285799,2024-06-26,2024-06-26,2024-06-23,18:06:00,life,1,stateofmatter,Life,41.2650866667,1.9826166667,False,,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
+285798,2024-06-26,2024-06-26,2024-06-23,18:06:00,life,1,stateofmatter,Life,41.2650916667,1.98262,False,,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
+285797,2024-06-26,2024-06-26,2024-06-23,18:07:00,life,1,stateofmatter,Life,41.265095,1.9826333333,False,,needs_id,318,amaliacardenas,cc-by-nc,0,0,,,,,,
 285513,2024-06-25,2024-06-25,2024-06-25,04:10:00,annelida,131,class,Polychaeta,41.4407504218,2.247985752,False,"Badalona, Barcelona, Espanya",needs_id,487,max,cc-by-nc,0,0,Animalia,Annelida,,,,
 285512,2024-06-25,2024-06-25,2024-06-25,04:00:00,mollusca,34855,species,Sepia officinalis,41.4407504218,2.247985752,False,"Badalona, Barcelona, Espanya",needs_id,487,max,cc-by-nc,0,0,Animalia,Mollusca,Cephalopoda,Sepiida,Sepiidae,Sepia
 285511,2024-06-25,2024-06-25,2024-06-25,03:46:00,mollusca,127,class,Cephalopoda,41.4407504218,2.247985752,False,"Badalona, Barcelona, Espanya",needs_id,487,max,cc-by-nc,0,0,Animalia,Mollusca,,,,
