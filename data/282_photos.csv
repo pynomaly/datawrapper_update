@@ -1,6 +1,6 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
-286227,384241,,,https://minka-sdg.org/attachments/local_photos/files/384241/medium.jpg,davidtsh,41.4100589307,2.2271168942,cc-by-nc-sa,"(c) David Alandí, some rights reserved (CC BY-NC-SA)",286227_384241.jpg
-286226,384240,,,https://minka-sdg.org/attachments/local_photos/files/384240/medium.jpg,davidtsh,41.4100519307,2.2271098942,cc-by-nc-sa,"(c) David Alandí, some rights reserved (CC BY-NC-SA)",286226_384240.jpg
+286227,384241,echinodermata,Holothuria tubulosa,https://minka-sdg.org/attachments/local_photos/files/384241/medium.jpg,davidtsh,41.4100589307,2.2271168942,cc-by-nc-sa,"(c) David Alandí, some rights reserved (CC BY-NC-SA)",286227_384241.jpg
+286226,384240,plantae,Asparagopsis taxiformis,https://minka-sdg.org/attachments/local_photos/files/384240/medium.jpg,davidtsh,41.4100519307,2.2271098942,cc-by-nc-sa,"(c) David Alandí, some rights reserved (CC BY-NC-SA)",286226_384240.jpg
 286168,384157,cnidaria,Pennaria disticha,https://minka-sdg.org/attachments/local_photos/files/384157/medium.jpeg,eloi_sanz,41.3808186049,2.1949361323,cc-by-nc,"(c) Eloi Sanz, some rights reserved (CC BY-NC)",286168_384157.jpg
 286167,384156,mollusca,Patella caerulea,https://minka-sdg.org/attachments/local_photos/files/384156/medium.jpeg,eloi_sanz,41.376509014,2.1931569542,cc-by-nc,"(c) Eloi Sanz, some rights reserved (CC BY-NC)",286167_384156.jpg
 286166,384155,actinopterygii,Diplodus vulgaris,https://minka-sdg.org/attachments/local_photos/files/384155/medium.jpeg,eloi_sanz,41.376509014,2.1931569542,cc-by-nc,"(c) Eloi Sanz, some rights reserved (CC BY-NC)",286166_384155.jpg
