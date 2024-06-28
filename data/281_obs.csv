@@ -1,4 +1,143 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+287533,2024-06-28,2024-06-28,2024-06-02,14:35:00,cnidaria,35220,species,Anemonia viridis,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Anemonia
+287532,2024-06-28,2024-06-28,2024-06-02,14:35:00,actinopterygii,34871,species,Tripterygion delaisi,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Tripterygiidae,Tripterygion
+287531,2024-06-28,2024-06-28,2024-06-02,14:35:00,porifera,251208,species,Spirastrella cunctatrix,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,Animalia,Porifera,Demospongiae,Hadromerida,Spirastrellidae,Spirastrella
+287530,2024-06-28,2024-06-28,2024-06-02,14:35:00,porifera,252776,species,Paraleucilla magna,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,Animalia,Porifera,Calcarea,Leucosolenida,Amphoriscidae,Paraleucilla
+287529,2024-06-28,2024-06-28,2024-06-02,14:35:00,plantae,244409,species,Amphiroa rigida,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,Amphiroa
+287528,2024-06-28,2024-06-28,2024-06-02,14:35:00,chromista,35106,species,Padina pavonica,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
+287527,2024-06-28,2024-06-28,2024-06-02,14:35:00,cnidaria,35220,species,Anemonia viridis,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Anemonia
+287526,2024-06-28,2024-06-28,2024-06-02,14:35:00,cnidaria,35187,species,Balanophyllia europaea,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,Animalia,Cnidaria,Anthozoa,Scleractinia,Dendrophylliidae,Balanophyllia
+287525,2024-06-28,2024-06-28,2024-06-02,14:35:00,mollusca,35273,species,Edmundsella pedata,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Flabellinidae,Edmundsella
+287524,2024-06-28,2024-06-28,2024-06-02,14:35:00,cnidaria,243186,species,Aglaophenia pluma,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,Animalia,Cnidaria,Hydrozoa,Leptothecata,Aglaopheniidae,Aglaophenia
+287523,2024-06-28,2024-06-28,2024-06-02,14:35:00,cnidaria,35047,species,Aiptasia mutabilis,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Aiptasiidae,Aiptasia
+287522,2024-06-28,2024-06-28,2024-06-02,14:35:00,plantae,242231,species,Jania rubens,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,Jania
+287521,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287520,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287519,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287518,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287517,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287516,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287515,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287514,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287513,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287512,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287511,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287510,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287509,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287508,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287507,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287506,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287505,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287504,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287503,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287502,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287501,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287500,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287499,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287498,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287497,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287496,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287495,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287494,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287493,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287492,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287491,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287490,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287489,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287488,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287487,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287486,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287485,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287484,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287483,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287482,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287481,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287480,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287479,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287478,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287477,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287476,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287475,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287474,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287473,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287472,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287471,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287470,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287469,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287468,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287467,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287466,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287465,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287464,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287463,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287462,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287461,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287460,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287459,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287458,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287457,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287456,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287455,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287454,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287453,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287452,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287451,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287450,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287449,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287448,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287447,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287446,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287445,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287444,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287443,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287442,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287441,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287440,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287439,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287438,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287437,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287436,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287435,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287434,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287433,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287432,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287431,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287430,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287429,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287428,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287427,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287426,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287425,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287424,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287423,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287422,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287421,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287420,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287419,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287418,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287417,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287416,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287415,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287414,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287413,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287412,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287411,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287410,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287409,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287408,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287407,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287406,2024-06-28,2024-06-28,2024-06-02,14:35:00,,nan,,,42.2819201902,3.3006393414,False,"Girona, España",needs_id,828,nerea,cc-by-nc,0,0,,,,,,
+287405,2024-06-28,2024-06-28,2024-06-27,09:27:00,mollusca,35075,species,Octopus vulgaris,42.380998408,3.1572476658,False,"17490 Platja Grifeu, Girona, España",needs_id,1732,manelor,cc-by,0,0,Animalia,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus
+287404,2024-06-28,2024-06-28,2024-06-27,09:25:00,,nan,,,42.3811093602,3.1572262081,False,"17490 Platja Grifeu, Girona, España",needs_id,1732,manelor,cc-by,0,0,,,,,,
+287403,2024-06-28,2024-06-28,2024-06-27,09:20:00,porifera,253956,species,Axinella damicornis,42.3812044619,3.1576124462,False,"17490 Platja Grifeu, Girona, España",needs_id,1732,manelor,cc-by,0,0,Animalia,Porifera,Demospongiae,,Axinellidae,Axinella
+287402,2024-06-28,2024-06-28,2024-06-27,09:19:00,porifera,241990,species,Ircinia oros,42.381267863,3.1573764118,False,"17490 Platja Grifeu, Girona, España",needs_id,1732,manelor,cc-by,0,0,Animalia,Porifera,Demospongiae,Dictyoceratida,Irciniidae,Ircinia
+287401,2024-06-28,2024-06-28,2024-06-27,09:19:00,,nan,,,42.3810459589,3.1573334965,False,"17490 Platja Grifeu, Girona, España",needs_id,1732,manelor,cc-by,0,0,,,,,,
+287400,2024-06-28,2024-06-28,2024-06-27,09:18:00,,nan,,,42.3811569111,3.1572691235,False,"Girona, España",needs_id,1732,manelor,cc-by,0,0,,,,,,
+287399,2024-06-28,2024-06-28,2024-06-27,09:18:00,bryozoa,244238,species,Amathia verticillata,42.379888875,3.1556597981,False,"17490 Platja Grifeu, Girona, España",needs_id,1732,manelor,cc-by,0,0,Animalia,Bryozoa,Gymnolaemata,Ctenostomatida,Vesiculariidae,Amathia
+287398,2024-06-28,2024-06-28,2024-06-27,09:18:00,annelida,244097,species,Protula tubularia,42.3810301086,3.1571618351,False,"17490 Platja Grifeu, Girona, España",needs_id,1732,manelor,cc-by,0,0,Animalia,Annelida,Polychaeta,Sabellida,Serpulidae,Protula
+287397,2024-06-28,2024-06-28,2024-06-27,09:18:00,plantae,35146,species,Sphaerococcus coronopifolius,42.3793341012,3.1557027134,False,"Girona, España",needs_id,1732,manelor,cc-by,0,0,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Sphaerococcaceae,Sphaerococcus
+287396,2024-06-28,2024-06-28,2024-06-27,09:07:00,actinopterygii,14022,species,Muraena helena,42.3794926085,3.1559387478,False,"17490 Platja Grifeu, Girona, España",needs_id,1732,manelor,cc-by,0,0,Animalia,Chordata,Actinopterygii,Anguilliformes,Muraenidae,Muraena
+287395,2024-06-28,2024-06-28,2024-06-27,08:59:00,actinopterygii,35125,species,Mullus surmuletus,42.3809825576,3.1564108166,False,"17490 Platja Grifeu, Girona, España",needs_id,1732,manelor,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Mullidae,Mullus
 287394,2024-06-28,2024-06-28,2024-06-27,08:40:00,porifera,242281,species,Crambe crambe,42.3809825576,3.1570974621,False,"17490 Platja Grifeu, Girona, España",needs_id,1732,manelor,cc-by,0,0,Animalia,Porifera,Demospongiae,Poecilosclerida,Crambeidae,Crambe
 287393,2024-06-28,2024-06-28,2024-06-27,08:30:00,actinopterygii,240399,species,Tripterygion tripteronotum,42.3809667073,3.1567326817,False,"17490 Platja Grifeu, Girona, España",needs_id,1732,manelor,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Tripterygiidae,Tripterygion
 287392,2024-06-28,2024-06-28,2024-06-27,08:29:00,actinopterygii,35213,species,Diplodus puntazzo,42.3810142583,3.156775597,False,"17490 Platja Grifeu, Girona, España",needs_id,1732,manelor,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
@@ -415,7 +554,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 286742,2024-06-27,2024-06-28,2024-05-07,11:10:00,actinopterygii,34888,species,Uranoscopus scaber,41.7794994247,3.032256556,False,"17220 Sant Feliu de Guíxols, Girona, España",research,162,miguel_angel_fuentes,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Uranoscopidae,Uranoscopus
 286741,2024-06-27,2024-06-28,2024-05-10,09:48:00,crustacea,251506,species,Stenopus spinosus,42.2941149919,3.2904602317,False,"Portlligat, Girona, España",research,162,miguel_angel_fuentes,cc-by-nc,1,0,Animalia,Arthropoda,Malacostraca,Decapoda,Stenopodidae,Stenopus
 286740,2024-06-27,2024-06-28,2024-05-13,11:56:00,elasmobranchii,34863,species,Torpedo marmorata,42.3443745318,3.2097001124,False,Spain,research,162,miguel_angel_fuentes,cc-by-nc,1,0,Animalia,Chordata,Elasmobranchii,Torpediniformes,Torpedinidae,Torpedo
-286739,2024-06-27,2024-06-28,2024-05-10,09:18:00,actinopterygii,243518,species,Pomatoschistus quagga,42.2934826957,3.2891047243,False,Spain,research,162,miguel_angel_fuentes,cc-by-nc,3,1,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Pomatoschistus
+286739,2024-06-27,2024-06-28,2024-05-10,09:18:00,actinopterygii,243518,species,Pomatoschistus quagga,42.2934826957,3.2891047243,False,Spain,research,162,miguel_angel_fuentes,cc-by-nc,3,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Pomatoschistus
 286738,2024-06-27,2024-06-28,2024-05-30,09:18:00,cnidaria,243674,species,Alcyonium coralloides,41.7850237,3.031659,False,"17220 Sant Feliu de Guíxols, Girona, España",needs_id,162,miguel_angel_fuentes,cc-by-nc,0,0,Animalia,Cnidaria,Anthozoa,Alcyonacea,Alcyoniidae,Alcyonium
 286694,2024-06-27,2024-06-27,2024-06-22,06:11:00,echinodermata,251866,species,Holothuria forskali,41.7199362036,2.9407530426,False,"17320 Tossa de Mar, Girona, España",research,769,raulcalella,cc-by-nc,1,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria
 286693,2024-06-27,2024-06-27,2024-06-22,06:11:00,plantae,251230,species,Chrysymenia ventricosa,41.7199362036,2.9407530426,False,"17320 Tossa de Mar, Girona, España",research,769,raulcalella,cc-by-nc,1,0,Plantae,Rhodophyta,Florideophyceae,Rhodymeniales,Rhodymeniaceae,Chrysymenia
