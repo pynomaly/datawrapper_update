@@ -1,4 +1,39 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+289244,2024-06-30,2024-06-30,2024-06-29,10:05:00,actinopterygii,9783,genus,Gobius,41.8054552799,3.0735062233,False,,needs_id,822,prema,C,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,
+289243,2024-06-30,2024-06-30,2024-06-29,09:04:00,platyhelminthes,32826,genus,Planaria,41.8054482799,3.0734992233,False,,needs_id,822,prema,C,0,0,Animalia,Platyhelminthes,Rhabditophora,Rhabdocoela,,
+289242,2024-06-30,2024-06-30,2024-06-29,09:04:00,actinopterygii,4700,family,Sphyraenidae,41.8054412799,3.0734922233,False,,needs_id,822,prema,C,0,0,Animalia,Chordata,Actinopterygii,Perciformes,,
+289241,2024-06-30,2024-06-30,2024-06-29,10:03:00,life,1,stateofmatter,Life,41.8054342799,3.0734852233,False,,needs_id,822,prema,C,0,0,,,,,,
+289240,2024-06-30,2024-06-30,2024-06-29,09:02:00,,nan,,,41.8054272799,3.0734782233,False,,needs_id,822,prema,C,0,0,,,,,,
+289239,2024-06-30,2024-06-30,2024-06-30,22:01:00,mollusca,35075,species,Octopus vulgaris,41.8054202799,3.0734712233,False,,needs_id,822,prema,C,0,0,Animalia,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus
+289238,2024-06-30,2024-06-30,2024-06-30,22:00:00,,nan,,,41.8054132799,3.0734642233,False,,needs_id,822,prema,C,0,0,,,,,,
+289237,2024-06-30,2024-06-30,2024-06-30,22:00:00,,nan,,,41.8054062799,3.0734572233,False,,needs_id,822,prema,C,0,0,,,,,,
+289236,2024-06-30,2024-06-30,2024-06-29,09:59:00,,nan,,,41.8053992799,3.0734502233,False,,needs_id,822,prema,C,0,0,,,,,,
+289235,2024-06-30,2024-06-30,2024-06-29,08:58:00,life,1,stateofmatter,Life,41.8053922799,3.0734432233,False,,needs_id,822,prema,C,0,0,,,,,,
+289234,2024-06-30,2024-06-30,2024-06-29,09:58:00,,nan,,,41.8053852799,3.0734362233,False,,needs_id,822,prema,C,0,0,,,,,,
+289233,2024-06-30,2024-06-30,2024-06-29,09:58:00,,nan,,,41.8053782799,3.0734292233,False,,needs_id,822,prema,C,0,0,,,,,,
+289232,2024-06-30,2024-06-30,2024-06-29,09:57:00,life,1,stateofmatter,Life,41.8053712799,3.0734222233,False,,needs_id,822,prema,C,0,0,,,,,,
+289231,2024-06-30,2024-06-30,2024-06-29,08:57:00,,nan,,,41.8053642799,3.0734152233,False,,needs_id,822,prema,C,0,0,,,,,,
+289230,2024-06-30,2024-06-30,2024-06-29,09:56:00,life,1,stateofmatter,Life,41.8053572799,3.0734082233,False,,needs_id,822,prema,C,0,0,,,,,,
+289229,2024-06-30,2024-06-30,2024-06-29,08:55:00,,nan,,,41.8053502799,3.0734012233,False,,needs_id,822,prema,C,0,0,,,,,,
+289228,2024-06-30,2024-06-30,2024-06-29,08:55:00,,nan,,,41.8053432799,3.0733942233,False,,needs_id,822,prema,C,0,0,,,,,,
+289227,2024-06-30,2024-06-30,2024-06-29,08:25:00,life,1,stateofmatter,Life,41.8053362799,3.0733872233,False,,needs_id,822,prema,C,0,0,,,,,,
+289226,2024-06-30,2024-06-30,2024-06-29,08:54:00,,nan,,,41.8053292799,3.0733802233,False,,needs_id,822,prema,C,0,0,,,,,,
+289225,2024-06-30,2024-06-30,2024-06-29,08:53:00,,nan,,,41.8053222799,3.0733732233,False,,needs_id,822,prema,C,0,0,,,,,,
+289224,2024-06-30,2024-06-30,2024-06-29,08:52:00,life,1,stateofmatter,Life,41.8053152799,3.0733662233,False,,needs_id,822,prema,C,0,0,,,,,,
+289223,2024-06-30,2024-06-30,2024-06-29,08:52:00,life,1,stateofmatter,Life,41.8053082799,3.0733592233,False,,needs_id,822,prema,C,0,0,,,,,,
+289222,2024-06-30,2024-06-30,2024-06-29,08:59:00,life,1,stateofmatter,Life,41.8053012799,3.0733522233,False,,needs_id,822,prema,C,0,0,,,,,,
+289221,2024-06-30,2024-06-30,2024-06-29,09:10:00,,nan,,,41.8052942799,3.0733452233,False,,needs_id,822,prema,C,0,0,,,,,,
+289220,2024-06-30,2024-06-30,2024-06-29,17:31:00,,nan,,,41.8052842799,3.0733352233,False,,needs_id,822,prema,C,0,0,,,,,,
+289219,2024-06-30,2024-06-30,2024-06-29,17:31:00,,nan,,,41.8052812799,3.0733322233,False,,needs_id,822,prema,C,0,0,,,,,,
+289218,2024-06-30,2024-06-30,2024-06-29,08:58:00,mollusca,35036,species,Cratena peregrina,41.8052712799,3.0733222233,False,,needs_id,822,prema,C,0,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Facelinidae,Cratena
+289217,2024-06-30,2024-06-30,2024-06-29,08:58:00,mollusca,35036,species,Cratena peregrina,41.8052682799,3.0733192233,False,,needs_id,822,prema,C,0,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Facelinidae,Cratena
+289216,2024-06-30,2024-06-30,2024-06-29,08:58:00,mollusca,35036,species,Cratena peregrina,41.8052652799,3.0733162233,False,,needs_id,822,prema,C,0,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Facelinidae,Cratena
+289215,2024-06-30,2024-06-30,2024-06-29,08:58:00,mollusca,35036,species,Cratena peregrina,41.8052622799,3.0733132233,False,,needs_id,822,prema,C,0,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Facelinidae,Cratena
+289214,2024-06-30,2024-06-30,2024-06-29,08:58:00,mollusca,35036,species,Cratena peregrina,41.8052592799,3.0733102233,False,,needs_id,822,prema,C,0,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Facelinidae,Cratena
+289213,2024-06-30,2024-06-30,2024-06-29,08:58:00,mollusca,35036,species,Cratena peregrina,41.8052562799,3.0733072233,False,,needs_id,822,prema,C,0,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Facelinidae,Cratena
+289212,2024-06-30,2024-06-30,2024-06-29,08:58:00,mollusca,35036,species,Cratena peregrina,41.8052532799,3.0733042233,False,,needs_id,822,prema,C,0,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Facelinidae,Cratena
+289211,2024-06-30,2024-06-30,2024-06-29,08:58:00,mollusca,35036,species,Cratena peregrina,41.8052502799,3.0733012233,False,,needs_id,822,prema,C,0,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Facelinidae,Cratena
+289210,2024-06-30,2024-06-30,2024-06-29,08:58:00,mollusca,35036,species,Cratena peregrina,41.8052472799,3.0732982233,False,,needs_id,822,prema,C,0,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Facelinidae,Cratena
 289208,2024-06-30,2024-06-30,2024-06-27,10:57:00,plantae,35158,species,Acetabularia acetabulum,41.6766472083,2.8069496426,False,,research,72,badosa,cc-by-nc,1,0,Plantae,Chlorophyta,Ulvophyceae,Dasycladales,Polyphysaceae,Acetabularia
 289207,2024-06-30,2024-06-30,2024-06-27,11:03:00,mollusca,252080,species,Trinchesia morrowae,41.6769041295,2.8080616102,False,,needs_id,72,badosa,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Tergipedidae,Trinchesia
 289206,2024-06-30,2024-06-30,2024-06-27,11:58:00,cnidaria,252904,species,Pelagia noctiluca,41.6784920364,2.8078780354,False,,research,72,badosa,cc-by-nc,1,0,Animalia,Cnidaria,Scyphozoa,Semaeostomeae,Pelagiidae,Pelagia
