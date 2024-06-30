@@ -1,4 +1,43 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+288951,2024-06-30,2024-06-30,2024-06-30,08:41:00,actinopterygii,35244,species,Parablennius sanguinolentus,42.395328012,3.1562129902,False,"17496 Platja de Garbet, Girona, España",research,1732,manelor,cc-by,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+288950,2024-06-30,2024-06-30,2024-06-30,08:41:00,actinopterygii,35120,species,Gobius incognitus,42.3942504263,3.1550113605,False,"17496 Platja de Garbet, Girona, España",needs_id,1732,manelor,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Gobius
+288949,2024-06-30,2024-06-30,2024-06-30,08:40:00,mollusca,35075,species,Octopus vulgaris,42.394377202,3.1547538685,False,"17496 Platja de Garbet, Girona, España",research,1732,manelor,cc-by,1,0,Animalia,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus
+288948,2024-06-30,2024-06-30,2024-06-30,08:36:00,actinopterygii,35250,species,Parablennius pilicornis,42.3952646251,3.1561271595,False,"17496 Platja de Garbet, Girona, España",research,1732,manelor,cc-by,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+288947,2024-06-30,2024-06-30,2024-06-30,08:34:00,annelida,246477,species,Bispira volutacornis,42.3951378511,3.155440514,False,"Girona, España",needs_id,1732,manelor,cc-by,0,0,Animalia,Annelida,Polychaeta,Sabellida,Sabellidae,Bispira
+288946,2024-06-30,2024-06-30,2024-06-30,08:32:00,cnidaria,35047,species,Aiptasia mutabilis,42.3946941403,3.1564704822,False,"17496 Platja de Garbet, Girona, España",research,1732,manelor,cc-by,1,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Aiptasiidae,Aiptasia
+288945,2024-06-30,2024-06-30,2024-06-30,08:29:00,,nan,,,42.3955815588,3.1563846515,False,"Girona, España",needs_id,1732,manelor,cc-by,0,0,,,,,,
+288944,2024-06-30,2024-06-30,2024-06-30,08:27:00,cnidaria,252904,species,Pelagia noctiluca,42.3955815588,3.1572429584,False,"17496 Platja de Garbet, Girona, España",research,1732,manelor,cc-by,1,0,Animalia,Cnidaria,Scyphozoa,Semaeostomeae,Pelagiidae,Pelagia
+288943,2024-06-30,2024-06-30,2024-06-30,06:45:00,,nan,,,41.8879988217,3.2047920948,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+288942,2024-06-30,2024-06-30,2024-06-30,06:45:00,,nan,,,41.8879958217,3.2047890948,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+288941,2024-06-30,2024-06-30,2024-06-30,06:45:00,,nan,,,41.8879928217,3.2047860948,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+288940,2024-06-30,2024-06-30,2024-06-30,06:45:00,,nan,,,41.8879898217,3.2047830948,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+288939,2024-06-30,2024-06-30,2024-06-30,06:45:00,,nan,,,41.8879868217,3.2047800948,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+288938,2024-06-30,2024-06-30,2024-06-30,06:45:00,,nan,,,41.8879838217,3.2047770948,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+288937,2024-06-30,2024-06-30,2024-06-30,06:45:00,,nan,,,41.8879808217,3.2047740948,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+288936,2024-06-30,2024-06-30,2024-06-30,06:45:00,,nan,,,41.8879778217,3.2047710948,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+288935,2024-06-30,2024-06-30,2024-06-30,06:45:00,,nan,,,41.8879748217,3.2047680948,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+288934,2024-06-30,2024-06-30,2024-06-30,08:25:00,actinopterygii,34986,species,Symphodus roissali,42.3951378511,3.1563846515,False,"17496 Platja de Garbet, Girona, España",needs_id,1732,manelor,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
+288933,2024-06-30,2024-06-30,2024-06-30,06:45:00,,nan,,,41.8879718217,3.2047650948,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+288932,2024-06-30,2024-06-30,2024-06-30,06:45:00,,nan,,,41.8879688217,3.2047620948,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+288931,2024-06-30,2024-06-30,2024-06-30,06:45:00,,nan,,,41.8879658217,3.2047590948,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+288930,2024-06-30,2024-06-30,2024-06-30,06:45:00,,nan,,,41.8879628217,3.2047560948,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+288929,2024-06-30,2024-06-30,2024-06-30,06:45:00,,nan,,,41.8879598217,3.2047530948,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+288928,2024-06-30,2024-06-30,2024-06-30,06:45:00,,nan,,,41.8879568217,3.2047500948,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+288927,2024-06-30,2024-06-30,2024-06-30,06:45:00,,nan,,,41.8879538217,3.2047470948,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+288926,2024-06-30,2024-06-30,2024-06-30,06:45:00,,nan,,,41.8879508217,3.2047440948,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+288925,2024-06-30,2024-06-30,2024-06-30,06:45:00,,nan,,,41.8879478217,3.2047410948,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+288924,2024-06-30,2024-06-30,2024-06-30,06:45:00,,nan,,,41.8879448217,3.2047380948,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+288923,2024-06-30,2024-06-30,2024-06-30,06:45:00,,nan,,,41.8879418217,3.2047350948,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+288922,2024-06-30,2024-06-30,2024-06-30,06:45:00,,nan,,,41.8879388217,3.2047320948,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+288921,2024-06-30,2024-06-30,2024-06-30,06:45:00,,nan,,,41.8879358217,3.2047290948,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+288920,2024-06-30,2024-06-30,2024-06-30,08:18:00,annelida,249709,species,Serpula vermicularis,42.3964689649,3.1582729267,False,"17496 Platja de Garbet, Girona, España",needs_id,1732,manelor,cc-by,0,0,Animalia,Annelida,Polychaeta,Sabellida,Serpulidae,Serpula
+288919,2024-06-30,2024-06-30,2024-06-30,06:45:00,,nan,,,41.8879328217,3.2047260948,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+288918,2024-06-30,2024-06-30,2024-06-30,06:45:00,,nan,,,41.8879298217,3.2047230948,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+288917,2024-06-30,2024-06-30,2024-06-30,06:45:00,,nan,,,41.8879268217,3.2047200948,False,,needs_id,2500,jordi2000,cc-by,0,0,,,,,,
+288916,2024-06-30,2024-06-30,2024-06-30,08:15:00,porifera,35180,species,Aplysina aerophoba,42.3944405898,3.1546680378,False,"17496 Platja de Garbet, Girona, España",needs_id,1732,manelor,cc-by,0,0,Animalia,Porifera,Demospongiae,Verongida,Aplysinidae,Aplysina
+288915,2024-06-30,2024-06-30,2024-06-30,08:09:00,cnidaria,34999,species,Actinia mediterranea,42.3957717183,3.1565563129,False,"Girona, España",needs_id,1732,manelor,cc-by,0,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Actinia
+288914,2024-06-30,2024-06-30,2024-06-30,08:02:00,porifera,252576,species,Oscarella lobularis,42.3955181722,3.1567279743,False,"17496 Platja de Garbet, Girona, España",needs_id,1732,manelor,cc-by,0,0,Animalia,Porifera,Homoscleromorpha,Homosclerophorida,Oscarellidae,Oscarella
+288913,2024-06-30,2024-06-30,2024-06-30,07:57:00,animalia,244755,species,Pycnoclavella communis,42.3948209151,3.1553546833,False,"Girona, España",needs_id,1732,manelor,cc-by,0,0,Animalia,Chordata,Ascidiacea,Enterogona,Pycnoclavellidae,Pycnoclavella
 288786,2024-06-30,2024-06-30,2024-06-30,07:57:00,porifera,252576,species,Oscarella lobularis,42.3952012381,3.1562129902,False,"17496 Platja de Garbet, Girona, España",needs_id,1732,manelor,cc-by,0,0,Animalia,Porifera,Homoscleromorpha,Homosclerophorida,Oscarellidae,Oscarella
 288785,2024-06-30,2024-06-30,2024-06-30,07:54:00,porifera,250915,species,Chondrosia reniformis,42.3947575277,3.1561271595,False,"17496 Platja de Garbet, Girona, España",needs_id,1732,manelor,cc-by,0,0,Animalia,Porifera,Demospongiae,Chondrosida,Chondrillidae,Chondrosia
 288784,2024-06-30,2024-06-30,2024-06-30,07:53:00,plantae,35004,species,Halimeda tuna,42.3949476897,3.1551830219,False,"Girona, España",needs_id,1732,manelor,cc-by,0,0,Plantae,Chlorophyta,Bryopsidophyceae,Bryopsidales,Halimedaceae,Halimeda
@@ -6798,7 +6837,6 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 270042,2024-05-20,2024-05-20,2024-05-18,09:01:00,plantae,35146,species,Sphaerococcus coronopifolius,41.8118451645,3.0887418349,False,"La Llosa, Platja d'Aro, Girona, España",research,55,yespi,cc-by-nc,1,0,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Sphaerococcaceae,Sphaerococcus
 270041,2024-05-20,2024-05-20,2024-05-18,09:01:00,plantae,246781,species,Mesophyllum expansum,41.8118451645,3.0887418349,False,"La Llosa, Platja d'Aro, Girona, España",research,55,yespi,cc-by-nc,1,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,Mesophyllum
 270040,2024-05-20,2024-05-20,2024-05-18,09:01:00,plantae,35032,species,Codium vermilara,41.8118451645,3.0887418349,False,"La Llosa, Platja d'Aro, Girona, España",research,55,yespi,cc-by-nc,2,0,Plantae,Chlorophyta,Bryopsidophyceae,Bryopsidales,Codiaceae,Codium
-270039,2024-05-20,2024-05-20,2024-05-18,09:01:00,chromista,253945,species,Halopteris scoparia,41.8118451645,3.0887418349,False,"La Llosa, Platja d'Aro, Girona, España",research,55,yespi,cc-by-nc,1,0,Chromista,Ochrophyta,Phaeophyceae,Sphacelariales,Stypocaulaceae,Halopteris
 270039,2024-05-20,2024-05-20,2024-05-18,09:01:00,chromista,253945,species,Halopteris scoparia,41.8118451645,3.0887418349,False,"La Llosa, Platja d'Aro, Girona, España",research,55,yespi,cc-by-nc,1,0,Chromista,Ochrophyta,Phaeophyceae,Sphacelariales,Stypocaulaceae,Halopteris
 270038,2024-05-20,2024-05-20,2024-05-18,09:01:00,plantae,252189,species,Codium bursa,41.8118451645,3.0887418349,False,"La Llosa, Platja d'Aro, Girona, España",research,55,yespi,cc-by-nc,1,0,Plantae,Chlorophyta,Bryopsidophyceae,Bryopsidales,Codiaceae,Codium
 270037,2024-05-20,2024-05-20,2024-05-18,09:01:00,cnidaria,35248,species,Leptogorgia sarmentosa,41.8118451645,3.0887418349,False,"La Llosa, Platja d'Aro, Girona, España",research,55,yespi,cc-by-nc,2,0,Animalia,Cnidaria,Anthozoa,Alcyonacea,Gorgoniidae,Leptogorgia
