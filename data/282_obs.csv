@@ -95,16 +95,16 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 290763,2024-07-02,2024-07-02,2024-07-02,14:27:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
 290762,2024-07-02,2024-07-02,2024-07-02,14:27:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
 290761,2024-07-02,2024-07-02,2024-07-02,14:28:00,actinopterygii,35213,species,Diplodus puntazzo,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
-290760,2024-07-02,2024-07-02,2024-07-02,14:31:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-290759,2024-07-02,2024-07-02,2024-07-02,14:32:00,animalia,35134,species,Halocynthia papillosa,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Ascidiacea,Pleurogona,Pyuridae,Halocynthia
-290758,2024-07-02,2024-07-02,2024-07-02,14:32:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-290757,2024-07-02,2024-07-02,2024-07-02,14:32:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-290756,2024-07-02,2024-07-02,2024-07-02,14:33:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-290755,2024-07-02,2024-07-02,2024-07-02,14:33:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+290760,2024-07-02,2024-07-02,2024-07-02,14:31:00,actinopterygii,35053,species,Scorpaena scrofa,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,Scorpaena
+290759,2024-07-02,2024-07-02,2024-07-02,14:32:00,animalia,35134,species,Halocynthia papillosa,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Ascidiacea,Pleurogona,Pyuridae,Halocynthia
+290758,2024-07-02,2024-07-02,2024-07-02,14:32:00,mollusca,34917,species,Peltodoris atromaculata,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Discodorididae,Peltodoris
+290757,2024-07-02,2024-07-02,2024-07-02,14:32:00,porifera,243127,species,Agelas oroides,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Porifera,Demospongiae,Agelasida,Agelasidae,Agelas
+290756,2024-07-02,2024-07-02,2024-07-02,14:33:00,actinopterygii,34835,species,Coris julis,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+290755,2024-07-02,2024-07-02,2024-07-02,14:33:00,cnidaria,35252,species,Eunicella gazella,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Cnidaria,Anthozoa,Alcyonacea,Gorgoniidae,Eunicella
 290754,2024-07-02,2024-07-02,2024-07-02,14:34:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-290753,2024-07-02,2024-07-02,2024-07-02,14:35:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-290752,2024-07-02,2024-07-02,2024-07-02,14:36:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-290751,2024-07-02,2024-07-02,2024-07-02,14:37:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+290753,2024-07-02,2024-07-02,2024-07-02,14:35:00,actinopterygii,240399,species,Tripterygion tripteronotum,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Tripterygiidae,Tripterygion
+290752,2024-07-02,2024-07-02,2024-07-02,14:36:00,actinopterygii,14022,species,Muraena helena,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Anguilliformes,Muraenidae,Muraena
+290751,2024-07-02,2024-07-02,2024-07-02,14:37:00,actinopterygii,34835,species,Coris julis,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
 290750,2024-07-02,2024-07-02,2024-07-02,14:37:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
 290749,2024-07-02,2024-07-02,2024-07-02,14:39:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
 290748,2024-07-02,2024-07-02,2024-07-02,14:39:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
