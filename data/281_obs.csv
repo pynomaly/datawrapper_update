@@ -9242,6 +9242,13 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 280089,2024-06-11,2024-06-18,2024-06-08,15:47:00,plantae,64,phylum,Rhodophyta,42.13971,3.146765,False,roses,needs_id,801,sergio_zafra,cc-by-nc,0,0,Plantae,,,,,
 280085,2024-06-11,2024-06-12,2024-06-01,18:17:00,cnidaria,35202,species,Paramuricea clavata,41.8889022518,3.1982369239,False,ullastres 3,research,2888,tonihillaalos,cc-by,3,1,Animalia,Cnidaria,Anthozoa,Alcyonacea,Plexauridae,Paramuricea
 280084,2024-06-11,2024-06-11,2024-06-01,18:14:00,annelida,35119,species,Bonellia viridis,41.8865348232,3.1900659182,False,Ullastres 3,research,2888,tonihillaalos,cc-by,1,0,Animalia,Annelida,Polychaeta,,Bonelliidae,Bonellia
+291832,2024-07-03,2024-07-03,2024-06-29,11:19:00,,nan,,,41.8169022977,3.0774165007,False,"Platja d'Aro, Girona, España",needs_id,543,evararo,cc-by-nc,0,0,,,,,,
+291831,2024-07-03,2024-07-03,2024-06-29,11:14:00,,nan,,,41.8169022977,3.0774165007,False,"Platja d'Aro, Girona, España",needs_id,543,evararo,cc-by-nc,0,0,,,,,,
+291830,2024-07-03,2024-07-03,2024-06-29,11:08:00,,nan,,,41.8169022977,3.0774165007,False,"Platja d'Aro, Girona, España",needs_id,543,evararo,cc-by-nc,0,0,,,,,,
+291829,2024-07-03,2024-07-03,2024-06-29,10:57:00,,nan,,,41.8169022977,3.0774165007,False,"Platja d'Aro, Girona, España",needs_id,543,evararo,cc-by-nc,0,0,,,,,,
+291828,2024-07-03,2024-07-03,2024-06-29,10:56:00,,nan,,,41.8169022977,3.0774165007,False,"Platja d'Aro, Girona, España",needs_id,543,evararo,cc-by-nc,0,0,,,,,,
+291827,2024-07-03,2024-07-03,2024-06-29,10:55:00,,nan,,,41.8169022977,3.0774165007,False,"Platja d'Aro, Girona, España",needs_id,543,evararo,cc-by-nc,0,0,,,,,,
+291826,2024-07-03,2024-07-03,2024-06-29,10:55:00,,nan,,,41.8169022977,3.0774165007,False,"Platja d'Aro, Girona, España",needs_id,543,evararo,cc-by-nc,0,0,,,,,,
 291783,2024-07-03,2024-07-03,2024-05-11,08:44:00,cnidaria,243186,species,Aglaophenia pluma,42.1141496159,3.166357234,False,"Illa Mateua, L'Escala, Girona",needs_id,732,mpontes,cc-by-nc-sa,0,0,Animalia,Cnidaria,Hydrozoa,Leptothecata,Aglaopheniidae,Aglaophenia
 291782,2024-07-03,2024-07-03,2024-05-11,08:44:00,mollusca,250350,species,Smaragdia viridis,42.1141496159,3.166357234,False,"Illa Mateua, L'Escala, Girona",research,732,mpontes,cc-by-nc-sa,1,0,Animalia,Mollusca,Gastropoda,,Neritidae,Smaragdia
 291781,2024-07-03,2024-07-03,2024-05-11,08:42:00,cnidaria,243186,species,Aglaophenia pluma,42.1141496159,3.166357234,False,"Illa Mateua, L'Escala, Girona",research,732,mpontes,cc-by-nc-sa,1,0,Animalia,Cnidaria,Hydrozoa,Leptothecata,Aglaopheniidae,Aglaophenia
