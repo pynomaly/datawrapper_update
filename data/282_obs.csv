@@ -1,110 +1,111 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
-291171,2024-07-03,2024-07-03,2024-07-03,07:28:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291170,2024-07-03,2024-07-03,2024-07-03,07:29:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291169,2024-07-03,2024-07-03,2024-07-03,07:29:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291168,2024-07-03,2024-07-03,2024-07-03,07:29:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291167,2024-07-03,2024-07-03,2024-07-03,07:29:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291166,2024-07-03,2024-07-03,2024-07-03,07:29:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291165,2024-07-03,2024-07-03,2024-07-03,07:30:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291164,2024-07-03,2024-07-03,2024-07-03,07:30:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291163,2024-07-03,2024-07-03,2024-07-03,07:30:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291162,2024-07-03,2024-07-03,2024-07-03,07:30:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291161,2024-07-03,2024-07-03,2024-07-03,07:30:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291160,2024-07-03,2024-07-03,2024-07-03,07:31:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291159,2024-07-03,2024-07-03,2024-07-03,07:31:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291158,2024-07-03,2024-07-03,2024-07-03,07:31:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291157,2024-07-03,2024-07-03,2024-07-03,07:33:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291156,2024-07-03,2024-07-03,2024-07-03,07:33:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291155,2024-07-03,2024-07-03,2024-07-03,07:34:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291154,2024-07-03,2024-07-03,2024-07-03,07:35:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291153,2024-07-03,2024-07-03,2024-07-03,07:35:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291152,2024-07-03,2024-07-03,2024-07-03,07:36:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291151,2024-07-03,2024-07-03,2024-07-03,07:37:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291150,2024-07-03,2024-07-03,2024-07-03,07:41:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291149,2024-07-03,2024-07-03,2024-07-03,07:41:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291148,2024-07-03,2024-07-03,2024-07-03,07:43:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291147,2024-07-03,2024-07-03,2024-07-03,07:44:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291146,2024-07-03,2024-07-03,2024-07-03,07:44:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291145,2024-07-03,2024-07-03,2024-07-03,07:44:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291144,2024-07-03,2024-07-03,2024-07-03,07:45:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291143,2024-07-03,2024-07-03,2024-07-03,07:45:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291142,2024-07-03,2024-07-03,2024-07-03,07:45:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291141,2024-07-03,2024-07-03,2024-07-03,07:47:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291140,2024-07-03,2024-07-03,2024-07-03,07:47:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291139,2024-07-03,2024-07-03,2024-07-03,07:47:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291138,2024-07-03,2024-07-03,2024-07-03,07:47:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291137,2024-07-03,2024-07-03,2024-07-03,07:48:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291136,2024-07-03,2024-07-03,2024-07-03,07:49:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291135,2024-07-03,2024-07-03,2024-07-03,07:49:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291134,2024-07-03,2024-07-03,2024-07-03,07:49:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291133,2024-07-03,2024-07-03,2024-07-03,07:50:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291132,2024-07-03,2024-07-03,2024-07-03,07:50:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291131,2024-07-03,2024-07-03,2024-07-03,07:51:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291130,2024-07-03,2024-07-03,2024-07-03,07:51:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291129,2024-07-03,2024-07-03,2024-07-03,07:52:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291128,2024-07-03,2024-07-03,2024-07-03,07:52:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291127,2024-07-03,2024-07-03,2024-07-03,07:53:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291126,2024-07-03,2024-07-03,2024-07-03,07:53:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291125,2024-07-03,2024-07-03,2024-07-03,07:53:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291124,2024-07-03,2024-07-03,2024-07-03,07:53:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291123,2024-07-03,2024-07-03,2024-07-03,07:54:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291122,2024-07-03,2024-07-03,2024-07-03,07:54:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291121,2024-07-03,2024-07-03,2024-07-03,07:55:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291120,2024-07-03,2024-07-03,2024-07-03,07:55:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291119,2024-07-03,2024-07-03,2024-07-03,07:55:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291118,2024-07-03,2024-07-03,2024-07-03,07:56:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291117,2024-07-03,2024-07-03,2024-07-03,07:56:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291116,2024-07-03,2024-07-03,2024-07-03,07:57:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291115,2024-07-03,2024-07-03,2024-07-03,07:58:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291114,2024-07-03,2024-07-03,2024-07-03,07:59:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291113,2024-07-03,2024-07-03,2024-07-03,07:59:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291112,2024-07-03,2024-07-03,2024-07-03,07:59:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291111,2024-07-03,2024-07-03,2024-07-03,08:00:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291110,2024-07-03,2024-07-03,2024-07-03,08:01:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291109,2024-07-03,2024-07-03,2024-07-03,08:01:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291108,2024-07-03,2024-07-03,2024-07-03,08:01:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291107,2024-07-03,2024-07-03,2024-07-03,08:01:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291106,2024-07-03,2024-07-03,2024-07-03,08:02:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291105,2024-07-03,2024-07-03,2024-07-03,08:03:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291104,2024-07-03,2024-07-03,2024-07-03,08:04:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291103,2024-07-03,2024-07-03,2024-07-03,08:04:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291102,2024-07-03,2024-07-03,2024-07-03,08:04:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291101,2024-07-03,2024-07-03,2024-07-03,08:04:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291100,2024-07-03,2024-07-03,2024-07-03,08:04:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291099,2024-07-03,2024-07-03,2024-07-03,08:04:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291098,2024-07-03,2024-07-03,2024-07-03,08:06:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291097,2024-07-03,2024-07-03,2024-07-03,08:06:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291096,2024-07-03,2024-07-03,2024-07-03,08:07:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291095,2024-07-03,2024-07-03,2024-07-03,08:07:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291094,2024-07-03,2024-07-03,2024-07-03,08:07:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291093,2024-07-03,2024-07-03,2024-07-03,08:08:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291092,2024-07-03,2024-07-03,2024-07-03,08:08:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291091,2024-07-03,2024-07-03,2024-07-03,08:10:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291090,2024-07-03,2024-07-03,2024-07-03,08:10:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291089,2024-07-03,2024-07-03,2024-07-03,08:11:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291088,2024-07-03,2024-07-03,2024-07-03,08:12:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291087,2024-07-03,2024-07-03,2024-07-03,08:12:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291086,2024-07-03,2024-07-03,2024-07-03,08:12:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291085,2024-07-03,2024-07-03,2024-07-03,08:12:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291084,2024-07-03,2024-07-03,2024-07-03,08:13:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291083,2024-07-03,2024-07-03,2024-07-03,08:13:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291082,2024-07-03,2024-07-03,2024-07-03,08:14:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291081,2024-07-03,2024-07-03,2024-07-03,08:14:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291080,2024-07-03,2024-07-03,2024-07-03,08:15:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291079,2024-07-03,2024-07-03,2024-07-03,08:15:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291078,2024-07-03,2024-07-03,2024-07-03,08:17:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291077,2024-07-03,2024-07-03,2024-07-03,08:18:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291076,2024-07-03,2024-07-03,2024-07-03,08:19:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291075,2024-07-03,2024-07-03,2024-07-03,08:19:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291074,2024-07-03,2024-07-03,2024-07-03,08:20:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291073,2024-07-03,2024-07-03,2024-07-03,08:20:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291072,2024-07-03,2024-07-03,2024-07-03,08:20:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291071,2024-07-03,2024-07-03,2024-07-03,08:20:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291070,2024-07-03,2024-07-03,2024-07-03,08:21:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291069,2024-07-03,2024-07-03,2024-07-03,08:21:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291068,2024-07-03,2024-07-03,2024-07-03,08:21:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291067,2024-07-03,2024-07-03,2024-07-03,08:21:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-291066,2024-07-03,2024-07-03,2024-07-03,08:22:00,,nan,,,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+291196,2024-07-03,2024-07-03,2024-07-03,07:44:00,crustacea,237075,species,Perforatus perforatus,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Arthropoda,,,Balanidae,Perforatus
+291171,2024-07-03,2024-07-03,2024-07-03,07:28:00,mollusca,11453,genus,Mytilus,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,
+291170,2024-07-03,2024-07-03,2024-07-03,07:29:00,porifera,253206,species,Phorbas tenacior,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Porifera,Demospongiae,Poecilosclerida,Hymedesmiidae,Phorbas
+291169,2024-07-03,2024-07-03,2024-07-03,07:29:00,bryozoa,252951,species,Pentapora fascialis,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Bryozoa,Gymnolaemata,Cheilostomatida,Bitectiporidae,Pentapora
+291168,2024-07-03,2024-07-03,2024-07-03,07:29:00,bryozoa,252951,species,Pentapora fascialis,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Bryozoa,Gymnolaemata,Cheilostomatida,Bitectiporidae,Pentapora
+291167,2024-07-03,2024-07-03,2024-07-03,07:29:00,actinopterygii,34835,species,Coris julis,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+291166,2024-07-03,2024-07-03,2024-07-03,07:29:00,actinopterygii,34835,species,Coris julis,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+291165,2024-07-03,2024-07-03,2024-07-03,07:30:00,chromista,35106,species,Padina pavonica,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
+291164,2024-07-03,2024-07-03,2024-07-03,07:30:00,actinopterygii,13755,species,Serranus cabrilla,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Serranus
+291163,2024-07-03,2024-07-03,2024-07-03,07:30:00,cnidaria,35248,species,Leptogorgia sarmentosa,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Cnidaria,Anthozoa,Alcyonacea,Gorgoniidae,Leptogorgia
+291162,2024-07-03,2024-07-03,2024-07-03,07:30:00,mollusca,119,class,Bivalvia,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Mollusca,,,,
+291161,2024-07-03,2024-07-03,2024-07-03,07:30:00,echinodermata,240406,species,Arbacia lixula,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Echinodermata,Echinoidea,Arbacioida,Arbaciidae,Arbacia
+291160,2024-07-03,2024-07-03,2024-07-03,07:31:00,echinodermata,251875,species,Holothuria tubulosa,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria
+291159,2024-07-03,2024-07-03,2024-07-03,07:31:00,echinodermata,240406,species,Arbacia lixula,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Echinodermata,Echinoidea,Arbacioida,Arbaciidae,Arbacia
+291158,2024-07-03,2024-07-03,2024-07-03,07:31:00,echinodermata,35260,species,Echinaster sepositus,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Echinodermata,Asteroidea,Spinulosida,Echinasteridae,Echinaster
+291157,2024-07-03,2024-07-03,2024-07-03,07:33:00,mollusca,248495,species,Mytilus galloprovincialis,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,Mytilus
+291156,2024-07-03,2024-07-03,2024-07-03,07:33:00,bryozoa,252951,species,Pentapora fascialis,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Bryozoa,Gymnolaemata,Cheilostomatida,Bitectiporidae,Pentapora
+291155,2024-07-03,2024-07-03,2024-07-03,07:34:00,mollusca,34875,species,Hexaplex trunculus,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Mollusca,Gastropoda,Neogastropoda,Muricidae,Hexaplex
+291154,2024-07-03,2024-07-03,2024-07-03,07:35:00,animalia,35134,species,Halocynthia papillosa,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Ascidiacea,Pleurogona,Pyuridae,Halocynthia
+291153,2024-07-03,2024-07-03,2024-07-03,07:35:00,mollusca,253572,species,Venus verrucosa,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Mollusca,Bivalvia,Venerida,Veneridae,Venus
+291152,2024-07-03,2024-07-03,2024-07-03,07:36:00,mollusca,253572,species,Venus verrucosa,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Mollusca,Bivalvia,Venerida,Veneridae,Venus
+291151,2024-07-03,2024-07-03,2024-07-03,07:37:00,mollusca,250214,species,Cerithium vulgatum,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Mollusca,Gastropoda,,Cerithiidae,Cerithium
+291150,2024-07-03,2024-07-03,2024-07-03,07:41:00,mollusca,119,class,Bivalvia,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Mollusca,,,,
+291149,2024-07-03,2024-07-03,2024-07-03,07:41:00,mollusca,242806,species,Laevicardium crassum,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Laevicardium
+291148,2024-07-03,2024-07-03,2024-07-03,07:43:00,crustacea,35084,species,Dardanus calidus,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Arthropoda,Malacostraca,Decapoda,Diogenidae,Dardanus
+291147,2024-07-03,2024-07-03,2024-07-03,07:44:00,echinodermata,35112,species,Holothuria mammata,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria
+291146,2024-07-03,2024-07-03,2024-07-03,07:44:00,echinodermata,35260,species,Echinaster sepositus,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Echinodermata,Asteroidea,Spinulosida,Echinasteridae,Echinaster
+291145,2024-07-03,2024-07-03,2024-07-03,07:44:00,mollusca,248495,species,Mytilus galloprovincialis,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,Mytilus
+291144,2024-07-03,2024-07-03,2024-07-03,07:45:00,chromista,254271,species,Sporochnus pedunculatus,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Chromista,Ochrophyta,Phaeophyceae,Sporochnales,Sporochnaceae,Sporochnus
+291143,2024-07-03,2024-07-03,2024-07-03,07:45:00,cnidaria,35248,species,Leptogorgia sarmentosa,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Cnidaria,Anthozoa,Alcyonacea,Gorgoniidae,Leptogorgia
+291142,2024-07-03,2024-07-03,2024-07-03,07:45:00,animalia,34872,species,Phallusia mammillata,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Ascidiacea,Enterogona,Ascidiidae,Phallusia
+291141,2024-07-03,2024-07-03,2024-07-03,07:47:00,plantae,252189,species,Codium bursa,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Plantae,Chlorophyta,Bryopsidophyceae,Bryopsidales,Codiaceae,Codium
+291140,2024-07-03,2024-07-03,2024-07-03,07:47:00,echinodermata,34848,species,Paracentrotus lividus,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Echinodermata,Echinoidea,Camarodonta,Parechinidae,Paracentrotus
+291139,2024-07-03,2024-07-03,2024-07-03,07:47:00,porifera,242281,species,Crambe crambe,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Porifera,Demospongiae,Poecilosclerida,Crambeidae,Crambe
+291138,2024-07-03,2024-07-03,2024-07-03,07:47:00,plantae,247460,species,Bryopsis plumosa,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Plantae,Chlorophyta,Bryopsidophyceae,Bryopsidales,Bryopsidaceae,Bryopsis
+291137,2024-07-03,2024-07-03,2024-07-03,07:48:00,echinodermata,35260,species,Echinaster sepositus,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Echinodermata,Asteroidea,Spinulosida,Echinasteridae,Echinaster
+291136,2024-07-03,2024-07-03,2024-07-03,07:49:00,actinopterygii,35225,species,Chromis chromis,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
+291135,2024-07-03,2024-07-03,2024-07-03,07:49:00,bryozoa,252951,species,Pentapora fascialis,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Bryozoa,Gymnolaemata,Cheilostomatida,Bitectiporidae,Pentapora
+291134,2024-07-03,2024-07-03,2024-07-03,07:49:00,annelida,244097,species,Protula tubularia,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Annelida,Polychaeta,Sabellida,Serpulidae,Protula
+291133,2024-07-03,2024-07-03,2024-07-03,07:50:00,actinopterygii,34798,species,Diplodus vulgaris,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+291132,2024-07-03,2024-07-03,2024-07-03,07:50:00,animalia,35134,species,Halocynthia papillosa,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Ascidiacea,Pleurogona,Pyuridae,Halocynthia
+291131,2024-07-03,2024-07-03,2024-07-03,07:51:00,bryozoa,252951,species,Pentapora fascialis,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Bryozoa,Gymnolaemata,Cheilostomatida,Bitectiporidae,Pentapora
+291130,2024-07-03,2024-07-03,2024-07-03,07:51:00,echinodermata,251875,species,Holothuria tubulosa,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria
+291129,2024-07-03,2024-07-03,2024-07-03,07:52:00,echinodermata,251875,species,Holothuria tubulosa,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria
+291128,2024-07-03,2024-07-03,2024-07-03,07:52:00,echinodermata,35260,species,Echinaster sepositus,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Echinodermata,Asteroidea,Spinulosida,Echinasteridae,Echinaster
+291127,2024-07-03,2024-07-03,2024-07-03,07:53:00,echinodermata,251875,species,Holothuria tubulosa,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria
+291126,2024-07-03,2024-07-03,2024-07-03,07:53:00,echinodermata,251875,species,Holothuria tubulosa,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria
+291125,2024-07-03,2024-07-03,2024-07-03,07:53:00,animalia,254270,species,Aplidium pseudolobatum,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Ascidiacea,Enterogona,Polyclinidae,Aplidium
+291124,2024-07-03,2024-07-03,2024-07-03,07:53:00,chromista,253784,species,Zanardinia typus,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Chromista,Ochrophyta,Phaeophyceae,Cutleriales,Cutleriaceae,Zanardinia
+291123,2024-07-03,2024-07-03,2024-07-03,07:54:00,porifera,253206,species,Phorbas tenacior,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Porifera,Demospongiae,Poecilosclerida,Hymedesmiidae,Phorbas
+291122,2024-07-03,2024-07-03,2024-07-03,07:54:00,,248948,species,Scyllarus pygmaeus,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Arthropoda,Malacostraca,Decapoda,Scyllaridae,Scyllarus
+291121,2024-07-03,2024-07-03,2024-07-03,07:55:00,animalia,35134,species,Halocynthia papillosa,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Ascidiacea,Pleurogona,Pyuridae,Halocynthia
+291120,2024-07-03,2024-07-03,2024-07-03,07:55:00,bryozoa,252951,species,Pentapora fascialis,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Bryozoa,Gymnolaemata,Cheilostomatida,Bitectiporidae,Pentapora
+291119,2024-07-03,2024-07-03,2024-07-03,07:55:00,annelida,248904,species,Filograna implexa,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Annelida,Polychaeta,Sabellida,Serpulidae,Filograna
+291118,2024-07-03,2024-07-03,2024-07-03,07:56:00,bryozoa,252951,species,Pentapora fascialis,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Bryozoa,Gymnolaemata,Cheilostomatida,Bitectiporidae,Pentapora
+291117,2024-07-03,2024-07-03,2024-07-03,07:56:00,echinodermata,35260,species,Echinaster sepositus,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Echinodermata,Asteroidea,Spinulosida,Echinasteridae,Echinaster
+291116,2024-07-03,2024-07-03,2024-07-03,07:57:00,mollusca,35273,species,Edmundsella pedata,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Flabellinidae,Edmundsella
+291115,2024-07-03,2024-07-03,2024-07-03,07:58:00,plantae,35004,species,Halimeda tuna,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Plantae,Chlorophyta,Bryopsidophyceae,Bryopsidales,Halimedaceae,Halimeda
+291114,2024-07-03,2024-07-03,2024-07-03,07:59:00,annelida,244097,species,Protula tubularia,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Annelida,Polychaeta,Sabellida,Serpulidae,Protula
+291113,2024-07-03,2024-07-03,2024-07-03,07:59:00,actinopterygii,35012,species,Parablennius rouxi,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+291112,2024-07-03,2024-07-03,2024-07-03,07:59:00,cnidaria,35252,species,Eunicella gazella,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Cnidaria,Anthozoa,Alcyonacea,Gorgoniidae,Eunicella
+291111,2024-07-03,2024-07-03,2024-07-03,08:00:00,animalia,35058,species,Clavelina lepadiformis,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Ascidiacea,Enterogona,Clavelinidae,Clavelina
+291110,2024-07-03,2024-07-03,2024-07-03,08:01:00,echinodermata,35260,species,Echinaster sepositus,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Echinodermata,Asteroidea,Spinulosida,Echinasteridae,Echinaster
+291109,2024-07-03,2024-07-03,2024-07-03,08:01:00,animalia,35058,species,Clavelina lepadiformis,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Ascidiacea,Enterogona,Clavelinidae,Clavelina
+291108,2024-07-03,2024-07-03,2024-07-03,08:01:00,animalia,35058,species,Clavelina lepadiformis,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Ascidiacea,Enterogona,Clavelinidae,Clavelina
+291107,2024-07-03,2024-07-03,2024-07-03,08:01:00,animalia,35058,species,Clavelina lepadiformis,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Ascidiacea,Enterogona,Clavelinidae,Clavelina
+291106,2024-07-03,2024-07-03,2024-07-03,08:02:00,bryozoa,248503,species,Schizoporella errata,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Bryozoa,Gymnolaemata,Cheilostomatida,Schizoporellidae,Schizoporella
+291105,2024-07-03,2024-07-03,2024-07-03,08:03:00,cnidaria,35011,species,Pennaria disticha,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Pennariidae,Pennaria
+291104,2024-07-03,2024-07-03,2024-07-03,08:04:00,chromista,242228,species,Acinetospora crinita,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Chromista,Ochrophyta,Phaeophyceae,Ectocarpales,Acinetosporaceae,Acinetospora
+291103,2024-07-03,2024-07-03,2024-07-03,08:04:00,mollusca,247092,species,Mimachlamys varia,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Mollusca,Bivalvia,Pectinida,Pectinidae,Mimachlamys
+291102,2024-07-03,2024-07-03,2024-07-03,08:04:00,actinopterygii,35194,species,Thalassoma pavo,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
+291101,2024-07-03,2024-07-03,2024-07-03,08:04:00,actinopterygii,34835,species,Coris julis,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+291100,2024-07-03,2024-07-03,2024-07-03,08:04:00,actinopterygii,35194,species,Thalassoma pavo,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
+291099,2024-07-03,2024-07-03,2024-07-03,08:04:00,actinopterygii,35225,species,Chromis chromis,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
+291098,2024-07-03,2024-07-03,2024-07-03,08:06:00,bryozoa,248503,species,Schizoporella errata,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Bryozoa,Gymnolaemata,Cheilostomatida,Schizoporellidae,Schizoporella
+291097,2024-07-03,2024-07-03,2024-07-03,08:06:00,animalia,35058,species,Clavelina lepadiformis,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Ascidiacea,Enterogona,Clavelinidae,Clavelina
+291096,2024-07-03,2024-07-03,2024-07-03,08:07:00,chromista,35063,species,Dictyota dichotoma,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota
+291095,2024-07-03,2024-07-03,2024-07-03,08:07:00,actinopterygii,35225,species,Chromis chromis,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
+291094,2024-07-03,2024-07-03,2024-07-03,08:07:00,actinopterygii,14022,species,Muraena helena,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Actinopterygii,Anguilliformes,Muraenidae,Muraena
+291093,2024-07-03,2024-07-03,2024-07-03,08:08:00,actinopterygii,35225,species,Chromis chromis,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
+291092,2024-07-03,2024-07-03,2024-07-03,08:08:00,actinopterygii,35225,species,Chromis chromis,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
+291091,2024-07-03,2024-07-03,2024-07-03,08:10:00,actinopterygii,34798,species,Diplodus vulgaris,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+291090,2024-07-03,2024-07-03,2024-07-03,08:10:00,plantae,35032,species,Codium vermilara,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Plantae,Chlorophyta,Bryopsidophyceae,Bryopsidales,Codiaceae,Codium
+291089,2024-07-03,2024-07-03,2024-07-03,08:11:00,actinopterygii,34798,species,Diplodus vulgaris,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+291088,2024-07-03,2024-07-03,2024-07-03,08:12:00,actinopterygii,246899,species,Boops boops,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Boops
+291087,2024-07-03,2024-07-03,2024-07-03,08:12:00,actinopterygii,246899,species,Boops boops,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Boops
+291086,2024-07-03,2024-07-03,2024-07-03,08:12:00,chromista,242228,species,Acinetospora crinita,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Chromista,Ochrophyta,Phaeophyceae,Ectocarpales,Acinetosporaceae,Acinetospora
+291085,2024-07-03,2024-07-03,2024-07-03,08:12:00,actinopterygii,79111,species,Spicara smaris,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Centracanthidae,Spicara
+291084,2024-07-03,2024-07-03,2024-07-03,08:13:00,animalia,35058,species,Clavelina lepadiformis,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Ascidiacea,Enterogona,Clavelinidae,Clavelina
+291083,2024-07-03,2024-07-03,2024-07-03,08:13:00,actinopterygii,35194,species,Thalassoma pavo,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
+291082,2024-07-03,2024-07-03,2024-07-03,08:14:00,actinopterygii,35225,species,Chromis chromis,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
+291081,2024-07-03,2024-07-03,2024-07-03,08:14:00,actinopterygii,34835,species,Coris julis,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+291080,2024-07-03,2024-07-03,2024-07-03,08:15:00,plantae,252189,species,Codium bursa,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Plantae,Chlorophyta,Bryopsidophyceae,Bryopsidales,Codiaceae,Codium
+291079,2024-07-03,2024-07-03,2024-07-03,08:15:00,actinopterygii,35225,species,Chromis chromis,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
+291078,2024-07-03,2024-07-03,2024-07-03,08:17:00,chromista,35541,genus,Dictyota,41.547670144,2.5162608748,False,Posidonia Dive,needs_id,219,ealcaniz,cc-by-nc-sa,1,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,
+291077,2024-07-03,2024-07-03,2024-07-03,08:18:00,actinopterygii,35012,species,Parablennius rouxi,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+291076,2024-07-03,2024-07-03,2024-07-03,08:19:00,actinopterygii,34805,species,Sarpa salpa,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
+291075,2024-07-03,2024-07-03,2024-07-03,08:19:00,bryozoa,248503,species,Schizoporella errata,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Bryozoa,Gymnolaemata,Cheilostomatida,Schizoporellidae,Schizoporella
+291074,2024-07-03,2024-07-03,2024-07-03,08:20:00,actinopterygii,34798,species,Diplodus vulgaris,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+291073,2024-07-03,2024-07-03,2024-07-03,08:20:00,actinopterygii,12553,species,Diplodus sargus,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+291072,2024-07-03,2024-07-03,2024-07-03,08:20:00,actinopterygii,34798,species,Diplodus vulgaris,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+291071,2024-07-03,2024-07-03,2024-07-03,08:20:00,actinopterygii,34798,species,Diplodus vulgaris,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+291070,2024-07-03,2024-07-03,2024-07-03,08:21:00,plantae,252189,species,Codium bursa,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Plantae,Chlorophyta,Bryopsidophyceae,Bryopsidales,Codiaceae,Codium
+291069,2024-07-03,2024-07-03,2024-07-03,08:21:00,actinopterygii,34835,species,Coris julis,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+291068,2024-07-03,2024-07-03,2024-07-03,08:21:00,animalia,35058,species,Clavelina lepadiformis,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Ascidiacea,Enterogona,Clavelinidae,Clavelina
+291067,2024-07-03,2024-07-03,2024-07-03,08:21:00,actinopterygii,35225,species,Chromis chromis,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
+291066,2024-07-03,2024-07-03,2024-07-03,08:22:00,plantae,252189,species,Codium bursa,41.547670144,2.5162608748,False,Posidonia Dive,research,219,ealcaniz,cc-by-nc-sa,1,0,Plantae,Chlorophyta,Bryopsidophyceae,Bryopsidales,Codiaceae,Codium
 291014,2024-07-03,2024-07-03,2024-07-02,08:29:00,,262069,species,Ethusa mascarone,41.5252620157,2.4519503778,False,"La Trencada   1 Mataró, Barcelona, España",research,16,guillermoalvarez_fecdas,cc-by-nc,1,0,Animalia,Arthropoda,Malacostraca,Decapoda,Ethusidae,Ethusa
 291013,2024-07-03,2024-07-03,2024-07-02,08:21:00,cnidaria,35166,species,Cladocora caespitosa,41.5252620157,2.4519503778,False,"La Trencada   1 Mataró, Barcelona, España",research,16,guillermoalvarez_fecdas,cc-by-nc,1,0,Animalia,Cnidaria,Anthozoa,Scleractinia,Caryophylliidae,Cladocora
 291012,2024-07-03,2024-07-03,2024-07-02,08:19:00,cnidaria,257148,species,Tridentata perpusilla,41.5252620157,2.4519503778,False,"La Trencada   1 Mataró, Barcelona, España",research,16,guillermoalvarez_fecdas,cc-by-nc,1,0,Animalia,Cnidaria,Hydrozoa,Leptothecata,Sertulariidae,
