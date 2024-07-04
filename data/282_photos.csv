@@ -1,5 +1,4 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
-292336,391856,,,https://minka-sdg.org/attachments/local_photos/files/391856/medium.jpg,bertamari,41.4955109521,2.3812677659,cc-by-nc,"(c) bertamari, some rights reserved (CC BY-NC)",292336_391856.jpg
 292335,391855,,,https://minka-sdg.org/attachments/local_photos/files/391855/medium.jpg,bertamari,41.4955109521,2.3812677659,cc-by-nc,"(c) bertamari, some rights reserved (CC BY-NC)",292335_391855.jpg
 292334,391854,,,https://minka-sdg.org/attachments/local_photos/files/391854/medium.jpg,bertamari,41.4955109521,2.3812677659,cc-by-nc,"(c) bertamari, some rights reserved (CC BY-NC)",292334_391854.jpg
 292333,391853,,,https://minka-sdg.org/attachments/local_photos/files/391853/medium.jpg,bertamari,41.4955109521,2.3812677659,cc-by-nc,"(c) bertamari, some rights reserved (CC BY-NC)",292333_391853.jpg
@@ -25,10 +24,10 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 292313,391833,,,https://minka-sdg.org/attachments/local_photos/files/391833/medium.jpg,bertamari,41.4955109521,2.3812677659,cc-by-nc,"(c) bertamari, some rights reserved (CC BY-NC)",292313_391833.jpg
 292312,391832,,,https://minka-sdg.org/attachments/local_photos/files/391832/medium.jpg,bertamari,41.4955109521,2.3812677659,cc-by-nc,"(c) bertamari, some rights reserved (CC BY-NC)",292312_391832.jpg
 292311,391831,,,https://minka-sdg.org/attachments/local_photos/files/391831/medium.jpg,bertamari,41.4955109521,2.3812677659,cc-by-nc,"(c) bertamari, some rights reserved (CC BY-NC)",292311_391831.jpg
-292310,391830,,,https://minka-sdg.org/attachments/local_photos/files/391830/medium.jpg,bertamari,41.4955109521,2.3812677659,cc-by-nc,"(c) bertamari, some rights reserved (CC BY-NC)",292310_391830.jpg
-292309,391829,,,https://minka-sdg.org/attachments/local_photos/files/391829/medium.jpg,bertamari,41.4955109521,2.3812677659,cc-by-nc,"(c) bertamari, some rights reserved (CC BY-NC)",292309_391829.jpg
-292308,391828,,,https://minka-sdg.org/attachments/local_photos/files/391828/medium.jpg,bertamari,41.4955109521,2.3812677659,cc-by-nc,"(c) bertamari, some rights reserved (CC BY-NC)",292308_391828.jpg
-292307,391827,,,https://minka-sdg.org/attachments/local_photos/files/391827/medium.jpg,bertamari,41.4955109521,2.3812677659,cc-by-nc,"(c) bertamari, some rights reserved (CC BY-NC)",292307_391827.jpg
+292310,391830,actinopterygii,Diplodus vulgaris,https://minka-sdg.org/attachments/local_photos/files/391830/medium.jpg,bertamari,41.4955109521,2.3812677659,cc-by-nc,"(c) bertamari, some rights reserved (CC BY-NC)",292310_391830.jpg
+292309,391829,chromista,Padina pavonica,https://minka-sdg.org/attachments/local_photos/files/391829/medium.jpg,bertamari,41.4955109521,2.3812677659,cc-by-nc,"(c) bertamari, some rights reserved (CC BY-NC)",292309_391829.jpg
+292308,391828,actinopterygii,Symphodus roissali,https://minka-sdg.org/attachments/local_photos/files/391828/medium.jpg,bertamari,41.4955109521,2.3812677659,cc-by-nc,"(c) bertamari, some rights reserved (CC BY-NC)",292308_391828.jpg
+292307,391827,actinopterygii,Diplodus vulgaris,https://minka-sdg.org/attachments/local_photos/files/391827/medium.jpg,bertamari,41.4955109521,2.3812677659,cc-by-nc,"(c) bertamari, some rights reserved (CC BY-NC)",292307_391827.jpg
 292306,391823,actinopterygii,Perciformes,https://minka-sdg.org/attachments/local_photos/files/391823/medium.jpeg,jalaball,41.5348771331,2.4753262799,cc-by-nc,"(c) jalaball, some rights reserved (CC BY-NC)",292306_391823.jpg
 292305,391822,cnidaria,Anemonia viridis,https://minka-sdg.org/attachments/local_photos/files/391822/medium.jpeg,jalaball,41.5348771331,2.4753262799,cc-by-nc,"(c) jalaball, some rights reserved (CC BY-NC)",292305_391822.jpg
 292304,391821,echinodermata,Holothuria tubulosa,https://minka-sdg.org/attachments/local_photos/files/391821/medium.jpeg,jalaball,41.5348771331,2.4753262799,cc-by-nc,"(c) jalaball, some rights reserved (CC BY-NC)",292304_391821.jpg
@@ -78,7 +77,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 292274,391776,cnidaria,Leptogorgia sarmentosa,https://minka-sdg.org/attachments/local_photos/files/391776/medium.jpeg,jalaball,41.5348771331,2.4753262799,cc-by-nc,"(c) jalaball, some rights reserved (CC BY-NC)",292274_391776.jpg
 292273,391775,actinopterygii,Symphodus tinca,https://minka-sdg.org/attachments/local_photos/files/391775/medium.jpeg,jalaball,41.5348771331,2.4753262799,cc-by-nc,"(c) jalaball, some rights reserved (CC BY-NC)",292273_391775.jpg
 292273,391774,actinopterygii,Symphodus tinca,https://minka-sdg.org/attachments/local_photos/files/391774/medium.jpeg,jalaball,41.5348771331,2.4753262799,cc-by-nc,"(c) jalaball, some rights reserved (CC BY-NC)",292273_391774.jpg
-292272,391773,porifera,Axinella verrucosa,https://minka-sdg.org/attachments/local_photos/files/391773/medium.jpeg,jalaball,41.5348771331,2.4753262799,cc-by-nc,"(c) jalaball, some rights reserved (CC BY-NC)",292272_391773.jpg
+292272,391773,porifera,Axinella,https://minka-sdg.org/attachments/local_photos/files/391773/medium.jpeg,jalaball,41.5348771331,2.4753262799,cc-by-nc,"(c) jalaball, some rights reserved (CC BY-NC)",292272_391773.jpg
 292271,391772,actinopterygii,Serranus scriba,https://minka-sdg.org/attachments/local_photos/files/391772/medium.jpeg,jalaball,41.5348771331,2.4753262799,cc-by-nc,"(c) jalaball, some rights reserved (CC BY-NC)",292271_391772.jpg
 292270,391771,actinopterygii,Chromis chromis,https://minka-sdg.org/attachments/local_photos/files/391771/medium.jpeg,jalaball,41.5348771331,2.4753262799,cc-by-nc,"(c) jalaball, some rights reserved (CC BY-NC)",292270_391771.jpg
 292269,391770,plantae,Sphaerococcus coronopifolius,https://minka-sdg.org/attachments/local_photos/files/391770/medium.jpeg,jalaball,41.5348771331,2.4753262799,cc-by-nc,"(c) jalaball, some rights reserved (CC BY-NC)",292269_391770.jpg
