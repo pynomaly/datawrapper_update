@@ -1,4 +1,7 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+292079,2024-07-04,2024-07-04,2024-07-04,08:03:00,,nan,,,41.4043299,2.2144258,False,"Diagonal Mar i el Front Marítim del Poblenou, Sant Martí, Barcelona, España",needs_id,4621,biel_tapia,cc-by,0,0,,,,,,
+292078,2024-07-04,2024-07-04,2024-07-04,08:03:00,,nan,,,41.4043299,2.2144258,False,"Diagonal Mar i el Front Marítim del Poblenou, Sant Martí, Barcelona, España",needs_id,4621,biel_tapia,cc-by,0,0,,,,,,
+292077,2024-07-04,2024-07-04,2024-07-04,08:03:00,,nan,,,41.4043299,2.2144258,False,"Diagonal Mar i el Front Marítim del Poblenou, Sant Martí, Barcelona, España",needs_id,4621,biel_tapia,cc-by,0,0,,,,,,
 291926,2024-07-04,2024-07-04,2024-07-04,09:38:00,,nan,,,41.2651038,1.9806608,False,,needs_id,1675,cfustermaria,cc-by,0,0,,,,,,
 291887,2024-07-04,2024-07-04,2024-07-02,05:43:00,,nan,,,41.496346908,2.3828549885,False,,needs_id,1057,bertamari,cc-by-nc,0,0,,,,,,
 291886,2024-07-04,2024-07-04,2024-07-02,05:43:00,,nan,,,41.496346908,2.3828549885,False,,needs_id,1057,bertamari,cc-by-nc,0,0,,,,,,
@@ -56,7 +59,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 291800,2024-07-03,2024-07-04,2024-06-04,07:59:00,actinopterygii,34805,species,Sarpa salpa,41.2257402525,1.7901243487,False,"Platja Terramar, Barcelona, España",research,746,martinacm,C,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
 291799,2024-07-03,2024-07-04,2024-06-04,07:58:00,actinopterygii,240400,species,Oblada melanura,41.2256533033,1.7901941308,False,"Platja Terramar, Barcelona, España",research,746,martinacm,C,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Oblada
 291798,2024-07-03,2024-07-04,2024-06-04,07:55:00,actinopterygii,35250,species,Parablennius pilicornis,41.2256918363,1.7903603831,False,"Platja Terramar, Barcelona, España",needs_id,746,martinacm,C,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
-291694,2024-07-03,2024-07-04,2024-05-18,07:35:00,crustacea,249098,species,Carcinus aestuarii,41.4092118676,2.2271221464,False,Forum,needs_id,224,manelsalvador,cc-by-nc,1,0,Animalia,Arthropoda,Malacostraca,Decapoda,Portunidae,Carcinus
+291694,2024-07-03,2024-07-04,2024-05-18,07:35:00,crustacea,249098,species,Carcinus aestuarii,41.4092118676,2.2271221464,False,Forum,research,224,manelsalvador,cc-by-nc,1,0,Animalia,Arthropoda,Malacostraca,Decapoda,Portunidae,Carcinus
 291684,2024-07-03,2024-07-04,2024-06-18,15:08:00,actinopterygii,3,class,Actinopterygii,41.2305181442,1.7984633893,False,,needs_id,26,carlosrodero,cc-by-nc,2,0,Animalia,Chordata,,,,
 291508,2024-07-03,2024-07-03,2024-06-18,14:56:00,plantae,246914,species,Asparagopsis taxiformis,41.2305748777,1.7983748764,False,,research,26,carlosrodero,cc-by-nc,2,0,Plantae,Rhodophyta,Florideophyceae,Bonnemaisoniales,Bonnemaisoniaceae,Asparagopsis
 291507,2024-07-03,2024-07-03,2024-06-18,15:04:00,mollusca,34855,species,Sepia officinalis,41.2305509236,1.7984912172,False,,research,26,carlosrodero,cc-by-nc,2,0,Animalia,Mollusca,Cephalopoda,Sepiida,Sepiidae,Sepia

@@ -9242,6 +9242,31 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 280089,2024-06-11,2024-06-18,2024-06-08,15:47:00,plantae,64,phylum,Rhodophyta,42.13971,3.146765,False,roses,needs_id,801,sergio_zafra,cc-by-nc,0,0,Plantae,,,,,
 280085,2024-06-11,2024-06-12,2024-06-01,18:17:00,cnidaria,35202,species,Paramuricea clavata,41.8889022518,3.1982369239,False,ullastres 3,research,2888,tonihillaalos,cc-by,3,1,Animalia,Cnidaria,Anthozoa,Alcyonacea,Plexauridae,Paramuricea
 280084,2024-06-11,2024-06-11,2024-06-01,18:14:00,annelida,35119,species,Bonellia viridis,41.8865348232,3.1900659182,False,Ullastres 3,research,2888,tonihillaalos,cc-by,1,0,Animalia,Annelida,Polychaeta,,Bonelliidae,Bonellia
+292076,2024-07-04,2024-07-04,2024-06-26,08:11:00,,nan,,,41.9641709656,3.2277120439,False,Spain,needs_id,740,manuelmesa,cc-by-nc,0,0,,,,,,
+292075,2024-07-04,2024-07-04,2024-06-26,09:23:00,,nan,,,41.9641899233,3.2277753678,False,Spain,needs_id,740,manuelmesa,cc-by-nc,0,0,,,,,,
+292074,2024-07-04,2024-07-04,2024-06-26,09:14:00,,nan,,,41.9641365733,3.2279040272,False,Spain,needs_id,740,manuelmesa,cc-by-nc,0,0,,,,,,
+292073,2024-07-04,2024-07-04,2024-06-26,08:51:00,,nan,,,41.9641707272,3.2280756886,False,Spain,needs_id,740,manuelmesa,cc-by-nc,0,0,,,,,,
+292072,2024-07-04,2024-07-04,2024-06-26,08:47:00,mollusca,35075,species,Octopus vulgaris,41.9641228618,3.2279804701,False,Spain,needs_id,740,manuelmesa,cc-by-nc,0,0,Animalia,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus
+292071,2024-07-04,2024-07-04,2024-06-26,08:51:00,,nan,,,41.9641275985,3.2280488665,False,Spain,needs_id,740,manuelmesa,cc-by-nc,0,0,,,,,,
+292070,2024-07-04,2024-07-04,2024-06-26,08:41:00,echinodermata,35260,species,Echinaster sepositus,41.9641293436,3.2280979901,False,Spain,needs_id,740,manuelmesa,cc-by-nc,0,0,Animalia,Echinodermata,Asteroidea,Spinulosida,Echinasteridae,Echinaster
+292069,2024-07-04,2024-07-04,2024-06-26,08:46:00,,nan,,,41.9641298422,3.2279566655,False,Spain,needs_id,740,manuelmesa,cc-by-nc,0,0,,,,,,
+292068,2024-07-04,2024-07-04,2024-06-26,08:43:00,,nan,,,41.9641395649,3.2279353699,False,Spain,needs_id,740,manuelmesa,cc-by-nc,0,0,,,,,,
+292067,2024-07-04,2024-07-04,2024-06-26,08:41:00,,nan,,,41.9641328338,3.2280678152,False,Spain,needs_id,740,manuelmesa,cc-by-nc,0,0,,,,,,
+292066,2024-07-04,2024-07-04,2024-06-26,08:38:00,,nan,,,41.9641570158,3.228071168,False,Spain,needs_id,740,manuelmesa,cc-by-nc,0,0,,,,,,
+292065,2024-07-04,2024-07-04,2024-06-26,08:34:00,,nan,,,41.9641525284,3.2279749663,False,Spain,needs_id,740,manuelmesa,cc-by-nc,0,0,,,,,,
+292064,2024-07-04,2024-07-04,2024-06-26,08:37:00,echinodermata,240406,species,Arbacia lixula,41.9641390663,3.2280537336,False,Spain,needs_id,740,manuelmesa,cc-by-nc,0,0,Animalia,Echinodermata,Echinoidea,Arbacioida,Arbaciidae,Arbacia
+292063,2024-07-04,2024-07-04,2024-06-26,08:34:00,plantae,35128,species,Posidonia oceanica,41.9641682343,3.2280336396,False,Spain,needs_id,740,manuelmesa,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Posidoniaceae,Posidonia
+292062,2024-07-04,2024-07-04,2024-06-26,08:31:00,echinodermata,34848,species,Paracentrotus lividus,41.9641378198,3.2280198933,False,Spain,needs_id,740,manuelmesa,cc-by-nc,0,0,Animalia,Echinodermata,Echinoidea,Camarodonta,Parechinidae,Paracentrotus
+292061,2024-07-04,2024-07-04,2024-06-26,08:28:00,,nan,,,41.9641612539,3.2279789896,False,Spain,needs_id,740,manuelmesa,cc-by-nc,0,0,,,,,,
+292060,2024-07-04,2024-07-04,2024-06-26,08:27:00,,nan,,,41.964172223,3.2279716135,False,Spain,needs_id,740,manuelmesa,cc-by-nc,0,0,,,,,,
+292059,2024-07-04,2024-07-04,2024-06-26,08:28:00,,nan,,,41.9641699794,3.2280021236,False,Spain,needs_id,740,manuelmesa,cc-by-nc,0,0,,,,,,
+292058,2024-07-04,2024-07-04,2024-06-26,08:24:00,,nan,,,41.9641440523,3.2279960887,False,Spain,needs_id,740,manuelmesa,cc-by-nc,0,0,,,,,,
+292057,2024-07-04,2024-07-04,2024-06-26,08:23:00,,nan,,,41.9641462959,3.2280349807,False,Spain,needs_id,740,manuelmesa,cc-by-nc,0,0,,,,,,
+292056,2024-07-04,2024-07-04,2024-06-26,08:22:00,,nan,,,41.9641450495,3.2280182169,False,Spain,needs_id,740,manuelmesa,cc-by-nc,0,0,,,,,,
+292055,2024-07-04,2024-07-04,2024-06-26,08:20:00,actinopterygii,35125,species,Mullus surmuletus,41.9641652427,3.2280188875,False,Spain,needs_id,740,manuelmesa,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Mullidae,Mullus
+292054,2024-07-04,2024-07-04,2024-06-26,08:18:00,,nan,,,41.9641557693,3.2279977651,False,Spain,needs_id,740,manuelmesa,cc-by-nc,0,0,,,,,,
+292053,2024-07-04,2024-07-04,2024-06-26,08:13:00,,nan,,,41.9641567665,3.2280363218,False,Spain,needs_id,740,manuelmesa,cc-by-nc,0,0,,,,,,
+292052,2024-07-04,2024-07-04,2024-06-26,08:13:00,,nan,,,41.9641535139,3.2280155347,False,Spain,needs_id,740,manuelmesa,cc-by-nc,0,0,,,,,,
 291949,2024-07-04,2024-07-04,2024-07-04,10:02:00,mollusca,254336,species,Felimida luteorosea,42.4334127227,3.174470146,False,France,needs_id,1754,carladc,cc-by,0,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Felimida
 291948,2024-07-04,2024-07-04,2024-07-04,10:02:00,cnidaria,35166,species,Cladocora caespitosa,42.4335908566,3.1742341117,False,France,needs_id,1754,carladc,cc-by,0,0,Animalia,Cnidaria,Anthozoa,Scleractinia,Caryophylliidae,Cladocora
 291947,2024-07-04,2024-07-04,2024-07-04,10:02:00,cnidaria,35248,species,Leptogorgia sarmentosa,42.4335195236,3.174277027,False,France,needs_id,1754,carladc,cc-by,0,0,Animalia,Cnidaria,Anthozoa,Alcyonacea,Gorgoniidae,Leptogorgia
