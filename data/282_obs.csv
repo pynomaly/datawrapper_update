@@ -1,10 +1,8 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
-292234,2024-07-04,2024-07-04,2024-07-04,15:30:00,plantae,38676,genus,Aloe,41.3854592114,2.1958011389,False,Spain,needs_id,26,carlosrodero,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Asparagales,Xanthorrhoeaceae,
 292233,2024-07-04,2024-07-04,2024-07-04,15:30:00,plantae,248800,species,Ficus carica,41.3855285556,2.1960570556,False,Spain,needs_id,11,jaume-piera,cc-by-nc,0,0,Plantae,Magnoliophyta,Magnoliopsida,Urticales,Moraceae,Ficus
-292136,2024-07-04,2024-07-04,2024-07-04,12:14:00,,nan,,,41.4786783333,2.3174916667,False,Spain,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
-292079,2024-07-04,2024-07-04,2024-07-04,08:03:00,,nan,,,41.4043299,2.2144258,False,"Diagonal Mar i el Front Marítim del Poblenou, Sant Martí, Barcelona, España",needs_id,4621,biel_tapia,cc-by,0,0,,,,,,
-292078,2024-07-04,2024-07-04,2024-07-04,08:03:00,,nan,,,41.4043299,2.2144258,False,"Diagonal Mar i el Front Marítim del Poblenou, Sant Martí, Barcelona, España",needs_id,4621,biel_tapia,cc-by,0,0,,,,,,
-292077,2024-07-04,2024-07-04,2024-07-04,08:03:00,,nan,,,41.4043299,2.2144258,False,"Diagonal Mar i el Front Marítim del Poblenou, Sant Martí, Barcelona, España",needs_id,4621,biel_tapia,cc-by,0,0,,,,,,
+292136,2024-07-04,2024-07-04,2024-07-04,12:14:00,insecta,263315,species,Anoxia villosa,41.4786783333,2.3174916667,False,Spain,needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Arthropoda,Insecta,Coleoptera,Melolonthidae,Anoxia
+292079,2024-07-04,2024-07-04,2024-07-04,08:03:00,elasmobranchii,248942,species,Scyliorhinus canicula,41.4043299,2.2144258,False,"Diagonal Mar i el Front Marítim del Poblenou, Sant Martí, Barcelona, España",needs_id,4621,biel_tapia,cc-by,0,0,Animalia,Chordata,Elasmobranchii,Carcharhiniformes,Scyliorhinidae,Scyliorhinus
+292078,2024-07-04,2024-07-04,2024-07-04,08:03:00,elasmobranchii,248942,species,Scyliorhinus canicula,41.4043299,2.2144258,False,"Diagonal Mar i el Front Marítim del Poblenou, Sant Martí, Barcelona, España",needs_id,4621,biel_tapia,cc-by,0,0,Animalia,Chordata,Elasmobranchii,Carcharhiniformes,Scyliorhinidae,Scyliorhinus
 291926,2024-07-04,2024-07-04,2024-07-04,09:38:00,,nan,,,41.2651038,1.9806608,False,,needs_id,1675,cfustermaria,cc-by,0,0,,,,,,
 291887,2024-07-04,2024-07-04,2024-07-02,05:43:00,,nan,,,41.496346908,2.3828549885,False,,needs_id,1057,bertamari,cc-by-nc,0,0,,,,,,
 291886,2024-07-04,2024-07-04,2024-07-02,05:43:00,,nan,,,41.496346908,2.3828549885,False,,needs_id,1057,bertamari,cc-by-nc,0,0,,,,,,
