@@ -9242,6 +9242,19 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 280089,2024-06-11,2024-06-18,2024-06-08,15:47:00,plantae,64,phylum,Rhodophyta,42.13971,3.146765,False,roses,needs_id,801,sergio_zafra,cc-by-nc,0,0,Plantae,,,,,
 280085,2024-06-11,2024-06-12,2024-06-01,18:17:00,cnidaria,35202,species,Paramuricea clavata,41.8889022518,3.1982369239,False,ullastres 3,research,2888,tonihillaalos,cc-by,3,1,Animalia,Cnidaria,Anthozoa,Alcyonacea,Plexauridae,Paramuricea
 280084,2024-06-11,2024-06-11,2024-06-01,18:14:00,annelida,35119,species,Bonellia viridis,41.8865348232,3.1900659182,False,Ullastres 3,research,2888,tonihillaalos,cc-by,1,0,Animalia,Annelida,Polychaeta,,Bonelliidae,Bonellia
+292092,2024-07-04,2024-07-04,2024-06-29,12:41:00,,nan,,,41.8163358528,3.0736567211,False,"Platja d'Aro, Girona, España",needs_id,821,ariana,cc-by-nc,0,0,,,,,,
+292091,2024-07-04,2024-07-04,2024-06-29,12:41:00,,nan,,,41.8163358528,3.0736567211,False,"Platja d'Aro, Girona, España",needs_id,821,ariana,cc-by-nc,0,0,,,,,,
+292090,2024-07-04,2024-07-04,2024-06-29,12:41:00,actinopterygii,68960,species,Sparus aurata,41.8163358528,3.0736567211,False,"Platja d'Aro, Girona, España",needs_id,821,ariana,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sparus
+292089,2024-07-04,2024-07-04,2024-06-29,12:41:00,,nan,,,41.8163358528,3.0736567211,False,"Platja d'Aro, Girona, España",needs_id,821,ariana,cc-by-nc,0,0,,,,,,
+292088,2024-07-04,2024-07-04,2024-06-29,12:41:00,,nan,,,41.8163358528,3.0736567211,False,"Platja d'Aro, Girona, España",needs_id,821,ariana,cc-by-nc,0,0,,,,,,
+292087,2024-07-04,2024-07-04,2024-06-29,12:41:00,,nan,,,41.8163358528,3.0736567211,False,"Platja d'Aro, Girona, España",needs_id,821,ariana,cc-by-nc,0,0,,,,,,
+292086,2024-07-04,2024-07-04,2024-06-29,12:41:00,,nan,,,41.8163358528,3.0736567211,False,"Platja d'Aro, Girona, España",needs_id,821,ariana,cc-by-nc,0,0,,,,,,
+292085,2024-07-04,2024-07-04,2024-06-29,12:41:00,,nan,,,41.8163358528,3.0736567211,False,"Platja d'Aro, Girona, España",needs_id,821,ariana,cc-by-nc,0,0,,,,,,
+292084,2024-07-04,2024-07-04,2024-06-29,12:41:00,actinopterygii,34835,species,Coris julis,41.8163358528,3.0736567211,False,"Platja d'Aro, Girona, España",needs_id,821,ariana,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+292083,2024-07-04,2024-07-04,2024-06-29,12:41:00,,nan,,,41.8163358528,3.0736567211,False,"Platja d'Aro, Girona, España",needs_id,821,ariana,cc-by-nc,0,0,,,,,,
+292082,2024-07-04,2024-07-04,2024-06-29,12:41:00,,nan,,,41.8163358528,3.0736567211,False,"Platja d'Aro, Girona, España",needs_id,821,ariana,cc-by-nc,0,0,,,,,,
+292081,2024-07-04,2024-07-04,2024-06-29,12:41:00,,nan,,,41.8163358528,3.0736567211,False,"Platja d'Aro, Girona, España",needs_id,821,ariana,cc-by-nc,0,0,,,,,,
+292080,2024-07-04,2024-07-04,2024-06-29,12:41:00,echinodermata,35260,species,Echinaster sepositus,41.8163358528,3.0736567211,False,"Platja d'Aro, Girona, España",needs_id,821,ariana,cc-by-nc,0,0,Animalia,Echinodermata,Asteroidea,Spinulosida,Echinasteridae,Echinaster
 292076,2024-07-04,2024-07-04,2024-06-26,08:11:00,,nan,,,41.9641709656,3.2277120439,False,Spain,needs_id,740,manuelmesa,cc-by-nc,0,0,,,,,,
 292075,2024-07-04,2024-07-04,2024-06-26,09:23:00,,nan,,,41.9641899233,3.2277753678,False,Spain,needs_id,740,manuelmesa,cc-by-nc,0,0,,,,,,
 292074,2024-07-04,2024-07-04,2024-06-26,09:14:00,,nan,,,41.9641365733,3.2279040272,False,Spain,needs_id,740,manuelmesa,cc-by-nc,0,0,,,,,,
