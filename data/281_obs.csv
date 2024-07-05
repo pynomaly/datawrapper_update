@@ -9242,25 +9242,25 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 280089,2024-06-11,2024-06-18,2024-06-08,15:47:00,plantae,64,phylum,Rhodophyta,42.13971,3.146765,False,roses,needs_id,801,sergio_zafra,cc-by-nc,0,0,Plantae,,,,,
 280085,2024-06-11,2024-06-12,2024-06-01,18:17:00,cnidaria,35202,species,Paramuricea clavata,41.8889022518,3.1982369239,False,ullastres 3,research,2888,tonihillaalos,cc-by,3,1,Animalia,Cnidaria,Anthozoa,Alcyonacea,Plexauridae,Paramuricea
 280084,2024-06-11,2024-06-11,2024-06-01,18:14:00,annelida,35119,species,Bonellia viridis,41.8865348232,3.1900659182,False,Ullastres 3,research,2888,tonihillaalos,cc-by,1,0,Animalia,Annelida,Polychaeta,,Bonelliidae,Bonellia
-292404,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771696998,3.0302451011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
-292403,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771693998,3.0302421011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
-292402,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771690998,3.0302391011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
-292401,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771687998,3.0302361011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
-292400,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771684998,3.0302331011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
-292399,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771681998,3.0302301011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
-292398,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771678998,3.0302271011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
-292397,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771675998,3.0302241011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
-292396,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771672998,3.0302211011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
-292395,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771669998,3.0302181011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
-292394,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771666998,3.0302151011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
-292393,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771663998,3.0302121011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
-292392,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771660998,3.0302091011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
-292391,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771657998,3.0302061011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
-292390,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771654998,3.0302031011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
-292389,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771651998,3.0302001011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
-292388,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771648998,3.0301971011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
-292387,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771645998,3.0301941011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
-292386,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771642998,3.0301911011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
+292404,2024-07-05,2024-07-05,2024-06-30,08:30:00,actinopterygii,35250,species,Parablennius pilicornis,41.771696998,3.0302451011,False,,needs_id,2362,ricard,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+292403,2024-07-05,2024-07-05,2024-06-30,08:30:00,plantae,12569,genus,Peyssonnelia,41.771693998,3.0302421011,False,,needs_id,2362,ricard,cc-by,0,0,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Peyssonneliaceae,
+292402,2024-07-05,2024-07-05,2024-06-30,08:30:00,actinopterygii,34835,species,Coris julis,41.771690998,3.0302391011,False,,needs_id,2362,ricard,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+292401,2024-07-05,2024-07-05,2024-06-30,08:30:00,actinopterygii,68960,species,Sparus aurata,41.771687998,3.0302361011,False,,needs_id,2362,ricard,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sparus
+292400,2024-07-05,2024-07-05,2024-06-30,08:30:00,actinopterygii,12378,species,Apogon imberbis,41.771684998,3.0302331011,False,,needs_id,2362,ricard,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Apogonidae,Apogon
+292399,2024-07-05,2024-07-05,2024-06-30,08:30:00,cnidaria,35220,species,Anemonia viridis,41.771681998,3.0302301011,False,,needs_id,2362,ricard,cc-by,0,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Anemonia
+292398,2024-07-05,2024-07-05,2024-06-30,08:30:00,actinopterygii,35125,species,Mullus surmuletus,41.771678998,3.0302271011,False,,needs_id,2362,ricard,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Mullidae,Mullus
+292397,2024-07-05,2024-07-05,2024-06-30,08:30:00,actinopterygii,35216,species,Symphodus tinca,41.771675998,3.0302241011,False,,needs_id,2362,ricard,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
+292396,2024-07-05,2024-07-05,2024-06-30,08:30:00,mollusca,34853,species,Flabellina affinis,41.771672998,3.0302211011,False,,needs_id,2362,ricard,cc-by,0,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Flabellinidae,Flabellina
+292395,2024-07-05,2024-07-05,2024-06-30,08:30:00,mollusca,34917,species,Peltodoris atromaculata,41.771669998,3.0302181011,False,,needs_id,2362,ricard,cc-by,0,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Discodorididae,Peltodoris
+292394,2024-07-05,2024-07-05,2024-06-30,08:30:00,mollusca,34988,species,Felimare tricolor,41.771666998,3.0302151011,False,,needs_id,2362,ricard,cc-by,0,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Felimare
+292393,2024-07-05,2024-07-05,2024-06-30,08:30:00,mollusca,35075,species,Octopus vulgaris,41.771663998,3.0302121011,False,,needs_id,2362,ricard,cc-by,0,0,Animalia,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus
+292392,2024-07-05,2024-07-05,2024-06-30,08:30:00,actinopterygii,34989,species,Parablennius gattorugine,41.771660998,3.0302091011,False,,needs_id,2362,ricard,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+292391,2024-07-05,2024-07-05,2024-06-30,08:30:00,actinopterygii,13765,species,Serranus scriba,41.771657998,3.0302061011,False,,needs_id,2362,ricard,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Serranus
+292390,2024-07-05,2024-07-05,2024-06-30,08:30:00,porifera,35180,species,Aplysina aerophoba,41.771654998,3.0302031011,False,,needs_id,2362,ricard,cc-by,0,0,Animalia,Porifera,Demospongiae,Verongida,Aplysinidae,Aplysina
+292389,2024-07-05,2024-07-05,2024-06-30,08:30:00,actinopterygii,35027,species,Gobius cruentatus,41.771651998,3.0302001011,False,,needs_id,2362,ricard,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Gobius
+292388,2024-07-05,2024-07-05,2024-06-30,08:30:00,annelida,244097,species,Protula tubularia,41.771648998,3.0301971011,False,,needs_id,2362,ricard,cc-by,0,0,Animalia,Annelida,Polychaeta,Sabellida,Serpulidae,Protula
+292387,2024-07-05,2024-07-05,2024-06-30,08:30:00,echinodermata,35260,species,Echinaster sepositus,41.771645998,3.0301941011,False,,needs_id,2362,ricard,cc-by,0,0,Animalia,Echinodermata,Asteroidea,Spinulosida,Echinasteridae,Echinaster
+292386,2024-07-05,2024-07-05,2024-06-30,08:30:00,mollusca,34988,species,Felimare tricolor,41.771642998,3.0301911011,False,,needs_id,2362,ricard,cc-by,0,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Felimare
 292250,2024-07-04,2024-07-04,2024-07-04,16:20:00,mollusca,35185,species,Felimare picta,42.3437130611,3.2378998968,False,Spain,research,1754,carladc,cc-by,1,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Felimare
 292249,2024-07-04,2024-07-04,2024-07-04,16:20:00,actinopterygii,35034,species,Ophisurus serpens,42.3437150436,3.2379186723,False,Spain,research,1754,carladc,cc-by,1,0,Animalia,Chordata,Actinopterygii,Anguilliformes,Ophichthidae,Ophisurus
 292248,2024-07-04,2024-07-04,2024-07-04,16:20:00,mollusca,35200,species,Thuridilla hopei,42.3437031299,3.237889168,False,Spain,research,1754,carladc,cc-by,1,0,Animalia,Mollusca,Gastropoda,Sacoglossa,Plakobranchidae,Thuridilla
@@ -9404,15 +9404,14 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 291947,2024-07-04,2024-07-04,2024-07-04,10:02:00,cnidaria,35248,species,Leptogorgia sarmentosa,42.4335195236,3.174277027,False,France,research,1754,carladc,cc-by,1,0,Animalia,Cnidaria,Anthozoa,Alcyonacea,Gorgoniidae,Leptogorgia
 291925,2024-07-04,2024-07-04,2024-07-03,06:32:00,actinopterygii,21952,species,Synodus saurus,41.6942841817,2.836234197,False,,needs_id,782,asters,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Aulopiformes,Synodontidae,Synodus
 291902,2024-07-04,2024-07-04,2024-06-22,07:42:00,cnidaria,19980,genus,Actinia,42.2987542483,3.2896385813,False,"Playa grande de la casa de campo, 17488, Girona, España",needs_id,92,josepdegea,cc-by-nc,2,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,
-291901,2024-07-04,2024-07-04,2024-06-22,07:42:00,plantae,35128,species,Posidonia oceanica,42.2987542483,3.2896385813,False,"Playa grande de la casa de campo, 17488, Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Posidoniaceae,Posidonia
-291900,2024-07-04,2024-07-04,2024-06-22,07:42:00,mollusca,253209,species,Phorcus turbinatus,42.2987542483,3.2896385813,False,"Playa grande de la casa de campo, 17488, Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Trochida,Trochidae,Phorcus
+291900,2024-07-04,2024-07-05,2024-06-22,07:42:00,mollusca,116,class,Gastropoda,42.2987542483,3.2896385813,False,"Playa grande de la casa de campo, 17488, Girona, España",needs_id,92,josepdegea,cc-by-nc,2,0,Animalia,Mollusca,,,,
 291899,2024-07-04,2024-07-04,2024-06-22,07:42:00,mollusca,250214,species,Cerithium vulgatum,42.2987542483,3.2896385813,False,"Playa grande de la casa de campo, 17488, Girona, España",research,92,josepdegea,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,,Cerithiidae,Cerithium
-291898,2024-07-04,2024-07-04,2024-06-22,07:42:00,actinopterygii,240391,species,Gobius paganellus,42.2987542483,3.2896385813,False,"Playa grande de la casa de campo, 17488, Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Gobius
+291898,2024-07-04,2024-07-05,2024-06-22,07:42:00,actinopterygii,240391,species,Gobius paganellus,42.2987542483,3.2896385813,False,"Playa grande de la casa de campo, 17488, Girona, España",research,92,josepdegea,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Gobius
 291897,2024-07-04,2024-07-04,2024-06-22,07:42:00,chromista,35063,species,Dictyota dichotoma,42.2987859905,3.2894883776,False,"Playa grande de la casa de campo, 17488, Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota
-291896,2024-07-04,2024-07-04,2024-06-22,07:42:00,actinopterygii,35244,species,Parablennius sanguinolentus,42.2987859905,3.2894883776,False,"Playa grande de la casa de campo, 17488, Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+291896,2024-07-04,2024-07-05,2024-06-22,07:42:00,actinopterygii,35244,species,Parablennius sanguinolentus,42.2987859905,3.2894883776,False,"Playa grande de la casa de campo, 17488, Girona, España",research,92,josepdegea,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
 291879,2024-07-03,2024-07-04,2024-06-29,07:26:00,annelida,35119,species,Bonellia viridis,41.9189086479,3.2202015228,False,,research,1081,francesc_fabra,cc-by-nc,1,0,Animalia,Annelida,Polychaeta,,Bonelliidae,Bonellia
 291878,2024-07-03,2024-07-03,2024-06-29,07:26:00,chromista,35063,species,Dictyota dichotoma,41.9189026604,3.2201894529,False,,needs_id,1081,francesc_fabra,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota
-291877,2024-07-03,2024-07-04,2024-06-29,07:26:00,mollusca,34988,species,Felimare tricolor,41.9188787107,3.2202189572,False,,needs_id,1081,francesc_fabra,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Felimare
+291877,2024-07-03,2024-07-05,2024-06-29,07:26:00,mollusca,34988,species,Felimare tricolor,41.9188787107,3.2202189572,False,,research,1081,francesc_fabra,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Felimare
 291876,2024-07-03,2024-07-04,2024-06-29,07:25:00,cnidaria,35202,species,Paramuricea clavata,41.9189086479,3.2201921351,False,,research,1081,francesc_fabra,cc-by-nc,1,0,Animalia,Cnidaria,Anthozoa,Alcyonacea,Plexauridae,Paramuricea
 291875,2024-07-03,2024-07-04,2024-06-29,07:25:00,mollusca,21669,genus,Felimare,41.918886694,3.2201948173,False,,needs_id,1081,francesc_fabra,cc-by-nc,2,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,
 291874,2024-07-03,2024-07-04,2024-06-29,07:23:00,chromista,35106,species,Padina pavonica,41.9189116416,3.2202109106,False,,research,1081,francesc_fabra,cc-by-nc,1,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
