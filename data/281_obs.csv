@@ -9242,6 +9242,25 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 280089,2024-06-11,2024-06-18,2024-06-08,15:47:00,plantae,64,phylum,Rhodophyta,42.13971,3.146765,False,roses,needs_id,801,sergio_zafra,cc-by-nc,0,0,Plantae,,,,,
 280085,2024-06-11,2024-06-12,2024-06-01,18:17:00,cnidaria,35202,species,Paramuricea clavata,41.8889022518,3.1982369239,False,ullastres 3,research,2888,tonihillaalos,cc-by,3,1,Animalia,Cnidaria,Anthozoa,Alcyonacea,Plexauridae,Paramuricea
 280084,2024-06-11,2024-06-11,2024-06-01,18:14:00,annelida,35119,species,Bonellia viridis,41.8865348232,3.1900659182,False,Ullastres 3,research,2888,tonihillaalos,cc-by,1,0,Animalia,Annelida,Polychaeta,,Bonelliidae,Bonellia
+292404,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771696998,3.0302451011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
+292403,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771693998,3.0302421011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
+292402,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771690998,3.0302391011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
+292401,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771687998,3.0302361011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
+292400,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771684998,3.0302331011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
+292399,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771681998,3.0302301011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
+292398,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771678998,3.0302271011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
+292397,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771675998,3.0302241011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
+292396,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771672998,3.0302211011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
+292395,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771669998,3.0302181011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
+292394,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771666998,3.0302151011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
+292393,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771663998,3.0302121011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
+292392,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771660998,3.0302091011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
+292391,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771657998,3.0302061011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
+292390,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771654998,3.0302031011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
+292389,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771651998,3.0302001011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
+292388,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771648998,3.0301971011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
+292387,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771645998,3.0301941011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
+292386,2024-07-05,2024-07-05,2024-06-30,08:30:00,,nan,,,41.771642998,3.0301911011,False,,needs_id,2362,ricard,cc-by,0,0,,,,,,
 292250,2024-07-04,2024-07-04,2024-07-04,16:20:00,mollusca,35185,species,Felimare picta,42.3437130611,3.2378998968,False,Spain,research,1754,carladc,cc-by,1,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Felimare
 292249,2024-07-04,2024-07-04,2024-07-04,16:20:00,actinopterygii,35034,species,Ophisurus serpens,42.3437150436,3.2379186723,False,Spain,research,1754,carladc,cc-by,1,0,Animalia,Chordata,Actinopterygii,Anguilliformes,Ophichthidae,Ophisurus
 292248,2024-07-04,2024-07-04,2024-07-04,16:20:00,mollusca,35200,species,Thuridilla hopei,42.3437031299,3.237889168,False,Spain,research,1754,carladc,cc-by,1,0,Animalia,Mollusca,Gastropoda,Sacoglossa,Plakobranchidae,Thuridilla
