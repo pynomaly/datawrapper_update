@@ -1,8 +1,7 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
-292680,392294,life,Life,https://minka-sdg.org/attachments/local_photos/files/392294/medium.jpg,karenrkts1,41.2269846835,1.7923137546,cc-by,"(c) karen, some rights reserved (CC BY)",292680_392294.jpg
-292680,392295,life,Life,https://minka-sdg.org/attachments/local_photos/files/392295/medium.jpg,karenrkts1,41.2269846835,1.7923137546,cc-by,"(c) karen, some rights reserved (CC BY)",292680_392295.jpg
+292680,392294,plantae,Rhodophyta,https://minka-sdg.org/attachments/local_photos/files/392294/medium.jpg,karenrkts1,41.2269846835,1.7923137546,cc-by,"(c) karen, some rights reserved (CC BY)",292680_392294.jpg
+292680,392295,plantae,Rhodophyta,https://minka-sdg.org/attachments/local_photos/files/392295/medium.jpg,karenrkts1,41.2269846835,1.7923137546,cc-by,"(c) karen, some rights reserved (CC BY)",292680_392295.jpg
 292631,392219,chromista,Ostreopsis,https://minka-sdg.org/attachments/local_photos/files/392219/medium.jpg,marimuntanya,41.3771494612,2.192960009,C,"(c) Magda, all rights reserved",292631_392219.jpg
-292526,392123,cnidaria,Aiptasia couchi,https://minka-sdg.org/attachments/local_photos/files/392123/medium.jpg,monica80,41.3858145,2.1961042,cc-by,"(c) Mònica Utset Ros, some rights reserved (CC BY)",292526_392123.jpg
 292520,392117,mollusca,Callista chione,https://minka-sdg.org/attachments/local_photos/files/392117/medium.jpeg,guillermoalvarez_fecdas,41.5350222957,2.4612916343,cc-by-nc,"(c) Guillermo Alvarez Lerma, some rights reserved (CC BY-NC)",292520_392117.jpg
 292519,392116,actinopterygii,Diplodus cervinus,https://minka-sdg.org/attachments/local_photos/files/392116/medium.jpeg,guillermoalvarez_fecdas,41.5350222957,2.4612916343,cc-by-nc,"(c) Guillermo Alvarez Lerma, some rights reserved (CC BY-NC)",292519_392116.jpg
 292519,392115,actinopterygii,Diplodus cervinus,https://minka-sdg.org/attachments/local_photos/files/392115/medium.jpeg,guillermoalvarez_fecdas,41.5350222957,2.4612916343,cc-by-nc,"(c) Guillermo Alvarez Lerma, some rights reserved (CC BY-NC)",292519_392115.jpg
