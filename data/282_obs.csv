@@ -1,4 +1,25 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+294067,2024-07-07,2024-07-07,2024-07-07,11:02:00,mollusca,252874,species,Patella rustica,41.4081482309,2.226160495,False,"Zona de Banys Fòrum, Barcelona, Espanya",needs_id,4749,saradpl,cc-by,0,0,Animalia,Mollusca,Gastropoda,Patellogastropoda,Patellidae,Patella
+294066,2024-07-07,2024-07-07,2024-07-07,18:29:00,,nan,,,41.4101384792,2.227585981,False,Spain,needs_id,2659,saragasull,cc-by,0,0,,,,,,
+294065,2024-07-07,2024-07-07,2024-07-07,18:29:00,,248096,species,Calcinus tubularis,41.4101384792,2.227585981,False,Spain,needs_id,2659,saragasull,cc-by,0,0,Animalia,Arthropoda,Malacostraca,Decapoda,Diogenidae,Calcinus
+294064,2024-07-07,2024-07-07,2024-07-07,18:29:00,,nan,,,41.4101384792,2.227585981,False,Spain,needs_id,2659,saragasull,cc-by,0,0,,,,,,
+294063,2024-07-07,2024-07-07,2024-07-07,18:29:00,actinopterygii,34798,species,Diplodus vulgaris,41.4101384792,2.227585981,False,Spain,needs_id,2659,saragasull,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+294062,2024-07-07,2024-07-07,2024-07-07,18:29:00,annelida,34800,species,Branchiomma luctuosum,41.4101384792,2.227585981,False,Spain,needs_id,2659,saragasull,cc-by,0,0,Animalia,Annelida,Polychaeta,Sabellida,Sabellidae,Branchiomma
+294061,2024-07-07,2024-07-07,2024-07-07,18:29:00,,nan,,,41.4101384792,2.227585981,False,Spain,needs_id,2659,saragasull,cc-by,0,0,,,,,,
+294060,2024-07-07,2024-07-07,2024-07-07,18:29:00,annelida,34800,species,Branchiomma luctuosum,41.4101384792,2.227585981,False,Spain,needs_id,2659,saragasull,cc-by,0,0,Animalia,Annelida,Polychaeta,Sabellida,Sabellidae,Branchiomma
+294059,2024-07-07,2024-07-07,2024-07-07,18:29:00,annelida,247041,species,Sabella spallanzanii,41.4101384792,2.227585981,False,Spain,needs_id,2659,saragasull,cc-by,0,0,Animalia,Annelida,Polychaeta,Sabellida,Sabellidae,Sabella
+294058,2024-07-07,2024-07-07,2024-07-07,18:29:00,chromista,35214,species,Dictyota cyanoloma,41.4101384792,2.227585981,False,Spain,needs_id,2659,saragasull,cc-by,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota
+294057,2024-07-07,2024-07-07,2024-07-07,18:29:00,,252680,species,Pagurus anachoretus,41.4101384792,2.227585981,False,Spain,needs_id,2659,saragasull,cc-by,0,0,Animalia,Arthropoda,Malacostraca,Decapoda,Paguridae,Pagurus
+294056,2024-07-07,2024-07-07,2024-07-07,18:29:00,actinopterygii,35120,species,Gobius incognitus,41.4101384792,2.227585981,False,Spain,needs_id,2659,saragasull,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Gobius
+294055,2024-07-07,2024-07-07,2024-07-07,18:29:00,echinodermata,34848,species,Paracentrotus lividus,41.4101384792,2.227585981,False,Spain,needs_id,2659,saragasull,cc-by,0,0,Animalia,Echinodermata,Echinoidea,Camarodonta,Parechinidae,Paracentrotus
+294054,2024-07-07,2024-07-07,2024-07-07,18:29:00,,nan,,,41.4101384792,2.227585981,False,Spain,needs_id,2659,saragasull,cc-by,0,0,,,,,,
+294053,2024-07-07,2024-07-07,2024-07-07,18:29:00,,248096,species,Calcinus tubularis,41.4101384792,2.227585981,False,Spain,needs_id,2659,saragasull,cc-by,0,0,Animalia,Arthropoda,Malacostraca,Decapoda,Diogenidae,Calcinus
+294052,2024-07-07,2024-07-07,2024-07-07,18:29:00,,nan,,,41.4101384792,2.227585981,False,Spain,needs_id,2659,saragasull,cc-by,0,0,,,,,,
+294051,2024-07-07,2024-07-07,2024-07-07,18:29:00,actinopterygii,35225,species,Chromis chromis,41.4101384792,2.227585981,False,Spain,needs_id,2659,saragasull,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
+294050,2024-07-07,2024-07-07,2024-07-07,18:29:00,actinopterygii,35120,species,Gobius incognitus,41.4101384792,2.227585981,False,Spain,needs_id,2659,saragasull,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Gobius
+294049,2024-07-07,2024-07-07,2024-07-07,18:29:00,,nan,,,41.4101384792,2.227585981,False,Spain,needs_id,2659,saragasull,cc-by,0,0,,,,,,
+294048,2024-07-07,2024-07-07,2024-07-07,18:29:00,actinopterygii,35225,species,Chromis chromis,41.4101384792,2.227585981,False,Spain,needs_id,2659,saragasull,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
+294047,2024-07-07,2024-07-07,2024-07-07,18:29:00,actinopterygii,34798,species,Diplodus vulgaris,41.4101384792,2.227585981,False,Spain,needs_id,2659,saragasull,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
 293880,2024-07-07,2024-07-07,2024-07-07,11:25:00,mollusca,34875,species,Hexaplex trunculus,41.40801386,2.225998565,False,Spain,research,4750,bieldpl,cc-by,1,0,Animalia,Mollusca,Gastropoda,Neogastropoda,Muricidae,Hexaplex
 293879,2024-07-07,2024-07-07,2024-07-07,11:18:00,chromista,35063,species,Dictyota dichotoma,41.40801386,2.225998565,False,Spain,research,4750,bieldpl,cc-by,1,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota
 293878,2024-07-07,2024-07-07,2024-07-07,11:16:00,,nan,,,41.40801386,2.225998565,False,Spain,needs_id,4750,bieldpl,cc-by,0,0,,,,,,
