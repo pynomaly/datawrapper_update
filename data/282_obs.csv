@@ -1,5 +1,5 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
-293759,2024-07-07,2024-07-07,2024-07-07,07:10:00,,nan,,,41.4495961064,2.2540087415,False,"Badalona, Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+293759,2024-07-07,2024-07-07,2024-07-07,07:10:00,plantae,242231,species,Jania rubens,41.4495961064,2.2540087415,False,"Badalona, Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,Jania
 293758,2024-07-07,2024-07-07,2024-07-07,07:10:00,,nan,,,41.4495961064,2.2540087415,False,"Badalona, Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
 293757,2024-07-07,2024-07-07,2024-07-07,07:13:00,,nan,,,41.4495961064,2.2540087415,False,"Badalona, Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
 293756,2024-07-07,2024-07-07,2024-07-07,07:09:00,,nan,,,41.4493105483,2.254751875,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
