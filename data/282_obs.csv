@@ -1,4 +1,10 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+293759,2024-07-07,2024-07-07,2024-07-07,07:10:00,,nan,,,41.4495961064,2.2540087415,False,"Badalona, Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+293758,2024-07-07,2024-07-07,2024-07-07,07:10:00,,nan,,,41.4495961064,2.2540087415,False,"Badalona, Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+293757,2024-07-07,2024-07-07,2024-07-07,07:13:00,,nan,,,41.4495961064,2.2540087415,False,"Badalona, Barcelona, Espanya",needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+293756,2024-07-07,2024-07-07,2024-07-07,07:09:00,,nan,,,41.4493105483,2.254751875,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+293755,2024-07-07,2024-07-07,2024-07-07,10:28:00,,nan,,,41.4494303889,2.2544292694,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+293754,2024-07-07,2024-07-07,2024-07-07,10:28:00,,nan,,,41.4494303889,2.2544292694,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
 293442,2024-07-07,2024-07-07,2024-07-05,08:42:00,actinopterygii,35225,species,Chromis chromis,41.4096392333,2.2279438579,False,"Platja del Forum, El Besòs i el Maresme, Sant Martí, Barcelona, España",needs_id,55,yespi,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
 293441,2024-07-07,2024-07-07,2024-07-05,08:42:00,plantae,34887,species,Asparagopsis armata,41.4096392333,2.2279438579,False,"Platja del Forum, El Besòs i el Maresme, Sant Martí, Barcelona, España",needs_id,55,yespi,cc-by-nc,0,0,Plantae,Rhodophyta,Florideophyceae,Bonnemaisoniales,Bonnemaisoniaceae,Asparagopsis
 293440,2024-07-07,2024-07-07,2024-07-05,08:42:00,,nan,,,41.4096392333,2.2279438579,False,"Platja del Forum, El Besòs i el Maresme, Sant Martí, Barcelona, España",needs_id,55,yespi,cc-by-nc,0,0,,,,,,
