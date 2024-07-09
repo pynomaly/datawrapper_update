@@ -1,6 +1,6 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
-294907,2024-07-08,2024-07-08,2024-07-04,17:29:00,actinopterygii,240390,species,Symphodus cinereus,41.178018,1.5577626,False,,needs_id,3753,aina,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
-294906,2024-07-08,2024-07-08,2024-07-04,17:26:00,actinopterygii,240394,species,Atherina boyeri,41.178018,1.5577626,False,,needs_id,3753,aina,cc-by,0,0,Animalia,Chordata,Actinopterygii,Atheriniformes,Atherinidae,Atherina
+294907,2024-07-08,2024-07-09,2024-07-04,17:29:00,actinopterygii,1409,family,Labridae,41.178018,1.5577626,False,,needs_id,3753,aina,cc-by,2,0,Animalia,Chordata,Actinopterygii,Perciformes,,
+294906,2024-07-08,2024-07-09,2024-07-04,17:26:00,actinopterygii,3,class,Actinopterygii,41.178018,1.5577626,False,,needs_id,3753,aina,cc-by,2,0,Animalia,Chordata,,,,
 294793,2024-07-08,2024-07-08,2024-07-06,09:25:00,actinopterygii,35194,species,Thalassoma pavo,41.0770564452,1.2146962913,False,,research,822,prema,C,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
 294792,2024-07-08,2024-07-08,2024-07-06,09:22:00,actinopterygii,12553,species,Diplodus sargus,41.0770494452,1.2146892913,False,,research,822,prema,C,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
 294791,2024-07-08,2024-07-08,2024-07-06,10:21:00,mollusca,34853,species,Flabellina affinis,41.0770424452,1.2146822913,False,,research,822,prema,C,2,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Flabellinidae,Flabellina
