@@ -9241,6 +9241,73 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 280089,2024-06-11,2024-06-18,2024-06-08,15:47:00,plantae,64,phylum,Rhodophyta,42.13971,3.146765,False,roses,needs_id,801,sergio_zafra,cc-by-nc,0,0,Plantae,,,,,
 280085,2024-06-11,2024-06-12,2024-06-01,18:17:00,cnidaria,35202,species,Paramuricea clavata,41.8889022518,3.1982369239,False,ullastres 3,research,2888,tonihillaalos,cc-by,3,1,Animalia,Cnidaria,Anthozoa,Alcyonacea,Plexauridae,Paramuricea
 280084,2024-06-11,2024-06-11,2024-06-01,18:14:00,annelida,35119,species,Bonellia viridis,41.8865348232,3.1900659182,False,Ullastres 3,research,2888,tonihillaalos,cc-by,1,0,Animalia,Annelida,Polychaeta,,Bonelliidae,Bonellia
+295175,2024-07-09,2024-07-09,2024-06-23,07:27:00,annelida,242255,species,Janua heterostropha,42.2939602511,3.2917616101,False,"17488 Cadaqués, Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,Animalia,Annelida,Polychaeta,Sabellida,Serpulidae,Janua
+295174,2024-07-09,2024-07-09,2024-06-23,07:27:00,echinodermata,247184,species,Asterina gibbosa,42.2939602511,3.2917616101,False,"17488 Cadaqués, Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,Animalia,Echinodermata,Asteroidea,Valvatida,Asterinidae,Asterina
+295173,2024-07-09,2024-07-09,2024-06-23,07:26:00,mollusca,35075,species,Octopus vulgaris,42.2935793151,3.2917186948,False,"17488 Cadaqués, Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,Animalia,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus
+295172,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295171,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295170,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295169,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295168,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295167,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295166,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295165,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295164,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295163,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295162,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295161,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295160,2024-07-09,2024-07-09,2024-06-23,07:25:00,annelida,131,class,Polychaeta,42.2946420124,3.2927984689,False,"Portlligat, Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,Animalia,Annelida,,,,
+295159,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295158,2024-07-09,2024-07-09,2024-06-23,07:25:00,,nan,,,42.2946420124,3.2927984689,False,"Portlligat, Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,,,,,,
+295157,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295156,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295155,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295154,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295153,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295152,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295151,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295150,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295149,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295148,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295147,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295146,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295145,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295144,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295143,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295142,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295141,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295140,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295139,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295138,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295137,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295136,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295135,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295134,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295133,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295132,2024-07-09,2024-07-09,2024-07-07,10:12:00,,nan,,,42.1043687966,3.1806376491,False,Spain,needs_id,4818,jordimares,cc-by,0,0,,,,,,
+295131,2024-07-09,2024-07-09,2024-06-23,07:24:00,annelida,131,class,Polychaeta,42.2931904406,3.2886824341,False,"Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,Animalia,Annelida,,,,
+295130,2024-07-09,2024-07-09,2024-06-23,07:24:00,,nan,,,42.2931904406,3.2886824341,False,"Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,,,,,,
+295129,2024-07-09,2024-07-09,2024-06-23,07:22:00,actinopterygii,34805,species,Sarpa salpa,42.2935634428,3.2915470334,False,"17488 Cadaqués, Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
+295128,2024-07-09,2024-07-09,2024-06-23,07:20:00,,nan,,,42.2936269323,3.2924697133,False,"17488 Cadaqués, Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,,,,,,
+295127,2024-07-09,2024-07-09,2024-06-23,07:20:00,annelida,251212,species,Spirobranchus triqueter,42.2934205911,3.2898733349,False,"17488 Cadaqués, Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,Animalia,Annelida,Polychaeta,Sabellida,Serpulidae,Spirobranchus
+295126,2024-07-09,2024-07-09,2024-06-23,07:20:00,,nan,,,42.2934205911,3.2898733349,False,"17488 Cadaqués, Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,,,,,,
+295125,2024-07-09,2024-07-09,2024-06-23,07:20:00,mollusca,253209,species,Phorcus turbinatus,42.2934205911,3.2898733349,False,"17488 Cadaqués, Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Trochida,Trochidae,Phorcus
+295124,2024-07-09,2024-07-09,2024-06-23,07:19:00,chromista,35106,species,Padina pavonica,42.2933253566,3.2902810307,False,"17488 Cadaqués, Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
+295123,2024-07-09,2024-07-09,2024-06-23,07:19:00,actinopterygii,35120,species,Gobius incognitus,42.2933253566,3.2902810307,False,"17488 Cadaqués, Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Gobius
+295122,2024-07-09,2024-07-09,2024-06-23,07:17:00,plantae,35128,species,Posidonia oceanica,42.2936269323,3.2891866894,False,"17488 Cadaqués, Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Posidoniaceae,Posidonia
+295121,2024-07-09,2024-07-09,2024-06-23,07:17:00,plantae,35158,species,Acetabularia acetabulum,42.2936269323,3.2891866894,False,"17488 Cadaqués, Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,Plantae,Chlorophyta,Ulvophyceae,Dasycladales,Polyphysaceae,Acetabularia
+295120,2024-07-09,2024-07-09,2024-06-23,07:17:00,echinodermata,876,order,Holothuriida,42.2936269323,3.2891866894,False,"17488 Cadaqués, Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,Animalia,Echinodermata,Holothuroidea,,,
+295119,2024-07-09,2024-07-09,2024-06-23,07:17:00,plantae,17971,genus,Laurencia,42.2940396125,3.2904312344,False,"17488 Cadaqués, Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,Plantae,Rhodophyta,Florideophyceae,Ceramiales,Rhodomelaceae,
+295118,2024-07-09,2024-07-09,2024-06-23,07:17:00,chromista,35106,species,Padina pavonica,42.2940396125,3.2904312344,False,"17488 Cadaqués, Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
+295117,2024-07-09,2024-07-09,2024-06-23,07:17:00,plantae,35128,species,Posidonia oceanica,42.2940396125,3.2904312344,False,"17488 Cadaqués, Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Posidoniaceae,Posidonia
+295116,2024-07-09,2024-07-09,2024-06-23,07:17:00,actinopterygii,34835,species,Coris julis,42.2940396125,3.2904312344,False,"17488 Cadaqués, Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+295115,2024-07-09,2024-07-09,2024-06-23,07:17:00,actinopterygii,35216,species,Symphodus tinca,42.2940396125,3.2904312344,False,"17488 Cadaqués, Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
+295114,2024-07-09,2024-07-09,2024-06-23,07:15:00,plantae,35128,species,Posidonia oceanica,42.294134846,3.2915899487,False,"17488 Cadaqués, Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Posidoniaceae,Posidonia
+295113,2024-07-09,2024-07-09,2024-06-23,07:15:00,actinopterygii,34841,species,Diplodus annularis,42.294134846,3.2915899487,False,"17488 Cadaqués, Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+295112,2024-07-09,2024-07-09,2024-06-23,07:14:00,plantae,35158,species,Acetabularia acetabulum,42.293531698,3.2910320492,False,"17488 Cadaqués, Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,Plantae,Chlorophyta,Ulvophyceae,Dasycladales,Polyphysaceae,Acetabularia
+295111,2024-07-09,2024-07-09,2024-06-23,07:14:00,plantae,34884,species,Flabellia petiolata,42.293531698,3.2910320492,False,"17488 Cadaqués, Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,Plantae,Chlorophyta,Bryopsidophyceae,Bryopsidales,Codiaceae,Flabellia
+295110,2024-07-09,2024-07-09,2024-06-23,07:14:00,chromista,35106,species,Padina pavonica,42.293531698,3.2910320492,False,"17488 Cadaqués, Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
+295109,2024-07-09,2024-07-09,2024-06-23,07:14:00,plantae,52856,genus,Acetabularia,42.293531698,3.2910320492,False,"17488 Cadaqués, Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,Plantae,Chlorophyta,Ulvophyceae,Dasycladales,Polyphysaceae,
 295108,2024-07-09,2024-07-09,2024-06-23,07:12:00,cnidaria,35047,species,Aiptasia mutabilis,42.2938332727,3.2897016736,False,"17488 Cadaqués, Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Aiptasiidae,Aiptasia
 295107,2024-07-09,2024-07-09,2024-06-23,07:11:00,annelida,249709,species,Serpula vermicularis,42.293600291,3.2919339587,False,"Camí Port Lligat, 17488 Cadaqués, Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,Animalia,Annelida,Polychaeta,Sabellida,Serpulidae,Serpula
 295106,2024-07-09,2024-07-09,2024-06-23,07:09:00,,nan,,,42.2925317294,3.2912680836,False,"17488 Cadaqués, Girona, España",needs_id,92,josepdegea,cc-by-nc,0,0,,,,,,
