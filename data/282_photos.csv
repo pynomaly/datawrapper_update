@@ -1,4 +1,9 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+295024,395409,,,https://minka-sdg.org/attachments/local_photos/files/395409/medium.jpg,bertamari,41.3768723438,2.1936057311,cc-by-nc,"(c) bertamari, some rights reserved (CC BY-NC)",295024_395409.jpg
+295022,395408,,,https://minka-sdg.org/attachments/local_photos/files/395408/medium.jpg,bertamari,41.3768723438,2.1936057311,cc-by-nc,"(c) bertamari, some rights reserved (CC BY-NC)",295022_395408.jpg
+295011,395404,plantae,Posidonia oceanica,https://minka-sdg.org/attachments/local_photos/files/395404/medium.jpeg,alex_bdl,41.4556683227,2.2670035219,cc-by-nc,"(c) alex_bdl, some rights reserved (CC BY-NC)",295011_395404.jpg
+295009,395396,elasmobranchii,Torpedo torpedo,https://minka-sdg.org/attachments/local_photos/files/395396/medium.jpeg,alex_bdl,41.4509957539,2.2577750968,cc-by-nc,"(c) alex_bdl, some rights reserved (CC BY-NC)",295009_395396.jpg
+295008,395395,elasmobranchii,Dasyatis pastinaca,https://minka-sdg.org/attachments/local_photos/files/395395/medium.jpg,alex_bdl,41.4503681433,2.256867162,cc-by-nc,"(c) alex_bdl, some rights reserved (CC BY-NC)",295008_395395.jpg
 295007,395393,mollusca,Aglaja tricolorata,https://minka-sdg.org/attachments/local_photos/files/395393/medium.jpg,alex_bdl,41.4505200121,2.2576269922,cc-by-nc,"(c) alex_bdl, some rights reserved (CC BY-NC)",295007_395393.jpg
 295006,395389,plantae,Crithmum maritimum,https://minka-sdg.org/attachments/local_photos/files/395389/medium.jpg,xasalva,41.4114099,2.22795,cc-by-nc,"(c) xavi salvador costa, some rights reserved (CC BY-NC)",295006_395389.jpg
 295006,395390,plantae,Crithmum maritimum,https://minka-sdg.org/attachments/local_photos/files/395390/medium.jpg,xasalva,41.4114099,2.22795,cc-by-nc,"(c) xavi salvador costa, some rights reserved (CC BY-NC)",295006_395390.jpg
@@ -814,7 +819,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 291403,390583,bryozoa,Pentapora fascialis,https://minka-sdg.org/attachments/local_photos/files/390583/medium.jpg,jmturon,41.5539376833,2.5469353372,cc-by-nc,"(c) jmturon, some rights reserved (CC BY-NC)",291403_390583.jpg
 291402,390582,bryozoa,Pentapora fascialis,https://minka-sdg.org/attachments/local_photos/files/390582/medium.jpg,jmturon,41.5539376833,2.5469353372,cc-by-nc,"(c) jmturon, some rights reserved (CC BY-NC)",291402_390582.jpg
 291401,390580,mollusca,Patella ulyssiponensis,https://minka-sdg.org/attachments/local_photos/files/390580/medium.jpg,jmturon,41.5539376833,2.5469353372,cc-by-nc,"(c) jmturon, some rights reserved (CC BY-NC)",291401_390580.jpg
-291400,390580,crustacea,Balanidae,https://minka-sdg.org/attachments/local_photos/files/390580/medium.jpg,jmturon,41.5539376833,2.5469353372,cc-by-nc,"(c) jmturon, some rights reserved (CC BY-NC)",291400_390580.jpg
+291400,390580,crustacea,Amphibalanus amphitrite,https://minka-sdg.org/attachments/local_photos/files/390580/medium.jpg,jmturon,41.5539376833,2.5469353372,cc-by-nc,"(c) jmturon, some rights reserved (CC BY-NC)",291400_390580.jpg
 291399,390579,,Scyllarus pygmaeus,https://minka-sdg.org/attachments/local_photos/files/390579/medium.jpg,jmturon,41.5539376833,2.5469353372,cc-by-nc,"(c) jmturon, some rights reserved (CC BY-NC)",291399_390579.jpg
 291398,390578,plantae,Peyssonnelia,https://minka-sdg.org/attachments/local_photos/files/390578/medium.jpg,jmturon,41.5539376833,2.5469353372,cc-by-nc,"(c) jmturon, some rights reserved (CC BY-NC)",291398_390578.jpg
 291397,390577,annelida,Bonellia viridis,https://minka-sdg.org/attachments/local_photos/files/390577/medium.jpg,jmturon,41.5539376833,2.5469353372,cc-by-nc,"(c) jmturon, some rights reserved (CC BY-NC)",291397_390577.jpg
