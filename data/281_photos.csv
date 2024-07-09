@@ -10897,7 +10897,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 295094,395473,actinopterygii,Symphodus tinca,https://minka-sdg.org/attachments/local_photos/files/395473/medium.jpeg,josepdegea,42.292753946,3.2902166577,cc-by-nc,"(c) Josep, some rights reserved (CC BY-NC)",295094_395473.jpg
 295093,395472,plantae,Posidonia oceanica,https://minka-sdg.org/attachments/local_photos/files/395472/medium.jpeg,josepdegea,42.2938174004,3.2928344937,cc-by-nc,"(c) Josep, some rights reserved (CC BY-NC)",295093_395472.jpg
 295092,395472,chromista,Padina pavonica,https://minka-sdg.org/attachments/local_photos/files/395472/medium.jpeg,josepdegea,42.2938174004,3.2928344937,cc-by-nc,"(c) Josep, some rights reserved (CC BY-NC)",295092_395472.jpg
-295091,395472,actinopterygii,Tripterygion tripteronotum,https://minka-sdg.org/attachments/local_photos/files/395472/medium.jpeg,josepdegea,42.2938174004,3.2928344937,cc-by-nc,"(c) Josep, some rights reserved (CC BY-NC)",295091_395472.jpg
+295091,395472,actinopterygii,Tripterygion,https://minka-sdg.org/attachments/local_photos/files/395472/medium.jpeg,josepdegea,42.2938174004,3.2928344937,cc-by-nc,"(c) Josep, some rights reserved (CC BY-NC)",295091_395472.jpg
 295090,395471,plantae,Posidonia oceanica,https://minka-sdg.org/attachments/local_photos/files/395471/medium.jpeg,josepdegea,42.2943253126,3.2925770016,cc-by-nc,"(c) Josep, some rights reserved (CC BY-NC)",295090_395471.jpg
 295089,395471,actinopterygii,Symphodus rostratus,https://minka-sdg.org/attachments/local_photos/files/395471/medium.jpeg,josepdegea,42.2943253126,3.2925770016,cc-by-nc,"(c) Josep, some rights reserved (CC BY-NC)",295089_395471.jpg
 295088,395470,plantae,Laurencia,https://minka-sdg.org/attachments/local_photos/files/395470/medium.jpeg,josepdegea,42.2937221664,3.2910320492,cc-by-nc,"(c) Josep, some rights reserved (CC BY-NC)",295088_395470.jpg
@@ -10930,14 +10930,14 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 295061,395458,actinopterygii,Symphodus ocellatus,https://minka-sdg.org/attachments/local_photos/files/395458/medium.jpeg,josepdegea,42.2934364636,3.2903239461,cc-by-nc,"(c) Josep, some rights reserved (CC BY-NC)",295061_395458.jpg
 295060,395457,plantae,Posidonia oceanica,https://minka-sdg.org/attachments/local_photos/files/395457/medium.jpeg,josepdegea,42.2929602893,3.2890150281,cc-by-nc,"(c) Josep, some rights reserved (CC BY-NC)",295060_395457.jpg
 295059,395457,echinodermata,Holothuria tubulosa,https://minka-sdg.org/attachments/local_photos/files/395457/medium.jpeg,josepdegea,42.2929602893,3.2890150281,cc-by-nc,"(c) Josep, some rights reserved (CC BY-NC)",295059_395457.jpg
-295058,395455,,,https://minka-sdg.org/attachments/local_photos/files/395455/medium.jpg,lidiu0,41.803837156,3.0759236963,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295058_395455.jpg
-295058,395456,,,https://minka-sdg.org/attachments/local_photos/files/395456/medium.jpg,lidiu0,41.803837156,3.0759236963,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295058_395456.jpg
-295057,395452,,,https://minka-sdg.org/attachments/local_photos/files/395452/medium.jpg,lidiu0,41.803837156,3.0759236963,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295057_395452.jpg
-295057,395453,,,https://minka-sdg.org/attachments/local_photos/files/395453/medium.jpg,lidiu0,41.803837156,3.0759236963,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295057_395453.jpg
-295057,395454,,,https://minka-sdg.org/attachments/local_photos/files/395454/medium.jpg,lidiu0,41.803837156,3.0759236963,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295057_395454.jpg
-295056,395451,,,https://minka-sdg.org/attachments/local_photos/files/395451/medium.jpg,lidiu0,41.803837156,3.0759236963,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295056_395451.jpg
-295055,395449,,,https://minka-sdg.org/attachments/local_photos/files/395449/medium.jpg,lidiu0,41.803837156,3.0759236963,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295055_395449.jpg
-295054,395448,,,https://minka-sdg.org/attachments/local_photos/files/395448/medium.jpg,lidiu0,41.803837156,3.0759236963,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295054_395448.jpg
+295058,395455,actinopterygii,Chromis chromis,https://minka-sdg.org/attachments/local_photos/files/395455/medium.jpg,lidiu0,41.803837156,3.0759236963,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295058_395455.jpg
+295058,395456,actinopterygii,Chromis chromis,https://minka-sdg.org/attachments/local_photos/files/395456/medium.jpg,lidiu0,41.803837156,3.0759236963,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295058_395456.jpg
+295057,395452,actinopterygii,Sphyraena viridensis,https://minka-sdg.org/attachments/local_photos/files/395452/medium.jpg,lidiu0,41.803837156,3.0759236963,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295057_395452.jpg
+295057,395453,actinopterygii,Sphyraena viridensis,https://minka-sdg.org/attachments/local_photos/files/395453/medium.jpg,lidiu0,41.803837156,3.0759236963,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295057_395453.jpg
+295057,395454,actinopterygii,Sphyraena viridensis,https://minka-sdg.org/attachments/local_photos/files/395454/medium.jpg,lidiu0,41.803837156,3.0759236963,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295057_395454.jpg
+295056,395451,actinopterygii,Thalassoma pavo,https://minka-sdg.org/attachments/local_photos/files/395451/medium.jpg,lidiu0,41.803837156,3.0759236963,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295056_395451.jpg
+295055,395449,actinopterygii,Coris julis,https://minka-sdg.org/attachments/local_photos/files/395449/medium.jpg,lidiu0,41.803837156,3.0759236963,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295055_395449.jpg
+295054,395448,actinopterygii,Tripterygion delaisi,https://minka-sdg.org/attachments/local_photos/files/395448/medium.jpg,lidiu0,41.803837156,3.0759236963,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295054_395448.jpg
 295053,395447,,,https://minka-sdg.org/attachments/local_photos/files/395447/medium.jpg,lidiu0,41.803837156,3.0759236963,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295053_395447.jpg
 295052,395445,,,https://minka-sdg.org/attachments/local_photos/files/395445/medium.jpg,lidiu0,41.803837156,3.0759236963,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295052_395445.jpg
 295052,395446,,,https://minka-sdg.org/attachments/local_photos/files/395446/medium.jpg,lidiu0,41.803837156,3.0759236963,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295052_395446.jpg
@@ -10949,11 +10949,11 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 295047,395442,,,https://minka-sdg.org/attachments/local_photos/files/395442/medium.jpg,lidiu0,41.802652787,3.0700040528,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295047_395442.jpg
 295046,395438,,,https://minka-sdg.org/attachments/local_photos/files/395438/medium.jpg,lidiu0,41.802652787,3.0700040528,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295046_395438.jpg
 295046,395440,,,https://minka-sdg.org/attachments/local_photos/files/395440/medium.jpg,lidiu0,41.802652787,3.0700040528,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295046_395440.jpg
-295045,395437,,,https://minka-sdg.org/attachments/local_photos/files/395437/medium.jpg,lidiu0,41.802652787,3.0700040528,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295045_395437.jpg
+295045,395437,echinodermata,Echinaster sepositus,https://minka-sdg.org/attachments/local_photos/files/395437/medium.jpg,lidiu0,41.802652787,3.0700040528,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295045_395437.jpg
 295044,395436,,,https://minka-sdg.org/attachments/local_photos/files/395436/medium.jpg,lidiu0,41.802652787,3.0700040528,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295044_395436.jpg
-295043,395433,,,https://minka-sdg.org/attachments/local_photos/files/395433/medium.jpg,lidiu0,41.802652787,3.0700040528,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295043_395433.jpg
-295043,395434,,,https://minka-sdg.org/attachments/local_photos/files/395434/medium.jpg,lidiu0,41.802652787,3.0700040528,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295043_395434.jpg
-295043,395435,,,https://minka-sdg.org/attachments/local_photos/files/395435/medium.jpg,lidiu0,41.802652787,3.0700040528,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295043_395435.jpg
+295043,395433,porifera,Axinella,https://minka-sdg.org/attachments/local_photos/files/395433/medium.jpg,lidiu0,41.802652787,3.0700040528,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295043_395433.jpg
+295043,395434,porifera,Axinella,https://minka-sdg.org/attachments/local_photos/files/395434/medium.jpg,lidiu0,41.802652787,3.0700040528,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295043_395434.jpg
+295043,395435,porifera,Axinella,https://minka-sdg.org/attachments/local_photos/files/395435/medium.jpg,lidiu0,41.802652787,3.0700040528,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295043_395435.jpg
 295042,395432,,,https://minka-sdg.org/attachments/local_photos/files/395432/medium.jpg,lidiu0,41.802652787,3.0700040528,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295042_395432.jpg
 295041,395431,,,https://minka-sdg.org/attachments/local_photos/files/395431/medium.jpg,lidiu0,41.802652787,3.0700040528,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295041_395431.jpg
 295040,395430,plantae,Posidonia oceanica,https://minka-sdg.org/attachments/local_photos/files/395430/medium.jpeg,josepdegea,42.2927856912,3.2883069249,cc-by-nc,"(c) Josep, some rights reserved (CC BY-NC)",295040_395430.jpg
@@ -10962,21 +10962,21 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 295037,395426,plantae,Posidonia oceanica,https://minka-sdg.org/attachments/local_photos/files/395426/medium.jpeg,josepdegea,42.2933253566,3.2887146207,cc-by-nc,"(c) Josep, some rights reserved (CC BY-NC)",295037_395426.jpg
 295036,395426,,,https://minka-sdg.org/attachments/local_photos/files/395426/medium.jpeg,josepdegea,42.2933253566,3.2887146207,cc-by-nc,"(c) Josep, some rights reserved (CC BY-NC)",295036_395426.jpg
 295035,395429,,,https://minka-sdg.org/attachments/local_photos/files/395429/medium.jpg,lidiu0,41.8019326473,3.0716560314,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295035_395429.jpg
-295034,395428,,,https://minka-sdg.org/attachments/local_photos/files/395428/medium.jpg,lidiu0,41.8019326473,3.0716560314,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295034_395428.jpg
+295034,395428,echinodermata,Echinaster sepositus,https://minka-sdg.org/attachments/local_photos/files/395428/medium.jpg,lidiu0,41.8019326473,3.0716560314,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295034_395428.jpg
 295033,395427,,,https://minka-sdg.org/attachments/local_photos/files/395427/medium.jpg,lidiu0,41.8019326473,3.0716560314,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295033_395427.jpg
-295032,395423,,,https://minka-sdg.org/attachments/local_photos/files/395423/medium.jpg,lidiu0,41.8019326473,3.0716560314,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295032_395423.jpg
-295032,395424,,,https://minka-sdg.org/attachments/local_photos/files/395424/medium.jpg,lidiu0,41.8019326473,3.0716560314,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295032_395424.jpg
-295032,395425,,,https://minka-sdg.org/attachments/local_photos/files/395425/medium.jpg,lidiu0,41.8019326473,3.0716560314,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295032_395425.jpg
+295032,395423,plantae,Codium bursa,https://minka-sdg.org/attachments/local_photos/files/395423/medium.jpg,lidiu0,41.8019326473,3.0716560314,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295032_395423.jpg
+295032,395424,plantae,Codium bursa,https://minka-sdg.org/attachments/local_photos/files/395424/medium.jpg,lidiu0,41.8019326473,3.0716560314,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295032_395424.jpg
+295032,395425,plantae,Codium bursa,https://minka-sdg.org/attachments/local_photos/files/395425/medium.jpg,lidiu0,41.8019326473,3.0716560314,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295032_395425.jpg
 295031,395421,,,https://minka-sdg.org/attachments/local_photos/files/395421/medium.jpg,lidiu0,41.8019326473,3.0716560314,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295031_395421.jpg
-295030,395416,,,https://minka-sdg.org/attachments/local_photos/files/395416/medium.jpg,lidiu0,41.8019326473,3.0716560314,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295030_395416.jpg
-295030,395417,,,https://minka-sdg.org/attachments/local_photos/files/395417/medium.jpg,lidiu0,41.8019326473,3.0716560314,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295030_395417.jpg
-295030,395418,,,https://minka-sdg.org/attachments/local_photos/files/395418/medium.jpg,lidiu0,41.8019326473,3.0716560314,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295030_395418.jpg
-295030,395419,,,https://minka-sdg.org/attachments/local_photos/files/395419/medium.jpg,lidiu0,41.8019326473,3.0716560314,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295030_395419.jpg
-295030,395420,,,https://minka-sdg.org/attachments/local_photos/files/395420/medium.jpg,lidiu0,41.8019326473,3.0716560314,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295030_395420.jpg
+295030,395416,bryozoa,Reteporella,https://minka-sdg.org/attachments/local_photos/files/395416/medium.jpg,lidiu0,41.8019326473,3.0716560314,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295030_395416.jpg
+295030,395417,bryozoa,Reteporella,https://minka-sdg.org/attachments/local_photos/files/395417/medium.jpg,lidiu0,41.8019326473,3.0716560314,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295030_395417.jpg
+295030,395418,bryozoa,Reteporella,https://minka-sdg.org/attachments/local_photos/files/395418/medium.jpg,lidiu0,41.8019326473,3.0716560314,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295030_395418.jpg
+295030,395419,bryozoa,Reteporella,https://minka-sdg.org/attachments/local_photos/files/395419/medium.jpg,lidiu0,41.8019326473,3.0716560314,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295030_395419.jpg
+295030,395420,bryozoa,Reteporella,https://minka-sdg.org/attachments/local_photos/files/395420/medium.jpg,lidiu0,41.8019326473,3.0716560314,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295030_395420.jpg
 295029,395415,,,https://minka-sdg.org/attachments/local_photos/files/395415/medium.jpg,lidiu0,41.8019326473,3.0716560314,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295029_395415.jpg
-295028,395414,,,https://minka-sdg.org/attachments/local_photos/files/395414/medium.jpg,lidiu0,41.8019326473,3.0716560314,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295028_395414.jpg
+295028,395414,cnidaria,Cribrinopsis crassa,https://minka-sdg.org/attachments/local_photos/files/395414/medium.jpg,lidiu0,41.8019326473,3.0716560314,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295028_395414.jpg
 295027,395412,,,https://minka-sdg.org/attachments/local_photos/files/395412/medium.jpg,lidiu0,41.8019326473,3.0716560314,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295027_395412.jpg
-295026,395411,,,https://minka-sdg.org/attachments/local_photos/files/395411/medium.jpg,lidiu0,41.8019326473,3.0716560314,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295026_395411.jpg
+295026,395411,plantae,Codium bursa,https://minka-sdg.org/attachments/local_photos/files/395411/medium.jpg,lidiu0,41.8019326473,3.0716560314,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295026_395411.jpg
 295025,395410,,,https://minka-sdg.org/attachments/local_photos/files/395410/medium.jpg,lidiu0,41.8019326473,3.0716560314,cc-by,"(c) lidiu0, some rights reserved (CC BY)",295025_395410.jpg
 295023,395413,chromista,Padina pavonica,https://minka-sdg.org/attachments/local_photos/files/395413/medium.jpeg,josepdegea,42.2933087409,3.290309379,cc-by-nc,"(c) Josep, some rights reserved (CC BY-NC)",295023_395413.jpg
 295021,395413,plantae,Laurencia,https://minka-sdg.org/attachments/local_photos/files/395413/medium.jpeg,josepdegea,42.2933087409,3.290309379,cc-by-nc,"(c) Josep, some rights reserved (CC BY-NC)",295021_395413.jpg
