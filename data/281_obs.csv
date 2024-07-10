@@ -9241,6 +9241,14 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 280089,2024-06-11,2024-06-18,2024-06-08,15:47:00,plantae,64,phylum,Rhodophyta,42.13971,3.146765,False,roses,needs_id,801,sergio_zafra,cc-by-nc,0,0,Plantae,,,,,
 280085,2024-06-11,2024-06-12,2024-06-01,18:17:00,cnidaria,35202,species,Paramuricea clavata,41.8889022518,3.1982369239,False,ullastres 3,research,2888,tonihillaalos,cc-by,3,1,Animalia,Cnidaria,Anthozoa,Alcyonacea,Plexauridae,Paramuricea
 280084,2024-06-11,2024-06-11,2024-06-01,18:14:00,annelida,35119,species,Bonellia viridis,41.8865348232,3.1900659182,False,Ullastres 3,research,2888,tonihillaalos,cc-by,1,0,Animalia,Annelida,Polychaeta,,Bonelliidae,Bonellia
+296074,2024-07-10,2024-07-10,2024-07-10,06:38:00,,nan,,,41.6940287881,2.8371004107,False,,needs_id,782,asters,cc-by-nc,0,0,,,,,,
+296073,2024-07-10,2024-07-10,2024-07-10,06:38:00,,nan,,,41.6940257881,2.8370974107,False,,needs_id,782,asters,cc-by-nc,0,0,,,,,,
+296072,2024-07-10,2024-07-10,2024-07-10,06:38:00,,nan,,,41.6940227881,2.8370944107,False,,needs_id,782,asters,cc-by-nc,0,0,,,,,,
+296071,2024-07-10,2024-07-10,2024-07-10,06:38:00,,nan,,,41.6940197881,2.8370914107,False,,needs_id,782,asters,cc-by-nc,0,0,,,,,,
+296069,2024-07-10,2024-07-10,2024-07-10,06:38:00,,nan,,,41.6940137881,2.8370854107,False,,needs_id,782,asters,cc-by-nc,0,0,,,,,,
+296068,2024-07-10,2024-07-10,2024-07-10,06:38:00,,nan,,,41.6940107881,2.8370824107,False,,needs_id,782,asters,cc-by-nc,0,0,,,,,,
+296067,2024-07-10,2024-07-10,2024-07-10,06:38:00,,nan,,,41.6940077881,2.8370794107,False,,needs_id,782,asters,cc-by-nc,0,0,,,,,,
+296066,2024-07-10,2024-07-10,2024-07-10,06:38:00,,nan,,,41.6940047881,2.8370764107,False,,needs_id,782,asters,cc-by-nc,0,0,,,,,,
 296064,2024-07-10,2024-07-10,2024-07-06,22:07:00,mollusca,247849,species,Barbatia barbata,42.2439403558,3.2599242032,False,Cala Jóncols - Cap Norfeu,needs_id,16,guillermoalvarez_fecdas,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Arcida,Arcidae,Barbatia
 296063,2024-07-10,2024-07-10,2024-07-06,22:07:00,mollusca,242354,species,Jujubinus exasperatus,42.2439403558,3.2599242032,False,Cala Jóncols - Cap Norfeu,needs_id,16,guillermoalvarez_fecdas,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Trochida,Trochidae,Jujubinus
 296062,2024-07-10,2024-07-10,2024-07-06,22:07:00,mollusca,244058,species,Alvania lineata,42.2439403558,3.2599242032,False,Cala Jóncols - Cap Norfeu,needs_id,16,guillermoalvarez_fecdas,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Littorinimorpha,Rissoidae,Alvania
