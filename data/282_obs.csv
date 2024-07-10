@@ -1,5 +1,5 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
-295871,2024-07-10,2024-07-10,2024-07-10,14:11:00,aves,243187,species,Larus michahellis,41.5302322972,2.4328755587,False,Spain,needs_id,1263,mcomerma,cc-by,0,0,Animalia,Chordata,Aves,Ciconiiformes,Laridae,Larus
+295871,2024-07-10,2024-07-10,2024-07-10,14:11:00,aves,243187,species,Larus michahellis,41.5302322972,2.4328755587,False,Spain,research,1263,mcomerma,cc-by,1,0,Animalia,Chordata,Aves,Ciconiiformes,Laridae,Larus
 295774,2024-07-10,2024-07-10,2024-07-08,17:15:00,mammalia,102488,species,Oryctolagus cuniculus,41.2652618596,1.9830624014,False,,research,4899,iviflow,cc-by,1,0,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Oryctolagus
 295773,2024-07-10,2024-07-10,2024-07-09,17:20:00,aves,158468,species,Ichthyaetus audouinii,41.2649985034,1.9840347022,False,,research,4899,iviflow,cc-by,1,0,Animalia,Chordata,Aves,Ciconiiformes,Laridae,Ichthyaetus
 295772,2024-07-10,2024-07-10,2024-07-06,06:27:00,echinodermata,244382,species,Amphipholis squamata,41.3768937184,2.1937401524,False,Spain,research,911,longibanda,C,1,0,Animalia,Echinodermata,Ophiuroidea,Ophiurida,Amphiuridae,Amphipholis
