@@ -9241,7 +9241,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 280089,2024-06-11,2024-06-18,2024-06-08,15:47:00,plantae,64,phylum,Rhodophyta,42.13971,3.146765,False,roses,needs_id,801,sergio_zafra,cc-by-nc,0,0,Plantae,,,,,
 280085,2024-06-11,2024-06-12,2024-06-01,18:17:00,cnidaria,35202,species,Paramuricea clavata,41.8889022518,3.1982369239,False,ullastres 3,research,2888,tonihillaalos,cc-by,3,1,Animalia,Cnidaria,Anthozoa,Alcyonacea,Plexauridae,Paramuricea
 280084,2024-06-11,2024-06-11,2024-06-01,18:14:00,annelida,35119,species,Bonellia viridis,41.8865348232,3.1900659182,False,Ullastres 3,research,2888,tonihillaalos,cc-by,1,0,Animalia,Annelida,Polychaeta,,Bonelliidae,Bonellia
-295613,2024-07-09,2024-07-09,2024-07-06,10:31:00,life,1,stateofmatter,Life,42.2443763244,3.2549035549,False,,needs_id,4879,neuscdm,cc-by,0,0,,,,,,
+295613,2024-07-09,2024-07-10,2024-07-06,10:31:00,mollusca,35185,species,Felimare picta,42.2443763244,3.2549035549,False,,needs_id,4879,neuscdm,cc-by,1,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Felimare
 295542,2024-07-09,2024-07-09,2024-07-06,16:22:00,mollusca,244486,species,Dicata odhneri,41.8475090218,3.1378439069,False,,needs_id,844,ineram,C,0,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Facelinidae,Dicata
 295541,2024-07-09,2024-07-09,2024-07-08,19:00:00,,nan,,,41.8295431271,3.0862120539,False,Spain,needs_id,844,ineram,C,0,0,,,,,,
 295538,2024-07-09,2024-07-09,2024-07-07,10:37:00,actinopterygii,34835,species,Coris julis,41.7216523926,2.9388609966,False,"Platja Mar Menuda, Av. Mar Menuda, 2, 17320 Tossa de Mar, Girona, Espanya",research,688,irenebernabeu,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
