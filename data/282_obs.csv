@@ -1,4 +1,9 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+297160,2024-07-13,2024-07-13,2024-07-06,05:58:00,,nan,,,41.3768903972,2.1935766265,False,"Barcelona, España",needs_id,1057,bertamari,cc-by-nc,0,0,,,,,,
+297159,2024-07-13,2024-07-13,2024-07-06,05:58:00,,nan,,,41.3768903972,2.1935766265,False,"Barcelona, España",needs_id,1057,bertamari,cc-by-nc,0,0,,,,,,
+297158,2024-07-13,2024-07-13,2024-07-06,05:58:00,,nan,,,41.3768903972,2.1935766265,False,"Barcelona, España",needs_id,1057,bertamari,cc-by-nc,0,0,,,,,,
+297157,2024-07-13,2024-07-13,2024-07-06,05:58:00,,nan,,,41.3768903972,2.1935766265,False,"Barcelona, España",needs_id,1057,bertamari,cc-by-nc,0,0,,,,,,
+297156,2024-07-13,2024-07-13,2024-07-06,05:58:00,,nan,,,41.3768903972,2.1935766265,False,"Barcelona, España",needs_id,1057,bertamari,cc-by-nc,0,0,,,,,,
 297069,2024-07-12,2024-07-12,2024-07-11,13:35:00,actinopterygii,250657,species,Sphyraena viridensis,41.3770100125,2.1935726143,False,Spain,research,910,mar_avelles,C,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sphyraenidae,Sphyraena
 297068,2024-07-12,2024-07-12,2024-07-11,13:35:00,actinopterygii,35250,species,Parablennius pilicornis,41.3767928824,2.1934730033,False,"La Barceloneta, Ciutat Vella, Barcelona, España",research,910,mar_avelles,C,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
 297067,2024-07-12,2024-07-12,2024-07-11,13:37:00,actinopterygii,34989,species,Parablennius gattorugine,41.3766640748,2.193687581,False,Spain,research,910,mar_avelles,C,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
