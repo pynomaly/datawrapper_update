@@ -1,4 +1,48 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+297624,2024-07-13,2024-07-13,2024-07-13,17:43:00,actinopterygii,246069,species,Epinephelus marginatus,41.4946642,2.3591531,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Epinephelus
+297623,2024-07-13,2024-07-13,2024-07-13,17:49:00,,nan,,,41.4946642,2.3591531,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297622,2024-07-13,2024-07-13,2024-07-13,17:50:00,,nan,,,41.4946642,2.3591531,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297621,2024-07-13,2024-07-13,2024-07-13,17:48:00,,nan,,,41.4946642,2.3591531,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297620,2024-07-13,2024-07-13,2024-07-13,17:43:00,,nan,,,41.4946642,2.3591531,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297619,2024-07-13,2024-07-13,2024-07-13,17:42:00,,nan,,,41.4946642,2.3591531,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297618,2024-07-13,2024-07-13,2024-07-13,17:40:00,,nan,,,41.4946642,2.3591531,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297617,2024-07-13,2024-07-13,2024-07-13,17:40:00,,nan,,,41.4946642,2.3591531,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297616,2024-07-13,2024-07-13,2024-07-13,17:40:00,actinopterygii,35125,species,Mullus surmuletus,41.4946642,2.3591531,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Mullidae,Mullus
+297615,2024-07-13,2024-07-13,2024-07-13,17:40:00,actinopterygii,34835,species,Coris julis,41.4946642,2.3591531,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+297614,2024-07-13,2024-07-13,2024-07-13,17:40:00,actinopterygii,34798,species,Diplodus vulgaris,41.4946642,2.3591531,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+297613,2024-07-13,2024-07-13,2024-07-13,17:40:00,actinopterygii,35194,species,Thalassoma pavo,41.4946642,2.3591531,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
+297612,2024-07-13,2024-07-13,2024-07-13,17:39:00,,nan,,,41.4946642,2.3591531,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297611,2024-07-13,2024-07-13,2024-07-13,17:38:00,,nan,,,41.4946642,2.3591531,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297610,2024-07-13,2024-07-13,2024-07-13,17:37:00,,nan,,,41.4946642,2.3591531,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297609,2024-07-13,2024-07-13,2024-07-13,17:36:00,,nan,,,41.4946642,2.3591531,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297608,2024-07-13,2024-07-13,2024-07-13,17:35:00,,nan,,,41.4946642,2.3591531,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297607,2024-07-13,2024-07-13,2024-07-13,17:35:00,,nan,,,41.4946642,2.3591531,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297606,2024-07-13,2024-07-13,2024-07-13,17:35:00,,nan,,,41.4946642,2.3591531,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297605,2024-07-13,2024-07-13,2024-07-13,17:31:00,,nan,,,41.4946642,2.3591531,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297604,2024-07-13,2024-07-13,2024-07-13,17:30:00,,nan,,,41.4923496638,2.3733153288,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297603,2024-07-13,2024-07-13,2024-07-13,17:29:00,,nan,,,41.4923496638,2.3733153288,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297602,2024-07-13,2024-07-13,2024-07-13,17:28:00,,nan,,,41.4923496638,2.3733153288,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297601,2024-07-13,2024-07-13,2024-07-13,17:27:00,,nan,,,41.4923496638,2.3733153288,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297600,2024-07-13,2024-07-13,2024-07-13,17:26:00,,nan,,,41.4923496638,2.3733153288,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297599,2024-07-13,2024-07-13,2024-07-13,17:25:00,,nan,,,41.4923496638,2.3733153288,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297598,2024-07-13,2024-07-13,2024-07-13,17:26:00,,nan,,,41.4923496638,2.3733153288,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297597,2024-07-13,2024-07-13,2024-07-13,17:24:00,,nan,,,41.4923496638,2.3733153288,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297596,2024-07-13,2024-07-13,2024-07-13,17:25:00,,nan,,,41.4923496638,2.3733153288,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297595,2024-07-13,2024-07-13,2024-07-13,17:24:00,,nan,,,41.4923496638,2.3733153288,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297594,2024-07-13,2024-07-13,2024-07-13,17:23:00,,nan,,,41.4923496638,2.3733153288,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297593,2024-07-13,2024-07-13,2024-07-13,17:23:00,,nan,,,41.4923496638,2.3733153288,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297592,2024-07-13,2024-07-13,2024-07-13,17:21:00,,nan,,,41.4923496638,2.3733153288,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297591,2024-07-13,2024-07-13,2024-07-13,17:21:00,,nan,,,41.4923496638,2.3733153288,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297590,2024-07-13,2024-07-13,2024-07-13,17:20:00,,nan,,,41.4923496638,2.3733153288,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297589,2024-07-13,2024-07-13,2024-07-13,17:19:00,,nan,,,41.4923496638,2.3733153288,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297588,2024-07-13,2024-07-13,2024-07-13,17:18:00,,nan,,,41.4923496638,2.3733153288,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297587,2024-07-13,2024-07-13,2024-07-13,17:17:00,,nan,,,41.4923496638,2.3733153288,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297586,2024-07-13,2024-07-13,2024-07-13,17:16:00,,nan,,,41.4923496638,2.3733153288,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297585,2024-07-13,2024-07-13,2024-07-13,17:16:00,,nan,,,41.4923496638,2.3733153288,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297584,2024-07-13,2024-07-13,2024-07-13,17:16:00,,nan,,,41.4923496638,2.3733153288,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297583,2024-07-13,2024-07-13,2024-07-13,17:15:00,,nan,,,41.4923496638,2.3733153288,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297582,2024-07-13,2024-07-13,2024-07-13,17:15:00,,nan,,,41.4923496638,2.3733153288,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
+297581,2024-07-13,2024-07-13,2024-07-13,17:15:00,,nan,,,41.4923496638,2.3733153288,False,"Premià de Mar, Barcelona, España",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,,,,,,
 297426,2024-07-13,2024-07-13,2024-07-13,08:19:00,actinopterygii,35194,species,Thalassoma pavo,41.487857,2.360871,False,,research,176,arnau,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
 297425,2024-07-13,2024-07-13,2024-07-13,08:27:00,actinopterygii,35040,genus,Symphodus,41.487832,2.360992,False,,needs_id,176,arnau,cc-by-nc,3,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,
 297424,2024-07-13,2024-07-13,2024-07-13,08:30:00,mollusca,34855,species,Sepia officinalis,41.488198,2.36166,False,,research,176,arnau,cc-by-nc,1,0,Animalia,Mollusca,Cephalopoda,Sepiida,Sepiidae,Sepia
@@ -29,7 +73,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 297255,2024-07-13,2024-07-13,2024-07-13,06:10:00,actinopterygii,35194,species,Thalassoma pavo,41.6349995384,2.7386260154,False,,research,72,badosa,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
 297254,2024-07-13,2024-07-13,2024-07-13,06:11:00,cnidaria,35011,species,Pennaria disticha,41.635007557,2.7385187271,False,,research,72,badosa,cc-by-nc,1,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Pennariidae,Pennaria
 297253,2024-07-13,2024-07-13,2024-07-13,06:11:00,porifera,252576,species,Oscarella lobularis,41.6350636875,2.7385509136,False,,research,72,badosa,cc-by-nc,1,0,Animalia,Porifera,Homoscleromorpha,Homosclerophorida,Oscarellidae,Oscarella
-297252,2024-07-13,2024-07-13,2024-07-13,06:12:00,annelida,131,class,Polychaeta,41.6350556689,2.7384865406,False,,needs_id,72,badosa,cc-by-nc,2,0,Animalia,Annelida,,,,
+297252,2024-07-13,2024-07-13,2024-07-13,06:12:00,annelida,131,class,Polychaeta,41.6350556689,2.7384865406,False,,needs_id,72,badosa,cc-by-nc,1,0,Animalia,Annelida,,,,
 297251,2024-07-13,2024-07-13,2024-07-13,06:12:00,animalia,35134,species,Halocynthia papillosa,41.6350235943,2.7385723713,False,,research,72,badosa,cc-by-nc,1,0,Animalia,Chordata,Ascidiacea,Pleurogona,Pyuridae,Halocynthia
 297250,2024-07-13,2024-07-13,2024-07-13,06:12:00,actinopterygii,248737,species,Scorpaena maderensis,41.6349674637,2.7384758117,False,,research,72,badosa,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,Scorpaena
 297249,2024-07-13,2024-07-13,2024-07-13,06:15:00,actinopterygii,3,class,Actinopterygii,41.6349594451,2.7384328964,False,,needs_id,72,badosa,cc-by-nc,1,0,Animalia,Chordata,,,,
