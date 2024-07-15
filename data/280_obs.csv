@@ -61,7 +61,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 298853,2024-07-14,2024-07-15,2024-07-14,00:26:00,plantae,35032,species,Codium vermilara,40.9251218788,0.8485221859,False,Spain,research,197,peixderoca24,cc-by-nc,2,0,Plantae,Chlorophyta,Bryopsidophyceae,Bryopsidales,Codiaceae,Codium
 298852,2024-07-14,2024-07-15,2024-07-14,00:24:00,porifera,250915,species,Chondrosia reniformis,40.9251218788,0.8485221859,False,Spain,research,197,peixderoca24,cc-by-nc,1,0,Animalia,Porifera,Demospongiae,Chondrosida,Chondrillidae,Chondrosia
 298851,2024-07-14,2024-07-15,2024-07-14,00:24:00,porifera,253206,species,Phorbas tenacior,40.9251218788,0.8485221859,False,Spain,research,197,peixderoca24,cc-by-nc,1,0,Animalia,Porifera,Demospongiae,Poecilosclerida,Hymedesmiidae,Phorbas
-298850,2024-07-14,2024-07-15,2024-07-14,00:23:00,cnidaria,247455,species,Eudendrium racemosum,40.9251218788,0.8485221859,False,Spain,needs_id,197,peixderoca24,cc-by-nc,1,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Eudendriidae,Eudendrium
+298850,2024-07-14,2024-07-15,2024-07-14,00:23:00,cnidaria,247455,species,Eudendrium racemosum,40.9251218788,0.8485221859,False,Spain,research,197,peixderoca24,cc-by-nc,2,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Eudendriidae,Eudendrium
 298847,2024-07-14,2024-07-14,2024-07-12,22:59:00,actinopterygii,35225,species,Chromis chromis,41.0896752629,1.2285137519,False,ANERIS - Parc Subaquàtic TARRAGONA,research,866,biosub,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
 298846,2024-07-14,2024-07-14,2024-07-12,22:58:00,actinopterygii,248737,species,Scorpaena maderensis,41.0896752629,1.2285137519,False,ANERIS - Parc Subaquàtic TARRAGONA,research,866,biosub,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,Scorpaena
 298845,2024-07-14,2024-07-14,2024-07-12,22:57:00,mollusca,35243,species,Nemesignis banyulensis,41.0896752629,1.2285137519,False,ANERIS - Parc Subaquàtic TARRAGONA,research,866,biosub,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Myrrhinidae,Nemesignis
@@ -91,22 +91,18 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 298706,2024-07-14,2024-07-15,2024-06-22,11:09:00,actinopterygii,34805,species,Sarpa salpa,41.1775202022,1.527538654,False,,needs_id,3393,nigelbax,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
 298705,2024-07-14,2024-07-15,2024-06-22,11:08:00,actinopterygii,34805,species,Sarpa salpa,41.1773799974,1.5275747383,False,,needs_id,3393,nigelbax,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
 298704,2024-07-14,2024-07-15,2024-06-22,11:08:00,actinopterygii,3,class,Actinopterygii,41.1774012569,1.5275755514,False,,needs_id,3393,nigelbax,cc-by,0,0,Animalia,Chordata,,,,
-298703,2024-07-14,2024-07-14,2024-06-22,11:08:00,,nan,,,41.1774276252,1.5275691308,False,,needs_id,3393,nigelbax,cc-by,0,0,,,,,,
-298702,2024-07-14,2024-07-14,2024-06-22,11:08:00,,nan,,,41.1774480606,1.527548243,False,"Tarragona, España",needs_id,3393,nigelbax,cc-by,0,0,,,,,,
-298701,2024-07-14,2024-07-14,2024-06-22,11:07:00,,nan,,,41.1774828749,1.5275375142,False,"Tarragona, España",needs_id,3393,nigelbax,cc-by,0,0,,,,,,
-298700,2024-07-14,2024-07-14,2024-06-22,11:05:00,,nan,,,41.1775633902,1.5275104908,False,"Tarragona, España",needs_id,3393,nigelbax,cc-by,0,0,,,,,,
-298699,2024-07-14,2024-07-14,2024-06-22,11:05:00,,nan,,,41.1775779788,1.5275011031,False,"Tarragona, España",needs_id,3393,nigelbax,cc-by,0,0,,,,,,
-298698,2024-07-14,2024-07-14,2024-06-22,11:05:00,,nan,,,41.177589996,1.5275011031,False,"Tarragona, España",needs_id,3393,nigelbax,cc-by,0,0,,,,,,
-298697,2024-07-14,2024-07-14,2024-06-22,11:33:00,,nan,,,41.1776058536,1.5275098394,False,"Tarragona, España",needs_id,3393,nigelbax,cc-by,0,0,,,,,,
-298696,2024-07-14,2024-07-14,2024-06-22,11:33:00,,nan,,,41.1776286258,1.5274964092,False,"Tarragona, España",needs_id,3393,nigelbax,cc-by,0,0,,,,,,
-298695,2024-07-14,2024-07-14,2024-06-22,11:33:00,,nan,,,41.1776388005,1.5274903742,False,,needs_id,3393,nigelbax,cc-by,0,0,,,,,,
-298694,2024-07-14,2024-07-14,2024-06-22,11:33:00,,nan,,,41.1776530935,1.527492099,False,,needs_id,3393,nigelbax,cc-by,0,0,,,,,,
-298693,2024-07-14,2024-07-14,2024-06-22,11:16:00,,nan,,,41.1776798062,1.5274702577,False,"Tarragona, España",needs_id,3393,nigelbax,cc-by,0,0,,,,,,
-298692,2024-07-14,2024-07-14,2024-06-22,11:16:00,,nan,,,41.1776977567,1.5274702577,False,"Tarragona, España",needs_id,3393,nigelbax,cc-by,0,0,,,,,,
-298691,2024-07-14,2024-07-14,2024-06-22,11:10:00,,nan,,,41.1777669013,1.5274466554,False,"Tarragona, España",needs_id,3393,nigelbax,cc-by,0,0,,,,,,
-298690,2024-07-14,2024-07-14,2024-06-22,11:10:00,,nan,,,41.1777528364,1.5274768303,False,"Tarragona, España",needs_id,3393,nigelbax,cc-by,0,0,,,,,,
-298689,2024-07-14,2024-07-14,2024-06-22,11:10:00,,nan,,,41.1777771959,1.5274753029,False,"Tarragona, España",needs_id,3393,nigelbax,cc-by,0,0,,,,,,
-298688,2024-07-14,2024-07-14,2024-06-22,11:10:00,,nan,,,41.1778058919,1.5274956057,False,,needs_id,3393,nigelbax,cc-by,0,0,,,,,,
+298703,2024-07-14,2024-07-15,2024-06-22,11:08:00,actinopterygii,34837,species,Dicentrarchus labrax,41.1774276252,1.5275691308,False,,needs_id,3393,nigelbax,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Moronidae,Dicentrarchus
+298702,2024-07-14,2024-07-15,2024-06-22,11:08:00,actinopterygii,34837,species,Dicentrarchus labrax,41.1774480606,1.527548243,False,"Tarragona, España",needs_id,3393,nigelbax,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Moronidae,Dicentrarchus
+298701,2024-07-14,2024-07-15,2024-06-22,11:07:00,actinopterygii,34837,species,Dicentrarchus labrax,41.1774828749,1.5275375142,False,"Tarragona, España",needs_id,3393,nigelbax,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Moronidae,Dicentrarchus
+298700,2024-07-14,2024-07-15,2024-06-22,11:05:00,actinopterygii,34805,species,Sarpa salpa,41.1775633902,1.5275104908,False,"Tarragona, España",needs_id,3393,nigelbax,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
+298699,2024-07-14,2024-07-15,2024-06-22,11:05:00,plantae,246914,species,Asparagopsis taxiformis,41.1775779788,1.5275011031,False,"Tarragona, España",needs_id,3393,nigelbax,cc-by,0,0,Plantae,Rhodophyta,Florideophyceae,Bonnemaisoniales,Bonnemaisoniaceae,Asparagopsis
+298698,2024-07-14,2024-07-15,2024-06-22,11:05:00,actinopterygii,34837,species,Dicentrarchus labrax,41.177589996,1.5275011031,False,"Tarragona, España",needs_id,3393,nigelbax,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Moronidae,Dicentrarchus
+298697,2024-07-14,2024-07-15,2024-06-22,11:33:00,actinopterygii,34798,species,Diplodus vulgaris,41.1776058536,1.5275098394,False,"Tarragona, España",needs_id,3393,nigelbax,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+298694,2024-07-14,2024-07-15,2024-06-22,11:33:00,actinopterygii,34798,species,Diplodus vulgaris,41.1776530935,1.527492099,False,,needs_id,3393,nigelbax,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+298693,2024-07-14,2024-07-15,2024-06-22,11:16:00,chromista,2847,family,Dictyotaceae,41.1776798062,1.5274702577,False,"Tarragona, España",needs_id,3393,nigelbax,cc-by,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,,
+298692,2024-07-14,2024-07-15,2024-06-22,11:16:00,plantae,64,phylum,Rhodophyta,41.1776977567,1.5274702577,False,"Tarragona, España",needs_id,3393,nigelbax,cc-by,0,0,Plantae,,,,,
+298691,2024-07-14,2024-07-15,2024-06-22,11:10:00,actinopterygii,12553,species,Diplodus sargus,41.1777669013,1.5274466554,False,"Tarragona, España",needs_id,3393,nigelbax,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+298690,2024-07-14,2024-07-15,2024-06-22,11:10:00,actinopterygii,34805,species,Sarpa salpa,41.1777528364,1.5274768303,False,"Tarragona, España",needs_id,3393,nigelbax,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
 298542,2024-07-14,2024-07-15,2024-06-22,10:31:00,actinopterygii,34805,species,Sarpa salpa,41.1772804373,1.5276879467,False,,needs_id,3393,nigelbax,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
 298541,2024-07-14,2024-07-15,2024-06-22,10:31:00,actinopterygii,34805,species,Sarpa salpa,41.1769634795,1.5278703369,False,,needs_id,3393,nigelbax,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
 298540,2024-07-14,2024-07-15,2024-06-22,10:31:00,actinopterygii,34805,species,Sarpa salpa,41.1770442332,1.5277737774,False,,needs_id,3393,nigelbax,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
