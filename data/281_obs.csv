@@ -9241,7 +9241,12 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 280089,2024-06-11,2024-06-18,2024-06-08,15:47:00,plantae,64,phylum,Rhodophyta,42.13971,3.146765,False,roses,needs_id,801,sergio_zafra,cc-by-nc,0,0,Plantae,,,,,
 280085,2024-06-11,2024-06-12,2024-06-01,18:17:00,cnidaria,35202,species,Paramuricea clavata,41.8889022518,3.1982369239,False,ullastres 3,research,2888,tonihillaalos,cc-by,3,1,Animalia,Cnidaria,Anthozoa,Alcyonacea,Plexauridae,Paramuricea
 280084,2024-06-11,2024-06-11,2024-06-01,18:14:00,annelida,35119,species,Bonellia viridis,41.8865348232,3.1900659182,False,Ullastres 3,research,2888,tonihillaalos,cc-by,1,0,Animalia,Annelida,Polychaeta,,Bonelliidae,Bonellia
-299161,2024-07-15,2024-07-15,2024-07-14,09:04:00,actinopterygii,35250,species,Parablennius pilicornis,42.1137582,3.1663963,False,"Illa Mateua, L'Escala, Girona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+299167,2024-07-15,2024-07-15,2024-07-14,10:55:00,plantae,245425,species,Echinophora spinosa,42.018167328,3.1933085957,False,Spain,research,988,elibonfill,C,1,0,Plantae,Magnoliophyta,Magnoliopsida,Apiales,Apiaceae,Echinophora
+299166,2024-07-15,2024-07-15,2024-07-14,10:55:00,plantae,247078,species,Eryngium maritimum,42.018160328,3.1933015957,False,Spain,needs_id,988,elibonfill,C,0,0,Plantae,Magnoliophyta,Magnoliopsida,Apiales,Apiaceae,Eryngium
+299165,2024-07-15,2024-07-15,2024-07-14,10:55:00,plantae,44203,genus,Thinopyrum,42.0183230331,3.1926953349,False,Spain,needs_id,988,elibonfill,C,0,0,Plantae,Magnoliophyta,Liliopsida,Poales,Poaceae,
+299164,2024-07-15,2024-07-15,2024-07-14,10:55:00,plantae,247896,species,Euphorbia paralias,42.0183160331,3.1926883349,False,Spain,research,988,elibonfill,C,1,0,Plantae,Magnoliophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,Euphorbia
+299163,2024-07-15,2024-07-15,2024-07-14,10:56:00,plantae,44520,species,Tamarix canariensis,42.0183090331,3.1926813349,False,Spain,needs_id,988,elibonfill,C,0,0,Plantae,Magnoliophyta,Magnoliopsida,Violales,Tamaricaceae,Tamarix
+299161,2024-07-15,2024-07-15,2024-07-14,09:04:00,actinopterygii,35035,genus,Parablennius,42.1137582,3.1663963,False,"Illa Mateua, L'Escala, Girona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,
 299086,2024-07-15,2024-07-15,2024-07-14,18:38:00,mollusca,253559,species,Varicorbula gibba,42.107263346,3.1708739255,False,Cala Montgó,needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Myoida,Corbulidae,Varicorbula
 299085,2024-07-15,2024-07-15,2024-07-14,18:37:00,crustacea,372,order,Amphipoda,42.107263346,3.1708739255,False,Cala Montgó,needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Malacostraca,,,
 299084,2024-07-15,2024-07-15,2024-07-14,18:37:00,mollusca,247723,species,Musculus costulatus,42.107263346,3.1708739255,False,Cala Montgó,needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,Musculus
@@ -9255,7 +9260,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 299076,2024-07-15,2024-07-15,2024-07-14,18:34:00,mollusca,251218,species,Spisula subtruncata,42.107263346,3.1708739255,False,Cala Montgó,research,4,xasalva,cc-by-nc,1,0,Animalia,Mollusca,Bivalvia,Venerida,Mactridae,Spisula
 299075,2024-07-15,2024-07-15,2024-07-14,18:34:00,mollusca,250465,species,Chamelea gallina,42.107263346,3.1708739255,False,Cala Montgó,research,4,xasalva,cc-by-nc,1,0,Animalia,Mollusca,Bivalvia,Venerida,Veneridae,Chamelea
 299074,2024-07-15,2024-07-15,2024-07-14,18:34:00,mollusca,583,order,Mytilida,42.107263346,3.1708739255,False,Cala Montgó,needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,,,
-299073,2024-07-15,2024-07-15,2024-07-14,18:34:00,,nan,,,42.107263346,3.1708739255,False,Cala Montgó,needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+299073,2024-07-15,2024-07-15,2024-07-14,18:34:00,mollusca,252195,species,Loripes orbiculatus,42.107263346,3.1708739255,False,Cala Montgó,needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Lucinida,Lucinidae,Loripes
 299072,2024-07-15,2024-07-15,2024-07-14,18:34:00,echinodermata,245420,species,Echinocyamus pusillus,42.107263346,3.1708739255,False,Cala Montgó,research,4,xasalva,cc-by-nc,1,0,Animalia,Echinodermata,Echinoidea,Clypeasteroida,Echinocyamidae,Echinocyamus
 299071,2024-07-15,2024-07-15,2024-07-14,18:34:00,mollusca,244058,species,Alvania lineata,42.107263346,3.1708739255,False,Cala Montgó,research,4,xasalva,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Littorinimorpha,Rissoidae,Alvania
 299070,2024-07-15,2024-07-15,2024-07-14,18:34:00,mollusca,3030,family,Anomiidae,42.107263346,3.1708739255,False,Cala Montgó,needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Ostreoida,,
@@ -9280,7 +9285,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 299051,2024-07-15,2024-07-15,2024-07-14,18:10:00,,253143,species,Philocheras bispinosus,42.107263346,3.1708739255,False,Cala Montgó,needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Arthropoda,Malacostraca,Decapoda,Crangonidae,Philocheras
 299050,2024-07-15,2024-07-15,2024-07-14,18:10:00,annelida,131,class,Polychaeta,42.107263346,3.1708739255,False,Cala Montgó,needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Annelida,,,,
 299049,2024-07-15,2024-07-15,2024-07-14,18:08:00,mollusca,255590,species,Fustiaria rubescens,42.107263346,3.1708739255,False,Cala Montgó,research,4,xasalva,cc-by-nc,1,0,Animalia,Mollusca,Scaphopoda,Dentaliida,Fustiariidae,Fustiaria
-299048,2024-07-15,2024-07-15,2024-07-14,18:08:00,,nan,,,42.107263346,3.1708739255,False,Cala Montgó,needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+299048,2024-07-15,2024-07-15,2024-07-14,18:08:00,mollusca,252195,species,Loripes orbiculatus,42.107263346,3.1708739255,False,Cala Montgó,needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Lucinida,Lucinidae,Loripes
 299047,2024-07-15,2024-07-15,2024-07-14,18:08:00,,nan,,,42.107263346,3.1708739255,False,Cala Montgó,needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
 299046,2024-07-15,2024-07-15,2024-07-14,18:08:00,mollusca,250573,species,Talochlamys multistriata,42.107263346,3.1708739255,False,Cala Montgó,research,4,xasalva,cc-by-nc,1,0,Animalia,Mollusca,Bivalvia,Pectinida,Pectinidae,Talochlamys
 299045,2024-07-15,2024-07-15,2024-07-14,18:08:00,chromista,19,phylum,Foraminifera,42.107263346,3.1708739255,False,Cala Montgó,needs_id,4,xasalva,cc-by-nc,0,0,Chromista,,,,,
@@ -9292,7 +9297,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 299039,2024-07-15,2024-07-15,2024-07-14,18:04:00,mollusca,247283,species,Moerella donacina,42.107263346,3.1708739255,False,Cala Montgó,research,4,xasalva,cc-by-nc,1,0,Animalia,Mollusca,Bivalvia,Cardiida,Tellinidae,Moerella
 299038,2024-07-15,2024-07-15,2024-07-14,18:04:00,mollusca,13173,genus,Ringicula,42.107263346,3.1708739255,False,Cala Montgó,needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,,Ringiculidae,
 299037,2024-07-15,2024-07-15,2024-07-14,18:04:00,mollusca,255202,species,Ringicula conformis,42.107263346,3.1708739255,False,Cala Montgó,research,4,xasalva,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,,Ringiculidae,Ringicula
-299036,2024-07-15,2024-07-15,2024-07-14,18:04:00,,nan,,,42.107263346,3.1708739255,False,Cala Montgó,needs_id,4,xasalva,cc-by-nc,0,0,,,,,,
+299036,2024-07-15,2024-07-15,2024-07-14,18:04:00,mollusca,3590,family,Thraciidae,42.107263346,3.1708739255,False,Cala Montgó,needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,,,
 299035,2024-07-15,2024-07-15,2024-07-14,18:04:00,mollusca,245882,species,Ensis minor,42.107263346,3.1708739255,False,Cala Montgó,research,4,xasalva,cc-by-nc,1,0,Animalia,Mollusca,Bivalvia,Adapedonta,Pharidae,Ensis
 299034,2024-07-15,2024-07-15,2024-07-14,18:02:00,mollusca,253141,species,Philine quadripartita,42.107263346,3.1708739255,False,Cala Montgó,research,4,xasalva,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Cephalaspidea,Philinidae,Philine
 299033,2024-07-15,2024-07-15,2024-07-14,18:02:00,echinodermata,10293,genus,Astropecten,42.107263346,3.1708739255,False,Cala Montgó,needs_id,4,xasalva,cc-by-nc,0,0,Animalia,Echinodermata,Asteroidea,Paxillosida,Astropectinidae,
