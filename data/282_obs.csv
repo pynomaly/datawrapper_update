@@ -26,129 +26,105 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 299293,2024-07-15,2024-07-15,2024-07-14,13:25:00,actinopterygii,35194,species,Thalassoma pavo,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
 299292,2024-07-15,2024-07-15,2024-07-14,13:25:00,actinopterygii,35194,species,Thalassoma pavo,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
 299291,2024-07-15,2024-07-15,2024-07-14,13:25:00,echinodermata,9659,genus,Holothuria,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,
-299290,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299289,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299288,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299287,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299286,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299285,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299284,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299283,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299282,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299281,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299280,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299279,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299278,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299277,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299276,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299275,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299274,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299273,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299272,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299271,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299270,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299269,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299268,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299267,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299266,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299265,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299264,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299263,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299262,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299261,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299260,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299259,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299258,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299257,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299256,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299255,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299254,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299253,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299252,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299251,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299250,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299249,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299248,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299247,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299246,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299245,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299244,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299243,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299242,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299241,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299240,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299239,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299238,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299237,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299236,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299235,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299234,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299233,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299232,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299231,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299230,2024-07-15,2024-07-15,2024-07-14,13:25:00,,nan,,,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299229,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299228,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299227,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299226,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299225,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299224,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299223,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299222,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299221,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299220,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299219,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299218,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299217,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299216,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299215,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299214,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299213,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299212,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299211,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299210,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299209,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299208,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299207,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299206,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299205,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299204,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299203,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299202,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299201,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299200,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299199,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299198,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299197,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299196,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299195,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299194,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299193,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299192,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299191,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299190,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299189,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299188,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299187,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299186,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299185,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299184,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299183,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299182,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299181,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299180,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299179,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299178,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299177,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299176,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299175,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299174,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299173,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299172,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299171,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299170,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299169,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
-299168,2024-07-15,2024-07-15,2024-07-06,13:21:00,,nan,,,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+299288,2024-07-15,2024-07-15,2024-07-14,13:25:00,actinopterygii,34798,species,Diplodus vulgaris,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+299287,2024-07-15,2024-07-15,2024-07-14,13:25:00,actinopterygii,34805,species,Sarpa salpa,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
+299285,2024-07-15,2024-07-15,2024-07-14,13:25:00,actinopterygii,35194,species,Thalassoma pavo,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
+299284,2024-07-15,2024-07-15,2024-07-14,13:25:00,actinopterygii,35194,species,Thalassoma pavo,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
+299283,2024-07-15,2024-07-15,2024-07-14,13:25:00,actinopterygii,35225,species,Chromis chromis,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
+299282,2024-07-15,2024-07-15,2024-07-14,13:25:00,actinopterygii,34798,species,Diplodus vulgaris,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+299281,2024-07-15,2024-07-15,2024-07-14,13:25:00,actinopterygii,35225,species,Chromis chromis,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
+299279,2024-07-15,2024-07-15,2024-07-14,13:25:00,echinodermata,34848,species,Paracentrotus lividus,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Echinodermata,Echinoidea,Camarodonta,Parechinidae,Paracentrotus
+299278,2024-07-15,2024-07-15,2024-07-14,13:25:00,actinopterygii,34805,species,Sarpa salpa,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
+299277,2024-07-15,2024-07-15,2024-07-14,13:25:00,actinopterygii,34805,species,Sarpa salpa,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
+299276,2024-07-15,2024-07-15,2024-07-14,13:25:00,aves,257383,species,Gulosus aristotelis,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Aves,Ciconiiformes,Phalacrocoracidae,
+299275,2024-07-15,2024-07-15,2024-07-14,13:25:00,actinopterygii,35194,species,Thalassoma pavo,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
+299273,2024-07-15,2024-07-15,2024-07-14,13:25:00,actinopterygii,12553,species,Diplodus sargus,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+299272,2024-07-15,2024-07-15,2024-07-14,13:25:00,actinopterygii,35194,species,Thalassoma pavo,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
+299269,2024-07-15,2024-07-15,2024-07-14,13:25:00,,16,kingdom,Chromista,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+299268,2024-07-15,2024-07-15,2024-07-14,13:25:00,actinopterygii,34986,species,Symphodus roissali,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
+299267,2024-07-15,2024-07-15,2024-07-14,13:25:00,actinopterygii,35040,genus,Symphodus,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,
+299265,2024-07-15,2024-07-15,2024-07-14,13:25:00,actinopterygii,34798,species,Diplodus vulgaris,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+299264,2024-07-15,2024-07-15,2024-07-14,13:25:00,actinopterygii,34798,species,Diplodus vulgaris,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+299263,2024-07-15,2024-07-15,2024-07-14,13:25:00,chromista,253945,species,Halopteris scoparia,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Sphacelariales,Stypocaulaceae,Halopteris
+299262,2024-07-15,2024-07-15,2024-07-14,13:25:00,echinodermata,240406,species,Arbacia lixula,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Echinodermata,Echinoidea,Arbacioida,Arbaciidae,Arbacia
+299261,2024-07-15,2024-07-15,2024-07-14,13:25:00,mollusca,53500,species,Stramonita haemastoma,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Neogastropoda,Muricidae,Stramonita
+299260,2024-07-15,2024-07-15,2024-07-14,13:25:00,plantae,64,phylum,Rhodophyta,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Plantae,,,,,
+299258,2024-07-15,2024-07-15,2024-07-14,13:25:00,actinopterygii,35194,species,Thalassoma pavo,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
+299257,2024-07-15,2024-07-15,2024-07-14,13:25:00,actinopterygii,35178,species,Parablennius incognitus,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+299256,2024-07-15,2024-07-15,2024-07-14,13:25:00,plantae,244209,species,Derbesia tenuissima,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Plantae,Chlorophyta,Bryopsidophyceae,Bryopsidales,Derbesiaceae,Derbesia
+299255,2024-07-15,2024-07-15,2024-07-14,13:25:00,,16,kingdom,Chromista,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+299254,2024-07-15,2024-07-15,2024-07-14,13:25:00,cnidaria,254144,species,Aiptasia couchi,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Aiptasiidae,Aiptasia
+299253,2024-07-15,2024-07-15,2024-07-14,13:25:00,aves,257383,species,Gulosus aristotelis,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Aves,Ciconiiformes,Phalacrocoracidae,
+299252,2024-07-15,2024-07-15,2024-07-14,13:25:00,plantae,35123,species,Ellisolandia elongata,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,Ellisolandia
+299251,2024-07-15,2024-07-15,2024-07-14,13:25:00,actinopterygii,35194,species,Thalassoma pavo,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
+299249,2024-07-15,2024-07-15,2024-07-14,13:25:00,actinopterygii,35178,species,Parablennius incognitus,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+299247,2024-07-15,2024-07-15,2024-07-14,13:25:00,actinopterygii,12553,species,Diplodus sargus,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+299246,2024-07-15,2024-07-15,2024-07-14,13:25:00,actinopterygii,35194,species,Thalassoma pavo,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
+299244,2024-07-15,2024-07-15,2024-07-14,13:25:00,aves,257383,species,Gulosus aristotelis,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Aves,Ciconiiformes,Phalacrocoracidae,
+299243,2024-07-15,2024-07-15,2024-07-14,13:25:00,actinopterygii,35194,species,Thalassoma pavo,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
+299242,2024-07-15,2024-07-15,2024-07-14,13:25:00,actinopterygii,12553,species,Diplodus sargus,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+299241,2024-07-15,2024-07-15,2024-07-14,13:25:00,actinopterygii,35194,species,Thalassoma pavo,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
+299240,2024-07-15,2024-07-15,2024-07-14,13:25:00,actinopterygii,35225,species,Chromis chromis,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
+299239,2024-07-15,2024-07-15,2024-07-14,13:25:00,bryozoa,244238,species,Amathia verticillata,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Bryozoa,Gymnolaemata,Ctenostomatida,Vesiculariidae,Amathia
+299238,2024-07-15,2024-07-15,2024-07-14,13:25:00,actinopterygii,35194,species,Thalassoma pavo,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
+299236,2024-07-15,2024-07-15,2024-07-14,13:25:00,mollusca,248495,species,Mytilus galloprovincialis,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,Mytilus
+299235,2024-07-15,2024-07-15,2024-07-14,13:25:00,actinopterygii,35125,species,Mullus surmuletus,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Mullidae,Mullus
+299234,2024-07-15,2024-07-15,2024-07-14,13:25:00,actinopterygii,35244,species,Parablennius sanguinolentus,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+299233,2024-07-15,2024-07-15,2024-07-14,13:25:00,,16,kingdom,Chromista,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
+299232,2024-07-15,2024-07-15,2024-07-14,13:25:00,actinopterygii,34847,species,Gobius cobitis,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Gobius
+299231,2024-07-15,2024-07-15,2024-07-14,13:25:00,plantae,18129,genus,Ulva,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Plantae,Chlorophyta,Ulvophyceae,Ulvales,Ulvaceae,
+299230,2024-07-15,2024-07-15,2024-07-14,13:25:00,mollusca,14784,genus,Patella,41.4382259785,2.2458294712,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Patellogastropoda,Patellidae,
+299229,2024-07-15,2024-07-15,2024-07-06,13:21:00,actinopterygii,35194,species,Thalassoma pavo,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
+299228,2024-07-15,2024-07-15,2024-07-06,13:21:00,actinopterygii,2257,family,Mugilidae,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Mugiliformes,,
+299227,2024-07-15,2024-07-15,2024-07-06,13:21:00,chromista,2847,family,Dictyotaceae,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,,
+299225,2024-07-15,2024-07-15,2024-07-06,13:21:00,actinopterygii,250657,species,Sphyraena viridensis,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sphyraenidae,Sphyraena
+299224,2024-07-15,2024-07-15,2024-07-06,13:21:00,actinopterygii,35213,species,Diplodus puntazzo,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+299222,2024-07-15,2024-07-15,2024-07-06,13:21:00,actinopterygii,34798,species,Diplodus vulgaris,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+299221,2024-07-15,2024-07-15,2024-07-06,13:21:00,actinopterygii,34798,species,Diplodus vulgaris,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+299219,2024-07-15,2024-07-15,2024-07-06,13:21:00,mollusca,53500,species,Stramonita haemastoma,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Neogastropoda,Muricidae,Stramonita
+299218,2024-07-15,2024-07-15,2024-07-06,13:21:00,actinopterygii,35250,species,Parablennius pilicornis,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+299217,2024-07-15,2024-07-15,2024-07-06,13:21:00,plantae,625,order,Corallinales,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Plantae,Rhodophyta,Florideophyceae,,,
+299216,2024-07-15,2024-07-15,2024-07-06,13:21:00,actinopterygii,240400,species,Oblada melanura,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Oblada
+299215,2024-07-15,2024-07-15,2024-07-06,13:21:00,actinopterygii,35125,species,Mullus surmuletus,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Mullidae,Mullus
+299211,2024-07-15,2024-07-15,2024-07-06,13:21:00,actinopterygii,35194,species,Thalassoma pavo,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
+299209,2024-07-15,2024-07-15,2024-07-06,13:21:00,actinopterygii,34805,species,Sarpa salpa,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
+299207,2024-07-15,2024-07-15,2024-07-06,13:21:00,chromista,2847,family,Dictyotaceae,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,,
+299206,2024-07-15,2024-07-15,2024-07-06,13:21:00,cnidaria,35206,species,Rhizostoma pulmo,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Cnidaria,Scyphozoa,Rhizostomeae,Rhizostomatidae,Rhizostoma
+299204,2024-07-15,2024-07-15,2024-07-06,13:21:00,actinopterygii,34805,species,Sarpa salpa,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
+299203,2024-07-15,2024-07-15,2024-07-06,13:21:00,actinopterygii,34805,species,Sarpa salpa,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
+299202,2024-07-15,2024-07-15,2024-07-06,13:21:00,actinopterygii,35216,species,Symphodus tinca,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
+299201,2024-07-15,2024-07-15,2024-07-06,13:21:00,chromista,2847,family,Dictyotaceae,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,,
+299200,2024-07-15,2024-07-15,2024-07-06,13:21:00,cnidaria,34999,species,Actinia mediterranea,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Actinia
+299199,2024-07-15,2024-07-15,2024-07-06,13:21:00,actinopterygii,35194,species,Thalassoma pavo,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
+299198,2024-07-15,2024-07-15,2024-07-06,13:21:00,chromista,2847,family,Dictyotaceae,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,,
+299197,2024-07-15,2024-07-15,2024-07-06,13:21:00,actinopterygii,35213,species,Diplodus puntazzo,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+299196,2024-07-15,2024-07-15,2024-07-06,13:21:00,actinopterygii,34986,species,Symphodus roissali,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
+299195,2024-07-15,2024-07-15,2024-07-06,13:21:00,actinopterygii,35178,species,Parablennius incognitus,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+299194,2024-07-15,2024-07-15,2024-07-06,13:21:00,actinopterygii,35040,genus,Symphodus,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,
+299193,2024-07-15,2024-07-15,2024-07-06,13:21:00,chromista,253945,species,Halopteris scoparia,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Sphacelariales,Stypocaulaceae,Halopteris
+299192,2024-07-15,2024-07-15,2024-07-06,13:21:00,actinopterygii,35225,species,Chromis chromis,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
+299191,2024-07-15,2024-07-15,2024-07-06,13:21:00,actinopterygii,35225,species,Chromis chromis,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
+299190,2024-07-15,2024-07-15,2024-07-06,13:21:00,actinopterygii,34798,species,Diplodus vulgaris,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+299189,2024-07-15,2024-07-15,2024-07-06,13:21:00,actinopterygii,35194,species,Thalassoma pavo,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
+299188,2024-07-15,2024-07-15,2024-07-06,13:21:00,mollusca,34875,species,Hexaplex trunculus,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Neogastropoda,Muricidae,Hexaplex
+299187,2024-07-15,2024-07-15,2024-07-06,13:21:00,actinopterygii,35194,species,Thalassoma pavo,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
+299186,2024-07-15,2024-07-15,2024-07-06,13:21:00,chromista,2847,family,Dictyotaceae,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,,
+299185,2024-07-15,2024-07-15,2024-07-06,13:21:00,actinopterygii,35194,species,Thalassoma pavo,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
+299183,2024-07-15,2024-07-15,2024-07-06,13:21:00,actinopterygii,240399,species,Tripterygion tripteronotum,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Tripterygiidae,Tripterygion
+299182,2024-07-15,2024-07-15,2024-07-06,13:21:00,chromista,2847,family,Dictyotaceae,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,,
+299181,2024-07-15,2024-07-15,2024-07-06,13:21:00,plantae,64,phylum,Rhodophyta,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Plantae,,,,,
+299180,2024-07-15,2024-07-15,2024-07-06,13:21:00,chromista,35541,genus,Dictyota,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,
+299179,2024-07-15,2024-07-15,2024-07-06,13:21:00,actinopterygii,34986,species,Symphodus roissali,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
+299178,2024-07-15,2024-07-15,2024-07-06,13:21:00,actinopterygii,14256,genus,Sphyraena,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sphyraenidae,
+299177,2024-07-15,2024-07-15,2024-07-06,13:21:00,mollusca,253209,species,Phorcus turbinatus,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Trochida,Trochidae,Phorcus
+299176,2024-07-15,2024-07-15,2024-07-06,13:21:00,actinopterygii,35213,species,Diplodus puntazzo,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+299175,2024-07-15,2024-07-15,2024-07-06,13:21:00,actinopterygii,91462,genus,Chelon,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Mugiliformes,Mugilidae,
+299174,2024-07-15,2024-07-15,2024-07-06,13:21:00,plantae,64,phylum,Rhodophyta,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Plantae,,,,,
+299173,2024-07-15,2024-07-15,2024-07-06,13:21:00,plantae,9529,genus,Lithophyllum,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,
+299172,2024-07-15,2024-07-15,2024-07-06,13:21:00,plantae,64,phylum,Rhodophyta,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Plantae,,,,,
+299170,2024-07-15,2024-07-15,2024-07-06,13:21:00,chromista,35541,genus,Dictyota,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,
+299169,2024-07-15,2024-07-15,2024-07-06,13:21:00,chromista,35106,species,Padina pavonica,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
+299168,2024-07-15,2024-07-15,2024-07-06,13:21:00,actinopterygii,35125,species,Mullus surmuletus,41.3814671331,2.1965609525,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Mullidae,Mullus
 298982,2024-07-15,2024-07-15,2024-06-29,06:43:00,mammalia,251479,species,Stenella coeruleoalba,41.2874455065,2.1070705853,False,Platja de can Camins,research,15,mediambient_ajelprat,cc-by-nc,2,0,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,
 298747,2024-07-14,2024-07-15,2024-07-06,10:31:00,cnidaria,35206,species,Rhizostoma pulmo,41.4522382164,2.2577964832,False,Badalona,research,147,gregoribdn,cc-by-nc,1,0,Animalia,Cnidaria,Scyphozoa,Rhizostomeae,Rhizostomatidae,Rhizostoma
 298746,2024-07-14,2024-07-14,2024-07-12,10:28:00,cnidaria,35206,species,Rhizostoma pulmo,41.5486626601,2.4805256472,False,Reciclauto,research,147,gregoribdn,cc-by-nc,1,0,Animalia,Cnidaria,Scyphozoa,Rhizostomeae,Rhizostomatidae,Rhizostoma
@@ -399,6 +375,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 297926,2024-07-14,2024-07-14,2024-07-09,07:39:00,mollusca,253345,species,Tritia corniculum,41.4099665664,2.2273263042,False,Zona de Banys Fòrum,research,16,guillermoalvarez_fecdas,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Neogastropoda,Nassariidae,Tritia
 297925,2024-07-14,2024-07-14,2024-07-09,07:39:00,plantae,246914,species,Asparagopsis taxiformis,41.4099665664,2.2273263042,False,Zona de Banys Fòrum,research,16,guillermoalvarez_fecdas,cc-by-nc,1,0,Plantae,Rhodophyta,Florideophyceae,Bonnemaisoniales,Bonnemaisoniaceae,Asparagopsis
 297924,2024-07-14,2024-07-14,2024-07-09,07:39:00,mollusca,245061,species,Anomia ephippium,41.4099665664,2.2273263042,False,Zona de Banys Fòrum,research,16,guillermoalvarez_fecdas,cc-by-nc,1,0,Animalia,Mollusca,Bivalvia,Ostreoida,Anomiidae,Anomia
+297923,2024-07-14,2024-07-14,2024-07-09,07:38:00,plantae,244641,species,Lithophyllum incrustans,41.4099665664,2.2273263042,False,Zona de Banys Fòrum,research,16,guillermoalvarez_fecdas,cc-by-nc,1,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,Lithophyllum
 297922,2024-07-14,2024-07-14,2024-07-09,07:38:00,,248096,species,Calcinus tubularis,41.4099665664,2.2273263042,False,Zona de Banys Fòrum,research,16,guillermoalvarez_fecdas,cc-by-nc,1,0,Animalia,Arthropoda,Malacostraca,Decapoda,Diogenidae,Calcinus
 297921,2024-07-14,2024-07-14,2024-07-09,07:38:00,mollusca,138559,species,Rocellaria dubia,41.4099665664,2.2273263042,False,Zona de Banys Fòrum,research,16,guillermoalvarez_fecdas,cc-by-nc,1,0,Animalia,Mollusca,Bivalvia,,Gastrochaenidae,Rocellaria
 297920,2024-07-14,2024-07-14,2024-07-09,07:38:00,plantae,244641,species,Lithophyllum incrustans,41.4099665664,2.2273263042,False,Zona de Banys Fòrum,research,16,guillermoalvarez_fecdas,cc-by-nc,1,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,Lithophyllum
@@ -799,6 +776,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 295757,2024-07-10,2024-07-10,2024-07-06,08:48:00,actinopterygii,34986,species,Symphodus roissali,41.3768066,2.1933419635,False,"Sant Miquel, Ciutat Vella, Barcelona, España",research,175,eloi_sanz,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
 295756,2024-07-10,2024-07-10,2024-07-06,09:15:00,actinopterygii,35250,species,Parablennius pilicornis,41.3766780124,2.1932078544,False,"Sant Miquel, Ciutat Vella, Barcelona, España",research,175,eloi_sanz,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
 295755,2024-07-10,2024-07-10,2024-07-06,08:27:00,actinopterygii,35250,species,Parablennius pilicornis,41.3764376087,2.193073742,False,"Sant Miquel, Ciutat Vella, Barcelona, España",research,175,eloi_sanz,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+295753,2024-07-10,2024-07-10,2024-07-06,07:50:00,actinopterygii,12553,species,Diplodus sargus,41.3783585318,2.1928317636,False,"La Barceloneta, Ciutat Vella, Barcelona, España",research,4746,manuel,cc-by,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
 295752,2024-07-10,2024-07-10,2024-07-06,08:34:00,actinopterygii,34986,species,Symphodus roissali,41.3790884891,2.193421207,False,Spain,research,4746,manuel,cc-by,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
 295751,2024-07-10,2024-07-10,2024-07-06,09:17:00,actinopterygii,34805,species,Sarpa salpa,41.3782571129,2.1926742268,False,"La Barceloneta, Ciutat Vella, Barcelona, España",research,4746,manuel,cc-by,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
 295750,2024-07-10,2024-07-11,2024-07-06,09:05:00,actinopterygii,250657,species,Sphyraena viridensis,41.3783645282,2.1927773961,False,"La Barceloneta, Ciutat Vella, Barcelona, España",research,4746,manuel,cc-by,3,1,Animalia,Chordata,Actinopterygii,Perciformes,Sphyraenidae,Sphyraena
