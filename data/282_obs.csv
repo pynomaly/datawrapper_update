@@ -2,7 +2,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 303111,2024-07-18,2024-07-18,2024-07-18,16:30:00,actinopterygii,3,class,Actinopterygii,41.4920855697,2.37365441,False,,needs_id,1244,meri,cc-by,0,0,Animalia,Chordata,,,,
 303110,2024-07-18,2024-07-18,2024-07-18,16:29:00,plantae,64,phylum,Rhodophyta,41.4921187198,2.3736812321,False,,needs_id,1244,meri,cc-by,0,0,Plantae,,,,,
 303109,2024-07-18,2024-07-18,2024-07-18,16:28:00,actinopterygii,240401,genus,Oblada,41.4920293148,2.3737026897,False,,needs_id,1244,meri,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,
-303108,2024-07-18,2024-07-18,2024-07-18,16:24:00,actinopterygii,240400,species,Oblada melanura,41.4920373512,2.37365441,False,,needs_id,1244,meri,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Oblada
+303108,2024-07-18,2024-07-18,2024-07-18,16:24:00,actinopterygii,240400,species,Oblada melanura,41.4920373512,2.37365441,False,,research,1244,meri,cc-by,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Oblada
 303107,2024-07-18,2024-07-18,2024-07-18,16:24:00,actinopterygii,3,class,Actinopterygii,41.4920694968,2.3736329523,False,,needs_id,1244,meri,cc-by,0,0,Animalia,Chordata,,,,
 303106,2024-07-18,2024-07-18,2024-07-18,16:22:00,actinopterygii,240401,genus,Oblada,41.4920855697,2.3737281707,False,,needs_id,1244,meri,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,
 303105,2024-07-18,2024-07-18,2024-07-18,16:22:00,actinopterygii,240401,genus,Oblada,41.4920584468,2.3736865965,False,,needs_id,1244,meri,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,
