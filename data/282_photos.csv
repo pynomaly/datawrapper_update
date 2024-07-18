@@ -1,9 +1,9 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
 302384,404532,actinopterygii,Chromis chromis,https://minka-sdg.org/attachments/local_photos/files/404532/medium.jpeg,eroci,41.4099007476,2.2273669915,cc-by,"(c) eroci, some rights reserved (CC BY)",302384_404532.jpg
-302383,404531,actinopterygii,Mugil cephalus,https://minka-sdg.org/attachments/local_photos/files/404531/medium.jpeg,eroci,41.4099007476,2.2273669915,cc-by,"(c) eroci, some rights reserved (CC BY)",302383_404531.jpg
-302382,404530,,,https://minka-sdg.org/attachments/local_photos/files/404530/medium.jpeg,eroci,41.4099007476,2.2273669915,cc-by,"(c) eroci, some rights reserved (CC BY)",302382_404530.jpg
+302383,404531,actinopterygii,Mugilidae,https://minka-sdg.org/attachments/local_photos/files/404531/medium.jpeg,eroci,41.4099007476,2.2273669915,cc-by,"(c) eroci, some rights reserved (CC BY)",302383_404531.jpg
+302382,404530,bryozoa,Amathia verticillata,https://minka-sdg.org/attachments/local_photos/files/404530/medium.jpeg,eroci,41.4099007476,2.2273669915,cc-by,"(c) eroci, some rights reserved (CC BY)",302382_404530.jpg
 302381,404529,actinopterygii,Sarpa salpa,https://minka-sdg.org/attachments/local_photos/files/404529/medium.jpeg,eroci,41.4099007476,2.2273669915,cc-by,"(c) eroci, some rights reserved (CC BY)",302381_404529.jpg
-302380,404528,crustacea,Amphibalanus amphitrite,https://minka-sdg.org/attachments/local_photos/files/404528/medium.jpeg,eroci,41.4099007476,2.2273669915,cc-by,"(c) eroci, some rights reserved (CC BY)",302380_404528.jpg
+302380,404528,crustacea,Balanomorpha,https://minka-sdg.org/attachments/local_photos/files/404528/medium.jpeg,eroci,41.4099007476,2.2273669915,cc-by,"(c) eroci, some rights reserved (CC BY)",302380_404528.jpg
 302379,404527,echinodermata,Echinoidea,https://minka-sdg.org/attachments/local_photos/files/404527/medium.jpeg,martinacm,41.4546084916,2.2615914447,C,"(c) Martina Cholbi, all rights reserved",302379_404527.jpg
 302256,404434,actinopterygii,Serranus scriba,https://minka-sdg.org/attachments/local_photos/files/404434/medium.jpeg,guillermoalvarez_fecdas,41.5252620157,2.4519503778,cc-by-nc,"(c) Guillermo Alvarez Lerma, some rights reserved (CC BY-NC)",302256_404434.jpg
 302255,404432,actinopterygii,Symphodus ocellatus,https://minka-sdg.org/attachments/local_photos/files/404432/medium.jpeg,guillermoalvarez_fecdas,41.5252620157,2.4519503778,cc-by-nc,"(c) Guillermo Alvarez Lerma, some rights reserved (CC BY-NC)",302255_404432.jpg
