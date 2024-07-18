@@ -1,4 +1,6 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+303093,405512,mollusca,Octopus vulgaris,https://minka-sdg.org/attachments/local_photos/files/405512/medium.png,jordifors,41.5789341171,2.564606947,cc-by,"(c) Jordi Jordi, some rights reserved (CC BY)",303093_405512.jpg
+303092,405510,actinopterygii,Belone belone,https://minka-sdg.org/attachments/local_photos/files/405510/medium.png,jordifors,41.5788125498,2.5653368692,cc-by,"(c) Jordi Jordi, some rights reserved (CC BY)",303092_405510.jpg
 302892,405289,cnidaria,Rhizostoma pulmo,https://minka-sdg.org/attachments/local_photos/files/405289/medium.jpeg,badosa,41.6063065072,2.6458022593,cc-by-nc,"(c) Enric Badosa, some rights reserved (CC BY-NC)",302892_405289.jpg
 302892,405290,cnidaria,Rhizostoma pulmo,https://minka-sdg.org/attachments/local_photos/files/405290/medium.jpeg,badosa,41.6063065072,2.6458022593,cc-by-nc,"(c) Enric Badosa, some rights reserved (CC BY-NC)",302892_405290.jpg
 302892,405288,cnidaria,Rhizostoma pulmo,https://minka-sdg.org/attachments/local_photos/files/405288/medium.jpeg,badosa,41.6063065072,2.6458022593,cc-by-nc,"(c) Enric Badosa, some rights reserved (CC BY-NC)",302892_405288.jpg
@@ -787,7 +789,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 299918,401347,actinopterygii,Parablennius pilicornis,https://minka-sdg.org/attachments/local_photos/files/401347/medium.jpeg,martinacm,41.3772252345,2.1933759384,C,"(c) Martina Cholbi, all rights reserved",299918_401347.jpg
 299917,401345,actinopterygii,Parablennius pilicornis,https://minka-sdg.org/attachments/local_photos/files/401345/medium.jpeg,martinacm,41.3772252345,2.1933759384,C,"(c) Martina Cholbi, all rights reserved",299917_401345.jpg
 299916,401344,actinopterygii,Parablennius pilicornis,https://minka-sdg.org/attachments/local_photos/files/401344/medium.jpeg,martinacm,41.3772252345,2.1933759384,C,"(c) Martina Cholbi, all rights reserved",299916_401344.jpg
-299915,401342,actinopterygii,Symphodus,https://minka-sdg.org/attachments/local_photos/files/401342/medium.jpeg,martinacm,41.3772252345,2.1933759384,C,"(c) Martina Cholbi, all rights reserved",299915_401342.jpg
+299915,401342,actinopterygii,Symphodus melops,https://minka-sdg.org/attachments/local_photos/files/401342/medium.jpeg,martinacm,41.3772252345,2.1933759384,C,"(c) Martina Cholbi, all rights reserved",299915_401342.jpg
 299914,401341,actinopterygii,Thalassoma pavo,https://minka-sdg.org/attachments/local_photos/files/401341/medium.jpeg,martinacm,41.3772252345,2.1933759384,C,"(c) Martina Cholbi, all rights reserved",299914_401341.jpg
 299913,401340,actinopterygii,Mullus barbatus,https://minka-sdg.org/attachments/local_photos/files/401340/medium.jpeg,martinacm,41.3772252345,2.1933759384,C,"(c) Martina Cholbi, all rights reserved",299913_401340.jpg
 299912,401339,actinopterygii,Parablennius pilicornis,https://minka-sdg.org/attachments/local_photos/files/401339/medium.jpeg,martinacm,41.3772252345,2.1933759384,C,"(c) Martina Cholbi, all rights reserved",299912_401339.jpg
