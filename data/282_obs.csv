@@ -1,4 +1,6 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+303527,2024-07-19,2024-07-19,2024-07-19,13:51:00,,nan,,,41.2644696585,1.9590521905,False,,needs_id,5182,polok9v,cc-by,0,0,,,,,,
+303525,2024-07-19,2024-07-19,2024-07-19,13:51:00,,nan,,,41.2644556585,1.9590381905,False,,needs_id,5182,polok9v,cc-by,0,0,,,,,,
 303522,2024-07-19,2024-07-19,2024-07-18,20:07:00,,nan,,,41.5296796036,2.4349609588,False,Spain,needs_id,217,eminguez,cc-by-nc,0,0,,,,,,
 303521,2024-07-19,2024-07-19,2024-07-18,20:07:00,mollusca,146561,species,Tayuva lilacina,41.5296766036,2.4349579588,False,Spain,needs_id,217,eminguez,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Discodorididae,Tayuva
 303419,2024-07-19,2024-07-19,2024-07-17,09:03:00,actinopterygii,34796,species,Scorpaena notata,41.5348560374,2.4791840474,False,,needs_id,623,jalaball,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,Scorpaena
