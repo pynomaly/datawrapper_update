@@ -4,7 +4,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 304225,2024-07-20,2024-07-20,2024-07-15,14:09:00,actinopterygii,35244,species,Parablennius sanguinolentus,40.846718,0.755042,False,,research,908,annacanela,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
 304224,2024-07-20,2024-07-20,2024-07-15,14:09:00,actinopterygii,35114,species,Salaria pavo,40.846716,0.755017,False,,research,908,annacanela,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Salaria
 304223,2024-07-20,2024-07-20,2024-07-15,14:13:00,,16,kingdom,Chromista,40.846705,0.754942,False,,needs_id,908,annacanela,cc-by-nc,1,0,,,,,,
-304222,2024-07-20,2024-07-20,2024-07-15,14:14:00,,2406,family,Sargassaceae,40.846703,0.755121,False,,needs_id,908,annacanela,cc-by-nc,2,0,Chromista,Ochrophyta,Phaeophyceae,Fucales,,
+304222,2024-07-20,2024-07-20,2024-07-15,14:14:00,,243545,species,Cystoseira compressa,40.846703,0.755121,False,,research,908,annacanela,cc-by-nc,1,0,Chromista,Ochrophyta,Phaeophyceae,Fucales,Sargassaceae,Cystoseira
 304221,2024-07-20,2024-07-20,2024-07-15,14:18:00,mollusca,251581,species,Steromphala divaricata,40.846739,0.755012,False,,research,908,annacanela,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Trochida,Trochidae,Steromphala
 304220,2024-07-20,2024-07-20,2024-07-15,14:18:00,mollusca,35107,species,Patella caerulea,40.846718,0.755037,False,,research,908,annacanela,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Patellogastropoda,Patellidae,Patella
 304219,2024-07-20,2024-07-20,2024-07-15,14:18:00,cnidaria,35220,species,Anemonia viridis,40.846708,0.755047,False,,research,908,annacanela,cc-by-nc,1,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Anemonia

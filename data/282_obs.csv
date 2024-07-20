@@ -1,4 +1,13 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+304293,2024-07-20,2024-07-20,2024-07-20,16:32:00,,nan,,,41.370511939,2.1915954366,False,"Acceso por playa, Passeig del Mare Nostrum, 14, 08039 Barcelona, España",needs_id,306,jaume,cc-by-nc,0,0,,,,,,
+304292,2024-07-20,2024-07-20,2024-07-20,16:32:00,,nan,,,41.370511939,2.1915954366,False,"Acceso por playa, Passeig del Mare Nostrum, 14, 08039 Barcelona, España",needs_id,306,jaume,cc-by-nc,0,0,,,,,,
+304291,2024-07-20,2024-07-20,2024-07-20,16:32:00,,nan,,,41.370511939,2.1915954366,False,"Acceso por playa, Passeig del Mare Nostrum, 14, 08039 Barcelona, España",needs_id,306,jaume,cc-by-nc,0,0,,,,,,
+304290,2024-07-20,2024-07-20,2024-07-20,16:32:00,,nan,,,41.370511939,2.1915954366,False,"Acceso por playa, Passeig del Mare Nostrum, 14, 08039 Barcelona, España",needs_id,306,jaume,cc-by-nc,0,0,,,,,,
+304289,2024-07-20,2024-07-20,2024-07-20,16:32:00,,nan,,,41.370511939,2.1915954366,False,"Acceso por playa, Passeig del Mare Nostrum, 14, 08039 Barcelona, España",needs_id,306,jaume,cc-by-nc,0,0,,,,,,
+304288,2024-07-20,2024-07-20,2024-07-20,16:32:00,,nan,,,41.370511939,2.1915954366,False,"Acceso por playa, Passeig del Mare Nostrum, 14, 08039 Barcelona, España",needs_id,306,jaume,cc-by-nc,0,0,,,,,,
+304287,2024-07-20,2024-07-20,2024-07-20,16:32:00,,nan,,,41.370511939,2.1915954366,False,"Acceso por playa, Passeig del Mare Nostrum, 14, 08039 Barcelona, España",needs_id,306,jaume,cc-by-nc,0,0,,,,,,
+304286,2024-07-20,2024-07-20,2024-07-20,16:32:00,,nan,,,41.370511939,2.1915954366,False,"Acceso por playa, Passeig del Mare Nostrum, 14, 08039 Barcelona, España",needs_id,306,jaume,cc-by-nc,0,0,,,,,,
+304285,2024-07-20,2024-07-20,2024-07-20,16:32:00,,nan,,,41.370511939,2.1915954366,False,"Acceso por playa, Passeig del Mare Nostrum, 14, 08039 Barcelona, España",needs_id,306,jaume,cc-by-nc,0,0,,,,,,
 304253,2024-07-20,2024-07-20,2024-07-20,13:58:00,plantae,12,kingdom,Plantae,41.4028726937,2.2176835535,False,Spain,needs_id,180,ngoncubells,cc-by-nc,0,0,,,,,,
 304252,2024-07-20,2024-07-20,2024-07-20,07:19:00,actinopterygii,12553,species,Diplodus sargus,41.3702723621,2.193241978,False,Spain,research,556,nereavieitez,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
 304251,2024-07-20,2024-07-20,2024-07-20,07:18:00,actinopterygii,35125,species,Mullus surmuletus,41.3702914844,2.1931936982,False,Spain,research,556,nereavieitez,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Mullidae,Mullus
