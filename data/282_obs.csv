@@ -1,8 +1,8 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
 304019,2024-07-20,2024-07-20,2024-07-17,08:37:00,actinopterygii,35250,species,Parablennius pilicornis,41.5317164889,2.4848846528,False,,needs_id,623,jalaball,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
-304018,2024-07-20,2024-07-20,2024-07-19,08:33:00,,nan,,,41.3987221214,2.2150818631,False,Spain,needs_id,918,davidtsh,cc0,0,0,,,,,,
-304017,2024-07-20,2024-07-20,2024-07-19,08:01:00,,nan,,,41.3994419083,2.2150848806,False,Spain,needs_id,918,davidtsh,cc0,0,0,,,,,,
-304013,2024-07-20,2024-07-20,2024-07-19,07:55:00,,nan,,,41.3994899441,2.215006426,False,Spain,needs_id,918,davidtsh,cc0,0,0,,,,,,
+304018,2024-07-20,2024-07-20,2024-07-19,08:33:00,cnidaria,252904,species,Pelagia noctiluca,41.3987221214,2.2150818631,False,Spain,needs_id,918,davidtsh,cc0,0,0,Animalia,Cnidaria,Scyphozoa,Semaeostomeae,Pelagiidae,Pelagia
+304017,2024-07-20,2024-07-20,2024-07-19,08:01:00,actinopterygii,35225,species,Chromis chromis,41.3994419083,2.2150848806,False,Spain,needs_id,918,davidtsh,cc0,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
+304013,2024-07-20,2024-07-20,2024-07-19,07:55:00,actinopterygii,240399,species,Tripterygion tripteronotum,41.3994899441,2.215006426,False,Spain,needs_id,918,davidtsh,cc0,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Tripterygiidae,Tripterygion
 303950,2024-07-20,2024-07-20,2024-07-19,17:30:00,,nan,,,41.4098299289,2.227399399,False,"Carrer Port Esportiu, 1P, 08930, Barcelona, España",needs_id,1038,rickydiving,cc-by-nc,0,0,,,,,,
 303949,2024-07-20,2024-07-20,2024-07-19,17:30:00,,nan,,,41.4098299289,2.227399399,False,"Carrer Port Esportiu, 1P, 08930, Barcelona, España",needs_id,1038,rickydiving,cc-by-nc,0,0,,,,,,
 303948,2024-07-20,2024-07-20,2024-07-19,17:30:00,,nan,,,41.4098299289,2.227399399,False,"Carrer Port Esportiu, 1P, 08930, Barcelona, España",needs_id,1038,rickydiving,cc-by-nc,0,0,,,,,,
