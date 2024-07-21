@@ -1,14 +1,18 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+304555,407185,actinopterygii,Symphodus ocellatus,https://minka-sdg.org/attachments/local_photos/files/407185/medium.png,urti,40.8865596406,0.8087322861,cc-by,"(c) Jaime, some rights reserved (CC BY)",304555_407185.jpg
+304554,407184,life,Life,https://minka-sdg.org/attachments/local_photos/files/407184/medium.png,urti,40.8849712742,0.8106409723,cc-by,"(c) Jaime, some rights reserved (CC BY)",304554_407184.jpg
+304553,407182,,,https://minka-sdg.org/attachments/local_photos/files/407182/medium.png,urti,40.8849642742,0.8106339723,cc-by,"(c) Jaime, some rights reserved (CC BY)",304553_407182.jpg
+304553,407183,,,https://minka-sdg.org/attachments/local_photos/files/407183/medium.png,urti,40.8849642742,0.8106339723,cc-by,"(c) Jaime, some rights reserved (CC BY)",304553_407183.jpg
 304552,407181,,,https://minka-sdg.org/attachments/local_photos/files/407181/medium.jpg,ramonservitje,41.1743674874,1.5094473961,cc-by-nc,"(c) ramonservitje, some rights reserved (CC BY-NC)",304552_407181.jpg
 304551,407180,,,https://minka-sdg.org/attachments/local_photos/files/407180/medium.jpg,ramonservitje,41.1743674874,1.5094473961,cc-by-nc,"(c) ramonservitje, some rights reserved (CC BY-NC)",304551_407180.jpg
-304550,407179,,,https://minka-sdg.org/attachments/local_photos/files/407179/medium.jpg,ramonservitje,41.1743674874,1.5094473961,cc-by-nc,"(c) ramonservitje, some rights reserved (CC BY-NC)",304550_407179.jpg
+304550,407179,actinopterygii,Lithognathus mormyrus,https://minka-sdg.org/attachments/local_photos/files/407179/medium.jpg,ramonservitje,41.1743674874,1.5094473961,cc-by-nc,"(c) ramonservitje, some rights reserved (CC BY-NC)",304550_407179.jpg
 304549,407178,,,https://minka-sdg.org/attachments/local_photos/files/407178/medium.jpg,ramonservitje,41.1743674874,1.5094473961,cc-by-nc,"(c) ramonservitje, some rights reserved (CC BY-NC)",304549_407178.jpg
 304548,407177,,,https://minka-sdg.org/attachments/local_photos/files/407177/medium.jpg,ramonservitje,41.1743674874,1.5094473961,cc-by-nc,"(c) ramonservitje, some rights reserved (CC BY-NC)",304548_407177.jpg
 304547,407176,,,https://minka-sdg.org/attachments/local_photos/files/407176/medium.jpg,ramonservitje,41.1743674874,1.5094473961,cc-by-nc,"(c) ramonservitje, some rights reserved (CC BY-NC)",304547_407176.jpg
 304546,407175,,,https://minka-sdg.org/attachments/local_photos/files/407175/medium.jpg,ramonservitje,41.1743674874,1.5094473961,cc-by-nc,"(c) ramonservitje, some rights reserved (CC BY-NC)",304546_407175.jpg
 304545,407174,,,https://minka-sdg.org/attachments/local_photos/files/407174/medium.jpg,ramonservitje,41.1743674874,1.5094473961,cc-by-nc,"(c) ramonservitje, some rights reserved (CC BY-NC)",304545_407174.jpg
 304544,407173,,,https://minka-sdg.org/attachments/local_photos/files/407173/medium.jpg,ramonservitje,41.1743674874,1.5094473961,cc-by-nc,"(c) ramonservitje, some rights reserved (CC BY-NC)",304544_407173.jpg
-304543,407172,,,https://minka-sdg.org/attachments/local_photos/files/407172/medium.jpg,ramonservitje,41.1743674874,1.5094473961,cc-by-nc,"(c) ramonservitje, some rights reserved (CC BY-NC)",304543_407172.jpg
+304543,407172,echinodermata,Echinaster sepositus,https://minka-sdg.org/attachments/local_photos/files/407172/medium.jpg,ramonservitje,41.1743674874,1.5094473961,cc-by-nc,"(c) ramonservitje, some rights reserved (CC BY-NC)",304543_407172.jpg
 304542,407171,,,https://minka-sdg.org/attachments/local_photos/files/407171/medium.jpg,ramonservitje,41.1743674874,1.5094473961,cc-by-nc,"(c) ramonservitje, some rights reserved (CC BY-NC)",304542_407171.jpg
 304541,407170,,,https://minka-sdg.org/attachments/local_photos/files/407170/medium.jpg,ramonservitje,41.1743674874,1.5094473961,cc-by-nc,"(c) ramonservitje, some rights reserved (CC BY-NC)",304541_407170.jpg
 304540,407169,,,https://minka-sdg.org/attachments/local_photos/files/407169/medium.jpg,ramonservitje,41.1743674874,1.5094473961,cc-by-nc,"(c) ramonservitje, some rights reserved (CC BY-NC)",304540_407169.jpg
@@ -26,7 +30,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 304528,407157,,,https://minka-sdg.org/attachments/local_photos/files/407157/medium.jpg,ramonservitje,41.1743674874,1.5094473961,cc-by-nc,"(c) ramonservitje, some rights reserved (CC BY-NC)",304528_407157.jpg
 304527,407156,,,https://minka-sdg.org/attachments/local_photos/files/407156/medium.jpg,ramonservitje,41.1743674874,1.5094473961,cc-by-nc,"(c) ramonservitje, some rights reserved (CC BY-NC)",304527_407156.jpg
 304526,407155,,,https://minka-sdg.org/attachments/local_photos/files/407155/medium.jpg,ramonservitje,41.1743674874,1.5094473961,cc-by-nc,"(c) ramonservitje, some rights reserved (CC BY-NC)",304526_407155.jpg
-304525,407154,,,https://minka-sdg.org/attachments/local_photos/files/407154/medium.png,urti,40.8858996225,0.8096844967,cc-by,"(c) Jaime, some rights reserved (CC BY)",304525_407154.jpg
+304525,407154,life,Life,https://minka-sdg.org/attachments/local_photos/files/407154/medium.png,urti,40.8858996225,0.8096844967,cc-by,"(c) Jaime, some rights reserved (CC BY)",304525_407154.jpg
 304524,407153,cnidaria,Pelagia noctiluca,https://minka-sdg.org/attachments/local_photos/files/407153/medium.png,urti,40.8858896225,0.8096744967,cc-by,"(c) Jaime, some rights reserved (CC BY)",304524_407153.jpg
 304523,407152,cnidaria,Pelagia noctiluca,https://minka-sdg.org/attachments/local_photos/files/407152/medium.png,urti,40.8858866225,0.8096714967,cc-by,"(c) Jaime, some rights reserved (CC BY)",304523_407152.jpg
 304522,407151,mollusca,Octopus vulgaris,https://minka-sdg.org/attachments/local_photos/files/407151/medium.png,urti,40.8858766225,0.8096614967,cc-by,"(c) Jaime, some rights reserved (CC BY)",304522_407151.jpg
@@ -41,7 +45,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 304514,407142,,,https://minka-sdg.org/attachments/local_photos/files/407142/medium.png,urti,40.8871126465,0.8098486215,cc-by,"(c) Jaime, some rights reserved (CC BY)",304514_407142.jpg
 304513,407141,actinopterygii,Serranus scriba,https://minka-sdg.org/attachments/local_photos/files/407141/medium.png,urti,40.8871026465,0.8098386215,cc-by,"(c) Jaime, some rights reserved (CC BY)",304513_407141.jpg
 304512,407140,,,https://minka-sdg.org/attachments/local_photos/files/407140/medium.png,urti,40.8870926465,0.8098286215,cc-by,"(c) Jaime, some rights reserved (CC BY)",304512_407140.jpg
-304511,407139,,,https://minka-sdg.org/attachments/local_photos/files/407139/medium.png,urti,40.8870896465,0.8098256215,cc-by,"(c) Jaime, some rights reserved (CC BY)",304511_407139.jpg
+304511,407139,actinopterygii,Labrus viridis,https://minka-sdg.org/attachments/local_photos/files/407139/medium.png,urti,40.8870896465,0.8098256215,cc-by,"(c) Jaime, some rights reserved (CC BY)",304511_407139.jpg
 304510,407138,actinopterygii,Muraena helena,https://minka-sdg.org/attachments/local_photos/files/407138/medium.png,urti,40.8861852627,0.8093924448,cc-by,"(c) Jaime, some rights reserved (CC BY)",304510_407138.jpg
 304490,407075,mollusca,Octopus vulgaris,https://minka-sdg.org/attachments/local_photos/files/407075/medium.jpeg,peixderoca24,40.846452157,0.7548550137,cc-by-nc,"(c) Guillem Mayor Samarra, some rights reserved (CC BY-NC)",304490_407075.jpg
 304489,407074,cnidaria,Anemonia viridis,https://minka-sdg.org/attachments/local_photos/files/407074/medium.jpeg,peixderoca24,40.846452157,0.7548550137,cc-by-nc,"(c) Guillem Mayor Samarra, some rights reserved (CC BY-NC)",304489_407074.jpg

@@ -1,14 +1,17 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+304555,2024-07-21,2024-07-21,2024-07-20,10:35:00,actinopterygii,240397,species,Symphodus ocellatus,40.8865596406,0.8087322861,False,Spain,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
+304554,2024-07-21,2024-07-21,2024-07-20,10:42:00,life,1,stateofmatter,Life,40.8849712742,0.8106409723,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+304553,2024-07-21,2024-07-21,2024-07-20,10:42:00,,nan,,,40.8849642742,0.8106339723,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
 304552,2024-07-21,2024-07-21,2024-07-20,07:44:00,,nan,,,41.1743674874,1.5094473961,False,,needs_id,6,ramonservitje,cc-by-nc,0,0,,,,,,
 304551,2024-07-21,2024-07-21,2024-07-20,07:46:00,,nan,,,41.1743674874,1.5094473961,False,,needs_id,6,ramonservitje,cc-by-nc,0,0,,,,,,
-304550,2024-07-21,2024-07-21,2024-07-20,07:50:00,,nan,,,41.1743674874,1.5094473961,False,,needs_id,6,ramonservitje,cc-by-nc,0,0,,,,,,
+304550,2024-07-21,2024-07-21,2024-07-20,07:50:00,actinopterygii,48596,species,Lithognathus mormyrus,41.1743674874,1.5094473961,False,,needs_id,6,ramonservitje,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Lithognathus
 304549,2024-07-21,2024-07-21,2024-07-20,07:51:00,,nan,,,41.1743674874,1.5094473961,False,,needs_id,6,ramonservitje,cc-by-nc,0,0,,,,,,
 304548,2024-07-21,2024-07-21,2024-07-20,07:55:00,,nan,,,41.1743674874,1.5094473961,False,,needs_id,6,ramonservitje,cc-by-nc,0,0,,,,,,
 304547,2024-07-21,2024-07-21,2024-07-20,08:01:00,,nan,,,41.1743674874,1.5094473961,False,,needs_id,6,ramonservitje,cc-by-nc,0,0,,,,,,
 304546,2024-07-21,2024-07-21,2024-07-20,07:53:00,,nan,,,41.1743674874,1.5094473961,False,,needs_id,6,ramonservitje,cc-by-nc,0,0,,,,,,
 304545,2024-07-21,2024-07-21,2024-07-20,08:33:00,,nan,,,41.1743674874,1.5094473961,False,,needs_id,6,ramonservitje,cc-by-nc,0,0,,,,,,
 304544,2024-07-21,2024-07-21,2024-07-20,08:45:00,,nan,,,41.1743674874,1.5094473961,False,,needs_id,6,ramonservitje,cc-by-nc,0,0,,,,,,
-304543,2024-07-21,2024-07-21,2024-07-20,08:42:00,,nan,,,41.1743674874,1.5094473961,False,,needs_id,6,ramonservitje,cc-by-nc,0,0,,,,,,
+304543,2024-07-21,2024-07-21,2024-07-20,08:42:00,echinodermata,35260,species,Echinaster sepositus,41.1743674874,1.5094473961,False,,needs_id,6,ramonservitje,cc-by-nc,0,0,Animalia,Echinodermata,Asteroidea,Spinulosida,Echinasteridae,Echinaster
 304542,2024-07-21,2024-07-21,2024-07-20,08:51:00,,nan,,,41.1743674874,1.5094473961,False,,needs_id,6,ramonservitje,cc-by-nc,0,0,,,,,,
 304541,2024-07-21,2024-07-21,2024-07-20,08:54:00,,nan,,,41.1743674874,1.5094473961,False,,needs_id,6,ramonservitje,cc-by-nc,0,0,,,,,,
 304540,2024-07-21,2024-07-21,2024-07-20,09:03:00,,nan,,,41.1743674874,1.5094473961,False,,needs_id,6,ramonservitje,cc-by-nc,0,0,,,,,,
@@ -26,7 +29,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 304528,2024-07-21,2024-07-21,2024-07-20,11:21:00,,nan,,,41.1743674874,1.5094473961,False,,needs_id,6,ramonservitje,cc-by-nc,0,0,,,,,,
 304527,2024-07-21,2024-07-21,2024-07-20,11:24:00,,nan,,,41.1743674874,1.5094473961,False,,needs_id,6,ramonservitje,cc-by-nc,0,0,,,,,,
 304526,2024-07-21,2024-07-21,2024-07-20,11:37:00,,nan,,,41.1743674874,1.5094473961,False,,needs_id,6,ramonservitje,cc-by-nc,0,0,,,,,,
-304525,2024-07-21,2024-07-21,2024-07-20,09:42:00,,nan,,,40.8858996225,0.8096844967,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+304525,2024-07-21,2024-07-21,2024-07-20,09:42:00,life,1,stateofmatter,Life,40.8858996225,0.8096844967,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
 304524,2024-07-21,2024-07-21,2024-07-20,09:42:00,cnidaria,252904,species,Pelagia noctiluca,40.8858896225,0.8096744967,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Cnidaria,Scyphozoa,Semaeostomeae,Pelagiidae,Pelagia
 304523,2024-07-21,2024-07-21,2024-07-20,09:42:00,cnidaria,252904,species,Pelagia noctiluca,40.8858866225,0.8096714967,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Cnidaria,Scyphozoa,Semaeostomeae,Pelagiidae,Pelagia
 304522,2024-07-21,2024-07-21,2024-07-20,09:42:00,mollusca,35075,species,Octopus vulgaris,40.8858766225,0.8096614967,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus
@@ -40,7 +43,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 304514,2024-07-21,2024-07-21,2024-07-13,16:29:00,,nan,,,40.8871126465,0.8098486215,False,Spain,needs_id,5214,urti,cc-by,0,0,,,,,,
 304513,2024-07-21,2024-07-21,2024-07-13,16:29:00,actinopterygii,13765,species,Serranus scriba,40.8871026465,0.8098386215,False,Spain,research,5214,urti,cc-by,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Serranus
 304512,2024-07-21,2024-07-21,2024-07-13,16:29:00,,nan,,,40.8870926465,0.8098286215,False,Spain,needs_id,5214,urti,cc-by,0,0,,,,,,
-304511,2024-07-21,2024-07-21,2024-07-13,16:29:00,,nan,,,40.8870896465,0.8098256215,False,Spain,needs_id,5214,urti,cc-by,0,0,,,,,,
+304511,2024-07-21,2024-07-21,2024-07-13,16:29:00,actinopterygii,240396,species,Labrus viridis,40.8870896465,0.8098256215,False,Spain,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Labrus
 304510,2024-07-21,2024-07-21,2024-07-13,11:14:00,actinopterygii,14022,species,Muraena helena,40.8861852627,0.8093924448,False,,research,5214,urti,cc-by,1,0,Animalia,Chordata,Actinopterygii,Anguilliformes,Muraenidae,Muraena
 304490,2024-07-20,2024-07-21,2024-07-20,23:59:00,mollusca,35075,species,Octopus vulgaris,40.846452157,0.7548550137,False,,research,197,peixderoca24,cc-by-nc,1,0,Animalia,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus
 304489,2024-07-20,2024-07-21,2024-07-20,00:04:00,cnidaria,35220,species,Anemonia viridis,40.846452157,0.7548550137,False,,research,197,peixderoca24,cc-by-nc,1,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Anemonia
