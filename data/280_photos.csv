@@ -1,8 +1,8 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
 304865,407579,plantae,Caulerpa prolifera,https://minka-sdg.org/attachments/local_photos/files/407579/medium.png,urti,40.8863202002,0.8086057121,cc-by,"(c) Jaime, some rights reserved (CC BY)",304865_407579.jpg
 304865,407580,plantae,Caulerpa prolifera,https://minka-sdg.org/attachments/local_photos/files/407580/medium.png,urti,40.8863202002,0.8086057121,cc-by,"(c) Jaime, some rights reserved (CC BY)",304865_407580.jpg
-304864,407577,life,Life,https://minka-sdg.org/attachments/local_photos/files/407577/medium.png,urti,40.8863132002,0.8085987121,cc-by,"(c) Jaime, some rights reserved (CC BY)",304864_407577.jpg
-304864,407578,life,Life,https://minka-sdg.org/attachments/local_photos/files/407578/medium.png,urti,40.8863132002,0.8085987121,cc-by,"(c) Jaime, some rights reserved (CC BY)",304864_407578.jpg
+304864,407577,plantae,Posidonia oceanica,https://minka-sdg.org/attachments/local_photos/files/407577/medium.png,urti,40.8863132002,0.8085987121,cc-by,"(c) Jaime, some rights reserved (CC BY)",304864_407577.jpg
+304864,407578,plantae,Posidonia oceanica,https://minka-sdg.org/attachments/local_photos/files/407578/medium.png,urti,40.8863132002,0.8085987121,cc-by,"(c) Jaime, some rights reserved (CC BY)",304864_407578.jpg
 304863,407576,cnidaria,Cladocora caespitosa,https://minka-sdg.org/attachments/local_photos/files/407576/medium.png,urti,40.8863032002,0.8085887121,cc-by,"(c) Jaime, some rights reserved (CC BY)",304863_407576.jpg
 304862,407575,actinopterygii,Symphodus,https://minka-sdg.org/attachments/local_photos/files/407575/medium.png,urti,40.8862932002,0.8085787121,cc-by,"(c) Jaime, some rights reserved (CC BY)",304862_407575.jpg
 304861,407574,actinopterygii,Symphodus tinca,https://minka-sdg.org/attachments/local_photos/files/407574/medium.png,urti,40.8862902002,0.8085757121,cc-by,"(c) Jaime, some rights reserved (CC BY)",304861_407574.jpg
