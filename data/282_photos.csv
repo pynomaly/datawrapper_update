@@ -1,4 +1,5 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+305991,408829,cnidaria,Rhizostoma,https://minka-sdg.org/attachments/local_photos/files/408829/medium.jpg,sergiov,41.2288413313,1.812964417,cc-by,"(c) sergio vega, some rights reserved (CC BY)",305991_408829.jpg
 305877,408650,crustacea,Eriphia verrucosa,https://minka-sdg.org/attachments/local_photos/files/408650/medium.jpeg,yespi,41.4095257256,2.2274281817,cc-by-nc,"(c) Gustavo Zafra, some rights reserved (CC BY-NC)",305877_408650.jpg
 305876,408649,plantae,Lithophyllum incrustans,https://minka-sdg.org/attachments/local_photos/files/408649/medium.jpeg,yespi,41.4095257256,2.2274281817,cc-by-nc,"(c) Gustavo Zafra, some rights reserved (CC BY-NC)",305876_408649.jpg
 305875,408648,actinopterygii,Sparus aurata,https://minka-sdg.org/attachments/local_photos/files/408648/medium.jpeg,yespi,41.4095257256,2.2274281817,cc-by-nc,"(c) Gustavo Zafra, some rights reserved (CC BY-NC)",305875_408648.jpg
@@ -204,7 +205,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 305660,408381,bryozoa,Schizoporella errata,https://minka-sdg.org/attachments/local_photos/files/408381/medium.jpeg,mar_avelles,41.464486711,2.2785650217,C,"(c) Sofía, all rights reserved",305660_408381.jpg
 305659,408378,actinopterygii,Serranus cabrilla,https://minka-sdg.org/attachments/local_photos/files/408378/medium.jpeg,mar_avelles,41.4644826911,2.2785113776,C,"(c) Sofía, all rights reserved",305659_408378.jpg
 305659,408379,actinopterygii,Serranus cabrilla,https://minka-sdg.org/attachments/local_photos/files/408379/medium.jpeg,mar_avelles,41.4644826911,2.2785113776,C,"(c) Sofía, all rights reserved",305659_408379.jpg
-305658,408377,actinopterygii,Parablennius,https://minka-sdg.org/attachments/local_photos/files/408377/medium.jpeg,mar_avelles,41.4644161505,2.2785542929,C,"(c) Sofía, all rights reserved",305658_408377.jpg
+305658,408377,actinopterygii,Parablennius pilicornis,https://minka-sdg.org/attachments/local_photos/files/408377/medium.jpeg,mar_avelles,41.4644161505,2.2785542929,C,"(c) Sofía, all rights reserved",305658_408377.jpg
 305657,408370,mollusca,Octopus vulgaris,https://minka-sdg.org/attachments/local_photos/files/408370/medium.jpeg,mar_avelles,41.4645086086,2.2785006487,C,"(c) Sofía, all rights reserved",305657_408370.jpg
 305657,408371,mollusca,Octopus vulgaris,https://minka-sdg.org/attachments/local_photos/files/408371/medium.jpeg,mar_avelles,41.4645086086,2.2785006487,C,"(c) Sofía, all rights reserved",305657_408371.jpg
 305657,408373,mollusca,Octopus vulgaris,https://minka-sdg.org/attachments/local_photos/files/408373/medium.jpeg,mar_avelles,41.4645086086,2.2785006487,C,"(c) Sofía, all rights reserved",305657_408373.jpg
@@ -237,7 +238,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 305449,408088,mollusca,Chamelea gallina,https://minka-sdg.org/attachments/local_photos/files/408088/medium.jpeg,jalaball,41.4122555534,2.2304164473,cc-by-nc,"(c) jalaball, some rights reserved (CC BY-NC)",305449_408088.jpg
 305449,408087,mollusca,Chamelea gallina,https://minka-sdg.org/attachments/local_photos/files/408087/medium.jpeg,jalaball,41.4122555534,2.2304164473,cc-by-nc,"(c) jalaball, some rights reserved (CC BY-NC)",305449_408087.jpg
 305448,408086,plantae,Chlorophyta,https://minka-sdg.org/attachments/local_photos/files/408086/medium.jpeg,jalaball,41.4122555534,2.2304164473,cc-by-nc,"(c) jalaball, some rights reserved (CC BY-NC)",305448_408086.jpg
-305447,408085,echinodermata,Arbacia lixula,https://minka-sdg.org/attachments/local_photos/files/408085/medium.jpeg,jalaball,41.4122555534,2.2304164473,cc-by-nc,"(c) jalaball, some rights reserved (CC BY-NC)",305447_408085.jpg
+305447,408085,echinodermata,Echinoidea,https://minka-sdg.org/attachments/local_photos/files/408085/medium.jpeg,jalaball,41.4122555534,2.2304164473,cc-by-nc,"(c) jalaball, some rights reserved (CC BY-NC)",305447_408085.jpg
 305446,408084,chromista,Dictyota dichotoma intricata,https://minka-sdg.org/attachments/local_photos/files/408084/medium.jpeg,jalaball,41.4122555534,2.2304164473,cc-by-nc,"(c) jalaball, some rights reserved (CC BY-NC)",305446_408084.jpg
 305445,408083,chromista,Dictyota dichotoma intricata,https://minka-sdg.org/attachments/local_photos/files/408083/medium.jpeg,jalaball,41.4122555534,2.2304164473,cc-by-nc,"(c) jalaball, some rights reserved (CC BY-NC)",305445_408083.jpg
 305444,408081,actinopterygii,Gobius incognitus,https://minka-sdg.org/attachments/local_photos/files/408081/medium.jpeg,jalaball,41.4122555534,2.2304164473,cc-by-nc,"(c) jalaball, some rights reserved (CC BY-NC)",305444_408081.jpg
@@ -11755,7 +11756,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 263182,352567,crustacea,Acanthonyx lunulatus,https://minka-sdg.org/attachments/local_photos/files/352567/medium.jpg,alexiaaa,41.4415566,2.2460474,cc-by,"(c) alexiaaa, some rights reserved (CC BY)",263182_352567.jpg
 263181,352565,plantae,Ulva,https://minka-sdg.org/attachments/local_photos/files/352565/medium.jpg,juligmez,41.441552,2.2468694997,cc-by,"(c) juligmez, some rights reserved (CC BY)",263181_352565.jpg
 263181,352566,plantae,Ulva,https://minka-sdg.org/attachments/local_photos/files/352566/medium.jpg,juligmez,41.441552,2.2468694997,cc-by,"(c) juligmez, some rights reserved (CC BY)",263181_352566.jpg
-263180,352564,plantae,Plantae,https://minka-sdg.org/attachments/local_photos/files/352564/medium.jpg,alexiaaa,41.4417086,2.2461882,cc-by,"(c) alexiaaa, some rights reserved (CC BY)",263180_352564.jpg
+264047,353672,actinopterygii,Coris julis,https://minka-sdg.org/attachments/local_photos/files/353672/medium.jpeg,ealcaniz,41.547670144,2.5162608748,cc-by-nc-sa,"(c) Edu Alcaniz, some rights reserved (CC BY-NC-SA)",264047_353672.jpg
 264046,353671,actinopterygii,Symphodus mediterraneus,https://minka-sdg.org/attachments/local_photos/files/353671/medium.jpeg,ealcaniz,41.547670144,2.5162608748,cc-by-nc-sa,"(c) Edu Alcaniz, some rights reserved (CC BY-NC-SA)",264046_353671.jpg
 264045,353669,mollusca,Cerithium vulgatum,https://minka-sdg.org/attachments/local_photos/files/353669/medium.jpeg,ealcaniz,41.547670144,2.5162608748,cc-by-nc-sa,"(c) Edu Alcaniz, some rights reserved (CC BY-NC-SA)",264045_353669.jpg
 264044,353670,echinodermata,Sphaerechinus granularis,https://minka-sdg.org/attachments/local_photos/files/353670/medium.jpeg,ealcaniz,41.547670144,2.5162608748,cc-by-nc-sa,"(c) Edu Alcaniz, some rights reserved (CC BY-NC-SA)",264044_353670.jpg
@@ -11973,4 +11974,3 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 263182,352567,crustacea,Acanthonyx lunulatus,https://minka-sdg.org/attachments/local_photos/files/352567/medium.jpg,alexiaaa,41.4415566,2.2460474,cc-by,"(c) alexiaaa, some rights reserved (CC BY)",263182_352567.jpg
 263181,352565,plantae,Ulva,https://minka-sdg.org/attachments/local_photos/files/352565/medium.jpg,juligmez,41.441552,2.2468694997,cc-by,"(c) juligmez, some rights reserved (CC BY)",263181_352565.jpg
 263181,352566,plantae,Ulva,https://minka-sdg.org/attachments/local_photos/files/352566/medium.jpg,juligmez,41.441552,2.2468694997,cc-by,"(c) juligmez, some rights reserved (CC BY)",263181_352566.jpg
-263180,352564,plantae,Plantae,https://minka-sdg.org/attachments/local_photos/files/352564/medium.jpg,alexiaaa,41.4417086,2.2461882,cc-by,"(c) alexiaaa, some rights reserved (CC BY)",263180_352564.jpg
