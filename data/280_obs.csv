@@ -1,4 +1,6 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+310153,2024-07-27,2024-07-27,2024-07-27,06:49:00,,nan,,,40.9252151077,0.8489848673,False,Spain,needs_id,1708,tosafre,cc-by,0,0,,,,,,
+310152,2024-07-27,2024-07-27,2024-07-27,07:20:00,,nan,,,40.9256948997,0.8487813547,False,Spain,needs_id,1708,tosafre,cc-by,0,0,,,,,,
 310094,2024-07-27,2024-07-27,2024-07-27,08:19:00,actinopterygii,13765,species,Serranus scriba,40.8157842875,0.7219384226,False,Spain,research,908,annacanela,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Serranus
 310093,2024-07-27,2024-07-27,2024-07-27,08:17:00,actinopterygii,14256,genus,Sphyraena,40.8157842875,0.7219384226,False,Spain,needs_id,908,annacanela,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Sphyraenidae,
 310092,2024-07-27,2024-07-27,2024-07-27,08:16:00,actinopterygii,35125,species,Mullus surmuletus,40.8157842875,0.7219384226,False,Spain,research,908,annacanela,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Mullidae,Mullus
