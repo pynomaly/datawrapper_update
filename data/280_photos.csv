@@ -1,11 +1,11 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
-310169,414499,actinopterygii,Muraenidae,https://minka-sdg.org/attachments/local_photos/files/414499/medium.png,urti,40.8863667106,0.8086376158,cc-by,"(c) Jaime, some rights reserved (CC BY)",310169_414499.jpg
-310169,414500,actinopterygii,Muraenidae,https://minka-sdg.org/attachments/local_photos/files/414500/medium.png,urti,40.8863667106,0.8086376158,cc-by,"(c) Jaime, some rights reserved (CC BY)",310169_414500.jpg
-310169,414501,actinopterygii,Muraenidae,https://minka-sdg.org/attachments/local_photos/files/414501/medium.png,urti,40.8863667106,0.8086376158,cc-by,"(c) Jaime, some rights reserved (CC BY)",310169_414501.jpg
-310168,414488,actinopterygii,Muraenidae,https://minka-sdg.org/attachments/local_photos/files/414488/medium.png,urti,40.8863667106,0.8086376158,cc-by,"(c) Jaime, some rights reserved (CC BY)",310168_414488.jpg
-310168,414489,actinopterygii,Muraenidae,https://minka-sdg.org/attachments/local_photos/files/414489/medium.png,urti,40.8863667106,0.8086376158,cc-by,"(c) Jaime, some rights reserved (CC BY)",310168_414489.jpg
-310168,414490,actinopterygii,Muraenidae,https://minka-sdg.org/attachments/local_photos/files/414490/medium.png,urti,40.8863667106,0.8086376158,cc-by,"(c) Jaime, some rights reserved (CC BY)",310168_414490.jpg
-310168,414491,actinopterygii,Muraenidae,https://minka-sdg.org/attachments/local_photos/files/414491/medium.png,urti,40.8863667106,0.8086376158,cc-by,"(c) Jaime, some rights reserved (CC BY)",310168_414491.jpg
+310169,414499,actinopterygii,Muraena helena,https://minka-sdg.org/attachments/local_photos/files/414499/medium.png,urti,40.8863667106,0.8086376158,cc-by,"(c) Jaime, some rights reserved (CC BY)",310169_414499.jpg
+310169,414500,actinopterygii,Muraena helena,https://minka-sdg.org/attachments/local_photos/files/414500/medium.png,urti,40.8863667106,0.8086376158,cc-by,"(c) Jaime, some rights reserved (CC BY)",310169_414500.jpg
+310169,414501,actinopterygii,Muraena helena,https://minka-sdg.org/attachments/local_photos/files/414501/medium.png,urti,40.8863667106,0.8086376158,cc-by,"(c) Jaime, some rights reserved (CC BY)",310169_414501.jpg
+310168,414488,actinopterygii,Muraena helena,https://minka-sdg.org/attachments/local_photos/files/414488/medium.png,urti,40.8863667106,0.8086376158,cc-by,"(c) Jaime, some rights reserved (CC BY)",310168_414488.jpg
+310168,414489,actinopterygii,Muraena helena,https://minka-sdg.org/attachments/local_photos/files/414489/medium.png,urti,40.8863667106,0.8086376158,cc-by,"(c) Jaime, some rights reserved (CC BY)",310168_414489.jpg
+310168,414490,actinopterygii,Muraena helena,https://minka-sdg.org/attachments/local_photos/files/414490/medium.png,urti,40.8863667106,0.8086376158,cc-by,"(c) Jaime, some rights reserved (CC BY)",310168_414490.jpg
+310168,414491,actinopterygii,Muraena helena,https://minka-sdg.org/attachments/local_photos/files/414491/medium.png,urti,40.8863667106,0.8086376158,cc-by,"(c) Jaime, some rights reserved (CC BY)",310168_414491.jpg
 310167,414486,,,https://minka-sdg.org/attachments/local_photos/files/414486/medium.png,urti,40.8863597106,0.8086306158,cc-by,"(c) Jaime, some rights reserved (CC BY)",310167_414486.jpg
 310167,414487,,,https://minka-sdg.org/attachments/local_photos/files/414487/medium.png,urti,40.8863597106,0.8086306158,cc-by,"(c) Jaime, some rights reserved (CC BY)",310167_414487.jpg
 310166,414484,actinopterygii,Thalassoma pavo,https://minka-sdg.org/attachments/local_photos/files/414484/medium.png,urti,40.8863527106,0.8086236158,cc-by,"(c) Jaime, some rights reserved (CC BY)",310166_414484.jpg
