@@ -7,7 +7,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 310472,2024-07-28,2024-07-28,2024-07-27,11:50:00,,nan,,,40.910654015,0.8326773953,False,Spain,needs_id,3393,nigelbax,cc-by,0,0,,,,,,
 310471,2024-07-28,2024-07-28,2024-07-27,11:50:00,,nan,,,40.9106288257,0.8326185899,False,Spain,needs_id,3393,nigelbax,cc-by,0,0,,,,,,
 310470,2024-07-28,2024-07-28,2024-07-27,11:50:00,,nan,,,40.910640701,0.8325936393,False,"Tarragona, España",needs_id,3393,nigelbax,cc-by,0,0,,,,,,
-310469,2024-07-28,2024-07-28,2024-07-27,11:49:00,,nan,,,40.9106379538,0.8327644528,False,Spain,needs_id,3393,nigelbax,cc-by,0,0,,,,,,
+310469,2024-07-28,2024-07-28,2024-07-27,11:49:00,actinopterygii,35216,species,Symphodus tinca,40.9106379538,0.8327644528,False,Spain,needs_id,3393,nigelbax,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
 310468,2024-07-28,2024-07-28,2024-07-27,11:48:00,,nan,,,40.9106156799,0.832591832,False,Spain,needs_id,3393,nigelbax,cc-by,0,0,,,,,,
 310467,2024-07-28,2024-07-28,2024-07-27,11:46:00,,nan,,,40.9105994637,0.8325406941,False,Spain,needs_id,3393,nigelbax,cc-by,0,0,,,,,,
 310466,2024-07-28,2024-07-28,2024-07-27,11:46:00,,nan,,,40.9105998888,0.8324920625,False,Spain,needs_id,3393,nigelbax,cc-by,0,0,,,,,,
