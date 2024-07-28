@@ -12,11 +12,11 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 310467,2024-07-28,2024-07-28,2024-07-27,11:46:00,actinopterygii,35194,species,Thalassoma pavo,40.9105994637,0.8325406941,False,Spain,research,3393,nigelbax,cc-by,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
 310466,2024-07-28,2024-07-28,2024-07-27,11:46:00,actinopterygii,35225,species,Chromis chromis,40.9105998888,0.8324920625,False,Spain,research,3393,nigelbax,cc-by,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
 310465,2024-07-28,2024-07-28,2024-07-27,11:46:00,actinopterygii,35194,species,Thalassoma pavo,40.9105723606,0.8324484435,False,Spain,needs_id,3393,nigelbax,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
-310464,2024-07-28,2024-07-28,2024-07-27,11:46:00,,nan,,,40.9105531037,0.8323987565,False,Spain,needs_id,3393,nigelbax,cc-by,0,0,,,,,,
+310464,2024-07-28,2024-07-28,2024-07-27,11:46:00,actinopterygii,35194,species,Thalassoma pavo,40.9105531037,0.8323987565,False,Spain,needs_id,3393,nigelbax,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
 310463,2024-07-28,2024-07-28,2024-07-27,11:45:00,,nan,,,40.9105460091,0.8323545,False,Spain,needs_id,3393,nigelbax,cc-by,0,0,,,,,,
 310462,2024-07-28,2024-07-28,2024-07-27,11:44:00,,nan,,,40.9105449956,0.8323048792,False,Spain,needs_id,3393,nigelbax,cc-by,0,0,,,,,,
 310461,2024-07-28,2024-07-28,2024-07-27,11:44:00,,nan,,,40.9105196577,0.8322405061,False,Spain,needs_id,3393,nigelbax,cc-by,0,0,,,,,,
-310460,2024-07-28,2024-07-28,2024-07-27,11:43:00,,nan,,,40.9105074955,0.8321922264,False,Spain,needs_id,3393,nigelbax,cc-by,0,0,,,,,,
+310460,2024-07-28,2024-07-28,2024-07-27,11:43:00,actinopterygii,35250,species,Parablennius pilicornis,40.9105074955,0.8321922264,False,Spain,needs_id,3393,nigelbax,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
 310459,2024-07-28,2024-07-28,2024-07-27,11:39:00,actinopterygii,34798,species,Diplodus vulgaris,40.9105079999,0.8323138931,False,Spain,research,3393,nigelbax,cc-by,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
 310458,2024-07-28,2024-07-28,2024-07-27,11:39:00,actinopterygii,34835,species,Coris julis,40.9104391358,0.8319852797,False,Spain,research,3393,nigelbax,cc-by,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
 310457,2024-07-28,2024-07-28,2024-07-27,11:39:00,chromista,35106,species,Padina pavonica,40.9104839636,0.8321242057,False,Spain,needs_id,3393,nigelbax,cc-by,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
@@ -32,15 +32,15 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 310447,2024-07-28,2024-07-28,2024-07-27,11:27:00,mollusca,35075,species,Octopus vulgaris,40.9104003075,0.8315829743,False,Spain,research,3393,nigelbax,cc-by,2,0,Animalia,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus
 310446,2024-07-28,2024-07-28,2024-07-27,11:26:00,actinopterygii,34796,species,Scorpaena notata,40.9103618381,0.8317176617,False,Spain,needs_id,3393,nigelbax,cc-by,0,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,Scorpaena
 310445,2024-07-28,2024-07-28,2024-07-27,11:24:00,,nan,,,40.9104064329,0.8315257544,False,Spain,needs_id,3393,nigelbax,cc-by,0,0,,,,,,
-310444,2024-07-28,2024-07-28,2024-07-27,11:24:00,,nan,,,40.9104069397,0.8314946504,False,Spain,needs_id,3393,nigelbax,cc-by,0,0,,,,,,
+310444,2024-07-28,2024-07-28,2024-07-27,11:24:00,cnidaria,35220,species,Anemonia viridis,40.9104069397,0.8314946504,False,Spain,needs_id,3393,nigelbax,cc-by,0,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Anemonia
 310443,2024-07-28,2024-07-28,2024-07-27,11:23:00,,nan,,,40.9104064329,0.8314565822,False,Spain,needs_id,3393,nigelbax,cc-by,0,0,,,,,,
-310442,2024-07-28,2024-07-28,2024-07-27,11:23:00,actinopterygii,35216,species,Symphodus tinca,40.9104038991,0.8314273845,False,Spain,needs_id,3393,nigelbax,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
+310442,2024-07-28,2024-07-28,2024-07-27,11:23:00,actinopterygii,35216,species,Symphodus tinca,40.9104038991,0.8314273845,False,Spain,research,3393,nigelbax,cc-by,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
 310441,2024-07-28,2024-07-28,2024-07-27,11:23:00,,nan,,,40.9103983248,0.8313891056,False,Spain,needs_id,3393,nigelbax,cc-by,0,0,,,,,,
-310440,2024-07-28,2024-07-28,2024-07-27,11:19:00,actinopterygii,34835,species,Coris julis,40.9104038991,0.8313568043,False,Spain,needs_id,3393,nigelbax,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
-310439,2024-07-28,2024-07-28,2024-07-27,11:18:00,porifera,252081,species,Cliona viridis,40.91048194,0.8310409742,False,Spain,needs_id,3393,nigelbax,cc-by,0,0,Animalia,Porifera,Demospongiae,Hadromerida,Clionaidae,Cliona
-310438,2024-07-28,2024-07-28,2024-07-27,11:17:00,echinodermata,34848,species,Paracentrotus lividus,40.9104571089,0.8311133938,False,Spain,needs_id,3393,nigelbax,cc-by,0,0,Animalia,Echinodermata,Echinoidea,Camarodonta,Parechinidae,Paracentrotus
-310437,2024-07-28,2024-07-28,2024-07-27,11:17:00,mollusca,34974,species,Spondylus gaederopus,40.9104038991,0.831321706,False,Spain,needs_id,3393,nigelbax,cc-by,0,0,Animalia,Mollusca,Bivalvia,Ostreoida,Spondylidae,Spondylus
-310436,2024-07-28,2024-07-28,2024-07-27,11:17:00,plantae,251996,species,Tricleocarpa fragilis,40.9104094735,0.8312944247,False,Spain,needs_id,3393,nigelbax,cc-by,0,0,Plantae,Rhodophyta,Florideophyceae,Nemaliales,Galaxauraceae,Tricleocarpa
+310440,2024-07-28,2024-07-28,2024-07-27,11:19:00,actinopterygii,34835,species,Coris julis,40.9104038991,0.8313568043,False,Spain,research,3393,nigelbax,cc-by,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+310439,2024-07-28,2024-07-28,2024-07-27,11:18:00,porifera,252081,species,Cliona viridis,40.91048194,0.8310409742,False,Spain,research,3393,nigelbax,cc-by,2,0,Animalia,Porifera,Demospongiae,Hadromerida,Clionaidae,Cliona
+310438,2024-07-28,2024-07-28,2024-07-27,11:17:00,echinodermata,34848,species,Paracentrotus lividus,40.9104571089,0.8311133938,False,Spain,research,3393,nigelbax,cc-by,2,0,Animalia,Echinodermata,Echinoidea,Camarodonta,Parechinidae,Paracentrotus
+310437,2024-07-28,2024-07-28,2024-07-27,11:17:00,mollusca,34974,species,Spondylus gaederopus,40.9104038991,0.831321706,False,Spain,research,3393,nigelbax,cc-by,2,0,Animalia,Mollusca,Bivalvia,Ostreoida,Spondylidae,Spondylus
+310436,2024-07-28,2024-07-28,2024-07-27,11:17:00,plantae,251996,species,Tricleocarpa fragilis,40.9104094735,0.8312944247,False,Spain,research,3393,nigelbax,cc-by,2,0,Plantae,Rhodophyta,Florideophyceae,Nemaliales,Galaxauraceae,Tricleocarpa
 310435,2024-07-28,2024-07-28,2024-07-27,11:17:00,,nan,,,40.9104246763,0.8312327339,False,Spain,needs_id,3393,nigelbax,cc-by,0,0,,,,,,
 310434,2024-07-28,2024-07-28,2024-07-27,11:12:00,,nan,,,40.9104099802,0.8312586376,False,Spain,needs_id,3393,nigelbax,cc-by,0,0,,,,,,
 310433,2024-07-28,2024-07-28,2024-07-27,11:44:00,,nan,,,40.9104302506,0.8312018156,False,Spain,needs_id,3393,nigelbax,cc-by,0,0,,,,,,
