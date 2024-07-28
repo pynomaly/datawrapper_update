@@ -1,7 +1,4 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
-310169,414499,actinopterygii,Muraena helena,https://minka-sdg.org/attachments/local_photos/files/414499/medium.png,urti,40.8863667106,0.8086376158,cc-by,"(c) Jaime, some rights reserved (CC BY)",310169_414499.jpg
-310169,414500,actinopterygii,Muraena helena,https://minka-sdg.org/attachments/local_photos/files/414500/medium.png,urti,40.8863667106,0.8086376158,cc-by,"(c) Jaime, some rights reserved (CC BY)",310169_414500.jpg
-310169,414501,actinopterygii,Muraena helena,https://minka-sdg.org/attachments/local_photos/files/414501/medium.png,urti,40.8863667106,0.8086376158,cc-by,"(c) Jaime, some rights reserved (CC BY)",310169_414501.jpg
 310168,414488,actinopterygii,Muraena helena,https://minka-sdg.org/attachments/local_photos/files/414488/medium.png,urti,40.8863667106,0.8086376158,cc-by,"(c) Jaime, some rights reserved (CC BY)",310168_414488.jpg
 310168,414489,actinopterygii,Muraena helena,https://minka-sdg.org/attachments/local_photos/files/414489/medium.png,urti,40.8863667106,0.8086376158,cc-by,"(c) Jaime, some rights reserved (CC BY)",310168_414489.jpg
 310168,414490,actinopterygii,Muraena helena,https://minka-sdg.org/attachments/local_photos/files/414490/medium.png,urti,40.8863667106,0.8086376158,cc-by,"(c) Jaime, some rights reserved (CC BY)",310168_414490.jpg
@@ -82,8 +79,8 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 309980,414188,actinopterygii,Sarpa salpa,https://minka-sdg.org/attachments/local_photos/files/414188/medium.png,urti,40.8862651236,0.8084403164,cc-by,"(c) Jaime, some rights reserved (CC BY)",309980_414188.jpg
 309979,414186,actinopterygii,Coris julis,https://minka-sdg.org/attachments/local_photos/files/414186/medium.png,urti,40.8862581236,0.8084333164,cc-by,"(c) Jaime, some rights reserved (CC BY)",309979_414186.jpg
 309979,414187,actinopterygii,Coris julis,https://minka-sdg.org/attachments/local_photos/files/414187/medium.png,urti,40.8862581236,0.8084333164,cc-by,"(c) Jaime, some rights reserved (CC BY)",309979_414187.jpg
-309978,414185,actinopterygii,Diplodus,https://minka-sdg.org/attachments/local_photos/files/414185/medium.png,urti,40.8862481236,0.8084233164,cc-by,"(c) Jaime, some rights reserved (CC BY)",309978_414185.jpg
-309977,414184,actinopterygii,Diplodus,https://minka-sdg.org/attachments/local_photos/files/414184/medium.png,urti,40.8862451236,0.8084203164,cc-by,"(c) Jaime, some rights reserved (CC BY)",309977_414184.jpg
+309978,414185,actinopterygii,Diplodus puntazzo,https://minka-sdg.org/attachments/local_photos/files/414185/medium.png,urti,40.8862481236,0.8084233164,cc-by,"(c) Jaime, some rights reserved (CC BY)",309978_414185.jpg
+309977,414184,actinopterygii,Diplodus puntazzo,https://minka-sdg.org/attachments/local_photos/files/414184/medium.png,urti,40.8862451236,0.8084203164,cc-by,"(c) Jaime, some rights reserved (CC BY)",309977_414184.jpg
 309976,414183,actinopterygii,Diplodus sargus,https://minka-sdg.org/attachments/local_photos/files/414183/medium.png,urti,40.8862421236,0.8084173164,cc-by,"(c) Jaime, some rights reserved (CC BY)",309976_414183.jpg
 309975,414181,actinopterygii,Lithognathus mormyrus,https://minka-sdg.org/attachments/local_photos/files/414181/medium.png,urti,40.8862351236,0.8084103164,cc-by,"(c) Jaime, some rights reserved (CC BY)",309975_414181.jpg
 309975,414182,actinopterygii,Lithognathus mormyrus,https://minka-sdg.org/attachments/local_photos/files/414182/medium.png,urti,40.8862351236,0.8084103164,cc-by,"(c) Jaime, some rights reserved (CC BY)",309975_414182.jpg
