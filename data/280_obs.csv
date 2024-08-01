@@ -1,4 +1,5 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+314518,2024-08-01,2024-08-01,2024-07-30,11:25:00,insecta,147999,genus,Ophiderma,41.0896251345,1.2283437699,False,,needs_id,5643,fabiopillon,cc-by,0,0,Animalia,Arthropoda,Insecta,Hemiptera,Membracidae,
 314445,2024-08-01,2024-08-01,2024-07-25,14:13:00,,nan,,,40.8787865668,0.8024522786,False,,needs_id,4753,calypsobcn,cc-by,0,0,,,,,,
 314444,2024-08-01,2024-08-01,2024-07-25,14:13:00,echinodermata,9659,genus,Holothuria,40.8787795668,0.8024452786,False,,needs_id,4753,calypsobcn,cc-by,0,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,
 314443,2024-08-01,2024-08-01,2024-07-25,14:13:00,elasmobranchii,177,class,Elasmobranchii,40.8787795668,0.8024452786,False,,needs_id,4753,calypsobcn,cc-by,0,0,Animalia,Chordata,,,,
