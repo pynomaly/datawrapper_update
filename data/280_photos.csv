@@ -1,4 +1,5 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+315169,420431,actinopterygii,Coris julis,https://minka-sdg.org/attachments/local_photos/files/420431/medium.jpeg,mllarch,40.8610048425,0.7817870163,cc-by-nc,"(c) mllarch, some rights reserved (CC BY-NC)",315169_420431.jpg
 314923,420425,mollusca,Nemesignis banyulensis,https://minka-sdg.org/attachments/local_photos/files/420425/medium.jpg,silviallorente,41.0890249873,1.2301669024,cc-by,"(c) silviallorente, some rights reserved (CC BY)",314923_420425.jpg
 314918,420421,mollusca,Sepia officinalis,https://minka-sdg.org/attachments/local_photos/files/420421/medium.jpg,silviallorente,40.9099519546,0.8334100361,cc-by,"(c) silviallorente, some rights reserved (CC BY)",314918_420421.jpg
 314907,420144,chromista,Padina pavonica,https://minka-sdg.org/attachments/local_photos/files/420144/medium.jpg,monyant,40.9198052236,0.8420775251,cc-by-nc,"(c) Monique Mendoza, some rights reserved (CC BY-NC)",314907_420144.jpg
@@ -34,8 +35,8 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 314881,420125,,,https://minka-sdg.org/attachments/local_photos/files/420125/medium.jpg,monyant,40.9113539458,0.8334220449,cc-by-nc,"(c) Monique Mendoza, some rights reserved (CC BY-NC)",314881_420125.jpg
 314880,420124,,,https://minka-sdg.org/attachments/local_photos/files/420124/medium.jpg,monyant,40.9113187564,0.8333715949,cc-by-nc,"(c) Monique Mendoza, some rights reserved (CC BY-NC)",314880_420124.jpg
 314879,420123,actinopterygii,Chromis chromis,https://minka-sdg.org/attachments/local_photos/files/420123/medium.jpg,monyant,40.9113419293,0.8334054125,cc-by-nc,"(c) Monique Mendoza, some rights reserved (CC BY-NC)",314879_420123.jpg
-314878,420122,actinopterygii,Diplodus,https://minka-sdg.org/attachments/local_photos/files/420122/medium.jpg,monyant,40.9113484875,0.8334056835,cc-by-nc,"(c) Monique Mendoza, some rights reserved (CC BY-NC)",314878_420122.jpg
-314877,420121,actinopterygii,Diplodus,https://minka-sdg.org/attachments/local_photos/files/420121/medium.jpg,monyant,40.9113582987,0.8334436024,cc-by-nc,"(c) Monique Mendoza, some rights reserved (CC BY-NC)",314877_420121.jpg
+314878,420122,actinopterygii,Diplodus vulgaris,https://minka-sdg.org/attachments/local_photos/files/420122/medium.jpg,monyant,40.9113484875,0.8334056835,cc-by-nc,"(c) Monique Mendoza, some rights reserved (CC BY-NC)",314878_420122.jpg
+314877,420121,actinopterygii,Diplodus vulgaris,https://minka-sdg.org/attachments/local_photos/files/420121/medium.jpg,monyant,40.9113582987,0.8334436024,cc-by-nc,"(c) Monique Mendoza, some rights reserved (CC BY-NC)",314877_420121.jpg
 314876,420120,actinopterygii,Apogon imberbis,https://minka-sdg.org/attachments/local_photos/files/420120/medium.jpg,monyant,40.9113531182,0.8333712458,cc-by-nc,"(c) Monique Mendoza, some rights reserved (CC BY-NC)",314876_420120.jpg
 314875,420116,,,https://minka-sdg.org/attachments/local_photos/files/420116/medium.jpg,monyant,40.911324773,0.8333809965,cc-by-nc,"(c) Monique Mendoza, some rights reserved (CC BY-NC)",314875_420116.jpg
 314875,420117,,,https://minka-sdg.org/attachments/local_photos/files/420117/medium.jpg,monyant,40.911324773,0.8333809965,cc-by-nc,"(c) Monique Mendoza, some rights reserved (CC BY-NC)",314875_420117.jpg
