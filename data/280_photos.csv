@@ -1,11 +1,11 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
 317184,422862,chromista,Padina pavonica,https://minka-sdg.org/attachments/local_photos/files/422862/medium.jpg,toni,41.1290281661,1.3608425483,C,"(c) Rovira Jareño, all rights reserved",317184_422862.jpg
 317183,422856,mollusca,Octopus vulgaris,https://minka-sdg.org/attachments/local_photos/files/422856/medium.jpg,toni,41.1288157795,1.360309124,C,"(c) Rovira Jareño, all rights reserved",317183_422856.jpg
-317113,422829,cnidaria,Aglaophenia pluma,https://minka-sdg.org/attachments/local_photos/files/422829/medium.jpg,toni,41.1286387481,1.3587980345,C,"(c) Rovira Jareño, all rights reserved",317113_422829.jpg
+317113,422829,cnidaria,Hydrozoa,https://minka-sdg.org/attachments/local_photos/files/422829/medium.jpg,toni,41.1286387481,1.3587980345,C,"(c) Rovira Jareño, all rights reserved",317113_422829.jpg
 317104,422789,crustacea,Palinurus elephas,https://minka-sdg.org/attachments/local_photos/files/422789/medium.jpeg,evararo,40.8839435,0.7996491,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317104_422789.jpg
-317103,422788,,,https://minka-sdg.org/attachments/local_photos/files/422788/medium.jpeg,evararo,40.8839435,0.7996491,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317103_422788.jpg
-317102,422786,,,https://minka-sdg.org/attachments/local_photos/files/422786/medium.jpeg,evararo,40.8839435,0.7996491,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317102_422786.jpg
-317101,422785,,,https://minka-sdg.org/attachments/local_photos/files/422785/medium.jpeg,evararo,40.8839435,0.7996491,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317101_422785.jpg
+317103,422788,cnidaria,Leptogorgia,https://minka-sdg.org/attachments/local_photos/files/422788/medium.jpeg,evararo,40.8839435,0.7996491,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317103_422788.jpg
+317102,422786,actinopterygii,Serranus cabrilla,https://minka-sdg.org/attachments/local_photos/files/422786/medium.jpeg,evararo,40.8839435,0.7996491,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317102_422786.jpg
+317101,422785,mollusca,Hexaplex trunculus,https://minka-sdg.org/attachments/local_photos/files/422785/medium.jpeg,evararo,40.8839435,0.7996491,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317101_422785.jpg
 317100,422784,,,https://minka-sdg.org/attachments/local_photos/files/422784/medium.jpeg,evararo,40.8839435,0.7996491,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317100_422784.jpg
 317099,422783,,,https://minka-sdg.org/attachments/local_photos/files/422783/medium.jpeg,evararo,40.8839435,0.7996491,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317099_422783.jpg
 317098,422782,crustacea,Palinurus elephas,https://minka-sdg.org/attachments/local_photos/files/422782/medium.jpeg,evararo,40.8839435,0.7996491,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317098_422782.jpg
@@ -16,7 +16,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 317096,422778,chromista,Padina pavonica,https://minka-sdg.org/attachments/local_photos/files/422778/medium.jpeg,evararo,40.8839435,0.7996491,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317096_422778.jpg
 317095,422776,,,https://minka-sdg.org/attachments/local_photos/files/422776/medium.jpeg,evararo,40.8839435,0.7996491,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317095_422776.jpg
 317094,422775,,,https://minka-sdg.org/attachments/local_photos/files/422775/medium.jpeg,evararo,40.8839435,0.7996491,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317094_422775.jpg
-317093,422773,,,https://minka-sdg.org/attachments/local_photos/files/422773/medium.jpeg,evararo,40.8839435,0.7996491,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317093_422773.jpg
+317093,422773,cnidaria,Leptogorgia sarmentosa,https://minka-sdg.org/attachments/local_photos/files/422773/medium.jpeg,evararo,40.8839435,0.7996491,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317093_422773.jpg
 317092,422772,crustacea,Palinurus elephas,https://minka-sdg.org/attachments/local_photos/files/422772/medium.jpeg,evararo,40.8839435,0.7996491,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317092_422772.jpg
 317091,422770,,,https://minka-sdg.org/attachments/local_photos/files/422770/medium.jpeg,evararo,40.8839435,0.7996491,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317091_422770.jpg
 317090,422771,,,https://minka-sdg.org/attachments/local_photos/files/422771/medium.jpeg,evararo,40.8839435,0.7996491,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317090_422771.jpg
@@ -41,15 +41,15 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 317071,422746,,,https://minka-sdg.org/attachments/local_photos/files/422746/medium.jpeg,evararo,40.8839435,0.7996491,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317071_422746.jpg
 317070,422744,,,https://minka-sdg.org/attachments/local_photos/files/422744/medium.jpeg,evararo,40.8839435,0.7996491,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317070_422744.jpg
 317069,422743,,,https://minka-sdg.org/attachments/local_photos/files/422743/medium.jpeg,evararo,40.8839435,0.7996491,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317069_422743.jpg
-317068,422741,,,https://minka-sdg.org/attachments/local_photos/files/422741/medium.jpeg,evararo,40.8839435,0.7996491,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317068_422741.jpg
-317068,422742,,,https://minka-sdg.org/attachments/local_photos/files/422742/medium.jpeg,evararo,40.8839435,0.7996491,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317068_422742.jpg
+317068,422741,platyhelminthes,Prostheceraeus roseus,https://minka-sdg.org/attachments/local_photos/files/422741/medium.jpeg,evararo,40.8839435,0.7996491,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317068_422741.jpg
+317068,422742,platyhelminthes,Prostheceraeus roseus,https://minka-sdg.org/attachments/local_photos/files/422742/medium.jpeg,evararo,40.8839435,0.7996491,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317068_422742.jpg
 317067,422738,crustacea,Palinurus elephas,https://minka-sdg.org/attachments/local_photos/files/422738/medium.jpeg,evararo,40.8839435,0.7996491,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317067_422738.jpg
 317067,422739,crustacea,Palinurus elephas,https://minka-sdg.org/attachments/local_photos/files/422739/medium.jpeg,evararo,40.8839435,0.7996491,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317067_422739.jpg
 317067,422740,crustacea,Palinurus elephas,https://minka-sdg.org/attachments/local_photos/files/422740/medium.jpeg,evararo,40.8839435,0.7996491,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317067_422740.jpg
 317066,422706,actinopterygii,Serranus cabrilla,https://minka-sdg.org/attachments/local_photos/files/422706/medium.jpeg,evararo,40.9099377,0.8303807,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317066_422706.jpg
 317065,422705,actinopterygii,Sarpa salpa,https://minka-sdg.org/attachments/local_photos/files/422705/medium.jpeg,evararo,40.9099377,0.8303807,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317065_422705.jpg
 317064,422704,chromista,Padina pavonica,https://minka-sdg.org/attachments/local_photos/files/422704/medium.jpeg,evararo,40.9099377,0.8303807,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317064_422704.jpg
-317063,422703,,,https://minka-sdg.org/attachments/local_photos/files/422703/medium.jpeg,evararo,40.9099377,0.8303807,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317063_422703.jpg
+317063,422703,actinopterygii,Mullus surmuletus,https://minka-sdg.org/attachments/local_photos/files/422703/medium.jpeg,evararo,40.9099377,0.8303807,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317063_422703.jpg
 317062,422702,actinopterygii,Coris julis,https://minka-sdg.org/attachments/local_photos/files/422702/medium.jpeg,evararo,40.9099377,0.8303807,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317062_422702.jpg
 317061,422699,actinopterygii,Symphodus tinca,https://minka-sdg.org/attachments/local_photos/files/422699/medium.jpeg,evararo,40.9099377,0.8303807,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317061_422699.jpg
 317060,422701,actinopterygii,Diplodus vulgaris,https://minka-sdg.org/attachments/local_photos/files/422701/medium.jpeg,evararo,40.9099377,0.8303807,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",317060_422701.jpg
@@ -133,8 +133,8 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 316998,422602,actinopterygii,Coris julis,https://minka-sdg.org/attachments/local_photos/files/422602/medium.jpeg,evararo,40.9099377,0.8303807,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",316998_422602.jpg
 316997,422601,actinopterygii,Sarpa salpa,https://minka-sdg.org/attachments/local_photos/files/422601/medium.jpeg,evararo,40.9099377,0.8303807,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",316997_422601.jpg
 316996,422600,,,https://minka-sdg.org/attachments/local_photos/files/422600/medium.jpeg,evararo,40.9099377,0.8303807,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",316996_422600.jpg
-316995,422599,,,https://minka-sdg.org/attachments/local_photos/files/422599/medium.jpeg,evararo,40.9099377,0.8303807,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",316995_422599.jpg
-316994,422598,,,https://minka-sdg.org/attachments/local_photos/files/422598/medium.jpeg,evararo,40.9099377,0.8303807,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",316994_422598.jpg
+316995,422599,cnidaria,Pennaria disticha,https://minka-sdg.org/attachments/local_photos/files/422599/medium.jpeg,evararo,40.9099377,0.8303807,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",316995_422599.jpg
+316994,422598,cnidaria,Pennaria disticha,https://minka-sdg.org/attachments/local_photos/files/422598/medium.jpeg,evararo,40.9099377,0.8303807,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",316994_422598.jpg
 316993,422597,chromista,Padina pavonica,https://minka-sdg.org/attachments/local_photos/files/422597/medium.jpeg,evararo,40.9099377,0.8303807,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",316993_422597.jpg
 316992,422594,annelida,Sabella spallanzanii,https://minka-sdg.org/attachments/local_photos/files/422594/medium.jpeg,evararo,40.9099377,0.8303807,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",316992_422594.jpg
 316991,422595,actinopterygii,Diplodus vulgaris,https://minka-sdg.org/attachments/local_photos/files/422595/medium.jpeg,evararo,40.9099377,0.8303807,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",316991_422595.jpg
