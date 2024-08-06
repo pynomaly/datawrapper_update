@@ -1,4 +1,15 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+319843,426483,animalia,Salpa,https://minka-sdg.org/attachments/local_photos/files/426483/medium.jpeg,davilo2011,40.9258433452,0.8490371715,cc-by,"(c) davilo, some rights reserved (CC BY)",319843_426483.jpg
+319843,426485,animalia,Salpa,https://minka-sdg.org/attachments/local_photos/files/426485/medium.jpeg,davilo2011,40.9258433452,0.8490371715,cc-by,"(c) davilo, some rights reserved (CC BY)",319843_426485.jpg
+319842,426482,plantae,Posidonia,https://minka-sdg.org/attachments/local_photos/files/426482/medium.jpeg,davilo2011,40.9258433452,0.8490371715,cc-by,"(c) davilo, some rights reserved (CC BY)",319842_426482.jpg
+319841,426481,mollusca,Julia,https://minka-sdg.org/attachments/local_photos/files/426481/medium.jpeg,davilo2011,40.9258433452,0.8490371715,cc-by,"(c) davilo, some rights reserved (CC BY)",319841_426481.jpg
+319841,426479,mollusca,Julia,https://minka-sdg.org/attachments/local_photos/files/426479/medium.jpeg,davilo2011,40.9258433452,0.8490371715,cc-by,"(c) davilo, some rights reserved (CC BY)",319841_426479.jpg
+319840,426478,echinodermata,Echinaster sepositus,https://minka-sdg.org/attachments/local_photos/files/426478/medium.jpeg,davilo2011,40.9258433452,0.8490371715,cc-by,"(c) davilo, some rights reserved (CC BY)",319840_426478.jpg
+319839,426476,porifera,Porifera,https://minka-sdg.org/attachments/local_photos/files/426476/medium.jpeg,davilo2011,40.9258433452,0.8490371715,cc-by,"(c) davilo, some rights reserved (CC BY)",319839_426476.jpg
+319838,426473,actinopterygii,Serranus cabrilla,https://minka-sdg.org/attachments/local_photos/files/426473/medium.jpeg,davilo2011,40.9258433452,0.8490371715,cc-by,"(c) davilo, some rights reserved (CC BY)",319838_426473.jpg
+319837,426475,actinopterygii,Chromis chromis,https://minka-sdg.org/attachments/local_photos/files/426475/medium.jpeg,davilo2011,40.9258433452,0.8490371715,cc-by,"(c) davilo, some rights reserved (CC BY)",319837_426475.jpg
+319837,426474,actinopterygii,Chromis chromis,https://minka-sdg.org/attachments/local_photos/files/426474/medium.jpeg,davilo2011,40.9258433452,0.8490371715,cc-by,"(c) davilo, some rights reserved (CC BY)",319837_426474.jpg
+319836,426470,,,https://minka-sdg.org/attachments/local_photos/files/426470/medium.jpeg,davilo2011,40.9258433452,0.8490371715,cc-by,"(c) davilo, some rights reserved (CC BY)",319836_426470.jpg
 319828,426426,actinopterygii,Diplodus sargus,https://minka-sdg.org/attachments/local_photos/files/426426/medium.jpeg,davilo2011,40.9080842001,0.8270967008,cc-by,"(c) davilo, some rights reserved (CC BY)",319828_426426.jpg
 319828,426427,actinopterygii,Diplodus sargus,https://minka-sdg.org/attachments/local_photos/files/426427/medium.jpeg,davilo2011,40.9080842001,0.8270967008,cc-by,"(c) davilo, some rights reserved (CC BY)",319828_426427.jpg
 319827,426424,animalia,Salpa,https://minka-sdg.org/attachments/local_photos/files/426424/medium.jpeg,davilo2011,40.9080842001,0.8270967008,cc-by,"(c) davilo, some rights reserved (CC BY)",319827_426424.jpg
@@ -8,7 +19,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 319825,426421,annelida,Sabella spallanzanii,https://minka-sdg.org/attachments/local_photos/files/426421/medium.jpeg,davilo2011,40.9080842001,0.8270967008,cc-by,"(c) davilo, some rights reserved (CC BY)",319825_426421.jpg
 319825,426420,annelida,Sabella spallanzanii,https://minka-sdg.org/attachments/local_photos/files/426420/medium.jpeg,davilo2011,40.9080842001,0.8270967008,cc-by,"(c) davilo, some rights reserved (CC BY)",319825_426420.jpg
 319824,426419,actinopterygii,Symphodus roissali,https://minka-sdg.org/attachments/local_photos/files/426419/medium.jpeg,davilo2011,40.9080842001,0.8270967008,cc-by,"(c) davilo, some rights reserved (CC BY)",319824_426419.jpg
-319823,426418,,,https://minka-sdg.org/attachments/local_photos/files/426418/medium.jpeg,davilo2011,40.9080842001,0.8270967008,cc-by,"(c) davilo, some rights reserved (CC BY)",319823_426418.jpg
+319823,426418,actinopterygii,Thalassoma pavo,https://minka-sdg.org/attachments/local_photos/files/426418/medium.jpeg,davilo2011,40.9080842001,0.8270967008,cc-by,"(c) davilo, some rights reserved (CC BY)",319823_426418.jpg
 319822,426416,chromista,Padina pavonica,https://minka-sdg.org/attachments/local_photos/files/426416/medium.jpeg,davilo2011,40.9080842001,0.8270967008,cc-by,"(c) davilo, some rights reserved (CC BY)",319822_426416.jpg
 319822,426417,chromista,Padina pavonica,https://minka-sdg.org/attachments/local_photos/files/426417/medium.jpeg,davilo2011,40.9080842001,0.8270967008,cc-by,"(c) davilo, some rights reserved (CC BY)",319822_426417.jpg
 319821,426415,actinopterygii,Diplodus vulgaris,https://minka-sdg.org/attachments/local_photos/files/426415/medium.jpeg,davilo2011,40.9080842001,0.8270967008,cc-by,"(c) davilo, some rights reserved (CC BY)",319821_426415.jpg
