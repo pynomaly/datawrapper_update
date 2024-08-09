@@ -886,7 +886,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 318403,2024-08-05,2024-08-05,2024-08-05,08:57:00,actinopterygii,250657,species,Sphyraena viridensis,40.8578202519,0.770306489,False,"Estany Podrit, Ametlla de Mar",research,5856,ninala,cc-by,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sphyraenidae,Sphyraena
 318338,2024-08-05,2024-08-05,2024-08-01,11:52:00,actinopterygii,248415,species,Scartella cristata,40.9658103151,0.8893410379,False,"Tarragona, España",research,202,mllarch,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Scartella
 318286,2024-08-05,2024-08-08,2024-08-04,07:28:00,plantae,64,phylum,Rhodophyta,40.8764029581,0.8243254172,False,,needs_id,51,bertinhaco,cc-by-nc,1,0,Plantae,,,,,
-318285,2024-08-05,2024-08-09,2024-08-04,07:28:00,animalia,2,kingdom,Animalia,40.8764029581,0.8243254172,False,,needs_id,51,bertinhaco,cc-by-nc,2,0,,,,,,
+318285,2024-08-05,2024-08-09,2024-08-04,07:28:00,animalia,2,kingdom,Animalia,40.8764029581,0.8243254172,False,,needs_id,51,bertinhaco,cc-by-nc,1,0,,,,,,
 318284,2024-08-05,2024-08-05,2024-08-04,07:28:00,annelida,248904,species,Filograna implexa,40.8764029581,0.8243254172,False,,research,51,bertinhaco,cc-by-nc,1,0,Animalia,Annelida,Polychaeta,Sabellida,Serpulidae,Filograna
 318283,2024-08-05,2024-08-05,2024-08-04,07:27:00,porifera,251363,species,Hemimycale columella,40.8764029581,0.8243254172,False,,research,51,bertinhaco,cc-by-nc,1,0,Animalia,Porifera,Demospongiae,Poecilosclerida,Hymedesmiidae,Hemimycale
 318282,2024-08-05,2024-08-05,2024-08-04,07:27:00,actinopterygii,35250,species,Parablennius pilicornis,40.8764029581,0.8243254172,False,,research,51,bertinhaco,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
