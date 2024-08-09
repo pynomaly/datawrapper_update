@@ -1,4 +1,5 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+323075,430339,actinopterygii,Symphodus roissali,https://minka-sdg.org/attachments/local_photos/files/430339/medium.jpeg,mllarch,40.846448157,0.7550859034,cc-by-nc,"(c) mllarch, some rights reserved (CC BY-NC)",323075_430339.jpg
 323068,430329,actinopterygii,Symphodus tinca,https://minka-sdg.org/attachments/local_photos/files/430329/medium.jpeg,mllarch,40.8465005233,0.7542709799,cc-by-nc,"(c) mllarch, some rights reserved (CC BY-NC)",323068_430329.jpg
 323057,430291,actinopterygii,Symphodus roissali,https://minka-sdg.org/attachments/local_photos/files/430291/medium.jpeg,mllarch,40.8465557039,0.7541590949,cc-by-nc,"(c) mllarch, some rights reserved (CC BY-NC)",323057_430291.jpg
 323056,430289,echinodermata,Holothuria poli,https://minka-sdg.org/attachments/local_photos/files/430289/medium.jpeg,mllarch,40.8465095297,0.7541735817,cc-by-nc,"(c) mllarch, some rights reserved (CC BY-NC)",323056_430289.jpg
@@ -42,7 +43,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 322855,430024,actinopterygii,Diplodus sargus,https://minka-sdg.org/attachments/local_photos/files/430024/medium.jpeg,evararo,41.0898288,1.2279686,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",322855_430024.jpg
 322855,430025,actinopterygii,Diplodus sargus,https://minka-sdg.org/attachments/local_photos/files/430025/medium.jpeg,evararo,41.0898288,1.2279686,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",322855_430025.jpg
 322854,430023,actinopterygii,Serranus scriba,https://minka-sdg.org/attachments/local_photos/files/430023/medium.jpeg,evararo,41.0898288,1.2279686,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",322854_430023.jpg
-322853,430022,echinodermata,Paracentrotus lividus,https://minka-sdg.org/attachments/local_photos/files/430022/medium.jpeg,evararo,41.0898288,1.2279686,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",322853_430022.jpg
+322853,430022,echinodermata,Echinoidea,https://minka-sdg.org/attachments/local_photos/files/430022/medium.jpeg,evararo,41.0898288,1.2279686,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",322853_430022.jpg
 322852,430020,actinopterygii,Thalassoma pavo,https://minka-sdg.org/attachments/local_photos/files/430020/medium.jpeg,evararo,41.0898288,1.2279686,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",322852_430020.jpg
 322852,430021,actinopterygii,Thalassoma pavo,https://minka-sdg.org/attachments/local_photos/files/430021/medium.jpeg,evararo,41.0898288,1.2279686,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",322852_430021.jpg
 322851,430019,actinopterygii,Sarpa salpa,https://minka-sdg.org/attachments/local_photos/files/430019/medium.jpeg,evararo,41.0898288,1.2279686,cc-by-nc,"(c) Eva, some rights reserved (CC BY-NC)",322851_430019.jpg
