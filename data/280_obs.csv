@@ -1,4 +1,7 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+324004,2024-08-09,2024-08-09,2024-08-03,08:05:00,,nan,,,40.9121282984,0.8372127551,False,"Tarragona, España",needs_id,5673,silviallorente,cc-by,0,0,,,,,,
+324003,2024-08-09,2024-08-09,2024-08-03,08:00:00,,nan,,,40.9132621541,0.8382690881,False,"83700 Saint-Raphaël, Francia",needs_id,5673,silviallorente,cc-by,0,0,,,,,,
+324002,2024-08-09,2024-08-09,2024-08-03,08:08:00,,nan,,,40.9125847633,0.8394399015,False,Spain,needs_id,5673,silviallorente,cc-by,0,0,,,,,,
 324001,2024-08-09,2024-08-09,2024-08-03,08:00:00,,nan,,,40.9154857297,0.8422750748,False,Spain,needs_id,5673,silviallorente,cc-by,0,0,,,,,,
 323715,2024-08-09,2024-08-09,2024-08-09,08:21:00,actinopterygii,35449,genus,Mullus,40.9119723416,0.8330603713,False,"Cala Sant Jordi, 43860 L'Ametlla de Mar, Tarragona, Espanya",needs_id,5856,ninala,cc-by,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Mullidae,
 323714,2024-08-09,2024-08-09,2024-08-09,08:28:00,actinopterygii,12553,species,Diplodus sargus,40.9119723416,0.8330603713,False,"Cala Sant Jordi, 43860 L'Ametlla de Mar, Tarragona, Espanya",research,5856,ninala,cc-by,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
