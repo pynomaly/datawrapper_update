@@ -1,8 +1,8 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
-324004,431566,,,https://minka-sdg.org/attachments/local_photos/files/431566/medium.jpeg,silviallorente,40.9121282984,0.8372127551,cc-by,"(c) silviallorente, some rights reserved (CC BY)",324004_431566.jpg
-324003,431565,,,https://minka-sdg.org/attachments/local_photos/files/431565/medium.jpeg,silviallorente,40.9132621541,0.8382690881,cc-by,"(c) silviallorente, some rights reserved (CC BY)",324003_431565.jpg
-324002,431564,,,https://minka-sdg.org/attachments/local_photos/files/431564/medium.jpeg,silviallorente,40.9125847633,0.8394399015,cc-by,"(c) silviallorente, some rights reserved (CC BY)",324002_431564.jpg
-324001,431560,,,https://minka-sdg.org/attachments/local_photos/files/431560/medium.jpeg,silviallorente,40.9154857297,0.8422750748,cc-by,"(c) silviallorente, some rights reserved (CC BY)",324001_431560.jpg
+324004,431566,cnidaria,Pennaria disticha,https://minka-sdg.org/attachments/local_photos/files/431566/medium.jpeg,silviallorente,40.9121282984,0.8372127551,cc-by,"(c) silviallorente, some rights reserved (CC BY)",324004_431566.jpg
+324003,431565,cnidaria,Balanophyllia europaea,https://minka-sdg.org/attachments/local_photos/files/431565/medium.jpeg,silviallorente,40.9132621541,0.8382690881,cc-by,"(c) silviallorente, some rights reserved (CC BY)",324003_431565.jpg
+324002,431564,cnidaria,Anemonia viridis,https://minka-sdg.org/attachments/local_photos/files/431564/medium.jpeg,silviallorente,40.9125847633,0.8394399015,cc-by,"(c) silviallorente, some rights reserved (CC BY)",324002_431564.jpg
+324001,431560,crustacea,Stenopus spinosus,https://minka-sdg.org/attachments/local_photos/files/431560/medium.jpeg,silviallorente,40.9154857297,0.8422750748,cc-by,"(c) silviallorente, some rights reserved (CC BY)",324001_431560.jpg
 323715,431261,actinopterygii,Mullus,https://minka-sdg.org/attachments/local_photos/files/431261/medium.jpg,ninala,40.9119723416,0.8330603713,cc-by,"(c) ninala, some rights reserved (CC BY)",323715_431261.jpg
 323714,431259,actinopterygii,Diplodus sargus,https://minka-sdg.org/attachments/local_photos/files/431259/medium.jpg,ninala,40.9119723416,0.8330603713,cc-by,"(c) ninala, some rights reserved (CC BY)",323714_431259.jpg
 323713,431258,actinopterygii,Diplodus sargus,https://minka-sdg.org/attachments/local_photos/files/431258/medium.jpg,ninala,40.9119723416,0.8330603713,cc-by,"(c) ninala, some rights reserved (CC BY)",323713_431258.jpg
