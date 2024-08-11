@@ -1,4 +1,41 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+325360,2024-08-11,2024-08-11,2024-08-11,14:20:00,,nan,,,40.8685653468,0.794415363,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+325359,2024-08-11,2024-08-11,2024-08-11,14:20:00,,nan,,,40.8685553468,0.794405363,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+325358,2024-08-11,2024-08-11,2024-08-11,14:20:00,,nan,,,40.8685523468,0.794402363,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+325357,2024-08-11,2024-08-11,2024-08-11,14:20:00,,nan,,,40.8685493468,0.794399363,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+325356,2024-08-11,2024-08-11,2024-08-11,14:20:00,actinopterygii,34835,species,Coris julis,40.8685423468,0.794392363,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+325354,2024-08-11,2024-08-11,2024-08-11,14:20:00,,nan,,,40.8685353468,0.794385363,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+325349,2024-08-11,2024-08-11,2024-08-11,14:20:00,,nan,,,40.8685283468,0.794378363,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+325347,2024-08-11,2024-08-11,2024-08-11,14:20:00,life,1,stateofmatter,Life,40.8685213468,0.794371363,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+325345,2024-08-11,2024-08-11,2024-08-11,14:20:00,,nan,,,40.8685143468,0.794364363,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+325343,2024-08-11,2024-08-11,2024-08-11,14:08:00,actinopterygii,34837,species,Dicentrarchus labrax,40.8692348724,0.7954094275,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Moronidae,Dicentrarchus
+325342,2024-08-11,2024-08-11,2024-08-11,14:08:00,,nan,,,40.8692278724,0.7954024275,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+325341,2024-08-11,2024-08-11,2024-08-11,14:08:00,,nan,,,40.8692208724,0.7953954275,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+325340,2024-08-11,2024-08-11,2024-08-11,14:08:00,,nan,,,40.8692138724,0.7953884275,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+325339,2024-08-11,2024-08-11,2024-08-11,14:08:00,,nan,,,40.8692068724,0.7953814275,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+325338,2024-08-11,2024-08-11,2024-08-11,14:08:00,,nan,,,40.8691998724,0.7953744275,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+325337,2024-08-11,2024-08-11,2024-08-11,14:08:00,,nan,,,40.8691928724,0.7953674275,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+325335,2024-08-11,2024-08-11,2024-08-11,14:08:00,,nan,,,40.8691858724,0.7953604275,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+325310,2024-08-11,2024-08-11,2024-08-11,14:08:00,,nan,,,40.8691788724,0.7953534275,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+325238,2024-08-11,2024-08-11,2024-08-11,13:38:00,life,1,stateofmatter,Life,40.8686152349,0.7942203344,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+325237,2024-08-11,2024-08-11,2024-08-11,13:38:00,,nan,,,40.8686082349,0.7942133344,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+325233,2024-08-11,2024-08-11,2024-08-07,11:28:00,actinopterygii,96779,species,Atherina presbyter,40.8463385448,0.7551338302,False,,needs_id,202,mllarch,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Atheriniformes,Atherinidae,Atherina
+325232,2024-08-11,2024-08-11,2024-08-11,13:38:00,,nan,,,40.8686012349,0.7942063344,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+325225,2024-08-11,2024-08-11,2024-08-11,13:38:00,,nan,,,40.8685942349,0.7941993344,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+325222,2024-08-11,2024-08-11,2024-08-11,13:38:00,life,1,stateofmatter,Life,40.8685872349,0.7941923344,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+325221,2024-08-11,2024-08-11,2024-08-11,13:38:00,,nan,,,40.8685802349,0.7941853344,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+325218,2024-08-11,2024-08-11,2024-08-11,13:38:00,actinopterygii,10553,genus,Chromis,40.8685732349,0.7941783344,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,
+325215,2024-08-11,2024-08-11,2024-08-11,13:38:00,actinopterygii,35194,species,Thalassoma pavo,40.8685662349,0.7941713344,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
+325212,2024-08-11,2024-08-11,2024-08-11,13:38:00,,nan,,,40.8685592349,0.7941643344,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+325209,2024-08-11,2024-08-11,2024-08-11,13:38:00,,nan,,,40.8685522349,0.7941573344,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+325207,2024-08-11,2024-08-11,2024-08-11,13:38:00,,nan,,,40.8685452349,0.7941503344,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+325204,2024-08-11,2024-08-11,2024-08-11,13:38:00,,nan,,,40.8685382349,0.7941433344,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+325200,2024-08-11,2024-08-11,2024-08-11,13:38:00,actinopterygii,34835,species,Coris julis,40.8685312349,0.7941363344,False,,needs_id,5214,urti,cc-by,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+325196,2024-08-11,2024-08-11,2024-08-11,13:38:00,,nan,,,40.8685242349,0.7941293344,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+325193,2024-08-11,2024-08-11,2024-08-11,13:28:00,life,1,stateofmatter,Life,40.8685897588,0.7936148576,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+325192,2024-08-11,2024-08-11,2024-08-11,13:28:00,,nan,,,40.8685827588,0.7936078576,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+325191,2024-08-11,2024-08-11,2024-08-11,13:28:00,actinopterygii,35079,species,Symphodus rostratus,40.8685757588,0.7936008576,False,,research,5214,urti,cc-by,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
+325190,2024-08-11,2024-08-11,2024-08-11,13:28:00,mollusca,35092,species,Haliotis tuberculata,40.8685687588,0.7935938576,False,,needs_id,5214,urti,cc-by,1,0,Animalia,Mollusca,Gastropoda,Lepetellida,Haliotidae,Haliotis
 325189,2024-08-11,2024-08-11,2024-08-11,13:28:00,life,1,stateofmatter,Life,40.8685617588,0.7935868576,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
 325188,2024-08-11,2024-08-11,2024-08-07,11:25:00,mollusca,241950,species,Pinctada imbricata,40.8465217499,0.7557645647,False,,needs_id,202,mllarch,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Ostreida,Pteriidae,Pinctada
 325164,2024-08-11,2024-08-11,2024-08-07,11:20:00,porifera,56,phylum,Porifera,40.8466750967,0.7558310707,False,,needs_id,202,mllarch,cc-by-nc,0,0,Animalia,,,,,
@@ -4198,7 +4235,6 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 295545,2024-07-09,2024-07-10,2024-07-09,17:46:00,,35067,species,Palaemon elegans,40.9064585307,0.8270304822,False,"43860 L'Ametlla de Mar, Tarragona, Espanya",research,988,elibonfill,C,1,0,Animalia,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Palaemon
 295539,2024-07-09,2024-07-09,2024-07-09,18:45:00,crustacea,240381,species,Pachygrapsus marmoratus,40.9070753,0.8258551,False,Spain,research,988,elibonfill,C,1,0,Animalia,Arthropoda,Malacostraca,Decapoda,Grapsidae,Pachygrapsus
 295485,2024-07-09,2024-07-10,2024-07-09,16:54:00,cnidaria,35011,species,Pennaria disticha,41.1791228391,1.5266892444,False,"Coma-ruga, Tarragona, Espanya",research,3755,hectorserranocereijo,cc-by,3,1,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Pennariidae,Pennaria
-295484,2024-07-09,2024-07-09,2024-07-09,16:54:00,actinopterygii,35250,species,Parablennius pilicornis,41.1793888805,1.5272127709,False,"Coma-ruga, Tarragona, Espanya",research,3755,hectorserranocereijo,cc-by,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
 295484,2024-07-09,2024-07-09,2024-07-09,16:54:00,actinopterygii,35250,species,Parablennius pilicornis,41.1793888805,1.5272127709,False,"Coma-ruga, Tarragona, Espanya",research,3755,hectorserranocereijo,cc-by,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
 295483,2024-07-09,2024-07-09,2024-07-09,16:54:00,actinopterygii,34835,species,Coris julis,41.1792736875,1.5269813746,False,"Coma-ruga, Tarragona, Espanya",research,3755,hectorserranocereijo,cc-by,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
 295482,2024-07-09,2024-07-09,2024-07-09,16:54:00,actinopterygii,35250,species,Parablennius pilicornis,41.1788065153,1.5268449119,False,"Coma-ruga, Tarragona, Espanya",research,3755,hectorserranocereijo,cc-by,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
