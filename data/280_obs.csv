@@ -9,7 +9,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 325359,2024-08-11,2024-08-11,2024-08-11,14:20:00,,nan,,,40.8685553468,0.794405363,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
 325358,2024-08-11,2024-08-11,2024-08-11,14:20:00,,nan,,,40.8685523468,0.794402363,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
 325357,2024-08-11,2024-08-11,2024-08-11,14:20:00,,nan,,,40.8685493468,0.794399363,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-325356,2024-08-11,2024-08-11,2024-08-11,14:20:00,actinopterygii,34835,species,Coris julis,40.8685423468,0.794392363,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+325356,2024-08-11,2024-08-11,2024-08-11,14:20:00,actinopterygii,34835,species,Coris julis,40.8685423468,0.794392363,False,,research,5214,urti,cc-by,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
 325354,2024-08-11,2024-08-11,2024-08-11,14:20:00,,nan,,,40.8685353468,0.794385363,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
 325349,2024-08-11,2024-08-11,2024-08-11,14:20:00,,nan,,,40.8685283468,0.794378363,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
 325347,2024-08-11,2024-08-11,2024-08-11,14:20:00,life,1,stateofmatter,Life,40.8685213468,0.794371363,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
@@ -18,7 +18,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 325342,2024-08-11,2024-08-11,2024-08-11,14:08:00,,nan,,,40.8692278724,0.7954024275,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
 325341,2024-08-11,2024-08-11,2024-08-11,14:08:00,,nan,,,40.8692208724,0.7953954275,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
 325340,2024-08-11,2024-08-11,2024-08-11,14:08:00,,nan,,,40.8692138724,0.7953884275,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-325339,2024-08-11,2024-08-11,2024-08-11,14:08:00,,nan,,,40.8692068724,0.7953814275,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+325339,2024-08-11,2024-08-11,2024-08-11,14:08:00,crustacea,35010,species,Eriphia verrucosa,40.8692068724,0.7953814275,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Arthropoda,Malacostraca,Decapoda,Eriphiidae,Eriphia
 325338,2024-08-11,2024-08-11,2024-08-11,14:08:00,,nan,,,40.8691998724,0.7953744275,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
 325337,2024-08-11,2024-08-11,2024-08-11,14:08:00,,nan,,,40.8691928724,0.7953674275,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
 325335,2024-08-11,2024-08-11,2024-08-11,14:08:00,,nan,,,40.8691858724,0.7953604275,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
@@ -61,7 +61,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 324695,2024-08-10,2024-08-11,2024-08-07,11:08:00,actinopterygii,35213,species,Diplodus puntazzo,40.8465519438,0.756034441,False,,research,202,mllarch,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
 324692,2024-08-10,2024-08-11,2024-08-07,11:02:00,plantae,35123,species,Ellisolandia elongata,40.8467392233,0.7566174871,False,,research,202,mllarch,cc-by-nc,1,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,Ellisolandia
 324592,2024-08-10,2024-08-11,2024-08-10,08:37:00,actinopterygii,35282,species,Bothus podas,41.1286322455,1.3586115149,False,,research,582,toni,C,1,0,Animalia,Chordata,Actinopterygii,Pleuronectiformes,Bothidae,Bothus
-324591,2024-08-10,2024-08-10,2024-08-10,20:42:00,chromista,253945,species,Halopteris scoparia,41.12868201,1.358527365,False,"Tarragona, España",needs_id,582,toni,C,0,0,Chromista,Ochrophyta,Phaeophyceae,Sphacelariales,Stypocaulaceae,Halopteris
+324591,2024-08-10,2024-08-11,2024-08-10,20:42:00,chromista,253945,species,Halopteris scoparia,41.12868201,1.358527365,False,"Tarragona, España",needs_id,582,toni,C,0,0,Chromista,Ochrophyta,Phaeophyceae,Sphacelariales,Stypocaulaceae,Halopteris
 324359,2024-08-10,2024-08-11,2024-08-07,11:02:00,plantae,90277,genus,Jania,40.8468928746,0.7566931018,False,,needs_id,202,mllarch,cc-by-nc,3,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,
 324253,2024-08-10,2024-08-10,2024-08-07,11:02:00,actinopterygii,35250,species,Parablennius pilicornis,40.8467704469,0.7566825723,False,,research,202,mllarch,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
 324034,2024-08-09,2024-08-09,2024-08-07,10:56:00,actinopterygii,35250,species,Parablennius pilicornis,40.8467487502,0.7566086653,False,,research,202,mllarch,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius

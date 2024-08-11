@@ -20,7 +20,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 325341,433351,,,https://minka-sdg.org/attachments/local_photos/files/433351/medium.png,urti,40.8692208724,0.7953954275,cc-by,"(c) Jaime, some rights reserved (CC BY)",325341_433351.jpg
 325341,433352,,,https://minka-sdg.org/attachments/local_photos/files/433352/medium.png,urti,40.8692208724,0.7953954275,cc-by,"(c) Jaime, some rights reserved (CC BY)",325341_433352.jpg
 325340,433347,,,https://minka-sdg.org/attachments/local_photos/files/433347/medium.png,urti,40.8692138724,0.7953884275,cc-by,"(c) Jaime, some rights reserved (CC BY)",325340_433347.jpg
-325339,433344,,,https://minka-sdg.org/attachments/local_photos/files/433344/medium.png,urti,40.8692068724,0.7953814275,cc-by,"(c) Jaime, some rights reserved (CC BY)",325339_433344.jpg
+325339,433344,crustacea,Eriphia verrucosa,https://minka-sdg.org/attachments/local_photos/files/433344/medium.png,urti,40.8692068724,0.7953814275,cc-by,"(c) Jaime, some rights reserved (CC BY)",325339_433344.jpg
 325338,433343,,,https://minka-sdg.org/attachments/local_photos/files/433343/medium.png,urti,40.8691998724,0.7953744275,cc-by,"(c) Jaime, some rights reserved (CC BY)",325338_433343.jpg
 325337,433342,,,https://minka-sdg.org/attachments/local_photos/files/433342/medium.png,urti,40.8691928724,0.7953674275,cc-by,"(c) Jaime, some rights reserved (CC BY)",325337_433342.jpg
 325335,433341,,,https://minka-sdg.org/attachments/local_photos/files/433341/medium.png,urti,40.8691858724,0.7953604275,cc-by,"(c) Jaime, some rights reserved (CC BY)",325335_433341.jpg
@@ -72,6 +72,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 324692,432515,plantae,Ellisolandia elongata,https://minka-sdg.org/attachments/local_photos/files/432515/medium.jpeg,mllarch,40.8467392233,0.7566174871,cc-by-nc,"(c) mllarch, some rights reserved (CC BY-NC)",324692_432515.jpg
 324592,432393,actinopterygii,Bothus podas,https://minka-sdg.org/attachments/local_photos/files/432393/medium.jpeg,toni,41.1286322455,1.3586115149,C,"(c) Rovira Jareño, all rights reserved",324592_432393.jpg
 324591,432392,chromista,Halopteris scoparia,https://minka-sdg.org/attachments/local_photos/files/432392/medium.jpeg,toni,41.12868201,1.358527365,C,"(c) Rovira Jareño, all rights reserved",324591_432392.jpg
+324591,434143,chromista,Halopteris scoparia,https://minka-sdg.org/attachments/local_photos/files/434143/medium.jpeg,toni,41.12868201,1.358527365,C,"(c) Rovira Jareño, all rights reserved",324591_434143.jpg
 324359,432096,plantae,Jania,https://minka-sdg.org/attachments/local_photos/files/432096/medium.jpeg,mllarch,40.8468928746,0.7566931018,cc-by-nc,"(c) mllarch, some rights reserved (CC BY-NC)",324359_432096.jpg
 324253,432007,actinopterygii,Parablennius pilicornis,https://minka-sdg.org/attachments/local_photos/files/432007/medium.jpeg,mllarch,40.8467704469,0.7566825723,cc-by-nc,"(c) mllarch, some rights reserved (CC BY-NC)",324253_432007.jpg
 324034,431607,actinopterygii,Parablennius pilicornis,https://minka-sdg.org/attachments/local_photos/files/431607/medium.jpeg,mllarch,40.8467487502,0.7566086653,cc-by-nc,"(c) mllarch, some rights reserved (CC BY-NC)",324034_431607.jpg
