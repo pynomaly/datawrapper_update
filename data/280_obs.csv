@@ -1,50 +1,64 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+326266,2024-08-12,2024-08-12,2024-08-03,22:02:00,,nan,,,40.8791339543,0.8109010421,False,"L'Ametlla de Mar, Tarragona, España",needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
+326265,2024-08-12,2024-08-12,2024-08-03,22:01:00,chromista,35106,species,Padina pavonica,40.8791339543,0.8109010421,False,"L'Ametlla de Mar, Tarragona, España",research,801,sergio_zafra,cc-by-nc,1,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
+326264,2024-08-12,2024-08-12,2024-08-03,22:01:00,chromista,35106,species,Padina pavonica,40.8791339543,0.8109010421,False,"L'Ametlla de Mar, Tarragona, España",research,801,sergio_zafra,cc-by-nc,1,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
+326263,2024-08-12,2024-08-12,2024-08-02,21:54:00,plantae,35128,species,Posidonia oceanica,40.8791339543,0.8109010421,False,"L'Ametlla de Mar, Tarragona, España",research,801,sergio_zafra,cc-by-nc,1,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Posidoniaceae,Posidonia
+326260,2024-08-12,2024-08-12,2024-08-03,22:21:00,,nan,,,40.8791339543,0.8109010421,False,"L'Ametlla de Mar, Tarragona, España",needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
+326259,2024-08-12,2024-08-12,2024-08-03,22:20:00,,nan,,,40.8791339543,0.8109010421,False,"L'Ametlla de Mar, Tarragona, España",needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
+326258,2024-08-12,2024-08-12,2024-08-03,22:20:00,,nan,,,40.8791339543,0.8109010421,False,"L'Ametlla de Mar, Tarragona, España",needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
+326257,2024-08-12,2024-08-12,2024-08-03,22:18:00,,nan,,,40.8791339543,0.8109010421,False,"L'Ametlla de Mar, Tarragona, España",needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
+326256,2024-08-12,2024-08-12,2024-08-03,22:16:00,,nan,,,40.8791339543,0.8109010421,False,"L'Ametlla de Mar, Tarragona, España",needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
+326255,2024-08-12,2024-08-12,2024-08-03,22:12:00,actinopterygii,14022,species,Muraena helena,40.8791339543,0.8109010421,False,"L'Ametlla de Mar, Tarragona, España",needs_id,801,sergio_zafra,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Anguilliformes,Muraenidae,Muraena
+326254,2024-08-12,2024-08-12,2024-08-03,22:08:00,,nan,,,40.8791339543,0.8109010421,False,"L'Ametlla de Mar, Tarragona, España",needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
+326253,2024-08-12,2024-08-12,2024-08-03,22:07:00,,nan,,,40.8791339543,0.8109010421,False,"L'Ametlla de Mar, Tarragona, España",needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
+326252,2024-08-12,2024-08-12,2024-08-03,22:06:00,cnidaria,35220,species,Anemonia viridis,40.8791339543,0.8109010421,False,"L'Ametlla de Mar, Tarragona, España",needs_id,801,sergio_zafra,cc-by-nc,0,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Anemonia
+326251,2024-08-12,2024-08-12,2024-08-03,22:06:00,,nan,,,40.8791339543,0.8109010421,False,"L'Ametlla de Mar, Tarragona, España",needs_id,801,sergio_zafra,cc-by-nc,0,0,,,,,,
 326064,2024-08-11,2024-08-11,2024-08-10,17:04:00,plantae,171,class,Florideophyceae,41.1291672116,1.347727754,False,"La Móra, Tarragona, España",needs_id,582,toni,C,3,0,Plantae,Rhodophyta,,,,
-325375,2024-08-11,2024-08-11,2024-08-07,11:30:00,actinopterygii,35244,species,Parablennius sanguinolentus,40.8465095189,0.7543283193,False,,needs_id,202,mllarch,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
-325374,2024-08-11,2024-08-11,2024-08-11,14:20:00,,nan,,,40.8685913468,0.794441363,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-325372,2024-08-11,2024-08-11,2024-08-11,14:20:00,,nan,,,40.8685883468,0.794438363,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-325364,2024-08-11,2024-08-11,2024-08-11,14:20:00,,nan,,,40.8685783468,0.794428363,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-325362,2024-08-11,2024-08-11,2024-08-11,14:20:00,,nan,,,40.8685753468,0.794425363,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-325360,2024-08-11,2024-08-11,2024-08-11,14:20:00,,nan,,,40.8685653468,0.794415363,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-325359,2024-08-11,2024-08-11,2024-08-11,14:20:00,,nan,,,40.8685553468,0.794405363,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-325358,2024-08-11,2024-08-11,2024-08-11,14:20:00,,nan,,,40.8685523468,0.794402363,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-325357,2024-08-11,2024-08-11,2024-08-11,14:20:00,,nan,,,40.8685493468,0.794399363,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+325375,2024-08-11,2024-08-12,2024-08-07,11:30:00,actinopterygii,35244,species,Parablennius sanguinolentus,40.8465095189,0.7543283193,False,,research,202,mllarch,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+325374,2024-08-11,2024-08-12,2024-08-11,14:20:00,plantae,35093,species,Caulerpa prolifera,40.8685913468,0.794441363,False,,needs_id,5214,urti,cc-by,0,0,Plantae,Chlorophyta,Bryopsidophyceae,Bryopsidales,Caulerpaceae,Caulerpa
+325372,2024-08-11,2024-08-12,2024-08-11,14:20:00,plantae,90277,genus,Jania,40.8685883468,0.794438363,False,,needs_id,5214,urti,cc-by,0,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,
+325364,2024-08-11,2024-08-12,2024-08-11,14:20:00,plantae,35004,species,Halimeda tuna,40.8685783468,0.794428363,False,,needs_id,5214,urti,cc-by,0,0,Plantae,Chlorophyta,Bryopsidophyceae,Bryopsidales,Halimedaceae,Halimeda
+325362,2024-08-11,2024-08-12,2024-08-11,14:20:00,plantae,12569,genus,Peyssonnelia,40.8685753468,0.794425363,False,,needs_id,5214,urti,cc-by,0,0,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Peyssonneliaceae,
+325360,2024-08-11,2024-08-12,2024-08-11,14:20:00,mollusca,252586,species,Ostrea stentina,40.8685653468,0.794415363,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Mollusca,Bivalvia,Ostreida,Ostreidae,Ostrea
+325359,2024-08-11,2024-08-12,2024-08-11,14:20:00,actinopterygii,34841,species,Diplodus annularis,40.8685553468,0.794405363,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+325358,2024-08-11,2024-08-12,2024-08-11,14:20:00,plantae,243333,species,Cymodocea nodosa,40.8685523468,0.794402363,False,,needs_id,5214,urti,cc-by,0,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Cymodoceaceae,Cymodocea
+325357,2024-08-11,2024-08-12,2024-08-11,14:20:00,plantae,243333,species,Cymodocea nodosa,40.8685493468,0.794399363,False,,needs_id,5214,urti,cc-by,0,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Cymodoceaceae,Cymodocea
 325356,2024-08-11,2024-08-11,2024-08-11,14:20:00,actinopterygii,34835,species,Coris julis,40.8685423468,0.794392363,False,,research,5214,urti,cc-by,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
-325354,2024-08-11,2024-08-11,2024-08-11,14:20:00,actinopterygii,35250,species,Parablennius pilicornis,40.8685353468,0.794385363,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
-325349,2024-08-11,2024-08-11,2024-08-11,14:20:00,,nan,,,40.8685283468,0.794378363,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-325347,2024-08-11,2024-08-11,2024-08-11,14:20:00,life,1,stateofmatter,Life,40.8685213468,0.794371363,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-325345,2024-08-11,2024-08-11,2024-08-11,14:20:00,,nan,,,40.8685143468,0.794364363,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-325343,2024-08-11,2024-08-11,2024-08-11,14:08:00,actinopterygii,34837,species,Dicentrarchus labrax,40.8692348724,0.7954094275,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Moronidae,Dicentrarchus
-325342,2024-08-11,2024-08-11,2024-08-11,14:08:00,,nan,,,40.8692278724,0.7954024275,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-325341,2024-08-11,2024-08-11,2024-08-11,14:08:00,,nan,,,40.8692208724,0.7953954275,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-325340,2024-08-11,2024-08-11,2024-08-11,14:08:00,,nan,,,40.8692138724,0.7953884275,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+325354,2024-08-11,2024-08-12,2024-08-11,14:20:00,actinopterygii,35250,species,Parablennius pilicornis,40.8685353468,0.794385363,False,,research,5214,urti,cc-by,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+325349,2024-08-11,2024-08-12,2024-08-11,14:20:00,actinopterygii,34989,species,Parablennius gattorugine,40.8685283468,0.794378363,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+325347,2024-08-11,2024-08-12,2024-08-11,14:20:00,,252060,species,Clibanarius erythropus,40.8685213468,0.794371363,False,,needs_id,5214,urti,cc-by,1,0,Animalia,Arthropoda,Malacostraca,Decapoda,Diogenidae,Clibanarius
+325345,2024-08-11,2024-08-12,2024-08-11,14:20:00,plantae,17971,genus,Laurencia,40.8685143468,0.794364363,False,,needs_id,5214,urti,cc-by,0,0,Plantae,Rhodophyta,Florideophyceae,Ceramiales,Rhodomelaceae,
+325343,2024-08-11,2024-08-12,2024-08-11,14:08:00,actinopterygii,34837,species,Dicentrarchus labrax,40.8692348724,0.7954094275,False,,research,5214,urti,cc-by,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Moronidae,Dicentrarchus
+325342,2024-08-11,2024-08-12,2024-08-11,14:08:00,mollusca,34875,species,Hexaplex trunculus,40.8692278724,0.7954024275,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Mollusca,Gastropoda,Neogastropoda,Muricidae,Hexaplex
+325341,2024-08-11,2024-08-12,2024-08-11,14:08:00,actinopterygii,35244,species,Parablennius sanguinolentus,40.8692208724,0.7953954275,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+325340,2024-08-11,2024-08-12,2024-08-11,14:08:00,actinopterygii,34983,species,Parablennius zvonimiri,40.8692138724,0.7953884275,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
 325339,2024-08-11,2024-08-11,2024-08-11,14:08:00,crustacea,35010,species,Eriphia verrucosa,40.8692068724,0.7953814275,False,,research,5214,urti,cc-by,2,0,Animalia,Arthropoda,Malacostraca,Decapoda,Eriphiidae,Eriphia
-325338,2024-08-11,2024-08-11,2024-08-11,14:08:00,,nan,,,40.8691998724,0.7953744275,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-325337,2024-08-11,2024-08-11,2024-08-11,14:08:00,,nan,,,40.8691928724,0.7953674275,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-325335,2024-08-11,2024-08-11,2024-08-11,14:08:00,,nan,,,40.8691858724,0.7953604275,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-325310,2024-08-11,2024-08-11,2024-08-11,14:08:00,,nan,,,40.8691788724,0.7953534275,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-325238,2024-08-11,2024-08-11,2024-08-11,13:38:00,life,1,stateofmatter,Life,40.8686152349,0.7942203344,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-325237,2024-08-11,2024-08-11,2024-08-11,13:38:00,,nan,,,40.8686082349,0.7942133344,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-325233,2024-08-11,2024-08-11,2024-08-07,11:28:00,actinopterygii,96779,species,Atherina presbyter,40.8463385448,0.7551338302,False,,needs_id,202,mllarch,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Atheriniformes,Atherinidae,Atherina
-325232,2024-08-11,2024-08-11,2024-08-11,13:38:00,,nan,,,40.8686012349,0.7942063344,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-325225,2024-08-11,2024-08-11,2024-08-11,13:38:00,,nan,,,40.8685942349,0.7941993344,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-325222,2024-08-11,2024-08-11,2024-08-11,13:38:00,life,1,stateofmatter,Life,40.8685872349,0.7941923344,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-325221,2024-08-11,2024-08-11,2024-08-11,13:38:00,,nan,,,40.8685802349,0.7941853344,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-325218,2024-08-11,2024-08-11,2024-08-11,13:38:00,actinopterygii,10553,genus,Chromis,40.8685732349,0.7941783344,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,
-325215,2024-08-11,2024-08-11,2024-08-11,13:38:00,actinopterygii,35194,species,Thalassoma pavo,40.8685662349,0.7941713344,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
-325212,2024-08-11,2024-08-11,2024-08-11,13:38:00,,nan,,,40.8685592349,0.7941643344,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-325209,2024-08-11,2024-08-11,2024-08-11,13:38:00,,nan,,,40.8685522349,0.7941573344,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-325207,2024-08-11,2024-08-11,2024-08-11,13:38:00,,nan,,,40.8685452349,0.7941503344,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-325204,2024-08-11,2024-08-11,2024-08-11,13:38:00,,nan,,,40.8685382349,0.7941433344,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+325338,2024-08-11,2024-08-12,2024-08-11,14:08:00,porifera,250844,species,Tethya aurantium,40.8691998724,0.7953744275,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Porifera,Demospongiae,Hadromerida,Tethyidae,Tethya
+325337,2024-08-11,2024-08-12,2024-08-11,14:08:00,,112153,genus,Leptomysis,40.8691928724,0.7953674275,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Arthropoda,Malacostraca,Mysida,Mysidae,
+325335,2024-08-11,2024-08-12,2024-08-11,14:08:00,actinopterygii,35178,species,Parablennius incognitus,40.8691858724,0.7953604275,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+325310,2024-08-11,2024-08-12,2024-08-11,14:08:00,actinopterygii,240391,species,Gobius paganellus,40.8691788724,0.7953534275,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Gobius
+325238,2024-08-11,2024-08-12,2024-08-11,13:38:00,actinopterygii,68960,species,Sparus aurata,40.8686152349,0.7942203344,False,,needs_id,5214,urti,cc-by,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sparus
+325237,2024-08-11,2024-08-12,2024-08-11,13:38:00,ctenophora,243916,species,Leucothea multicornis,40.8686082349,0.7942133344,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Ctenophora,Tentaculata,Lobata,Leucotheidae,Leucothea
+325233,2024-08-11,2024-08-12,2024-08-07,11:28:00,actinopterygii,61913,genus,Atherina,40.8463385448,0.7551338302,False,,needs_id,202,mllarch,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Atheriniformes,Atherinidae,
+325232,2024-08-11,2024-08-12,2024-08-11,13:38:00,aves,257383,species,Gulosus aristotelis,40.8686012349,0.7942063344,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Aves,Ciconiiformes,Phalacrocoracidae,
+325225,2024-08-11,2024-08-12,2024-08-11,13:38:00,porifera,251208,species,Spirastrella cunctatrix,40.8685942349,0.7941993344,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Porifera,Demospongiae,Hadromerida,Spirastrellidae,Spirastrella
+325222,2024-08-11,2024-08-12,2024-08-11,13:38:00,actinopterygii,35125,species,Mullus surmuletus,40.8685872349,0.7941923344,False,,needs_id,5214,urti,cc-by,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Mullidae,Mullus
+325221,2024-08-11,2024-08-12,2024-08-11,13:38:00,actinopterygii,539,order,Pleuronectiformes,40.8685802349,0.7941853344,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,,,
+325218,2024-08-11,2024-08-12,2024-08-11,13:38:00,actinopterygii,35225,species,Chromis chromis,40.8685732349,0.7941783344,False,,needs_id,5214,urti,cc-by,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
+325215,2024-08-11,2024-08-12,2024-08-11,13:38:00,actinopterygii,35194,species,Thalassoma pavo,40.8685662349,0.7941713344,False,,research,5214,urti,cc-by,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
+325212,2024-08-11,2024-08-12,2024-08-11,13:38:00,actinopterygii,35213,species,Diplodus puntazzo,40.8685592349,0.7941643344,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+325209,2024-08-11,2024-08-12,2024-08-11,13:38:00,chromista,251777,species,Cladostephus spongiosus,40.8685522349,0.7941573344,False,,needs_id,5214,urti,cc-by,0,0,Chromista,Ochrophyta,Phaeophyceae,Sphacelariales,Sphacelariaceae,Cladostephus
+325207,2024-08-11,2024-08-12,2024-08-11,13:38:00,chromista,35106,species,Padina pavonica,40.8685452349,0.7941503344,False,,needs_id,5214,urti,cc-by,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
+325204,2024-08-11,2024-08-12,2024-08-11,13:38:00,plantae,90277,genus,Jania,40.8685382349,0.7941433344,False,,needs_id,5214,urti,cc-by,0,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,
 325200,2024-08-11,2024-08-11,2024-08-11,13:38:00,actinopterygii,34835,species,Coris julis,40.8685312349,0.7941363344,False,,needs_id,5214,urti,cc-by,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
-325196,2024-08-11,2024-08-11,2024-08-11,13:38:00,,nan,,,40.8685242349,0.7941293344,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-325193,2024-08-11,2024-08-11,2024-08-11,13:28:00,life,1,stateofmatter,Life,40.8685897588,0.7936148576,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-325192,2024-08-11,2024-08-11,2024-08-11,13:28:00,,nan,,,40.8685827588,0.7936078576,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+325196,2024-08-11,2024-08-12,2024-08-11,13:38:00,plantae,90277,genus,Jania,40.8685242349,0.7941293344,False,,needs_id,5214,urti,cc-by,0,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,
+325193,2024-08-11,2024-08-12,2024-08-11,13:28:00,cnidaria,35166,species,Cladocora caespitosa,40.8685897588,0.7936148576,False,,needs_id,5214,urti,cc-by,1,0,Animalia,Cnidaria,Anthozoa,Scleractinia,Caryophylliidae,Cladocora
+325192,2024-08-11,2024-08-12,2024-08-11,13:28:00,chromista,251777,species,Cladostephus spongiosus,40.8685827588,0.7936078576,False,,needs_id,5214,urti,cc-by,0,0,Chromista,Ochrophyta,Phaeophyceae,Sphacelariales,Sphacelariaceae,Cladostephus
 325191,2024-08-11,2024-08-11,2024-08-11,13:28:00,actinopterygii,35079,species,Symphodus rostratus,40.8685757588,0.7936008576,False,,research,5214,urti,cc-by,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
 325190,2024-08-11,2024-08-11,2024-08-11,13:28:00,mollusca,35092,species,Haliotis tuberculata,40.8685687588,0.7935938576,False,,needs_id,5214,urti,cc-by,1,0,Animalia,Mollusca,Gastropoda,Lepetellida,Haliotidae,Haliotis
-325189,2024-08-11,2024-08-11,2024-08-11,13:28:00,life,1,stateofmatter,Life,40.8685617588,0.7935868576,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-325188,2024-08-11,2024-08-11,2024-08-07,11:25:00,mollusca,241950,species,Pinctada imbricata,40.8465217499,0.7557645647,False,,needs_id,202,mllarch,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Ostreida,Pteriidae,Pinctada
-325164,2024-08-11,2024-08-11,2024-08-07,11:20:00,porifera,56,phylum,Porifera,40.8466750967,0.7558310707,False,,needs_id,202,mllarch,cc-by-nc,0,0,Animalia,,,,,
+325189,2024-08-11,2024-08-12,2024-08-11,13:28:00,cnidaria,34999,species,Actinia mediterranea,40.8685617588,0.7935868576,False,,needs_id,5214,urti,cc-by,1,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Actinia
+325188,2024-08-11,2024-08-12,2024-08-07,11:25:00,mollusca,241950,species,Pinctada imbricata,40.8465217499,0.7557645647,False,,research,202,mllarch,cc-by-nc,1,0,Animalia,Mollusca,Bivalvia,Ostreida,Pteriidae,Pinctada
+325164,2024-08-11,2024-08-12,2024-08-07,11:20:00,porifera,35180,species,Aplysina aerophoba,40.8466750967,0.7558310707,False,,needs_id,202,mllarch,cc-by-nc,1,0,Animalia,Porifera,Demospongiae,Verongida,Aplysinidae,Aplysina
 325163,2024-08-11,2024-08-11,2024-08-11,12:05:00,actinopterygii,240400,species,Oblada melanura,40.911155453,0.8292649314,False,Spain,research,5941,cristii22,cc-by,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Oblada
 324856,2024-08-11,2024-08-11,2024-08-10,10:45:00,elasmobranchii,257011,species,Aetomylaeus bovinus,41.0894664439,1.228466481,False,,research,5181,grigri,cc-by,1,0,Animalia,Chordata,Elasmobranchii,Rajiformes,Myliobatidae,Aetomylaeus
 324855,2024-08-11,2024-08-11,2024-08-07,11:17:00,actinopterygii,35244,species,Parablennius sanguinolentus,40.8466194486,0.7561846795,False,,research,202,mllarch,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
@@ -54,8 +68,8 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 324808,2024-08-11,2024-08-11,2024-08-10,10:53:00,actinopterygii,35194,species,Thalassoma pavo,41.0894454704,1.2286223844,False,,research,5181,grigri,cc-by,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
 324701,2024-08-11,2024-08-11,2024-08-10,08:52:00,cnidaria,35011,species,Pennaria disticha,41.1318754999,1.3521306794,False,"La Móra, Tarragona, España",research,582,toni,C,1,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Pennariidae,Pennaria
 324700,2024-08-11,2024-08-11,2024-08-10,08:32:00,actinopterygii,35194,species,Thalassoma pavo,41.128088061,1.3508243915,False,"La Móra, Tarragona, España",research,582,toni,C,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
-324699,2024-08-11,2024-08-11,2024-08-10,08:39:00,actinopterygii,35250,species,Parablennius pilicornis,41.1277821904,1.3434953741,False,"La Móra, Tarragona, España",needs_id,582,toni,C,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
-324698,2024-08-11,2024-08-11,2024-08-10,08:47:00,actinopterygii,35213,species,Diplodus puntazzo,41.1293844461,1.3588113017,False,"Tarragona, España",needs_id,582,toni,C,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+324699,2024-08-11,2024-08-12,2024-08-10,08:39:00,actinopterygii,35250,species,Parablennius pilicornis,41.1277821904,1.3434953741,False,"La Móra, Tarragona, España",research,582,toni,C,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+324698,2024-08-11,2024-08-12,2024-08-10,08:47:00,actinopterygii,35213,species,Diplodus puntazzo,41.1293844461,1.3588113017,False,"Tarragona, España",research,582,toni,C,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
 324697,2024-08-11,2024-08-11,2024-08-10,08:25:00,actinopterygii,34805,species,Sarpa salpa,41.127254638,1.3521013625,False,"La Móra, Tarragona, España",research,582,toni,C,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
 324696,2024-08-10,2024-08-11,2024-08-07,11:11:00,actinopterygii,240400,species,Oblada melanura,40.8466276611,0.7560655542,False,,research,202,mllarch,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Oblada
 324695,2024-08-10,2024-08-11,2024-08-07,11:08:00,actinopterygii,35213,species,Diplodus puntazzo,40.8465519438,0.756034441,False,,research,202,mllarch,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
