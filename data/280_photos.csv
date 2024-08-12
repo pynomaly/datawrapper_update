@@ -1,7 +1,8 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
-327602,436313,,,https://minka-sdg.org/attachments/local_photos/files/436313/medium.jpg,maperez79,41.0634814369,1.0773393907,cc-by,"(c) Miguel Perez, some rights reserved (CC BY)",327602_436313.jpg
-327601,436312,,,https://minka-sdg.org/attachments/local_photos/files/436312/medium.jpg,maperez79,41.0634784369,1.0773363907,cc-by,"(c) Miguel Perez, some rights reserved (CC BY)",327601_436312.jpg
-327600,436311,,,https://minka-sdg.org/attachments/local_photos/files/436311/medium.jpg,maperez79,41.0634754369,1.0773333907,cc-by,"(c) Miguel Perez, some rights reserved (CC BY)",327600_436311.jpg
+327614,436327,actinopterygii,Chromis chromis,https://minka-sdg.org/attachments/local_photos/files/436327/medium.jpg,cristii22,40.8918445556,0.8271228522,cc-by,"(c) Cristina, some rights reserved (CC BY)",327614_436327.jpg
+327602,436313,actinopterygii,Sciaena umbra,https://minka-sdg.org/attachments/local_photos/files/436313/medium.jpg,maperez79,41.0634814369,1.0773393907,cc-by,"(c) Miguel Perez, some rights reserved (CC BY)",327602_436313.jpg
+327601,436312,mollusca,Octopus vulgaris,https://minka-sdg.org/attachments/local_photos/files/436312/medium.jpg,maperez79,41.0634784369,1.0773363907,cc-by,"(c) Miguel Perez, some rights reserved (CC BY)",327601_436312.jpg
+327600,436311,cnidaria,Actinia striata,https://minka-sdg.org/attachments/local_photos/files/436311/medium.jpg,maperez79,41.0634754369,1.0773333907,cc-by,"(c) Miguel Perez, some rights reserved (CC BY)",327600_436311.jpg
 327568,436292,actinopterygii,Scorpaena porcus,https://minka-sdg.org/attachments/local_photos/files/436292/medium.jpg,maperez79,41.0635191699,1.0769749805,cc-by,"(c) Miguel Perez, some rights reserved (CC BY)",327568_436292.jpg
 327567,436275,,Palaemon elegans,https://minka-sdg.org/attachments/local_photos/files/436275/medium.jpg,maperez79,41.063417986,1.077435615,cc-by,"(c) Miguel Perez, some rights reserved (CC BY)",327567_436275.jpg
 327566,436273,actinopterygii,Symphodus roissali,https://minka-sdg.org/attachments/local_photos/files/436273/medium.jpg,maperez79,41.063414986,1.077432615,cc-by,"(c) Miguel Perez, some rights reserved (CC BY)",327566_436273.jpg
@@ -13,7 +14,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 327390,436168,actinopterygii,Diplodus sargus,https://minka-sdg.org/attachments/local_photos/files/436168/medium.jpg,jaume-piera,40.865638411,0.7884098588,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",327390_436168.jpg
 327389,436167,plantae,Florideophyceae,https://minka-sdg.org/attachments/local_photos/files/436167/medium.jpg,jaume-piera,40.865638411,0.7884098588,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",327389_436167.jpg
 327388,436164,plantae,Jania,https://minka-sdg.org/attachments/local_photos/files/436164/medium.jpg,jaume-piera,40.865638411,0.7884098588,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",327388_436164.jpg
-327387,436166,plantae,Florideophyceae,https://minka-sdg.org/attachments/local_photos/files/436166/medium.jpg,jaume-piera,40.865638411,0.7884098588,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",327387_436166.jpg
+327387,436166,plantae,Laurencia,https://minka-sdg.org/attachments/local_photos/files/436166/medium.jpg,jaume-piera,40.865638411,0.7884098588,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",327387_436166.jpg
 327386,436164,chromista,Padina pavonica,https://minka-sdg.org/attachments/local_photos/files/436164/medium.jpg,jaume-piera,40.865638411,0.7884098588,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",327386_436164.jpg
 327385,436162,actinopterygii,Sarpa salpa,https://minka-sdg.org/attachments/local_photos/files/436162/medium.jpg,jaume-piera,40.865638411,0.7884098588,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",327385_436162.jpg
 327384,436161,actinopterygii,Sparus aurata,https://minka-sdg.org/attachments/local_photos/files/436161/medium.jpg,jaume-piera,40.865638411,0.7884098588,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",327384_436161.jpg
