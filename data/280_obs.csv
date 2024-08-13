@@ -1,4 +1,5 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+327658,2024-08-12,2024-08-12,2024-08-10,17:00:00,actinopterygii,10146,genus,Epinephelus,40.9755223555,0.9025676921,False,Spain,needs_id,5965,sosonacho,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,
 327614,2024-08-12,2024-08-12,2024-08-12,20:38:00,actinopterygii,35225,species,Chromis chromis,40.8918445556,0.8271228522,False,,research,5941,cristii22,cc-by,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
 327602,2024-08-12,2024-08-12,2024-08-06,17:02:00,actinopterygii,34993,species,Sciaena umbra,41.0634814369,1.0773393907,False,,research,5366,maperez79,cc-by,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Sciaenidae,Sciaena
 327601,2024-08-12,2024-08-12,2024-08-06,17:02:00,mollusca,35075,species,Octopus vulgaris,41.0634784369,1.0773363907,False,,research,5366,maperez79,cc-by,2,0,Animalia,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus
