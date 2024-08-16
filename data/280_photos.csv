@@ -1,8 +1,9 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
-330706,439937,,,https://minka-sdg.org/attachments/local_photos/files/439937/medium.jpg,maperez79,41.0635945984,1.0774067346,cc-by,"(c) Miguel Perez, some rights reserved (CC BY)",330706_439937.jpg
+330707,439965,actinopterygii,Sarpa salpa,https://minka-sdg.org/attachments/local_photos/files/439965/medium.jpg,villi7,40.9111065513,0.8297510818,cc-by,"(c) David, some rights reserved (CC BY)",330707_439965.jpg
+330706,439937,actinopterygii,Scorpaena maderensis,https://minka-sdg.org/attachments/local_photos/files/439937/medium.jpg,maperez79,41.0635945984,1.0774067346,cc-by,"(c) Miguel Perez, some rights reserved (CC BY)",330706_439937.jpg
 330705,439936,,Lysmata seticaudata,https://minka-sdg.org/attachments/local_photos/files/439936/medium.jpg,maperez79,41.0635875984,1.0773997346,cc-by,"(c) Miguel Perez, some rights reserved (CC BY)",330705_439936.jpg
-330704,439934,,,https://minka-sdg.org/attachments/local_photos/files/439934/medium.jpg,maperez79,41.0635805984,1.0773927346,cc-by,"(c) Miguel Perez, some rights reserved (CC BY)",330704_439934.jpg
-330704,439935,,,https://minka-sdg.org/attachments/local_photos/files/439935/medium.jpg,maperez79,41.0635805984,1.0773927346,cc-by,"(c) Miguel Perez, some rights reserved (CC BY)",330704_439935.jpg
+330704,439934,actinopterygii,Epinephelus marginatus,https://minka-sdg.org/attachments/local_photos/files/439934/medium.jpg,maperez79,41.0635805984,1.0773927346,cc-by,"(c) Miguel Perez, some rights reserved (CC BY)",330704_439934.jpg
+330704,439935,actinopterygii,Epinephelus marginatus,https://minka-sdg.org/attachments/local_photos/files/439935/medium.jpg,maperez79,41.0635805984,1.0773927346,cc-by,"(c) Miguel Perez, some rights reserved (CC BY)",330704_439935.jpg
 330701,439928,animalia,Aplidium elegans,https://minka-sdg.org/attachments/local_photos/files/439928/medium.jpg,toni,41.0893527323,1.2288165092,C,"(c) Rovira Jareño, all rights reserved",330701_439928.jpg
 330700,438260,mollusca,Nemesignis banyulensis,https://minka-sdg.org/attachments/local_photos/files/438260/medium.jpeg,ealcaniz,41.089400234,1.2292238732,cc-by-nc-sa,"(c) Edu Alcaniz, some rights reserved (CC BY-NC-SA)",330700_438260.jpg
 330356,439537,plantae,Posidonia oceanica,https://minka-sdg.org/attachments/local_photos/files/439537/medium.jpeg,annacanela,40.8235526092,0.7389120474,cc-by-nc,"(c) Anna Canela Badrinas, some rights reserved (CC BY-NC)",330356_439537.jpg
