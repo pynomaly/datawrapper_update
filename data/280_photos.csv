@@ -1,4 +1,7 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+332000,441445,,,https://minka-sdg.org/attachments/local_photos/files/441445/medium.jpg,davidtsh,41.1662424956,1.4744166482,cc-by-nc-sa,"(c) David Alandí, some rights reserved (CC BY-NC-SA)",332000_441445.jpg
+331999,441444,,,https://minka-sdg.org/attachments/local_photos/files/441444/medium.jpg,davidtsh,41.1662394956,1.4744136482,cc-by-nc-sa,"(c) David Alandí, some rights reserved (CC BY-NC-SA)",331999_441444.jpg
+331998,441443,,,https://minka-sdg.org/attachments/local_photos/files/441443/medium.png,urti,40.8683207084,0.793428657,cc-by,"(c) Jaime, some rights reserved (CC BY)",331998_441443.jpg
 331997,441442,,,https://minka-sdg.org/attachments/local_photos/files/441442/medium.png,urti,40.8683137084,0.793421657,cc-by,"(c) Jaime, some rights reserved (CC BY)",331997_441442.jpg
 331996,441440,,,https://minka-sdg.org/attachments/local_photos/files/441440/medium.png,urti,40.8683067084,0.793414657,cc-by,"(c) Jaime, some rights reserved (CC BY)",331996_441440.jpg
 331996,441441,,,https://minka-sdg.org/attachments/local_photos/files/441441/medium.png,urti,40.8683067084,0.793414657,cc-by,"(c) Jaime, some rights reserved (CC BY)",331996_441441.jpg
@@ -1125,7 +1128,6 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 326064,434124,plantae,Florideophyceae,https://minka-sdg.org/attachments/local_photos/files/434124/medium.jpg,toni,41.1291672116,1.347727754,C,"(c) Rovira Jareño, all rights reserved",326064_434124.jpg
 325375,433386,actinopterygii,Parablennius sanguinolentus,https://minka-sdg.org/attachments/local_photos/files/433386/medium.jpeg,mllarch,40.8465095189,0.7543283193,cc-by-nc,"(c) mllarch, some rights reserved (CC BY-NC)",325375_433386.jpg
 325374,433390,plantae,Caulerpa prolifera,https://minka-sdg.org/attachments/local_photos/files/433390/medium.png,urti,40.8685913468,0.794441363,cc-by,"(c) Jaime, some rights reserved (CC BY)",325374_433390.jpg
-325372,433388,plantae,Jania,https://minka-sdg.org/attachments/local_photos/files/433388/medium.png,urti,40.8685883468,0.794438363,cc-by,"(c) Jaime, some rights reserved (CC BY)",325372_433388.jpg
 325364,433384,plantae,Halimeda tuna,https://minka-sdg.org/attachments/local_photos/files/433384/medium.png,urti,40.8685783468,0.794428363,cc-by,"(c) Jaime, some rights reserved (CC BY)",325364_433384.jpg
 325362,433383,plantae,Peyssonnelia,https://minka-sdg.org/attachments/local_photos/files/433383/medium.png,urti,40.8685753468,0.794425363,cc-by,"(c) Jaime, some rights reserved (CC BY)",325362_433383.jpg
 325360,433381,mollusca,Ostrea stentina,https://minka-sdg.org/attachments/local_photos/files/433381/medium.png,urti,40.8685653468,0.794415363,cc-by,"(c) Jaime, some rights reserved (CC BY)",325360_433381.jpg
@@ -8409,7 +8411,6 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 276735,371010,animalia,Lissoclinum weigelei,https://minka-sdg.org/attachments/local_photos/files/371010/medium.jpeg,bertinhaco,41.1044718752,1.2486709548,cc-by-nc,"(c) Berta Companys Oliva, some rights reserved (CC BY-NC)",276735_371010.jpg
 276734,371009,plantae,Peyssonnelia,https://minka-sdg.org/attachments/local_photos/files/371009/medium.jpeg,bertinhaco,41.1044718752,1.2486709548,cc-by-nc,"(c) Berta Companys Oliva, some rights reserved (CC BY-NC)",276734_371009.jpg
 276733,371007,mollusca,Rocellaria dubia,https://minka-sdg.org/attachments/local_photos/files/371007/medium.jpeg,bertinhaco,41.1044718752,1.2486709548,cc-by-nc,"(c) Berta Companys Oliva, some rights reserved (CC BY-NC)",276733_371007.jpg
-276732,371008,porifera,Phorbas tenacior,https://minka-sdg.org/attachments/local_photos/files/371008/medium.jpeg,bertinhaco,41.1044718752,1.2486709548,cc-by-nc,"(c) Berta Companys Oliva, some rights reserved (CC BY-NC)",276732_371008.jpg
 276732,371008,porifera,Phorbas tenacior,https://minka-sdg.org/attachments/local_photos/files/371008/medium.jpeg,bertinhaco,41.1044718752,1.2486709548,cc-by-nc,"(c) Berta Companys Oliva, some rights reserved (CC BY-NC)",276732_371008.jpg
 276731,371006,actinopterygii,Chromis chromis,https://minka-sdg.org/attachments/local_photos/files/371006/medium.jpeg,bertinhaco,41.1044718752,1.2486709548,cc-by-nc,"(c) Berta Companys Oliva, some rights reserved (CC BY-NC)",276731_371006.jpg
 276730,371005,actinopterygii,Symphodus tinca,https://minka-sdg.org/attachments/local_photos/files/371005/medium.jpeg,bertinhaco,41.1044718752,1.2486709548,cc-by-nc,"(c) Berta Companys Oliva, some rights reserved (CC BY-NC)",276730_371005.jpg
