@@ -1,4 +1,15 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+331990,2024-08-17,2024-08-17,2024-08-10,18:59:00,actinopterygii,240394,species,Atherina boyeri,40.9100660556,0.8318670687,False,Spain,needs_id,758,francesca,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Atheriniformes,Atherinidae,Atherina
+331989,2024-08-17,2024-08-17,2024-08-10,18:59:00,actinopterygii,34805,species,Sarpa salpa,40.9100660556,0.8318670687,False,Spain,needs_id,758,francesca,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
+331988,2024-08-17,2024-08-17,2024-08-10,18:59:00,animalia,240420,species,Salpa maxima,40.9100660556,0.8318670687,False,Spain,needs_id,758,francesca,cc-by-nc,0,0,Animalia,Chordata,Thaliacea,Salpida,Salpidae,Salpa
+331987,2024-08-17,2024-08-17,2024-08-10,18:59:00,mollusca,119,class,Bivalvia,40.9100660556,0.8318670687,False,Spain,needs_id,758,francesca,cc-by-nc,0,0,Animalia,Mollusca,,,,
+331986,2024-08-17,2024-08-17,2024-08-10,18:59:00,mollusca,11305,genus,Sepia,40.9100660556,0.8318670687,False,Spain,needs_id,758,francesca,cc-by-nc,0,0,Animalia,Mollusca,Cephalopoda,Sepiida,Sepiidae,
+331985,2024-08-17,2024-08-17,2024-08-10,18:59:00,plantae,64,phylum,Rhodophyta,40.9100660556,0.8318670687,False,Spain,needs_id,758,francesca,cc-by-nc,0,0,Plantae,,,,,
+331984,2024-08-17,2024-08-17,2024-08-10,18:59:00,mollusca,769,order,Octopoda,40.9100660556,0.8318670687,False,Spain,needs_id,758,francesca,cc-by-nc,0,0,Animalia,Mollusca,Cephalopoda,,,
+331983,2024-08-17,2024-08-17,2024-08-10,18:59:00,actinopterygii,248675,species,Scophthalmus rhombus,40.9100660556,0.8318670687,False,Spain,needs_id,758,francesca,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Pleuronectiformes,Scophthalmidae,Scophthalmus
+331982,2024-08-17,2024-08-17,2024-08-10,18:59:00,actinopterygii,34798,species,Diplodus vulgaris,40.9100660556,0.8318670687,False,Spain,needs_id,758,francesca,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+331981,2024-08-17,2024-08-17,2024-08-10,18:59:00,mollusca,15,phylum,Mollusca,40.9100660556,0.8318670687,False,sepiera,needs_id,758,francesca,cc-by-nc,0,0,Animalia,,,,,
+331978,2024-08-17,2024-08-17,2024-08-17,09:12:00,,nan,,,41.1663788185,1.4736887813,False,,needs_id,918,davidtsh,cc0,0,0,,,,,,
 331872,2024-08-17,2024-08-17,2024-08-17,07:55:00,cnidaria,34827,species,Oculina patagonica,41.1302118234,1.3614159212,False,"43008 Tamarit, Tarragona, España",research,582,toni,C,1,0,Animalia,Cnidaria,Anthozoa,Scleractinia,Oculinidae,Oculina
 331859,2024-08-17,2024-08-17,2024-08-17,06:43:00,aves,243187,species,Larus michahellis,41.0617028333,1.0814083333,False,,research,6023,rosamarivs,cc-by,1,0,Animalia,Chordata,Aves,Ciconiiformes,Laridae,Larus
 331858,2024-08-17,2024-08-17,2024-08-17,07:11:00,actinopterygii,34837,species,Dicentrarchus labrax,41.0637945,1.0785221667,False,,research,6023,rosamarivs,cc-by,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Moronidae,Dicentrarchus
