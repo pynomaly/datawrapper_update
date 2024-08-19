@@ -1,9 +1,14 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
-333030,442562,actinopterygii,Atherina boyeri,https://minka-sdg.org/attachments/local_photos/files/442562/medium.jpeg,toni,41.1301262167,1.3605669843,C,"(c) Rovira Jareño, all rights reserved",333030_442562.jpg
+333032,442568,plantae,Laurencia,https://minka-sdg.org/attachments/local_photos/files/442568/medium.jpeg,toni,41.1294911371,1.3475020211,C,"(c) Rovira Jareño, all rights reserved",333032_442568.jpg
+333031,442563,cnidaria,Cotylorhiza tuberculata,https://minka-sdg.org/attachments/local_photos/files/442563/medium.jpeg,toni,41.1281479789,1.3565765373,C,"(c) Rovira Jareño, all rights reserved",333031_442563.jpg
+333031,442566,cnidaria,Cotylorhiza tuberculata,https://minka-sdg.org/attachments/local_photos/files/442566/medium.jpeg,toni,41.1281479789,1.3565765373,C,"(c) Rovira Jareño, all rights reserved",333031_442566.jpg
+333030,442562,actinopterygii,Atherina,https://minka-sdg.org/attachments/local_photos/files/442562/medium.jpeg,toni,41.1301262167,1.3605669843,C,"(c) Rovira Jareño, all rights reserved",333030_442562.jpg
+333030,442564,actinopterygii,Atherina,https://minka-sdg.org/attachments/local_photos/files/442564/medium.jpeg,toni,41.1301262167,1.3605669843,C,"(c) Rovira Jareño, all rights reserved",333030_442564.jpg
+333030,442565,actinopterygii,Atherina,https://minka-sdg.org/attachments/local_photos/files/442565/medium.jpeg,toni,41.1301262167,1.3605669843,C,"(c) Rovira Jareño, all rights reserved",333030_442565.jpg
 333018,442557,chromista,Padina pavonica,https://minka-sdg.org/attachments/local_photos/files/442557/medium.png,urti,40.8850052849,0.8076565921,cc-by,"(c) Jaime, some rights reserved (CC BY)",333018_442557.jpg
 333010,442553,actinopterygii,Coris julis,https://minka-sdg.org/attachments/local_photos/files/442553/medium.png,urti,40.8847249834,0.8073229049,cc-by,"(c) Jaime, some rights reserved (CC BY)",333010_442553.jpg
 333005,442551,actinopterygii,Perciformes,https://minka-sdg.org/attachments/local_photos/files/442551/medium.png,urti,40.8847219834,0.8073199049,cc-by,"(c) Jaime, some rights reserved (CC BY)",333005_442551.jpg
-332824,442390,cnidaria,Scleractinia,https://minka-sdg.org/attachments/local_photos/files/442390/medium.jpeg,albertvim,41.0898288,1.2279686,cc-by,"(c) albertvim, some rights reserved (CC BY)",332824_442390.jpg
+332824,442390,cnidaria,Oculina patagonica,https://minka-sdg.org/attachments/local_photos/files/442390/medium.jpeg,albertvim,41.0898288,1.2279686,cc-by,"(c) albertvim, some rights reserved (CC BY)",332824_442390.jpg
 332823,442389,mollusca,Cratena peregrina,https://minka-sdg.org/attachments/local_photos/files/442389/medium.jpeg,albertvim,41.0898288,1.2279686,cc-by,"(c) albertvim, some rights reserved (CC BY)",332823_442389.jpg
 332822,442388,mollusca,Nemesignis banyulensis,https://minka-sdg.org/attachments/local_photos/files/442388/medium.jpeg,albertvim,41.0898288,1.2279686,cc-by,"(c) albertvim, some rights reserved (CC BY)",332822_442388.jpg
 332804,442372,actinopterygii,Scorpaena notata,https://minka-sdg.org/attachments/local_photos/files/442372/medium.jpeg,albertvim,41.1440967,1.4009454,cc-by,"(c) albertvim, some rights reserved (CC BY)",332804_442372.jpg
@@ -86,7 +91,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 332561,442111,cnidaria,Aiptasia couchi,https://minka-sdg.org/attachments/local_photos/files/442111/medium.png,urti,40.8847159834,0.8073139049,cc-by,"(c) Jaime, some rights reserved (CC BY)",332561_442111.jpg
 332560,442110,plantae,Posidonia oceanica,https://minka-sdg.org/attachments/local_photos/files/442110/medium.png,urti,40.8847129834,0.8073109049,cc-by,"(c) Jaime, some rights reserved (CC BY)",332560_442110.jpg
 332559,442109,plantae,Laurencia,https://minka-sdg.org/attachments/local_photos/files/442109/medium.png,urti,40.8847099834,0.8073079049,cc-by,"(c) Jaime, some rights reserved (CC BY)",332559_442109.jpg
-332558,442108,plantae,Jania,https://minka-sdg.org/attachments/local_photos/files/442108/medium.png,urti,40.8847069834,0.8073049049,cc-by,"(c) Jaime, some rights reserved (CC BY)",332558_442108.jpg
+332558,442108,life,Life,https://minka-sdg.org/attachments/local_photos/files/442108/medium.png,urti,40.8847069834,0.8073049049,cc-by,"(c) Jaime, some rights reserved (CC BY)",332558_442108.jpg
 332557,442107,actinopterygii,Sarpa salpa,https://minka-sdg.org/attachments/local_photos/files/442107/medium.png,urti,40.8847039834,0.8073019049,cc-by,"(c) Jaime, some rights reserved (CC BY)",332557_442107.jpg
 332556,442106,actinopterygii,Chromis chromis,https://minka-sdg.org/attachments/local_photos/files/442106/medium.png,urti,40.8847009834,0.8072989049,cc-by,"(c) Jaime, some rights reserved (CC BY)",332556_442106.jpg
 332555,442105,actinopterygii,Symphodus ocellatus,https://minka-sdg.org/attachments/local_photos/files/442105/medium.png,urti,40.8846979834,0.8072959049,cc-by,"(c) Jaime, some rights reserved (CC BY)",332555_442105.jpg
@@ -285,6 +290,9 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 331981,441406,mollusca,Patella rustica,https://minka-sdg.org/attachments/local_photos/files/441406/medium.jpeg,francesca,40.9100660556,0.8318670687,cc-by-nc,"(c) francesca, some rights reserved (CC BY-NC)",331981_441406.jpg
 331978,441419,actinopterygii,Bothus podas,https://minka-sdg.org/attachments/local_photos/files/441419/medium.jpg,davidtsh,41.1663788185,1.4736887813,cc-by-nc-sa,"(c) David Alandí, some rights reserved (CC BY-NC-SA)",331978_441419.jpg
 331872,441245,cnidaria,Oculina patagonica,https://minka-sdg.org/attachments/local_photos/files/441245/medium.jpeg,toni,41.1302118234,1.3614159212,C,"(c) Rovira Jareño, all rights reserved",331872_441245.jpg
+331872,442569,cnidaria,Oculina patagonica,https://minka-sdg.org/attachments/local_photos/files/442569/medium.jpeg,toni,41.1302118234,1.3614159212,C,"(c) Rovira Jareño, all rights reserved",331872_442569.jpg
+331872,442570,cnidaria,Oculina patagonica,https://minka-sdg.org/attachments/local_photos/files/442570/medium.jpeg,toni,41.1302118234,1.3614159212,C,"(c) Rovira Jareño, all rights reserved",331872_442570.jpg
+331872,442571,cnidaria,Oculina patagonica,https://minka-sdg.org/attachments/local_photos/files/442571/medium.jpeg,toni,41.1302118234,1.3614159212,C,"(c) Rovira Jareño, all rights reserved",331872_442571.jpg
 331859,441225,aves,Larus michahellis,https://minka-sdg.org/attachments/local_photos/files/441225/medium.jpg,rosamarivs,41.0617028333,1.0814083333,cc-by,"(c) Rosa Maria Vilella, some rights reserved (CC BY)",331859_441225.jpg
 331858,441224,actinopterygii,Dicentrarchus labrax,https://minka-sdg.org/attachments/local_photos/files/441224/medium.jpg,rosamarivs,41.0637945,1.0785221667,cc-by,"(c) Rosa Maria Vilella, some rights reserved (CC BY)",331858_441224.jpg
 331397,440690,echinodermata,Coscinasterias tenuispina,https://minka-sdg.org/attachments/local_photos/files/440690/medium.jpg,rosamarivs,41.0632055,1.0775445,cc-by,"(c) Rosa Maria Vilella, some rights reserved (CC BY)",331397_440690.jpg
