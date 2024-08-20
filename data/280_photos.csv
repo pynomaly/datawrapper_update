@@ -1,4 +1,6 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+333924,443874,,,https://minka-sdg.org/attachments/local_photos/files/443874/medium.png,aff,40.9110489833,0.8331590621,cc-by,"(c) Àngels Folch, some rights reserved (CC BY)",333924_443874.jpg
+333923,443873,,,https://minka-sdg.org/attachments/local_photos/files/443873/medium.png,aff,40.9110489833,0.8331590621,cc-by,"(c) Àngels Folch, some rights reserved (CC BY)",333923_443873.jpg
 333871,443824,actinopterygii,Epinephelus marginatus,https://minka-sdg.org/attachments/local_photos/files/443824/medium.jpg,rosamarivs,41.0637583333,1.0757221667,cc-by,"(c) Rosa Maria Vilella, some rights reserved (CC BY)",333871_443824.jpg
 333869,443820,cnidaria,Cotylorhiza tuberculata,https://minka-sdg.org/attachments/local_photos/files/443820/medium.jpg,rosamarivs,41.0641857793,1.0751309618,cc-by,"(c) Rosa Maria Vilella, some rights reserved (CC BY)",333869_443820.jpg
 333868,443819,actinopterygii,Diplodus sargus,https://minka-sdg.org/attachments/local_photos/files/443819/medium.jpg,rosamarivs,41.0641857793,1.0751309618,cc-by,"(c) Rosa Maria Vilella, some rights reserved (CC BY)",333868_443819.jpg
@@ -7100,9 +7102,9 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 289869,388993,chromista,Dictyota dichotoma,https://minka-sdg.org/attachments/local_photos/files/388993/medium.jpeg,berta03,41.1774422246,1.5276972942,cc-by,"(c) berta03, some rights reserved (CC BY)",289869_388993.jpg
 289868,388991,plantae,Asparagopsis taxiformis,https://minka-sdg.org/attachments/local_photos/files/388991/medium.jpeg,berta03,41.1772272709,1.5278506603,cc-by,"(c) berta03, some rights reserved (CC BY)",289868_388991.jpg
 289868,388992,plantae,Asparagopsis taxiformis,https://minka-sdg.org/attachments/local_photos/files/388992/medium.jpeg,berta03,41.1772272709,1.5278506603,cc-by,"(c) berta03, some rights reserved (CC BY)",289868_388992.jpg
-288997,387695,animalia,Animalia,https://minka-sdg.org/attachments/local_photos/files/387695/medium.png,aff,40.8697157214,0.8255802544,cc-by,"(c) Àngels Folch, some rights reserved (CC BY)",288997_387695.jpg
-288997,387749,animalia,Animalia,https://minka-sdg.org/attachments/local_photos/files/387749/medium.png,aff,40.8697157214,0.8255802544,cc-by,"(c) Àngels Folch, some rights reserved (CC BY)",288997_387749.jpg
-288997,387750,animalia,Animalia,https://minka-sdg.org/attachments/local_photos/files/387750/medium.png,aff,40.8697157214,0.8255802544,cc-by,"(c) Àngels Folch, some rights reserved (CC BY)",288997_387750.jpg
+288997,387695,annelida,Filograna implexa,https://minka-sdg.org/attachments/local_photos/files/387695/medium.png,aff,40.8697157214,0.8255802544,cc-by,"(c) Àngels Folch, some rights reserved (CC BY)",288997_387695.jpg
+288997,387749,annelida,Filograna implexa,https://minka-sdg.org/attachments/local_photos/files/387749/medium.png,aff,40.8697157214,0.8255802544,cc-by,"(c) Àngels Folch, some rights reserved (CC BY)",288997_387749.jpg
+288997,387750,annelida,Filograna implexa,https://minka-sdg.org/attachments/local_photos/files/387750/medium.png,aff,40.8697157214,0.8255802544,cc-by,"(c) Àngels Folch, some rights reserved (CC BY)",288997_387750.jpg
 288912,387496,plantae,Acetabularia acetabulum,https://minka-sdg.org/attachments/local_photos/files/387496/medium.jpg,jaume-piera,40.8578729969,0.7704030485,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",288912_387496.jpg
 288911,387496,actinopterygii,Aidablennius sphynx,https://minka-sdg.org/attachments/local_photos/files/387496/medium.jpg,jaume-piera,40.8578729969,0.7704030485,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",288911_387496.jpg
 288910,387495,plantae,Acetabularia acetabulum,https://minka-sdg.org/attachments/local_photos/files/387495/medium.jpg,jaume-piera,40.8578729969,0.7704030485,cc-by-nc,"(c) Jaume Piera, some rights reserved (CC BY-NC)",288910_387495.jpg
