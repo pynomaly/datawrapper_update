@@ -1,4 +1,83 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+334479,2024-08-20,2024-08-20,2024-07-29,11:52:00,,nan,,,40.9089418536,0.8329989921,False,Spain,needs_id,931,jennifer,cc-by-nc,0,0,,,,,,
+334477,2024-08-20,2024-08-20,2024-07-29,11:52:00,,nan,,,40.9089348536,0.8329919921,False,Spain,needs_id,931,jennifer,cc-by-nc,0,0,,,,,,
+334476,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846566854,0.7561914624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334474,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846563854,0.7561884624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334473,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846560854,0.7561854624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334471,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846557854,0.7561824624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334470,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846554854,0.7561794624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334469,2024-08-20,2024-08-20,2024-07-29,11:52:00,,nan,,,40.9089208536,0.8329779921,False,Spain,needs_id,931,jennifer,cc-by-nc,0,0,,,,,,
+334468,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846551854,0.7561764624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334467,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846548854,0.7561734624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334466,2024-08-20,2024-08-20,2024-07-29,11:52:00,,nan,,,40.9089138536,0.8329709921,False,Spain,needs_id,931,jennifer,cc-by-nc,0,0,,,,,,
+334465,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846545854,0.7561704624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334464,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846542854,0.7561674624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334463,2024-08-20,2024-08-20,2024-07-29,11:52:00,,nan,,,40.9089068536,0.8329639921,False,Spain,needs_id,931,jennifer,cc-by-nc,0,0,,,,,,
+334462,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846539854,0.7561644624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334461,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846536854,0.7561614624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334460,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846533854,0.7561584624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334459,2024-08-20,2024-08-20,2024-07-29,11:52:00,,nan,,,40.9088998536,0.8329569921,False,Spain,needs_id,931,jennifer,cc-by-nc,0,0,,,,,,
+334458,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846530854,0.7561554624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334456,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846527854,0.7561524624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334455,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846524854,0.7561494624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334454,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846521854,0.7561464624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334453,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846518854,0.7561434624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334452,2024-08-20,2024-08-20,2024-07-29,10:50:00,,nan,,,40.9093169249,0.8337220922,False,Spain,needs_id,931,jennifer,cc-by-nc,0,0,,,,,,
+334451,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846515854,0.7561404624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334449,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846512854,0.7561374624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334448,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846509854,0.7561344624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334447,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846506854,0.7561314624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334446,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846503854,0.7561284624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334445,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846500854,0.7561254624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334444,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846497854,0.7561224624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334443,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846494854,0.7561194624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334442,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846491854,0.7561164624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334440,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846488854,0.7561134624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334439,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846485854,0.7561104624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334438,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846482854,0.7561074624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334437,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846479854,0.7561044624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334436,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846476854,0.7561014624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334435,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846473854,0.7560984624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334433,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846470854,0.7560954624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334432,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846467854,0.7560924624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334431,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846464854,0.7560894624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334430,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846461854,0.7560864624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334429,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846458854,0.7560834624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334428,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846455854,0.7560804624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334426,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846452854,0.7560774624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334425,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846449854,0.7560744624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334424,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846446854,0.7560714624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334423,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846443854,0.7560684624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334422,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846440854,0.7560654624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334421,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846437854,0.7560624624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334420,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846434854,0.7560594624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334418,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846431854,0.7560564624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334417,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846428854,0.7560534624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334416,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846425854,0.7560504624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334415,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846422854,0.7560474624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334414,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846419854,0.7560444624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334413,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846416854,0.7560414624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334411,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846413854,0.7560384624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334410,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846410854,0.7560354624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334408,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846407854,0.7560324624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334406,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846404854,0.7560294624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334404,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846401854,0.7560264624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334402,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846398854,0.7560234624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334400,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846395854,0.7560204624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334398,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846392854,0.7560174624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334397,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846389854,0.7560144624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334396,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846386854,0.7560114624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334395,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846383854,0.7560084624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334394,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846380854,0.7560054624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334392,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846377854,0.7560024624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334391,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846374854,0.7559994624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334390,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846371854,0.7559964624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334389,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846368854,0.7559934624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334388,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846365854,0.7559904624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334387,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846362854,0.7559874624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334386,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846359854,0.7559844624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334385,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846356854,0.7559814624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334384,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846353854,0.7559784624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
 334383,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846350854,0.7559754624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
 334382,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846347854,0.7559724624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
 334381,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846344854,0.7559694624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
@@ -7,27 +86,27 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 334377,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846335854,0.7559604624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
 334376,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846332854,0.7559574624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
 334374,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846329854,0.7559544624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-334373,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846326854,0.7559514624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-334372,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846323854,0.7559484624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-334371,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846320854,0.7559454624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-334369,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846317854,0.7559424624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-334368,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846314854,0.7559394624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-334367,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846311854,0.7559364624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-334366,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846308854,0.7559334624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-334364,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846305854,0.7559304624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-334363,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846302854,0.7559274624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334373,2024-08-20,2024-08-20,2024-08-20,11:29:00,actinopterygii,35213,species,Diplodus puntazzo,40.846326854,0.7559514624,False,,research,5214,urti,cc-by,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+334372,2024-08-20,2024-08-20,2024-08-20,11:29:00,actinopterygii,34805,species,Sarpa salpa,40.846323854,0.7559484624,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
+334371,2024-08-20,2024-08-20,2024-08-20,11:29:00,actinopterygii,240400,species,Oblada melanura,40.846320854,0.7559454624,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Oblada
+334369,2024-08-20,2024-08-20,2024-08-20,11:29:00,actinopterygii,34835,species,Coris julis,40.846317854,0.7559424624,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+334368,2024-08-20,2024-08-20,2024-08-20,11:29:00,actinopterygii,35250,species,Parablennius pilicornis,40.846314854,0.7559394624,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+334367,2024-08-20,2024-08-20,2024-08-20,11:29:00,actinopterygii,12378,species,Apogon imberbis,40.846311854,0.7559364624,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Apogonidae,Apogon
+334366,2024-08-20,2024-08-20,2024-08-20,11:29:00,actinopterygii,240428,species,Microlipophrys nigriceps,40.846308854,0.7559334624,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Microlipophrys
+334364,2024-08-20,2024-08-20,2024-08-20,11:29:00,actinopterygii,35250,species,Parablennius pilicornis,40.846305854,0.7559304624,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+334363,2024-08-20,2024-08-20,2024-08-20,11:29:00,crustacea,1561,family,Mysidae,40.846302854,0.7559274624,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Arthropoda,Malacostraca,Mysida,,
 334362,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846299854,0.7559244624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-334360,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846296854,0.7559214624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-334359,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846293854,0.7559184624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-334358,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846290854,0.7559154624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-334357,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846287854,0.7559124624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334360,2024-08-20,2024-08-20,2024-08-20,11:29:00,actinopterygii,35250,species,Parablennius pilicornis,40.846296854,0.7559214624,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+334359,2024-08-20,2024-08-20,2024-08-20,11:29:00,actinopterygii,35044,species,Aidablennius sphynx,40.846293854,0.7559184624,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Aidablennius
+334358,2024-08-20,2024-08-20,2024-08-20,11:29:00,actinopterygii,35250,species,Parablennius pilicornis,40.846290854,0.7559154624,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+334357,2024-08-20,2024-08-20,2024-08-20,11:29:00,actinopterygii,34989,species,Parablennius gattorugine,40.846287854,0.7559124624,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
 334355,2024-08-20,2024-08-20,2024-08-20,11:29:00,porifera,251208,species,Spirastrella cunctatrix,40.846284854,0.7559094624,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Porifera,Demospongiae,Hadromerida,Spirastrellidae,Spirastrella
 334354,2024-08-20,2024-08-20,2024-08-20,11:29:00,porifera,250915,species,Chondrosia reniformis,40.846281854,0.7559064624,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Porifera,Demospongiae,Chondrosida,Chondrillidae,Chondrosia
-334352,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846278854,0.7559034624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-334351,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846275854,0.7559004624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334352,2024-08-20,2024-08-20,2024-08-20,11:29:00,mollusca,53500,species,Stramonita haemastoma,40.846278854,0.7559034624,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Mollusca,Gastropoda,Neogastropoda,Muricidae,Stramonita
+334351,2024-08-20,2024-08-20,2024-08-20,11:29:00,actinopterygii,34835,species,Coris julis,40.846275854,0.7559004624,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
 334350,2024-08-20,2024-08-20,2024-08-20,11:29:00,actinopterygii,35178,species,Parablennius incognitus,40.846272854,0.7558974624,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
 334345,2024-08-20,2024-08-20,2024-08-20,11:58:00,actinopterygii,91462,genus,Chelon,40.8462309623,0.7565153588,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Mugiliformes,Mugilidae,
-334344,2024-08-20,2024-08-20,2024-08-20,11:58:00,,nan,,,40.8462279623,0.7565123588,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334344,2024-08-20,2024-08-20,2024-08-20,11:58:00,porifera,35180,species,Aplysina aerophoba,40.8462279623,0.7565123588,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Porifera,Demospongiae,Verongida,Aplysinidae,Aplysina
 334042,2024-08-20,2024-08-20,2024-08-19,15:45:00,actinopterygii,244172,species,Dentex dentex,41.1740556591,1.5097189182,False,Masia Blanca,research,51,bertinhaco,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Dentex
 334041,2024-08-20,2024-08-20,2024-08-19,15:44:00,actinopterygii,35194,species,Thalassoma pavo,41.1740556591,1.5097189182,False,Masia Blanca,research,51,bertinhaco,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
 334040,2024-08-20,2024-08-20,2024-08-19,15:42:00,actinopterygii,248737,species,Scorpaena maderensis,41.1740556591,1.5097189182,False,Masia Blanca,research,51,bertinhaco,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,Scorpaena
@@ -1999,7 +2078,6 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 320864,2024-08-07,2024-08-07,2024-08-04,07:02:00,actinopterygii,246069,species,Epinephelus marginatus,40.922388817,0.8442941198,False,"Cala Calafató, España",research,908,annacanela,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Epinephelus
 320863,2024-08-07,2024-08-07,2024-08-04,06:59:00,actinopterygii,35216,species,Symphodus tinca,40.922388817,0.8442941198,False,"Cala Calafató, España",research,908,annacanela,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
 320862,2024-08-07,2024-08-07,2024-08-04,06:58:00,actinopterygii,12553,species,Diplodus sargus,40.922388817,0.8442941198,False,"Cala Calafató, España",research,908,annacanela,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
-320862,2024-08-07,2024-08-07,2024-08-04,06:58:00,actinopterygii,12553,species,Diplodus sargus,40.922388817,0.8442941198,False,"Cala Calafató, España",research,908,annacanela,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
 320861,2024-08-07,2024-08-07,2024-08-04,06:58:00,actinopterygii,13765,species,Serranus scriba,40.922388817,0.8442941198,False,"Cala Calafató, España",research,908,annacanela,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Serranus
 320860,2024-08-07,2024-08-07,2024-08-04,06:57:00,actinopterygii,250040,species,Oedalechilus labeo,40.922388817,0.8442941198,False,"Cala Calafató, España",research,908,annacanela,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Mugiliformes,Mugilidae,Oedalechilus
 320859,2024-08-07,2024-08-07,2024-08-04,06:55:00,porifera,250844,species,Tethya aurantium,40.922388817,0.8442941198,False,"Cala Calafató, España",research,908,annacanela,cc-by-nc,1,0,Animalia,Porifera,Demospongiae,Hadromerida,Tethyidae,Tethya
@@ -3799,7 +3877,6 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 313142,2024-07-31,2024-07-31,2024-07-20,21:10:00,actinopterygii,34837,species,Dicentrarchus labrax,41.1775626474,1.5283188922,False,,research,359,oceanicos,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Moronidae,Dicentrarchus
 313141,2024-07-31,2024-07-31,2024-07-20,21:10:00,actinopterygii,240394,species,Atherina boyeri,41.1778695082,1.528790961,False,,research,359,oceanicos,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Atheriniformes,Atherinidae,Atherina
 313140,2024-07-31,2024-07-31,2024-07-20,20:42:00,actinopterygii,240391,species,Gobius paganellus,41.1780214215,1.5282509431,False,,research,359,oceanicos,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Gobius
-313140,2024-07-31,2024-07-31,2024-07-20,20:42:00,actinopterygii,240391,species,Gobius paganellus,41.1780214215,1.5282509431,False,,research,359,oceanicos,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Gobius
 313139,2024-07-31,2024-07-31,2024-07-20,17:40:00,echinodermata,35260,species,Echinaster sepositus,41.1738955569,1.5099302204,False,,research,359,oceanicos,cc-by-nc,1,0,Animalia,Echinodermata,Asteroidea,Spinulosida,Echinasteridae,Echinaster
 313138,2024-07-31,2024-07-31,2024-07-20,14:58:00,actinopterygii,34805,species,Sarpa salpa,41.1738955569,1.5099302204,False,,research,359,oceanicos,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
 313137,2024-07-31,2024-07-31,2024-07-20,14:45:00,plantae,35128,species,Posidonia oceanica,41.1738955569,1.5099302204,False,,research,359,oceanicos,cc-by-nc,1,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Posidoniaceae,Posidonia
@@ -5598,7 +5675,6 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 295763,2024-07-10,2024-07-10,2024-07-06,08:41:00,actinopterygii,34805,species,Sarpa salpa,40.9124970284,0.8324928462,False,Spain,research,95,pepe_molero,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
 295758,2024-07-10,2024-07-10,2024-07-06,08:43:00,crustacea,35046,species,Percnon gibbesi,40.9125401417,0.8324703497,False,Spain,research,95,pepe_molero,cc-by-nc,1,0,Animalia,Arthropoda,Malacostraca,Decapoda,Percnidae,Percnon
 295754,2024-07-10,2024-07-10,2024-07-06,08:22:00,actinopterygii,35216,species,Symphodus tinca,40.9107785085,0.8331124694,False,Spain,research,95,pepe_molero,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
-295741,2024-07-10,2024-07-11,2024-07-10,07:08:00,plantae,246807,species,Arundo donax,40.9780214,0.903684,False,Spain,research,3682,pirotte_,cc-by,2,0,Plantae,Magnoliophyta,Liliopsida,Poales,Poaceae,Arundo
 295741,2024-07-10,2024-07-11,2024-07-10,07:08:00,plantae,246807,species,Arundo donax,40.9780214,0.903684,False,Spain,research,3682,pirotte_,cc-by,2,0,Plantae,Magnoliophyta,Liliopsida,Poales,Poaceae,Arundo
 295740,2024-07-10,2024-07-11,2024-07-10,07:08:00,plantae,49271,genus,Xanthium,40.9780184,0.903681,False,Spain,needs_id,3682,pirotte_,cc-by,2,0,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,
 295607,2024-07-09,2024-07-10,2024-07-09,18:19:00,actinopterygii,34989,species,Parablennius gattorugine,40.9064585307,0.8270304822,False,"43860 L'Ametlla de Mar, Tarragona, Espanya",research,988,elibonfill,C,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
@@ -7598,7 +7674,6 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 278883,2024-06-09,2024-06-10,2024-06-07,,mollusca,119,class,Bivalvia,41.180645,1.527657,False,comarruga,needs_id,543,evararo,cc-by-nc,0,0,Animalia,Mollusca,,,,
 278882,2024-06-09,2024-06-10,2024-06-07,,mollusca,15805,genus,Venus,41.180645,1.527657,False,comarruga,needs_id,543,evararo,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Venerida,Veneridae,
 278881,2024-06-09,2024-06-09,2024-06-07,,mollusca,244937,species,Donax trunculus,41.180645,1.527657,False,comarruga,research,543,evararo,cc-by-nc,1,0,Animalia,Mollusca,Bivalvia,Cardiida,Donacidae,Donax
-278880,2024-06-09,2024-06-09,2024-06-07,,mollusca,244937,species,Donax trunculus,41.180645,1.527657,False,comarruga,research,543,evararo,cc-by-nc,1,0,Animalia,Mollusca,Bivalvia,Cardiida,Donacidae,Donax
 278880,2024-06-09,2024-06-09,2024-06-07,,mollusca,244937,species,Donax trunculus,41.180645,1.527657,False,comarruga,research,543,evararo,cc-by-nc,1,0,Animalia,Mollusca,Bivalvia,Cardiida,Donacidae,Donax
 278879,2024-06-09,2024-06-10,2024-06-07,,mollusca,10213,genus,Glycymeris,41.180645,1.527657,False,comarruga,needs_id,543,evararo,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Arcida,Glycymerididae,
 278878,2024-06-09,2024-06-10,2024-06-07,,mollusca,249089,species,Glycymeris glycymeris,41.180645,1.527657,False,comarruga,research,543,evararo,cc-by-nc,2,0,Animalia,Mollusca,Bivalvia,Arcida,Glycymerididae,Glycymeris
