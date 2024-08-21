@@ -1,4 +1,22 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+335765,2024-08-21,2024-08-21,2024-08-21,15:09:00,,nan,,,41.1724173884,1.5093459229,False,,needs_id,359,oceanicos,cc-by-nc,0,0,,,,,,
+335764,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8918747611,0.8174877485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335763,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8918717611,0.8174847485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335762,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8918687611,0.8174817485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335761,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8918657611,0.8174787485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335760,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8918627611,0.8174757485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335759,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8918597611,0.8174727485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335758,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8918567611,0.8174697485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335757,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8918537611,0.8174667485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335756,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8918507611,0.8174637485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335755,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8918477611,0.8174607485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335754,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8918447611,0.8174577485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335753,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8918417611,0.8174547485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335752,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8918387611,0.8174517485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335751,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8918357611,0.8174487485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335750,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8918327611,0.8174457485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335749,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8918297611,0.8174427485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335748,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8918267611,0.8174397485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
 335747,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8918237611,0.8174367485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
 335746,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8918207611,0.8174337485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
 335745,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8918177611,0.8174307485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
@@ -6398,7 +6416,6 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 293079,2024-07-06,2024-07-08,2024-07-06,20:28:00,cnidaria,34827,species,Oculina patagonica,41.1321240724,1.3898700142,False,"Platja de Canyadell, Torredembarra, España",research,653,ura4dive,cc-by-nc,2,0,Animalia,Cnidaria,Anthozoa,Scleractinia,Oculinidae,Oculina
 293078,2024-07-06,2024-07-07,2024-07-06,20:28:00,chromista,35106,species,Padina pavonica,41.1321240724,1.3898700142,False,"Platja de Canyadell, Torredembarra, España",research,653,ura4dive,cc-by-nc,1,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
 293077,2024-07-06,2024-07-08,2024-07-06,20:28:00,actinopterygii,35250,species,Parablennius pilicornis,41.1321240724,1.3898700142,False,"Platja de Canyadell, Torredembarra, España",research,653,ura4dive,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
-293076,2024-07-06,2024-07-07,2024-07-06,20:28:00,plantae,35158,species,Acetabularia acetabulum,41.1321240724,1.3898700142,False,"Platja de Canyadell, Torredembarra, España",research,653,ura4dive,cc-by-nc,1,0,Plantae,Chlorophyta,Ulvophyceae,Dasycladales,Polyphysaceae,Acetabularia
 293076,2024-07-06,2024-07-07,2024-07-06,20:28:00,plantae,35158,species,Acetabularia acetabulum,41.1321240724,1.3898700142,False,"Platja de Canyadell, Torredembarra, España",research,653,ura4dive,cc-by-nc,1,0,Plantae,Chlorophyta,Ulvophyceae,Dasycladales,Polyphysaceae,Acetabularia
 293075,2024-07-06,2024-07-08,2024-07-06,20:28:00,actinopterygii,240400,species,Oblada melanura,41.1321240724,1.3898700142,False,"Platja de Canyadell, Torredembarra, España",research,653,ura4dive,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Oblada
 293074,2024-07-06,2024-07-08,2024-07-06,20:28:00,actinopterygii,35225,species,Chromis chromis,41.1321240724,1.3898700142,False,"Platja de Canyadell, Torredembarra, España",research,653,ura4dive,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
