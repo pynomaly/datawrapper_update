@@ -1,4 +1,10 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+334659,445030,mollusca,Haliotis tuberculata,https://minka-sdg.org/attachments/local_photos/files/445030/medium.jpg,strombus,40.8858671539,0.8007714897,cc-by,"(c) Eric, some rights reserved (CC BY)",334659_445030.jpg
+334651,445023,cnidaria,Pelagia noctiluca,https://minka-sdg.org/attachments/local_photos/files/445023/medium.jpg,strombus,40.8847446264,0.8007434986,cc-by,"(c) Eric, some rights reserved (CC BY)",334651_445023.jpg
+334650,445022,mollusca,Ocenebra erinaceus,https://minka-sdg.org/attachments/local_photos/files/445022/medium.jpg,strombus,40.8847376264,0.8007364986,cc-by,"(c) Eric, some rights reserved (CC BY)",334650_445022.jpg
+334640,445020,mollusca,Lithophaga lithophaga,https://minka-sdg.org/attachments/local_photos/files/445020/medium.jpg,strombus,40.8847306264,0.8007294986,cc-by,"(c) Eric, some rights reserved (CC BY)",334640_445020.jpg
+334639,445017,mollusca,Hexaplex trunculus,https://minka-sdg.org/attachments/local_photos/files/445017/medium.jpg,strombus,40.8847236264,0.8007224986,cc-by,"(c) Eric, some rights reserved (CC BY)",334639_445017.jpg
+334638,445001,mollusca,Haliotis tuberculata,https://minka-sdg.org/attachments/local_photos/files/445001/medium.jpg,strombus,40.8847166264,0.8007154986,cc-by,"(c) Eric, some rights reserved (CC BY)",334638_445001.jpg
 334626,444651,actinopterygii,Thalassoma pavo,https://minka-sdg.org/attachments/local_photos/files/444651/medium.png,urti,40.846542854,0.7561674624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334626_444651.jpg
 334546,444592,actinopterygii,Serranus scriba,https://minka-sdg.org/attachments/local_photos/files/444592/medium.jpeg,anna_olive_abello,41.1746162638,1.5104055392,cc-by-nc,"(c) anna_olive_abello, some rights reserved (CC BY-NC)",334546_444592.jpg
 334546,444593,actinopterygii,Serranus scriba,https://minka-sdg.org/attachments/local_photos/files/444593/medium.jpeg,anna_olive_abello,41.1746162638,1.5104055392,cc-by-nc,"(c) anna_olive_abello, some rights reserved (CC BY-NC)",334546_444593.jpg
@@ -93,7 +99,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 334444,444444,plantae,Laurencia,https://minka-sdg.org/attachments/local_photos/files/444444/medium.png,urti,40.846497854,0.7561224624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334444_444444.jpg
 334443,444443,actinopterygii,Atherina boyeri,https://minka-sdg.org/attachments/local_photos/files/444443/medium.png,urti,40.846494854,0.7561194624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334443_444443.jpg
 334442,444442,cnidaria,Actinia mediterranea,https://minka-sdg.org/attachments/local_photos/files/444442/medium.png,urti,40.846491854,0.7561164624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334442_444442.jpg
-334440,444441,actinopterygii,Dicentrarchus punctatus,https://minka-sdg.org/attachments/local_photos/files/444441/medium.png,urti,40.846488854,0.7561134624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334440_444441.jpg
+334440,444441,actinopterygii,Dicentrarchus,https://minka-sdg.org/attachments/local_photos/files/444441/medium.png,urti,40.846488854,0.7561134624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334440_444441.jpg
 334439,444440,actinopterygii,Oedalechilus labeo,https://minka-sdg.org/attachments/local_photos/files/444440/medium.png,urti,40.846485854,0.7561104624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334439_444440.jpg
 334438,444438,plantae,Peyssonnelia,https://minka-sdg.org/attachments/local_photos/files/444438/medium.png,urti,40.846482854,0.7561074624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334438_444438.jpg
 334437,444437,porifera,Tethya aurantium,https://minka-sdg.org/attachments/local_photos/files/444437/medium.png,urti,40.846479854,0.7561044624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334437_444437.jpg
@@ -245,80 +251,6 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 333793,443741,plantae,Laurencia,https://minka-sdg.org/attachments/local_photos/files/443741/medium.jpeg,mllarch,40.9214472681,0.841949927,cc-by-nc,"(c) mllarch, some rights reserved (CC BY-NC)",333793_443741.jpg
 333748,443713,actinopterygii,Gobius cobitis,https://minka-sdg.org/attachments/local_photos/files/443713/medium.jpeg,mllarch,40.9214327416,0.8420781825,cc-by-nc,"(c) mllarch, some rights reserved (CC BY-NC)",333748_443713.jpg
 333740,443706,actinopterygii,Dicentrarchus labrax,https://minka-sdg.org/attachments/local_photos/files/443706/medium.jpeg,mllarch,40.9214556339,0.8419268011,cc-by-nc,"(c) mllarch, some rights reserved (CC BY-NC)",333740_443706.jpg
-333713,443588,,,https://minka-sdg.org/attachments/local_photos/files/443588/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443588.jpg
-333713,443589,,,https://minka-sdg.org/attachments/local_photos/files/443589/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443589.jpg
-333713,443590,,,https://minka-sdg.org/attachments/local_photos/files/443590/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443590.jpg
-333713,443591,,,https://minka-sdg.org/attachments/local_photos/files/443591/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443591.jpg
-333713,443592,,,https://minka-sdg.org/attachments/local_photos/files/443592/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443592.jpg
-333713,443593,,,https://minka-sdg.org/attachments/local_photos/files/443593/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443593.jpg
-333713,443594,,,https://minka-sdg.org/attachments/local_photos/files/443594/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443594.jpg
-333713,443595,,,https://minka-sdg.org/attachments/local_photos/files/443595/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443595.jpg
-333713,443596,,,https://minka-sdg.org/attachments/local_photos/files/443596/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443596.jpg
-333713,443597,,,https://minka-sdg.org/attachments/local_photos/files/443597/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443597.jpg
-333713,443598,,,https://minka-sdg.org/attachments/local_photos/files/443598/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443598.jpg
-333713,443599,,,https://minka-sdg.org/attachments/local_photos/files/443599/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443599.jpg
-333713,443600,,,https://minka-sdg.org/attachments/local_photos/files/443600/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443600.jpg
-333713,443601,,,https://minka-sdg.org/attachments/local_photos/files/443601/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443601.jpg
-333713,443603,,,https://minka-sdg.org/attachments/local_photos/files/443603/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443603.jpg
-333713,443604,,,https://minka-sdg.org/attachments/local_photos/files/443604/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443604.jpg
-333713,443605,,,https://minka-sdg.org/attachments/local_photos/files/443605/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443605.jpg
-333713,443606,,,https://minka-sdg.org/attachments/local_photos/files/443606/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443606.jpg
-333713,443607,,,https://minka-sdg.org/attachments/local_photos/files/443607/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443607.jpg
-333713,443608,,,https://minka-sdg.org/attachments/local_photos/files/443608/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443608.jpg
-333713,443609,,,https://minka-sdg.org/attachments/local_photos/files/443609/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443609.jpg
-333713,443610,,,https://minka-sdg.org/attachments/local_photos/files/443610/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443610.jpg
-333713,443611,,,https://minka-sdg.org/attachments/local_photos/files/443611/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443611.jpg
-333713,443612,,,https://minka-sdg.org/attachments/local_photos/files/443612/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443612.jpg
-333713,443613,,,https://minka-sdg.org/attachments/local_photos/files/443613/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443613.jpg
-333713,443614,,,https://minka-sdg.org/attachments/local_photos/files/443614/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443614.jpg
-333713,443616,,,https://minka-sdg.org/attachments/local_photos/files/443616/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443616.jpg
-333713,443617,,,https://minka-sdg.org/attachments/local_photos/files/443617/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443617.jpg
-333713,443619,,,https://minka-sdg.org/attachments/local_photos/files/443619/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443619.jpg
-333713,443620,,,https://minka-sdg.org/attachments/local_photos/files/443620/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443620.jpg
-333713,443621,,,https://minka-sdg.org/attachments/local_photos/files/443621/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443621.jpg
-333713,443623,,,https://minka-sdg.org/attachments/local_photos/files/443623/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443623.jpg
-333713,443624,,,https://minka-sdg.org/attachments/local_photos/files/443624/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443624.jpg
-333713,443625,,,https://minka-sdg.org/attachments/local_photos/files/443625/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443625.jpg
-333713,443626,,,https://minka-sdg.org/attachments/local_photos/files/443626/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443626.jpg
-333713,443627,,,https://minka-sdg.org/attachments/local_photos/files/443627/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443627.jpg
-333713,443628,,,https://minka-sdg.org/attachments/local_photos/files/443628/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443628.jpg
-333713,443629,,,https://minka-sdg.org/attachments/local_photos/files/443629/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443629.jpg
-333713,443630,,,https://minka-sdg.org/attachments/local_photos/files/443630/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443630.jpg
-333713,443631,,,https://minka-sdg.org/attachments/local_photos/files/443631/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443631.jpg
-333713,443632,,,https://minka-sdg.org/attachments/local_photos/files/443632/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443632.jpg
-333713,443633,,,https://minka-sdg.org/attachments/local_photos/files/443633/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443633.jpg
-333713,443634,,,https://minka-sdg.org/attachments/local_photos/files/443634/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443634.jpg
-333713,443635,,,https://minka-sdg.org/attachments/local_photos/files/443635/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443635.jpg
-333713,443636,,,https://minka-sdg.org/attachments/local_photos/files/443636/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443636.jpg
-333713,443637,,,https://minka-sdg.org/attachments/local_photos/files/443637/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443637.jpg
-333713,443638,,,https://minka-sdg.org/attachments/local_photos/files/443638/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443638.jpg
-333713,443639,,,https://minka-sdg.org/attachments/local_photos/files/443639/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443639.jpg
-333713,443640,,,https://minka-sdg.org/attachments/local_photos/files/443640/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443640.jpg
-333713,443641,,,https://minka-sdg.org/attachments/local_photos/files/443641/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443641.jpg
-333713,443642,,,https://minka-sdg.org/attachments/local_photos/files/443642/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443642.jpg
-333713,443643,,,https://minka-sdg.org/attachments/local_photos/files/443643/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443643.jpg
-333713,443644,,,https://minka-sdg.org/attachments/local_photos/files/443644/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443644.jpg
-333713,443645,,,https://minka-sdg.org/attachments/local_photos/files/443645/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443645.jpg
-333713,443646,,,https://minka-sdg.org/attachments/local_photos/files/443646/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443646.jpg
-333713,443647,,,https://minka-sdg.org/attachments/local_photos/files/443647/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443647.jpg
-333713,443648,,,https://minka-sdg.org/attachments/local_photos/files/443648/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443648.jpg
-333713,443649,,,https://minka-sdg.org/attachments/local_photos/files/443649/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443649.jpg
-333713,443650,,,https://minka-sdg.org/attachments/local_photos/files/443650/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443650.jpg
-333713,443651,,,https://minka-sdg.org/attachments/local_photos/files/443651/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443651.jpg
-333713,443652,,,https://minka-sdg.org/attachments/local_photos/files/443652/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443652.jpg
-333713,443653,,,https://minka-sdg.org/attachments/local_photos/files/443653/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443653.jpg
-333713,443654,,,https://minka-sdg.org/attachments/local_photos/files/443654/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443654.jpg
-333713,443655,,,https://minka-sdg.org/attachments/local_photos/files/443655/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443655.jpg
-333713,443656,,,https://minka-sdg.org/attachments/local_photos/files/443656/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443656.jpg
-333713,443657,,,https://minka-sdg.org/attachments/local_photos/files/443657/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443657.jpg
-333713,443658,,,https://minka-sdg.org/attachments/local_photos/files/443658/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443658.jpg
-333713,443659,,,https://minka-sdg.org/attachments/local_photos/files/443659/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443659.jpg
-333713,443660,,,https://minka-sdg.org/attachments/local_photos/files/443660/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443660.jpg
-333713,443661,,,https://minka-sdg.org/attachments/local_photos/files/443661/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443661.jpg
-333713,443662,,,https://minka-sdg.org/attachments/local_photos/files/443662/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443662.jpg
-333713,443663,,,https://minka-sdg.org/attachments/local_photos/files/443663/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443663.jpg
-333713,443664,,,https://minka-sdg.org/attachments/local_photos/files/443664/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443664.jpg
-333713,443665,,,https://minka-sdg.org/attachments/local_photos/files/443665/medium.png,urti,40.9177355765,0.8374423161,cc-by,"(c) Jaime, some rights reserved (CC BY)",333713_443665.jpg
 333656,443561,plantae,Derbesia tenuissima,https://minka-sdg.org/attachments/local_photos/files/443561/medium.jpeg,toni,41.131101165,1.3409709331,C,"(c) Rovira Jareño, all rights reserved",333656_443561.jpg
 333656,443562,plantae,Derbesia tenuissima,https://minka-sdg.org/attachments/local_photos/files/443562/medium.jpeg,toni,41.131101165,1.3409709331,C,"(c) Rovira Jareño, all rights reserved",333656_443562.jpg
 333655,443517,actinopterygii,Symphodus tinca,https://minka-sdg.org/attachments/local_photos/files/443517/medium.jpeg,francesca,40.9103631915,0.8323703713,cc-by-nc,"(c) francesca, some rights reserved (CC BY-NC)",333655_443517.jpg
