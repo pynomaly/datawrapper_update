@@ -9,7 +9,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 334542,444584,cnidaria,Rhizostoma pulmo,https://minka-sdg.org/attachments/local_photos/files/444584/medium.jpeg,anna_olive_abello,41.1746162638,1.5104055392,cc-by-nc,"(c) anna_olive_abello, some rights reserved (CC BY-NC)",334542_444584.jpg
 334542,444585,cnidaria,Rhizostoma pulmo,https://minka-sdg.org/attachments/local_photos/files/444585/medium.jpeg,anna_olive_abello,41.1746162638,1.5104055392,cc-by-nc,"(c) anna_olive_abello, some rights reserved (CC BY-NC)",334542_444585.jpg
 334541,444582,crustacea,Perforatus perforatus,https://minka-sdg.org/attachments/local_photos/files/444582/medium.jpeg,anna_olive_abello,41.1746162638,1.5104055392,cc-by-nc,"(c) anna_olive_abello, some rights reserved (CC BY-NC)",334541_444582.jpg
-334540,444581,actinopterygii,Symphodus,https://minka-sdg.org/attachments/local_photos/files/444581/medium.jpeg,anna_olive_abello,41.1746162638,1.5104055392,cc-by-nc,"(c) anna_olive_abello, some rights reserved (CC BY-NC)",334540_444581.jpg
+334540,444581,actinopterygii,Symphodus tinca,https://minka-sdg.org/attachments/local_photos/files/444581/medium.jpeg,anna_olive_abello,41.1746162638,1.5104055392,cc-by-nc,"(c) anna_olive_abello, some rights reserved (CC BY-NC)",334540_444581.jpg
 334539,444580,echinodermata,Holothuria,https://minka-sdg.org/attachments/local_photos/files/444580/medium.jpeg,anna_olive_abello,41.1746162638,1.5104055392,cc-by-nc,"(c) anna_olive_abello, some rights reserved (CC BY-NC)",334539_444580.jpg
 334538,444578,actinopterygii,Coris julis,https://minka-sdg.org/attachments/local_photos/files/444578/medium.jpeg,anna_olive_abello,41.1746162638,1.5104055392,cc-by-nc,"(c) anna_olive_abello, some rights reserved (CC BY-NC)",334538_444578.jpg
 334538,444579,actinopterygii,Coris julis,https://minka-sdg.org/attachments/local_photos/files/444579/medium.jpeg,anna_olive_abello,41.1746162638,1.5104055392,cc-by-nc,"(c) anna_olive_abello, some rights reserved (CC BY-NC)",334538_444579.jpg
@@ -63,15 +63,15 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 334477,444478,,,https://minka-sdg.org/attachments/local_photos/files/444478/medium.jpg,jennifer,40.9089348536,0.8329919921,cc-by-nc,"(c) jennifer, some rights reserved (CC BY-NC)",334477_444478.jpg
 334476,444476,,,https://minka-sdg.org/attachments/local_photos/files/444476/medium.png,urti,40.846566854,0.7561914624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334476_444476.jpg
 334474,444474,,,https://minka-sdg.org/attachments/local_photos/files/444474/medium.png,urti,40.846563854,0.7561884624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334474_444474.jpg
-334473,444473,,,https://minka-sdg.org/attachments/local_photos/files/444473/medium.png,urti,40.846560854,0.7561854624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334473_444473.jpg
-334471,444472,,,https://minka-sdg.org/attachments/local_photos/files/444472/medium.png,urti,40.846557854,0.7561824624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334471_444472.jpg
+334473,444473,actinopterygii,Serranus scriba,https://minka-sdg.org/attachments/local_photos/files/444473/medium.png,urti,40.846560854,0.7561854624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334473_444473.jpg
+334471,444472,actinopterygii,Diplodus annularis,https://minka-sdg.org/attachments/local_photos/files/444472/medium.png,urti,40.846557854,0.7561824624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334471_444472.jpg
 334470,444471,,,https://minka-sdg.org/attachments/local_photos/files/444471/medium.png,urti,40.846554854,0.7561794624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334470_444471.jpg
-334469,444470,,,https://minka-sdg.org/attachments/local_photos/files/444470/medium.jpg,jennifer,40.9089208536,0.8329779921,cc-by-nc,"(c) jennifer, some rights reserved (CC BY-NC)",334469_444470.jpg
-334468,444468,,,https://minka-sdg.org/attachments/local_photos/files/444468/medium.png,urti,40.846551854,0.7561764624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334468_444468.jpg
-334467,444467,,,https://minka-sdg.org/attachments/local_photos/files/444467/medium.png,urti,40.846548854,0.7561734624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334467_444467.jpg
-334466,444466,,,https://minka-sdg.org/attachments/local_photos/files/444466/medium.jpg,jennifer,40.9089138536,0.8329709921,cc-by-nc,"(c) jennifer, some rights reserved (CC BY-NC)",334466_444466.jpg
-334465,444465,,,https://minka-sdg.org/attachments/local_photos/files/444465/medium.png,urti,40.846545854,0.7561704624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334465_444465.jpg
-334464,444464,,,https://minka-sdg.org/attachments/local_photos/files/444464/medium.png,urti,40.846542854,0.7561674624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334464_444464.jpg
+334469,444470,mollusca,Flabellina affinis,https://minka-sdg.org/attachments/local_photos/files/444470/medium.jpg,jennifer,40.9089208536,0.8329779921,cc-by-nc,"(c) jennifer, some rights reserved (CC BY-NC)",334469_444470.jpg
+334468,444468,actinopterygii,Sparus aurata,https://minka-sdg.org/attachments/local_photos/files/444468/medium.png,urti,40.846551854,0.7561764624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334468_444468.jpg
+334467,444467,actinopterygii,Serranus scriba,https://minka-sdg.org/attachments/local_photos/files/444467/medium.png,urti,40.846548854,0.7561734624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334467_444467.jpg
+334466,444466,annelida,Sabella spallanzanii,https://minka-sdg.org/attachments/local_photos/files/444466/medium.jpg,jennifer,40.9089138536,0.8329709921,cc-by-nc,"(c) jennifer, some rights reserved (CC BY-NC)",334466_444466.jpg
+334465,444465,actinopterygii,Thalassoma pavo,https://minka-sdg.org/attachments/local_photos/files/444465/medium.png,urti,40.846545854,0.7561704624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334465_444465.jpg
+334464,444464,chromista,Padina pavonica,https://minka-sdg.org/attachments/local_photos/files/444464/medium.png,urti,40.846542854,0.7561674624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334464_444464.jpg
 334463,444463,,,https://minka-sdg.org/attachments/local_photos/files/444463/medium.jpg,jennifer,40.9089068536,0.8329639921,cc-by-nc,"(c) jennifer, some rights reserved (CC BY-NC)",334463_444463.jpg
 334462,444462,,,https://minka-sdg.org/attachments/local_photos/files/444462/medium.png,urti,40.846539854,0.7561644624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334462_444462.jpg
 334461,444461,,,https://minka-sdg.org/attachments/local_photos/files/444461/medium.png,urti,40.846536854,0.7561614624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334461_444461.jpg
@@ -79,25 +79,25 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 334459,444459,,,https://minka-sdg.org/attachments/local_photos/files/444459/medium.jpg,jennifer,40.9088998536,0.8329569921,cc-by-nc,"(c) jennifer, some rights reserved (CC BY-NC)",334459_444459.jpg
 334458,444458,,,https://minka-sdg.org/attachments/local_photos/files/444458/medium.png,urti,40.846530854,0.7561554624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334458_444458.jpg
 334456,444457,,,https://minka-sdg.org/attachments/local_photos/files/444457/medium.png,urti,40.846527854,0.7561524624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334456_444457.jpg
-334455,444456,,,https://minka-sdg.org/attachments/local_photos/files/444456/medium.png,urti,40.846524854,0.7561494624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334455_444456.jpg
-334454,444454,,,https://minka-sdg.org/attachments/local_photos/files/444454/medium.png,urti,40.846521854,0.7561464624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334454_444454.jpg
-334453,444453,,,https://minka-sdg.org/attachments/local_photos/files/444453/medium.png,urti,40.846518854,0.7561434624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334453_444453.jpg
-334452,444452,,,https://minka-sdg.org/attachments/local_photos/files/444452/medium.jpg,jennifer,40.9093169249,0.8337220922,cc-by-nc,"(c) jennifer, some rights reserved (CC BY-NC)",334452_444452.jpg
+334455,444456,actinopterygii,Parablennius pilicornis,https://minka-sdg.org/attachments/local_photos/files/444456/medium.png,urti,40.846524854,0.7561494624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334455_444456.jpg
+334454,444454,actinopterygii,Parablennius pilicornis,https://minka-sdg.org/attachments/local_photos/files/444454/medium.png,urti,40.846521854,0.7561464624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334454_444454.jpg
+334453,444453,actinopterygii,Lithognathus mormyrus,https://minka-sdg.org/attachments/local_photos/files/444453/medium.png,urti,40.846518854,0.7561434624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334453_444453.jpg
+334452,444452,actinopterygii,Sciaena umbra,https://minka-sdg.org/attachments/local_photos/files/444452/medium.jpg,jennifer,40.9093169249,0.8337220922,cc-by-nc,"(c) jennifer, some rights reserved (CC BY-NC)",334452_444452.jpg
 334451,444451,,,https://minka-sdg.org/attachments/local_photos/files/444451/medium.png,urti,40.846515854,0.7561404624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334451_444451.jpg
-334449,444450,,,https://minka-sdg.org/attachments/local_photos/files/444450/medium.png,urti,40.846512854,0.7561374624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334449_444450.jpg
+334449,444450,actinopterygii,Lithognathus mormyrus,https://minka-sdg.org/attachments/local_photos/files/444450/medium.png,urti,40.846512854,0.7561374624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334449_444450.jpg
 334448,444449,,,https://minka-sdg.org/attachments/local_photos/files/444449/medium.png,urti,40.846509854,0.7561344624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334448_444449.jpg
-334447,444447,,,https://minka-sdg.org/attachments/local_photos/files/444447/medium.png,urti,40.846506854,0.7561314624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334447_444447.jpg
+334447,444447,plantae,Flabellia petiolata,https://minka-sdg.org/attachments/local_photos/files/444447/medium.png,urti,40.846506854,0.7561314624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334447_444447.jpg
 334446,444446,,,https://minka-sdg.org/attachments/local_photos/files/444446/medium.png,urti,40.846503854,0.7561284624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334446_444446.jpg
-334445,444445,,,https://minka-sdg.org/attachments/local_photos/files/444445/medium.png,urti,40.846500854,0.7561254624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334445_444445.jpg
+334445,444445,,Leptomysis,https://minka-sdg.org/attachments/local_photos/files/444445/medium.png,urti,40.846500854,0.7561254624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334445_444445.jpg
 334444,444444,,,https://minka-sdg.org/attachments/local_photos/files/444444/medium.png,urti,40.846497854,0.7561224624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334444_444444.jpg
 334443,444443,,,https://minka-sdg.org/attachments/local_photos/files/444443/medium.png,urti,40.846494854,0.7561194624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334443_444443.jpg
-334442,444442,,,https://minka-sdg.org/attachments/local_photos/files/444442/medium.png,urti,40.846491854,0.7561164624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334442_444442.jpg
+334442,444442,cnidaria,Actinia mediterranea,https://minka-sdg.org/attachments/local_photos/files/444442/medium.png,urti,40.846491854,0.7561164624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334442_444442.jpg
 334440,444441,,,https://minka-sdg.org/attachments/local_photos/files/444441/medium.png,urti,40.846488854,0.7561134624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334440_444441.jpg
-334439,444440,,,https://minka-sdg.org/attachments/local_photos/files/444440/medium.png,urti,40.846485854,0.7561104624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334439_444440.jpg
-334438,444438,,,https://minka-sdg.org/attachments/local_photos/files/444438/medium.png,urti,40.846482854,0.7561074624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334438_444438.jpg
+334439,444440,actinopterygii,Chelon auratus,https://minka-sdg.org/attachments/local_photos/files/444440/medium.png,urti,40.846485854,0.7561104624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334439_444440.jpg
+334438,444438,plantae,Peyssonnelia,https://minka-sdg.org/attachments/local_photos/files/444438/medium.png,urti,40.846482854,0.7561074624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334438_444438.jpg
 334437,444437,,,https://minka-sdg.org/attachments/local_photos/files/444437/medium.png,urti,40.846479854,0.7561044624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334437_444437.jpg
 334436,444436,,,https://minka-sdg.org/attachments/local_photos/files/444436/medium.png,urti,40.846476854,0.7561014624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334436_444436.jpg
-334435,444435,,,https://minka-sdg.org/attachments/local_photos/files/444435/medium.png,urti,40.846473854,0.7560984624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334435_444435.jpg
+334435,444435,cnidaria,Anemonia viridis,https://minka-sdg.org/attachments/local_photos/files/444435/medium.png,urti,40.846473854,0.7560984624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334435_444435.jpg
 334433,444434,,,https://minka-sdg.org/attachments/local_photos/files/444434/medium.png,urti,40.846470854,0.7560954624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334433_444434.jpg
 334432,444433,,,https://minka-sdg.org/attachments/local_photos/files/444433/medium.png,urti,40.846467854,0.7560924624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334432_444433.jpg
 334431,444431,,,https://minka-sdg.org/attachments/local_photos/files/444431/medium.png,urti,40.846464854,0.7560894624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334431_444431.jpg

@@ -1,29 +1,29 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
-334546,2024-08-20,2024-08-20,2024-08-20,10:52:00,actinopterygii,13765,species,Serranus scriba,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,needs_id,45,anna_olive_abello,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Serranus
-334545,2024-08-20,2024-08-20,2024-08-20,10:51:00,cnidaria,35011,species,Pennaria disticha,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,needs_id,45,anna_olive_abello,cc-by-nc,0,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Pennariidae,Pennaria
-334544,2024-08-20,2024-08-20,2024-08-20,10:49:00,actinopterygii,35213,species,Diplodus puntazzo,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,needs_id,45,anna_olive_abello,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
-334543,2024-08-20,2024-08-20,2024-08-20,10:48:00,actinopterygii,35225,species,Chromis chromis,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,needs_id,45,anna_olive_abello,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
-334542,2024-08-20,2024-08-20,2024-08-20,10:44:00,cnidaria,35206,species,Rhizostoma pulmo,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,needs_id,45,anna_olive_abello,cc-by-nc,0,0,Animalia,Cnidaria,Scyphozoa,Rhizostomeae,Rhizostomatidae,Rhizostoma
-334541,2024-08-20,2024-08-20,2024-08-20,10:43:00,crustacea,237075,species,Perforatus perforatus,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,needs_id,45,anna_olive_abello,cc-by-nc,0,0,Animalia,Arthropoda,,,Balanidae,Perforatus
-334540,2024-08-20,2024-08-20,2024-08-20,10:41:00,actinopterygii,35040,genus,Symphodus,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,needs_id,45,anna_olive_abello,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,
+334546,2024-08-20,2024-08-21,2024-08-20,10:52:00,actinopterygii,13765,species,Serranus scriba,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,research,45,anna_olive_abello,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Serranus
+334545,2024-08-20,2024-08-21,2024-08-20,10:51:00,cnidaria,35011,species,Pennaria disticha,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,research,45,anna_olive_abello,cc-by-nc,1,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Pennariidae,Pennaria
+334544,2024-08-20,2024-08-21,2024-08-20,10:49:00,actinopterygii,35213,species,Diplodus puntazzo,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,research,45,anna_olive_abello,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+334543,2024-08-20,2024-08-21,2024-08-20,10:48:00,actinopterygii,35225,species,Chromis chromis,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,research,45,anna_olive_abello,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
+334542,2024-08-20,2024-08-21,2024-08-20,10:44:00,cnidaria,35206,species,Rhizostoma pulmo,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,research,45,anna_olive_abello,cc-by-nc,1,0,Animalia,Cnidaria,Scyphozoa,Rhizostomeae,Rhizostomatidae,Rhizostoma
+334541,2024-08-20,2024-08-21,2024-08-20,10:43:00,crustacea,237075,species,Perforatus perforatus,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,research,45,anna_olive_abello,cc-by-nc,1,0,Animalia,Arthropoda,,,Balanidae,Perforatus
+334540,2024-08-20,2024-08-21,2024-08-20,10:41:00,actinopterygii,35216,species,Symphodus tinca,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,needs_id,45,anna_olive_abello,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
 334539,2024-08-20,2024-08-20,2024-08-20,10:39:00,echinodermata,9659,genus,Holothuria,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,needs_id,45,anna_olive_abello,cc-by-nc,0,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,
-334538,2024-08-20,2024-08-20,2024-08-20,10:38:00,actinopterygii,34835,species,Coris julis,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,needs_id,45,anna_olive_abello,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
-334537,2024-08-20,2024-08-20,2024-08-20,10:34:00,actinopterygii,34993,species,Sciaena umbra,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,needs_id,45,anna_olive_abello,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sciaenidae,Sciaena
-334536,2024-08-20,2024-08-20,2024-08-20,10:33:00,actinopterygii,35194,species,Thalassoma pavo,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,needs_id,45,anna_olive_abello,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
-334535,2024-08-20,2024-08-20,2024-08-20,10:18:00,echinodermata,34848,species,Paracentrotus lividus,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,needs_id,45,anna_olive_abello,cc-by-nc,0,0,Animalia,Echinodermata,Echinoidea,Camarodonta,Parechinidae,Paracentrotus
+334538,2024-08-20,2024-08-21,2024-08-20,10:38:00,actinopterygii,34835,species,Coris julis,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,research,45,anna_olive_abello,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+334537,2024-08-20,2024-08-21,2024-08-20,10:34:00,actinopterygii,34993,species,Sciaena umbra,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,research,45,anna_olive_abello,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sciaenidae,Sciaena
+334536,2024-08-20,2024-08-21,2024-08-20,10:33:00,actinopterygii,35194,species,Thalassoma pavo,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,research,45,anna_olive_abello,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
+334535,2024-08-20,2024-08-21,2024-08-20,10:18:00,echinodermata,34848,species,Paracentrotus lividus,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,research,45,anna_olive_abello,cc-by-nc,1,0,Animalia,Echinodermata,Echinoidea,Camarodonta,Parechinidae,Paracentrotus
 334534,2024-08-20,2024-08-20,2024-08-20,10:15:00,echinodermata,240406,species,Arbacia lixula,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,needs_id,45,anna_olive_abello,cc-by-nc,0,0,Animalia,Echinodermata,Echinoidea,Arbacioida,Arbaciidae,Arbacia
-334533,2024-08-20,2024-08-20,2024-08-20,10:18:00,cnidaria,35206,species,Rhizostoma pulmo,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,needs_id,45,anna_olive_abello,cc-by-nc,0,0,Animalia,Cnidaria,Scyphozoa,Rhizostomeae,Rhizostomatidae,Rhizostoma
-334532,2024-08-20,2024-08-20,2024-08-20,10:12:00,plantae,35128,species,Posidonia oceanica,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,needs_id,45,anna_olive_abello,cc-by-nc,0,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Posidoniaceae,Posidonia
-334531,2024-08-20,2024-08-20,2024-08-20,10:11:00,cnidaria,242270,species,Cotylorhiza tuberculata,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,needs_id,45,anna_olive_abello,cc-by-nc,0,0,Animalia,Cnidaria,Scyphozoa,Rhizostomeae,Cepheidae,Cotylorhiza
-334530,2024-08-20,2024-08-20,2024-08-20,10:10:00,actinopterygii,34798,species,Diplodus vulgaris,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,needs_id,45,anna_olive_abello,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
-334529,2024-08-20,2024-08-20,2024-08-20,10:08:00,porifera,247621,species,Sarcotragus spinosulus,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,needs_id,45,anna_olive_abello,cc-by-nc,0,0,Animalia,Porifera,Demospongiae,Dictyoceratida,Irciniidae,Sarcotragus
+334533,2024-08-20,2024-08-21,2024-08-20,10:18:00,cnidaria,35206,species,Rhizostoma pulmo,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,research,45,anna_olive_abello,cc-by-nc,1,0,Animalia,Cnidaria,Scyphozoa,Rhizostomeae,Rhizostomatidae,Rhizostoma
+334532,2024-08-20,2024-08-21,2024-08-20,10:12:00,plantae,35128,species,Posidonia oceanica,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,research,45,anna_olive_abello,cc-by-nc,1,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Posidoniaceae,Posidonia
+334531,2024-08-20,2024-08-21,2024-08-20,10:11:00,cnidaria,242270,species,Cotylorhiza tuberculata,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,research,45,anna_olive_abello,cc-by-nc,1,0,Animalia,Cnidaria,Scyphozoa,Rhizostomeae,Cepheidae,Cotylorhiza
+334530,2024-08-20,2024-08-21,2024-08-20,10:10:00,actinopterygii,34798,species,Diplodus vulgaris,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,research,45,anna_olive_abello,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+334529,2024-08-20,2024-08-21,2024-08-20,10:08:00,porifera,247621,species,Sarcotragus spinosulus,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,research,45,anna_olive_abello,cc-by-nc,1,0,Animalia,Porifera,Demospongiae,Dictyoceratida,Irciniidae,Sarcotragus
 334528,2024-08-20,2024-08-20,2024-08-20,10:07:00,actinopterygii,240396,species,Labrus viridis,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,needs_id,45,anna_olive_abello,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Labrus
 334527,2024-08-20,2024-08-20,2024-08-20,10:07:00,,nan,,,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,needs_id,45,anna_olive_abello,cc-by-nc,0,0,,,,,,
-334526,2024-08-20,2024-08-20,2024-08-20,10:06:00,mollusca,34923,species,Pinna rudis,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,needs_id,45,anna_olive_abello,cc-by-nc,0,0,Animalia,Mollusca,Bivalvia,Ostreida,Pinnidae,Pinna
-334525,2024-08-20,2024-08-20,2024-08-20,10:05:00,cnidaria,35206,species,Rhizostoma pulmo,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,needs_id,45,anna_olive_abello,cc-by-nc,0,0,Animalia,Cnidaria,Scyphozoa,Rhizostomeae,Rhizostomatidae,Rhizostoma
+334526,2024-08-20,2024-08-21,2024-08-20,10:06:00,mollusca,34923,species,Pinna rudis,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,research,45,anna_olive_abello,cc-by-nc,1,0,Animalia,Mollusca,Bivalvia,Ostreida,Pinnidae,Pinna
+334525,2024-08-20,2024-08-21,2024-08-20,10:05:00,cnidaria,35206,species,Rhizostoma pulmo,41.1746162638,1.5104055392,False,Reserva marina integral Masía Blanca,research,45,anna_olive_abello,cc-by-nc,1,0,Animalia,Cnidaria,Scyphozoa,Rhizostomeae,Rhizostomatidae,Rhizostoma
 334524,2024-08-20,2024-08-20,2024-08-20,11:36:00,crustacea,240749,subclass,Copepoda,41.1813840794,1.5238772705,False,,needs_id,26,carlosrodero,cc-by-nc,0,0,Animalia,Arthropoda,,,,
 334520,2024-08-20,2024-08-20,2024-08-20,11:30:00,animalia,138,class,Ostracoda,41.1813881168,1.5238876641,False,,needs_id,26,carlosrodero,cc-by-nc,0,0,Animalia,Arthropoda,,,,
-334517,2024-08-20,2024-08-20,2024-08-20,09:50:00,actinopterygii,35225,species,Chromis chromis,41.1744174,1.5098090842,False,,needs_id,26,carlosrodero,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
+334517,2024-08-20,2024-08-21,2024-08-20,09:50:00,actinopterygii,35225,species,Chromis chromis,41.1744174,1.5098090842,False,,research,26,carlosrodero,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
 334510,2024-08-20,2024-08-20,2024-08-20,09:58:00,cnidaria,35206,species,Rhizostoma pulmo,41.1745885035,1.5099401772,False,,needs_id,26,carlosrodero,cc-by-nc,0,0,Animalia,Cnidaria,Scyphozoa,Rhizostomeae,Rhizostomatidae,Rhizostoma
 334509,2024-08-20,2024-08-20,2024-08-20,09:55:00,cnidaria,35206,species,Rhizostoma pulmo,41.1747974611,1.509867087,False,,needs_id,26,carlosrodero,cc-by-nc,0,0,Animalia,Cnidaria,Scyphozoa,Rhizostomeae,Rhizostomatidae,Rhizostoma
 334508,2024-08-20,2024-08-20,2024-08-20,09:50:00,cnidaria,242270,species,Cotylorhiza tuberculata,41.174485791,1.5099146962,False,,needs_id,26,carlosrodero,cc-by-nc,0,0,Animalia,Cnidaria,Scyphozoa,Rhizostomeae,Cepheidae,Cotylorhiza
@@ -31,15 +31,15 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 334477,2024-08-20,2024-08-20,2024-07-29,11:52:00,,nan,,,40.9089348536,0.8329919921,False,Spain,needs_id,931,jennifer,cc-by-nc,0,0,,,,,,
 334476,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846566854,0.7561914624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
 334474,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846563854,0.7561884624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-334473,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846560854,0.7561854624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-334471,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846557854,0.7561824624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334473,2024-08-20,2024-08-21,2024-08-20,11:29:00,actinopterygii,13765,species,Serranus scriba,40.846560854,0.7561854624,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Serranus
+334471,2024-08-20,2024-08-21,2024-08-20,11:29:00,actinopterygii,34841,species,Diplodus annularis,40.846557854,0.7561824624,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
 334470,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846554854,0.7561794624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-334469,2024-08-20,2024-08-20,2024-07-29,11:52:00,,nan,,,40.9089208536,0.8329779921,False,Spain,needs_id,931,jennifer,cc-by-nc,0,0,,,,,,
-334468,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846551854,0.7561764624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-334467,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846548854,0.7561734624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-334466,2024-08-20,2024-08-20,2024-07-29,11:52:00,,nan,,,40.9089138536,0.8329709921,False,Spain,needs_id,931,jennifer,cc-by-nc,0,0,,,,,,
-334465,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846545854,0.7561704624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-334464,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846542854,0.7561674624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334469,2024-08-20,2024-08-21,2024-07-29,11:52:00,mollusca,34853,species,Flabellina affinis,40.9089208536,0.8329779921,False,Spain,needs_id,931,jennifer,cc-by-nc,0,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Flabellinidae,Flabellina
+334468,2024-08-20,2024-08-21,2024-08-20,11:29:00,actinopterygii,68960,species,Sparus aurata,40.846551854,0.7561764624,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sparus
+334467,2024-08-20,2024-08-21,2024-08-20,11:29:00,actinopterygii,13765,species,Serranus scriba,40.846548854,0.7561734624,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Serranus
+334466,2024-08-20,2024-08-21,2024-07-29,11:52:00,annelida,247041,species,Sabella spallanzanii,40.9089138536,0.8329709921,False,Spain,needs_id,931,jennifer,cc-by-nc,0,0,Animalia,Annelida,Polychaeta,Sabellida,Sabellidae,Sabella
+334465,2024-08-20,2024-08-21,2024-08-20,11:29:00,actinopterygii,35194,species,Thalassoma pavo,40.846545854,0.7561704624,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Thalassoma
+334464,2024-08-20,2024-08-21,2024-08-20,11:29:00,chromista,35106,species,Padina pavonica,40.846542854,0.7561674624,False,,needs_id,5214,urti,cc-by,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
 334463,2024-08-20,2024-08-20,2024-07-29,11:52:00,,nan,,,40.9089068536,0.8329639921,False,Spain,needs_id,931,jennifer,cc-by-nc,0,0,,,,,,
 334462,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846539854,0.7561644624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
 334461,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846536854,0.7561614624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
@@ -47,25 +47,25 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 334459,2024-08-20,2024-08-20,2024-07-29,11:52:00,,nan,,,40.9088998536,0.8329569921,False,Spain,needs_id,931,jennifer,cc-by-nc,0,0,,,,,,
 334458,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846530854,0.7561554624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
 334456,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846527854,0.7561524624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-334455,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846524854,0.7561494624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-334454,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846521854,0.7561464624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-334453,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846518854,0.7561434624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-334452,2024-08-20,2024-08-20,2024-07-29,10:50:00,,nan,,,40.9093169249,0.8337220922,False,Spain,needs_id,931,jennifer,cc-by-nc,0,0,,,,,,
+334455,2024-08-20,2024-08-21,2024-08-20,11:29:00,actinopterygii,35250,species,Parablennius pilicornis,40.846524854,0.7561494624,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+334454,2024-08-20,2024-08-21,2024-08-20,11:29:00,actinopterygii,35250,species,Parablennius pilicornis,40.846521854,0.7561464624,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+334453,2024-08-20,2024-08-21,2024-08-20,11:29:00,actinopterygii,48596,species,Lithognathus mormyrus,40.846518854,0.7561434624,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Lithognathus
+334452,2024-08-20,2024-08-21,2024-07-29,10:50:00,actinopterygii,34993,species,Sciaena umbra,40.9093169249,0.8337220922,False,Spain,needs_id,931,jennifer,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sciaenidae,Sciaena
 334451,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846515854,0.7561404624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-334449,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846512854,0.7561374624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334449,2024-08-20,2024-08-21,2024-08-20,11:29:00,actinopterygii,48596,species,Lithognathus mormyrus,40.846512854,0.7561374624,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Lithognathus
 334448,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846509854,0.7561344624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-334447,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846506854,0.7561314624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334447,2024-08-20,2024-08-21,2024-08-20,11:29:00,plantae,34884,species,Flabellia petiolata,40.846506854,0.7561314624,False,,needs_id,5214,urti,cc-by,0,0,Plantae,Chlorophyta,Bryopsidophyceae,Bryopsidales,Codiaceae,Flabellia
 334446,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846503854,0.7561284624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-334445,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846500854,0.7561254624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334445,2024-08-20,2024-08-21,2024-08-20,11:29:00,,112153,genus,Leptomysis,40.846500854,0.7561254624,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Arthropoda,Malacostraca,Mysida,Mysidae,
 334444,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846497854,0.7561224624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
 334443,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846494854,0.7561194624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-334442,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846491854,0.7561164624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334442,2024-08-20,2024-08-21,2024-08-20,11:29:00,cnidaria,34999,species,Actinia mediterranea,40.846491854,0.7561164624,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Actinia
 334440,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846488854,0.7561134624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-334439,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846485854,0.7561104624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-334438,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846482854,0.7561074624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334439,2024-08-20,2024-08-21,2024-08-20,11:29:00,actinopterygii,250650,species,Chelon auratus,40.846485854,0.7561104624,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Mugiliformes,Mugilidae,Chelon
+334438,2024-08-20,2024-08-21,2024-08-20,11:29:00,plantae,12569,genus,Peyssonnelia,40.846482854,0.7561074624,False,,needs_id,5214,urti,cc-by,0,0,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Peyssonneliaceae,
 334437,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846479854,0.7561044624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
 334436,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846476854,0.7561014624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-334435,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846473854,0.7560984624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+334435,2024-08-20,2024-08-21,2024-08-20,11:29:00,cnidaria,35220,species,Anemonia viridis,40.846473854,0.7560984624,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Anemonia
 334433,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846470854,0.7560954624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
 334432,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846467854,0.7560924624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
 334431,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846464854,0.7560894624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
