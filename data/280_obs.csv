@@ -24,9 +24,9 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 334524,2024-08-20,2024-08-20,2024-08-20,11:36:00,crustacea,240749,subclass,Copepoda,41.1813840794,1.5238772705,False,,needs_id,26,carlosrodero,cc-by-nc,0,0,Animalia,Arthropoda,,,,
 334520,2024-08-20,2024-08-20,2024-08-20,11:30:00,animalia,138,class,Ostracoda,41.1813881168,1.5238876641,False,,needs_id,26,carlosrodero,cc-by-nc,0,0,Animalia,Arthropoda,,,,
 334517,2024-08-20,2024-08-21,2024-08-20,09:50:00,actinopterygii,35225,species,Chromis chromis,41.1744174,1.5098090842,False,,research,26,carlosrodero,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
-334510,2024-08-20,2024-08-20,2024-08-20,09:58:00,cnidaria,35206,species,Rhizostoma pulmo,41.1745885035,1.5099401772,False,,needs_id,26,carlosrodero,cc-by-nc,0,0,Animalia,Cnidaria,Scyphozoa,Rhizostomeae,Rhizostomatidae,Rhizostoma
-334509,2024-08-20,2024-08-20,2024-08-20,09:55:00,cnidaria,35206,species,Rhizostoma pulmo,41.1747974611,1.509867087,False,,needs_id,26,carlosrodero,cc-by-nc,0,0,Animalia,Cnidaria,Scyphozoa,Rhizostomeae,Rhizostomatidae,Rhizostoma
-334508,2024-08-20,2024-08-20,2024-08-20,09:50:00,cnidaria,242270,species,Cotylorhiza tuberculata,41.174485791,1.5099146962,False,,needs_id,26,carlosrodero,cc-by-nc,0,0,Animalia,Cnidaria,Scyphozoa,Rhizostomeae,Cepheidae,Cotylorhiza
+334510,2024-08-20,2024-08-21,2024-08-20,09:58:00,cnidaria,35206,species,Rhizostoma pulmo,41.1745885035,1.5099401772,False,,research,26,carlosrodero,cc-by-nc,1,0,Animalia,Cnidaria,Scyphozoa,Rhizostomeae,Rhizostomatidae,Rhizostoma
+334509,2024-08-20,2024-08-21,2024-08-20,09:55:00,cnidaria,35206,species,Rhizostoma pulmo,41.1747974611,1.509867087,False,,research,26,carlosrodero,cc-by-nc,1,0,Animalia,Cnidaria,Scyphozoa,Rhizostomeae,Rhizostomatidae,Rhizostoma
+334508,2024-08-20,2024-08-21,2024-08-20,09:50:00,cnidaria,242270,species,Cotylorhiza tuberculata,41.174485791,1.5099146962,False,,research,26,carlosrodero,cc-by-nc,1,0,Animalia,Cnidaria,Scyphozoa,Rhizostomeae,Cepheidae,Cotylorhiza
 334479,2024-08-20,2024-08-20,2024-07-29,11:52:00,,nan,,,40.9089418536,0.8329989921,False,Spain,needs_id,931,jennifer,cc-by-nc,0,0,,,,,,
 334477,2024-08-20,2024-08-20,2024-07-29,11:52:00,,nan,,,40.9089348536,0.8329919921,False,Spain,needs_id,931,jennifer,cc-by-nc,0,0,,,,,,
 334476,2024-08-20,2024-08-20,2024-08-20,11:29:00,,nan,,,40.846566854,0.7561914624,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
