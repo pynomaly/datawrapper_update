@@ -93,7 +93,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 334443,444443,actinopterygii,Atherina boyeri,https://minka-sdg.org/attachments/local_photos/files/444443/medium.png,urti,40.846494854,0.7561194624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334443_444443.jpg
 334442,444442,cnidaria,Actinia mediterranea,https://minka-sdg.org/attachments/local_photos/files/444442/medium.png,urti,40.846491854,0.7561164624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334442_444442.jpg
 334440,444441,actinopterygii,Dicentrarchus punctatus,https://minka-sdg.org/attachments/local_photos/files/444441/medium.png,urti,40.846488854,0.7561134624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334440_444441.jpg
-334439,444440,actinopterygii,Mugilidae,https://minka-sdg.org/attachments/local_photos/files/444440/medium.png,urti,40.846485854,0.7561104624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334439_444440.jpg
+334439,444440,actinopterygii,Oedalechilus labeo,https://minka-sdg.org/attachments/local_photos/files/444440/medium.png,urti,40.846485854,0.7561104624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334439_444440.jpg
 334438,444438,plantae,Peyssonnelia,https://minka-sdg.org/attachments/local_photos/files/444438/medium.png,urti,40.846482854,0.7561074624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334438_444438.jpg
 334437,444437,porifera,Tethya aurantium,https://minka-sdg.org/attachments/local_photos/files/444437/medium.png,urti,40.846479854,0.7561044624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334437_444437.jpg
 334436,444436,plantae,Flabellia petiolata,https://minka-sdg.org/attachments/local_photos/files/444436/medium.png,urti,40.846476854,0.7561014624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334436_444436.jpg
@@ -141,11 +141,11 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 334383,444383,actinopterygii,Boops boops,https://minka-sdg.org/attachments/local_photos/files/444383/medium.png,urti,40.846350854,0.7559754624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334383_444383.jpg
 334382,444382,actinopterygii,Sciaena umbra,https://minka-sdg.org/attachments/local_photos/files/444382/medium.png,urti,40.846347854,0.7559724624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334382_444382.jpg
 334381,444381,cnidaria,Pelagia noctiluca,https://minka-sdg.org/attachments/local_photos/files/444381/medium.png,urti,40.846344854,0.7559694624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334381_444381.jpg
-334379,444380,,,https://minka-sdg.org/attachments/local_photos/files/444380/medium.png,urti,40.846341854,0.7559664624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334379_444380.jpg
-334378,444378,,,https://minka-sdg.org/attachments/local_photos/files/444378/medium.png,urti,40.846338854,0.7559634624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334378_444378.jpg
-334377,444377,,,https://minka-sdg.org/attachments/local_photos/files/444377/medium.png,urti,40.846335854,0.7559604624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334377_444377.jpg
-334376,444376,,,https://minka-sdg.org/attachments/local_photos/files/444376/medium.png,urti,40.846332854,0.7559574624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334376_444376.jpg
-334374,444375,,,https://minka-sdg.org/attachments/local_photos/files/444375/medium.png,urti,40.846329854,0.7559544624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334374_444375.jpg
+334379,444380,actinopterygii,Symphodus tinca,https://minka-sdg.org/attachments/local_photos/files/444380/medium.png,urti,40.846341854,0.7559664624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334379_444380.jpg
+334378,444378,actinopterygii,Parablennius pilicornis,https://minka-sdg.org/attachments/local_photos/files/444378/medium.png,urti,40.846338854,0.7559634624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334378_444378.jpg
+334377,444377,actinopterygii,Coris julis,https://minka-sdg.org/attachments/local_photos/files/444377/medium.png,urti,40.846335854,0.7559604624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334377_444377.jpg
+334376,444376,actinopterygii,Symphodus tinca,https://minka-sdg.org/attachments/local_photos/files/444376/medium.png,urti,40.846332854,0.7559574624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334376_444376.jpg
+334374,444375,actinopterygii,Serranus cabrilla,https://minka-sdg.org/attachments/local_photos/files/444375/medium.png,urti,40.846329854,0.7559544624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334374_444375.jpg
 334373,444374,actinopterygii,Diplodus puntazzo,https://minka-sdg.org/attachments/local_photos/files/444374/medium.png,urti,40.846326854,0.7559514624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334373_444374.jpg
 334372,444372,actinopterygii,Sarpa salpa,https://minka-sdg.org/attachments/local_photos/files/444372/medium.png,urti,40.846323854,0.7559484624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334372_444372.jpg
 334371,444371,actinopterygii,Oblada melanura,https://minka-sdg.org/attachments/local_photos/files/444371/medium.png,urti,40.846320854,0.7559454624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334371_444371.jpg
@@ -155,7 +155,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 334366,444366,actinopterygii,Microlipophrys nigriceps,https://minka-sdg.org/attachments/local_photos/files/444366/medium.png,urti,40.846308854,0.7559334624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334366_444366.jpg
 334364,444365,actinopterygii,Parablennius pilicornis,https://minka-sdg.org/attachments/local_photos/files/444365/medium.png,urti,40.846305854,0.7559304624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334364_444365.jpg
 334363,444364,crustacea,Mysidae,https://minka-sdg.org/attachments/local_photos/files/444364/medium.png,urti,40.846302854,0.7559274624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334363_444364.jpg
-334362,444362,,,https://minka-sdg.org/attachments/local_photos/files/444362/medium.png,urti,40.846299854,0.7559244624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334362_444362.jpg
+334362,444362,mollusca,Lithophaga lithophaga,https://minka-sdg.org/attachments/local_photos/files/444362/medium.png,urti,40.846299854,0.7559244624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334362_444362.jpg
 334360,444361,actinopterygii,Parablennius pilicornis,https://minka-sdg.org/attachments/local_photos/files/444361/medium.png,urti,40.846296854,0.7559214624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334360_444361.jpg
 334359,444360,actinopterygii,Aidablennius sphynx,https://minka-sdg.org/attachments/local_photos/files/444360/medium.png,urti,40.846293854,0.7559184624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334359_444360.jpg
 334358,444358,actinopterygii,Parablennius pilicornis,https://minka-sdg.org/attachments/local_photos/files/444358/medium.png,urti,40.846290854,0.7559154624,cc-by,"(c) Jaime, some rights reserved (CC BY)",334358_444358.jpg
