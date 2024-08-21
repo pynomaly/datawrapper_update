@@ -1,4 +1,42 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+335747,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8918237611,0.8174367485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335746,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8918207611,0.8174337485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335745,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8918177611,0.8174307485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335744,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8918147611,0.8174277485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335743,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8918117611,0.8174247485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335742,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8918087611,0.8174217485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335741,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8918057611,0.8174187485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335740,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8918027611,0.8174157485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335739,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917997611,0.8174127485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335738,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917967611,0.8174097485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335737,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917937611,0.8174067485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335736,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917907611,0.8174037485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335735,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917877611,0.8174007485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335734,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917847611,0.8173977485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335733,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917817611,0.8173947485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335732,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917787611,0.8173917485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335731,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917757611,0.8173887485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335730,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917727611,0.8173857485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335729,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917697611,0.8173827485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335728,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917667611,0.8173797485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335727,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917637611,0.8173767485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335726,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917607611,0.8173737485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335725,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917577611,0.8173707485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335724,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917547611,0.8173677485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335717,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917517611,0.8173647485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335716,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917487611,0.8173617485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335715,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917457611,0.8173587485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335714,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917427611,0.8173557485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335713,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917397611,0.8173527485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335712,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917367611,0.8173497485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335711,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917337611,0.8173467485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335710,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917307611,0.8173437485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335709,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917277611,0.8173407485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335708,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917247611,0.8173377485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335707,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917217611,0.8173347485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335706,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917187611,0.8173317485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335705,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917157611,0.8173287485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335704,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917127611,0.8173257485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
 335398,2024-08-21,2024-08-21,2024-08-21,11:29:00,cnidaria,35206,species,Rhizostoma pulmo,41.1895497487,1.5997593105,False,,needs_id,6099,adriadeepsea,cc-by,0,0,Animalia,Cnidaria,Scyphozoa,Rhizostomeae,Rhizostomatidae,Rhizostoma
 335396,2024-08-21,2024-08-21,2024-08-21,11:26:00,chromista,35106,species,Padina pavonica,41.1552873,1.419001,False,,needs_id,6099,adriadeepsea,cc-by,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
 335395,2024-08-21,2024-08-21,2024-08-21,11:26:00,cnidaria,35011,species,Pennaria disticha,41.1552803,1.418994,False,,needs_id,6099,adriadeepsea,cc-by,0,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Pennariidae,Pennaria
@@ -75,7 +113,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 335069,2024-08-21,2024-08-21,2024-08-21,01:01:00,chromista,35106,species,Padina pavonica,40.9213525571,0.8434224153,False,Spain,research,197,peixderoca24,cc-by-nc,1,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
 335068,2024-08-21,2024-08-21,2024-08-21,01:01:00,actinopterygii,68960,species,Sparus aurata,40.9213525571,0.8434224153,False,Spain,research,197,peixderoca24,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sparus
 335067,2024-08-21,2024-08-21,2024-08-21,01:02:00,crustacea,34877,species,Porcellana platycheles,40.9213525571,0.8434224153,False,Spain,research,197,peixderoca24,cc-by-nc,1,0,Animalia,Arthropoda,Malacostraca,Decapoda,Porcellanidae,Porcellana
-335066,2024-08-21,2024-08-21,2024-08-21,01:04:00,mollusca,34794,species,Acanthochitona fascicularis,40.9213525571,0.8434224153,False,Spain,needs_id,197,peixderoca24,cc-by-nc,1,0,Animalia,Mollusca,Polyplacophora,Neoloricata,Acanthochitonidae,Acanthochitona
+335066,2024-08-21,2024-08-21,2024-08-21,01:04:00,mollusca,34794,species,Acanthochitona fascicularis,40.9213525571,0.8434224153,False,Spain,research,197,peixderoca24,cc-by-nc,1,0,Animalia,Mollusca,Polyplacophora,Neoloricata,Acanthochitonidae,Acanthochitona
 335065,2024-08-21,2024-08-21,2024-08-21,01:04:00,mollusca,254010,species,Rhyssoplax olivacea,40.9213525571,0.8434224153,False,Spain,research,197,peixderoca24,cc-by-nc,1,0,Animalia,Mollusca,Polyplacophora,,Chitonidae,Rhyssoplax
 335064,2024-08-21,2024-08-21,2024-08-21,01:04:00,actinopterygii,35125,species,Mullus surmuletus,40.9213525571,0.8434224153,False,Spain,research,197,peixderoca24,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Perciformes,Mullidae,Mullus
 335063,2024-08-21,2024-08-21,2024-08-21,01:06:00,actinopterygii,250650,species,Chelon auratus,40.9213525571,0.8434224153,False,Spain,research,197,peixderoca24,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Mugiliformes,Mugilidae,Chelon
@@ -6360,6 +6398,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 293079,2024-07-06,2024-07-08,2024-07-06,20:28:00,cnidaria,34827,species,Oculina patagonica,41.1321240724,1.3898700142,False,"Platja de Canyadell, Torredembarra, España",research,653,ura4dive,cc-by-nc,2,0,Animalia,Cnidaria,Anthozoa,Scleractinia,Oculinidae,Oculina
 293078,2024-07-06,2024-07-07,2024-07-06,20:28:00,chromista,35106,species,Padina pavonica,41.1321240724,1.3898700142,False,"Platja de Canyadell, Torredembarra, España",research,653,ura4dive,cc-by-nc,1,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
 293077,2024-07-06,2024-07-08,2024-07-06,20:28:00,actinopterygii,35250,species,Parablennius pilicornis,41.1321240724,1.3898700142,False,"Platja de Canyadell, Torredembarra, España",research,653,ura4dive,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+293076,2024-07-06,2024-07-07,2024-07-06,20:28:00,plantae,35158,species,Acetabularia acetabulum,41.1321240724,1.3898700142,False,"Platja de Canyadell, Torredembarra, España",research,653,ura4dive,cc-by-nc,1,0,Plantae,Chlorophyta,Ulvophyceae,Dasycladales,Polyphysaceae,Acetabularia
 293076,2024-07-06,2024-07-07,2024-07-06,20:28:00,plantae,35158,species,Acetabularia acetabulum,41.1321240724,1.3898700142,False,"Platja de Canyadell, Torredembarra, España",research,653,ura4dive,cc-by-nc,1,0,Plantae,Chlorophyta,Ulvophyceae,Dasycladales,Polyphysaceae,Acetabularia
 293075,2024-07-06,2024-07-08,2024-07-06,20:28:00,actinopterygii,240400,species,Oblada melanura,41.1321240724,1.3898700142,False,"Platja de Canyadell, Torredembarra, España",research,653,ura4dive,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Oblada
 293074,2024-07-06,2024-07-08,2024-07-06,20:28:00,actinopterygii,35225,species,Chromis chromis,41.1321240724,1.3898700142,False,"Platja de Canyadell, Torredembarra, España",research,653,ura4dive,cc-by-nc,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Chromis
