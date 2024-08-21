@@ -1,5 +1,28 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
-335765,2024-08-21,2024-08-21,2024-08-21,15:09:00,,nan,,,41.1724173884,1.5093459229,False,,needs_id,359,oceanicos,cc-by-nc,0,0,,,,,,
+335924,2024-08-21,2024-08-21,2024-08-19,16:33:00,plantae,35004,species,Halimeda tuna,41.0896752629,1.2285137519,False,ANERIS - Parc Subaquàtic TARRAGONA,needs_id,866,biosub,cc-by-nc,0,0,Plantae,Chlorophyta,Bryopsidophyceae,Bryopsidales,Halimedaceae,Halimeda
+335923,2024-08-21,2024-08-21,2024-08-19,10:31:00,plantae,34884,species,Flabellia petiolata,41.0896752629,1.2285137519,False,ANERIS - Parc Subaquàtic TARRAGONA,needs_id,866,biosub,cc-by-nc,0,0,Plantae,Chlorophyta,Bryopsidophyceae,Bryopsidales,Codiaceae,Flabellia
+335909,2024-08-21,2024-08-21,2024-08-18,10:28:00,plantae,263347,species,Phymatolithon lenormandii,41.0896752629,1.2285137519,False,ANERIS - Parc Subaquàtic TARRAGONA,needs_id,866,biosub,cc-by-nc,0,0,Plantae,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,Phymatolithon
+335908,2024-08-21,2024-08-21,2024-08-19,15:21:00,plantae,243833,species,Predaea ollivieri,41.0896752629,1.2285137519,False,ANERIS - Parc Subaquàtic TARRAGONA,needs_id,866,biosub,cc-by-nc,0,0,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Nemastomataceae,Predaea
+335907,2024-08-21,2024-08-21,2024-08-17,09:10:00,plantae,248535,species,Scinaia furcellata,41.0896752629,1.2285137519,False,ANERIS - Parc Subaquàtic TARRAGONA,needs_id,866,biosub,cc-by-nc,0,0,Plantae,Rhodophyta,Florideophyceae,Nemaliales,Galaxauraceae,Scinaia
+335906,2024-08-21,2024-08-21,2024-08-19,15:22:00,plantae,251996,species,Tricleocarpa fragilis,41.0896752629,1.2285137519,False,ANERIS - Parc Subaquàtic TARRAGONA,needs_id,866,biosub,cc-by-nc,0,0,Plantae,Rhodophyta,Florideophyceae,Nemaliales,Galaxauraceae,Tricleocarpa
+335905,2024-08-21,2024-08-21,2024-08-17,09:10:00,plantae,84407,genus,Porphyra,41.0896752629,1.2285137519,False,ANERIS - Parc Subaquàtic TARRAGONA,needs_id,866,biosub,cc-by-nc,0,0,Plantae,Rhodophyta,Bangiophyceae,Bangiales,Bangiaceae,
+335904,2024-08-21,2024-08-21,2024-08-19,15:20:00,porifera,252576,species,Oscarella lobularis,41.0896752629,1.2285137519,False,ANERIS - Parc Subaquàtic TARRAGONA,needs_id,866,biosub,cc-by-nc,0,0,Animalia,Porifera,Homoscleromorpha,Homosclerophorida,Oscarellidae,Oscarella
+335903,2024-08-21,2024-08-21,2024-08-19,15:28:00,porifera,253205,species,Phorbas fictitius,41.0896752629,1.2285137519,False,ANERIS - Parc Subaquàtic TARRAGONA,needs_id,866,biosub,cc-by-nc,0,0,Animalia,Porifera,Demospongiae,Poecilosclerida,Hymedesmiidae,Phorbas
+335902,2024-08-21,2024-08-21,2024-08-19,17:11:00,porifera,241990,species,Ircinia oros,41.0896752629,1.2285137519,False,ANERIS - Parc Subaquàtic TARRAGONA,needs_id,866,biosub,cc-by-nc,0,0,Animalia,Porifera,Demospongiae,Dictyoceratida,Irciniidae,Ircinia
+335901,2024-08-21,2024-08-21,2024-08-17,08:23:00,chromista,150265,genus,Cladostephus,41.0896752629,1.2285137519,False,ANERIS - Parc Subaquàtic TARRAGONA,needs_id,866,biosub,cc-by-nc,0,0,Chromista,Ochrophyta,Phaeophyceae,Sphacelariales,Sphacelariaceae,
+335900,2024-08-21,2024-08-21,2024-08-19,08:20:00,actinopterygii,262183,species,Womersleyella setacea,41.0896752629,1.2285137519,False,ANERIS - Parc Subaquàtic TARRAGONA,needs_id,866,biosub,cc-by-nc,0,0,Animalia,Chordata,Actinopterygii,Pleuronectiformes,Cynoglossidae,Symphurus
+335899,2024-08-21,2024-08-21,2024-08-19,08:04:00,mollusca,254305,species,Doto floridicola,41.0896752629,1.2285137519,False,ANERIS - Parc Subaquàtic TARRAGONA,research,866,biosub,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Dotidae,Doto
+335887,2024-08-21,2024-08-21,2024-08-19,08:02:00,mollusca,254305,species,Doto floridicola,41.0896752629,1.2285137519,False,ANERIS - Parc Subaquàtic TARRAGONA,research,866,biosub,cc-by-nc,1,0,Animalia,Mollusca,Gastropoda,Nudibranchia,Dotidae,Doto
+335885,2024-08-21,2024-08-21,2024-08-19,08:15:00,cnidaria,243182,species,Aglaophenia elongata,41.0896752629,1.2285137519,False,ANERIS - Parc Subaquàtic TARRAGONA,research,866,biosub,cc-by-nc,1,0,Animalia,Cnidaria,Hydrozoa,Leptothecata,Aglaopheniidae,Aglaophenia
+335884,2024-08-21,2024-08-21,2024-08-19,17:06:00,plantae,35093,species,Caulerpa prolifera,41.0896752629,1.2285137519,False,ANERIS - Parc Subaquàtic TARRAGONA,research,866,biosub,cc-by-nc,1,0,Plantae,Chlorophyta,Bryopsidophyceae,Bryopsidales,Caulerpaceae,Caulerpa
+335883,2024-08-21,2024-08-21,2024-08-19,15:12:00,bryozoa,248476,species,Schizobrachiella sanguinea,41.0896752629,1.2285137519,False,ANERIS - Parc Subaquàtic TARRAGONA,research,866,biosub,cc-by-nc,1,0,Animalia,Bryozoa,Gymnolaemata,Cheilostomatida,Schizoporellidae,Schizobrachiella
+335882,2024-08-21,2024-08-21,2024-08-18,08:13:00,echinodermata,9659,genus,Holothuria,41.0896752629,1.2285137519,False,ANERIS - Parc Subaquàtic TARRAGONA,needs_id,866,biosub,cc-by-nc,2,0,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,
+335881,2024-08-21,2024-08-21,2024-08-18,17:26:00,actinopterygii,250040,species,Oedalechilus labeo,41.0896752629,1.2285137519,False,ANERIS - Parc Subaquàtic TARRAGONA,research,866,biosub,cc-by-nc,1,0,Animalia,Chordata,Actinopterygii,Mugiliformes,Mugilidae,Oedalechilus
+335880,2024-08-21,2024-08-21,2024-08-18,10:11:00,mollusca,34923,species,Pinna rudis,41.0896752629,1.2285137519,False,ANERIS - Parc Subaquàtic TARRAGONA,research,866,biosub,cc-by-nc,1,0,Animalia,Mollusca,Bivalvia,Ostreida,Pinnidae,Pinna
+335879,2024-08-21,2024-08-21,2024-08-18,08:40:00,mollusca,34923,species,Pinna rudis,41.0896752629,1.2285137519,False,ANERIS - Parc Subaquàtic TARRAGONA,research,866,biosub,cc-by-nc,1,0,Animalia,Mollusca,Bivalvia,Ostreida,Pinnidae,Pinna
+335878,2024-08-21,2024-08-21,2024-08-17,08:10:00,mollusca,245061,species,Anomia ephippium,41.0896752629,1.2285137519,False,ANERIS - Parc Subaquàtic TARRAGONA,research,866,biosub,cc-by-nc,1,0,Animalia,Mollusca,Bivalvia,Ostreoida,Anomiidae,Anomia
+335877,2024-08-21,2024-08-21,2024-08-17,08:08:00,mollusca,247092,species,Mimachlamys varia,41.0896752629,1.2285137519,False,ANERIS - Parc Subaquàtic TARRAGONA,research,866,biosub,cc-by-nc,1,0,Animalia,Mollusca,Bivalvia,Pectinida,Pectinidae,Mimachlamys
+335765,2024-08-21,2024-08-21,2024-08-21,15:09:00,elasmobranchii,257011,species,Aetomylaeus bovinus,41.1724173884,1.5093459229,False,,needs_id,359,oceanicos,cc-by-nc,0,0,Animalia,Chordata,Elasmobranchii,Rajiformes,Myliobatidae,Aetomylaeus
 335764,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8918747611,0.8174877485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
 335763,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8918717611,0.8174847485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
 335762,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8918687611,0.8174817485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
@@ -30,31 +53,31 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 335737,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917937611,0.8174067485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
 335736,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917907611,0.8174037485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
 335735,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917877611,0.8174007485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-335734,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917847611,0.8173977485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335734,2024-08-21,2024-08-21,2024-08-21,11:05:00,plantae,17971,genus,Laurencia,40.8917847611,0.8173977485,False,,needs_id,5214,urti,cc-by,0,0,Plantae,Rhodophyta,Florideophyceae,Ceramiales,Rhodomelaceae,
 335733,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917817611,0.8173947485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
 335732,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917787611,0.8173917485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-335731,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917757611,0.8173887485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-335730,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917727611,0.8173857485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-335729,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917697611,0.8173827485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-335728,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917667611,0.8173797485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335731,2024-08-21,2024-08-21,2024-08-21,11:05:00,actinopterygii,35125,species,Mullus surmuletus,40.8917757611,0.8173887485,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Mullidae,Mullus
+335730,2024-08-21,2024-08-21,2024-08-21,11:05:00,actinopterygii,240400,species,Oblada melanura,40.8917727611,0.8173857485,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Oblada
+335729,2024-08-21,2024-08-21,2024-08-21,11:05:00,porifera,242281,species,Crambe crambe,40.8917697611,0.8173827485,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Porifera,Demospongiae,Poecilosclerida,Crambeidae,Crambe
+335728,2024-08-21,2024-08-21,2024-08-21,11:05:00,actinopterygii,34798,species,Diplodus vulgaris,40.8917667611,0.8173797485,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
 335727,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917637611,0.8173767485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
 335726,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917607611,0.8173737485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-335725,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917577611,0.8173707485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335725,2024-08-21,2024-08-21,2024-08-21,11:05:00,actinopterygii,35079,species,Symphodus rostratus,40.8917577611,0.8173707485,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
 335724,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917547611,0.8173677485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-335717,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917517611,0.8173647485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-335716,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917487611,0.8173617485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-335715,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917457611,0.8173587485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-335714,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917427611,0.8173557485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-335713,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917397611,0.8173527485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-335712,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917367611,0.8173497485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-335711,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917337611,0.8173467485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-335710,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917307611,0.8173437485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-335709,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917277611,0.8173407485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-335708,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917247611,0.8173377485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-335707,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917217611,0.8173347485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-335706,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917187611,0.8173317485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-335705,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917157611,0.8173287485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
-335704,2024-08-21,2024-08-21,2024-08-21,11:05:00,,nan,,,40.8917127611,0.8173257485,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
+335717,2024-08-21,2024-08-21,2024-08-21,11:05:00,plantae,251996,species,Tricleocarpa fragilis,40.8917517611,0.8173647485,False,,needs_id,5214,urti,cc-by,0,0,Plantae,Rhodophyta,Florideophyceae,Nemaliales,Galaxauraceae,Tricleocarpa
+335716,2024-08-21,2024-08-21,2024-08-21,11:05:00,annelida,244097,species,Protula tubularia,40.8917487611,0.8173617485,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Annelida,Polychaeta,Sabellida,Serpulidae,Protula
+335715,2024-08-21,2024-08-21,2024-08-21,11:05:00,actinopterygii,240397,species,Symphodus ocellatus,40.8917457611,0.8173587485,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
+335714,2024-08-21,2024-08-21,2024-08-21,11:05:00,actinopterygii,240397,species,Symphodus ocellatus,40.8917427611,0.8173557485,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
+335713,2024-08-21,2024-08-21,2024-08-21,11:05:00,actinopterygii,34840,species,Labrus merula,40.8917397611,0.8173527485,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Labrus
+335712,2024-08-21,2024-08-21,2024-08-21,11:05:00,actinopterygii,14022,species,Muraena helena,40.8917367611,0.8173497485,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Anguilliformes,Muraenidae,Muraena
+335711,2024-08-21,2024-08-21,2024-08-21,11:05:00,actinopterygii,244172,species,Dentex dentex,40.8917337611,0.8173467485,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Dentex
+335710,2024-08-21,2024-08-21,2024-08-21,11:05:00,actinopterygii,34835,species,Coris julis,40.8917307611,0.8173437485,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
+335709,2024-08-21,2024-08-21,2024-08-21,11:05:00,actinopterygii,35213,species,Diplodus puntazzo,40.8917277611,0.8173407485,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+335708,2024-08-21,2024-08-21,2024-08-21,11:05:00,mollusca,245599,species,Aplysia fasciata,40.8917247611,0.8173377485,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Mollusca,Gastropoda,Aplysiida,Aplysiidae,Aplysia
+335707,2024-08-21,2024-08-21,2024-08-21,11:05:00,actinopterygii,35282,species,Bothus podas,40.8917217611,0.8173347485,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Pleuronectiformes,Bothidae,Bothus
+335706,2024-08-21,2024-08-21,2024-08-21,11:05:00,mollusca,34855,species,Sepia officinalis,40.8917187611,0.8173317485,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Mollusca,Cephalopoda,Sepiida,Sepiidae,Sepia
+335705,2024-08-21,2024-08-21,2024-08-21,11:05:00,actinopterygii,91462,genus,Chelon,40.8917157611,0.8173287485,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Mugiliformes,Mugilidae,
+335704,2024-08-21,2024-08-21,2024-08-21,11:05:00,actinopterygii,35138,species,Diplodus cervinus,40.8917127611,0.8173257485,False,,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
 335398,2024-08-21,2024-08-21,2024-08-21,11:29:00,cnidaria,35206,species,Rhizostoma pulmo,41.1895497487,1.5997593105,False,,needs_id,6099,adriadeepsea,cc-by,0,0,Animalia,Cnidaria,Scyphozoa,Rhizostomeae,Rhizostomatidae,Rhizostoma
 335396,2024-08-21,2024-08-21,2024-08-21,11:26:00,chromista,35106,species,Padina pavonica,41.1552873,1.419001,False,,needs_id,6099,adriadeepsea,cc-by,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
 335395,2024-08-21,2024-08-21,2024-08-21,11:26:00,cnidaria,35011,species,Pennaria disticha,41.1552803,1.418994,False,,needs_id,6099,adriadeepsea,cc-by,0,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Pennariidae,Pennaria
