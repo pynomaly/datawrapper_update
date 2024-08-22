@@ -34,22 +34,22 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 335759,446020,,,https://minka-sdg.org/attachments/local_photos/files/446020/medium.png,urti,40.8918597611,0.8174727485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335759_446020.jpg
 335758,446019,,,https://minka-sdg.org/attachments/local_photos/files/446019/medium.png,urti,40.8918567611,0.8174697485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335758_446019.jpg
 335757,446017,,,https://minka-sdg.org/attachments/local_photos/files/446017/medium.png,urti,40.8918537611,0.8174667485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335757_446017.jpg
-335756,446015,,,https://minka-sdg.org/attachments/local_photos/files/446015/medium.png,urti,40.8918507611,0.8174637485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335756_446015.jpg
-335755,446012,,,https://minka-sdg.org/attachments/local_photos/files/446012/medium.png,urti,40.8918477611,0.8174607485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335755_446012.jpg
+335756,446015,cnidaria,Aiptasia mutabilis,https://minka-sdg.org/attachments/local_photos/files/446015/medium.png,urti,40.8918507611,0.8174637485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335756_446015.jpg
+335755,446012,actinopterygii,Diplodus vulgaris,https://minka-sdg.org/attachments/local_photos/files/446012/medium.png,urti,40.8918477611,0.8174607485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335755_446012.jpg
 335754,446011,,,https://minka-sdg.org/attachments/local_photos/files/446011/medium.png,urti,40.8918447611,0.8174577485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335754_446011.jpg
-335753,446009,,,https://minka-sdg.org/attachments/local_photos/files/446009/medium.png,urti,40.8918417611,0.8174547485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335753_446009.jpg
-335752,446007,,,https://minka-sdg.org/attachments/local_photos/files/446007/medium.png,urti,40.8918387611,0.8174517485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335752_446007.jpg
-335751,446006,,,https://minka-sdg.org/attachments/local_photos/files/446006/medium.png,urti,40.8918357611,0.8174487485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335751_446006.jpg
-335750,446003,,,https://minka-sdg.org/attachments/local_photos/files/446003/medium.png,urti,40.8918327611,0.8174457485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335750_446003.jpg
+335753,446009,,Leptomysis,https://minka-sdg.org/attachments/local_photos/files/446009/medium.png,urti,40.8918417611,0.8174547485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335753_446009.jpg
+335752,446007,annelida,Protula tubularia,https://minka-sdg.org/attachments/local_photos/files/446007/medium.png,urti,40.8918387611,0.8174517485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335752_446007.jpg
+335751,446006,echinodermata,Echinaster sepositus,https://minka-sdg.org/attachments/local_photos/files/446006/medium.png,urti,40.8918357611,0.8174487485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335751_446006.jpg
+335750,446003,actinopterygii,Sarpa salpa,https://minka-sdg.org/attachments/local_photos/files/446003/medium.png,urti,40.8918327611,0.8174457485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335750_446003.jpg
 335749,446002,,,https://minka-sdg.org/attachments/local_photos/files/446002/medium.png,urti,40.8918297611,0.8174427485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335749_446002.jpg
 335748,446000,,,https://minka-sdg.org/attachments/local_photos/files/446000/medium.png,urti,40.8918267611,0.8174397485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335748_446000.jpg
-335747,445997,,,https://minka-sdg.org/attachments/local_photos/files/445997/medium.png,urti,40.8918237611,0.8174367485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335747_445997.jpg
+335747,445997,actinopterygii,Symphodus tinca,https://minka-sdg.org/attachments/local_photos/files/445997/medium.png,urti,40.8918237611,0.8174367485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335747_445997.jpg
 335746,445994,,,https://minka-sdg.org/attachments/local_photos/files/445994/medium.png,urti,40.8918207611,0.8174337485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335746_445994.jpg
-335745,445992,,,https://minka-sdg.org/attachments/local_photos/files/445992/medium.png,urti,40.8918177611,0.8174307485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335745_445992.jpg
+335745,445992,plantae,Laurencia,https://minka-sdg.org/attachments/local_photos/files/445992/medium.png,urti,40.8918177611,0.8174307485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335745_445992.jpg
 335744,445988,,,https://minka-sdg.org/attachments/local_photos/files/445988/medium.png,urti,40.8918147611,0.8174277485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335744_445988.jpg
 335743,445986,,,https://minka-sdg.org/attachments/local_photos/files/445986/medium.png,urti,40.8918117611,0.8174247485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335743_445986.jpg
 335742,445980,,,https://minka-sdg.org/attachments/local_photos/files/445980/medium.png,urti,40.8918087611,0.8174217485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335742_445980.jpg
-335741,445975,,,https://minka-sdg.org/attachments/local_photos/files/445975/medium.png,urti,40.8918057611,0.8174187485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335741_445975.jpg
+335741,445975,plantae,Jania,https://minka-sdg.org/attachments/local_photos/files/445975/medium.png,urti,40.8918057611,0.8174187485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335741_445975.jpg
 335740,445973,,,https://minka-sdg.org/attachments/local_photos/files/445973/medium.png,urti,40.8918027611,0.8174157485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335740_445973.jpg
 335739,445971,,,https://minka-sdg.org/attachments/local_photos/files/445971/medium.png,urti,40.8917997611,0.8174127485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335739_445971.jpg
 335738,445969,,,https://minka-sdg.org/attachments/local_photos/files/445969/medium.png,urti,40.8917967611,0.8174097485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335738_445969.jpg
@@ -63,8 +63,8 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 335730,445956,actinopterygii,Oblada melanura,https://minka-sdg.org/attachments/local_photos/files/445956/medium.png,urti,40.8917727611,0.8173857485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335730_445956.jpg
 335729,445954,porifera,Crambe crambe,https://minka-sdg.org/attachments/local_photos/files/445954/medium.png,urti,40.8917697611,0.8173827485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335729_445954.jpg
 335728,445953,actinopterygii,Diplodus vulgaris,https://minka-sdg.org/attachments/local_photos/files/445953/medium.png,urti,40.8917667611,0.8173797485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335728_445953.jpg
-335727,445952,,,https://minka-sdg.org/attachments/local_photos/files/445952/medium.png,urti,40.8917637611,0.8173767485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335727_445952.jpg
-335726,445951,,,https://minka-sdg.org/attachments/local_photos/files/445951/medium.png,urti,40.8917607611,0.8173737485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335726_445951.jpg
+335727,445952,actinopterygii,Coris julis,https://minka-sdg.org/attachments/local_photos/files/445952/medium.png,urti,40.8917637611,0.8173767485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335727_445952.jpg
+335726,445951,actinopterygii,Serranus scriba,https://minka-sdg.org/attachments/local_photos/files/445951/medium.png,urti,40.8917607611,0.8173737485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335726_445951.jpg
 335725,445949,actinopterygii,Symphodus rostratus,https://minka-sdg.org/attachments/local_photos/files/445949/medium.png,urti,40.8917577611,0.8173707485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335725_445949.jpg
 335724,445947,,,https://minka-sdg.org/attachments/local_photos/files/445947/medium.png,urti,40.8917547611,0.8173677485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335724_445947.jpg
 335717,445945,plantae,Tricleocarpa fragilis,https://minka-sdg.org/attachments/local_photos/files/445945/medium.png,urti,40.8917517611,0.8173647485,cc-by,"(c) Jaime, some rights reserved (CC BY)",335717_445945.jpg
