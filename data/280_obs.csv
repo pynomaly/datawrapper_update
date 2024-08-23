@@ -1,4 +1,5 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+337543,2024-08-23,2024-08-23,2024-08-22,06:50:00,aves,93460,species,Thalasseus sandvicensis,41.0644445,1.0717638333,False,,research,6023,rosamarivs,cc-by,1,0,Animalia,Chordata,Aves,Ciconiiformes,Laridae,Thalasseus
 337359,2024-08-23,2024-08-23,2024-08-23,08:26:00,mollusca,10213,genus,Glycymeris,41.1789665,1.524662,False,,needs_id,4753,calypsobcn,cc-by,0,0,Animalia,Mollusca,Bivalvia,Arcida,Glycymerididae,
 337352,2024-08-23,2024-08-23,2024-08-23,08:26:00,mollusca,337,order,Neogastropoda,41.181221,1.5244749444,False,,needs_id,4753,calypsobcn,cc-by,0,0,Animalia,Mollusca,Gastropoda,,,
 337351,2024-08-23,2024-08-23,2024-08-23,08:26:00,mollusca,12284,genus,Donax,41.1810874722,1.5241049444,False,,needs_id,4753,calypsobcn,cc-by,0,0,Animalia,Mollusca,Bivalvia,Cardiida,Donacidae,
