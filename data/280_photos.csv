@@ -1,14 +1,15 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+337760,448307,,,https://minka-sdg.org/attachments/local_photos/files/448307/medium.png,urti,40.8468665883,0.7578199357,cc-by,"(c) Jaime, some rights reserved (CC BY)",337760_448307.jpg
 337726,448254,actinopterygii,Chelon,https://minka-sdg.org/attachments/local_photos/files/448254/medium.png,urti,40.8871233151,0.808976184,cc-by,"(c) Jaime, some rights reserved (CC BY)",337726_448254.jpg
-337716,448251,,,https://minka-sdg.org/attachments/local_photos/files/448251/medium.png,urti,40.8871203151,0.808973184,cc-by,"(c) Jaime, some rights reserved (CC BY)",337716_448251.jpg
-337715,448249,,,https://minka-sdg.org/attachments/local_photos/files/448249/medium.png,urti,40.8871173151,0.808970184,cc-by,"(c) Jaime, some rights reserved (CC BY)",337715_448249.jpg
-337714,448247,,,https://minka-sdg.org/attachments/local_photos/files/448247/medium.png,urti,40.8871143151,0.808967184,cc-by,"(c) Jaime, some rights reserved (CC BY)",337714_448247.jpg
-337712,448246,,,https://minka-sdg.org/attachments/local_photos/files/448246/medium.png,urti,40.8871113151,0.808964184,cc-by,"(c) Jaime, some rights reserved (CC BY)",337712_448246.jpg
-337711,448245,,,https://minka-sdg.org/attachments/local_photos/files/448245/medium.png,urti,40.8871083151,0.808961184,cc-by,"(c) Jaime, some rights reserved (CC BY)",337711_448245.jpg
-337710,448243,,,https://minka-sdg.org/attachments/local_photos/files/448243/medium.png,urti,40.8871053151,0.808958184,cc-by,"(c) Jaime, some rights reserved (CC BY)",337710_448243.jpg
-337709,448242,,,https://minka-sdg.org/attachments/local_photos/files/448242/medium.png,urti,40.8871023151,0.808955184,cc-by,"(c) Jaime, some rights reserved (CC BY)",337709_448242.jpg
-337708,448241,,,https://minka-sdg.org/attachments/local_photos/files/448241/medium.png,urti,40.8870993151,0.808952184,cc-by,"(c) Jaime, some rights reserved (CC BY)",337708_448241.jpg
-337707,448234,,,https://minka-sdg.org/attachments/local_photos/files/448234/medium.png,urti,40.8870963151,0.808949184,cc-by,"(c) Jaime, some rights reserved (CC BY)",337707_448234.jpg
+337716,448251,plantae,Posidonia oceanica,https://minka-sdg.org/attachments/local_photos/files/448251/medium.png,urti,40.8871203151,0.808973184,cc-by,"(c) Jaime, some rights reserved (CC BY)",337716_448251.jpg
+337715,448249,annelida,Sabella spallanzanii,https://minka-sdg.org/attachments/local_photos/files/448249/medium.png,urti,40.8871173151,0.808970184,cc-by,"(c) Jaime, some rights reserved (CC BY)",337715_448249.jpg
+337714,448247,ctenophora,Mnemiopsis leidyi,https://minka-sdg.org/attachments/local_photos/files/448247/medium.png,urti,40.8871143151,0.808967184,cc-by,"(c) Jaime, some rights reserved (CC BY)",337714_448247.jpg
+337712,448246,actinopterygii,Trachurus,https://minka-sdg.org/attachments/local_photos/files/448246/medium.png,urti,40.8871113151,0.808964184,cc-by,"(c) Jaime, some rights reserved (CC BY)",337712_448246.jpg
+337711,448245,actinopterygii,Oedalechilus labeo,https://minka-sdg.org/attachments/local_photos/files/448245/medium.png,urti,40.8871083151,0.808961184,cc-by,"(c) Jaime, some rights reserved (CC BY)",337711_448245.jpg
+337710,448243,actinopterygii,Diplodus vulgaris,https://minka-sdg.org/attachments/local_photos/files/448243/medium.png,urti,40.8871053151,0.808958184,cc-by,"(c) Jaime, some rights reserved (CC BY)",337710_448243.jpg
+337709,448242,actinopterygii,Diplodus annularis,https://minka-sdg.org/attachments/local_photos/files/448242/medium.png,urti,40.8871023151,0.808955184,cc-by,"(c) Jaime, some rights reserved (CC BY)",337709_448242.jpg
+337708,448241,plantae,Cladophora,https://minka-sdg.org/attachments/local_photos/files/448241/medium.png,urti,40.8870993151,0.808952184,cc-by,"(c) Jaime, some rights reserved (CC BY)",337708_448241.jpg
+337707,448234,chromista,Cladostephus spongiosus,https://minka-sdg.org/attachments/local_photos/files/448234/medium.png,urti,40.8870963151,0.808949184,cc-by,"(c) Jaime, some rights reserved (CC BY)",337707_448234.jpg
 337706,448225,actinopterygii,Gobius incognitus,https://minka-sdg.org/attachments/local_photos/files/448225/medium.png,urti,40.8870933151,0.808946184,cc-by,"(c) Jaime, some rights reserved (CC BY)",337706_448225.jpg
 337705,448221,mollusca,Cerithium vulgatum,https://minka-sdg.org/attachments/local_photos/files/448221/medium.png,urti,40.8870903151,0.808943184,cc-by,"(c) Jaime, some rights reserved (CC BY)",337705_448221.jpg
 337703,448220,chromista,Cladostephus spongiosus,https://minka-sdg.org/attachments/local_photos/files/448220/medium.png,urti,40.8870873151,0.808940184,cc-by,"(c) Jaime, some rights reserved (CC BY)",337703_448220.jpg

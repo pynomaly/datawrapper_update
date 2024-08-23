@@ -1,19 +1,20 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+337760,2024-08-23,2024-08-23,2024-08-20,10:29:00,,nan,,,40.8468665883,0.7578199357,False,,needs_id,5214,urti,cc-by,0,0,,,,,,
 337726,2024-08-23,2024-08-23,2024-08-23,11:00:00,actinopterygii,91462,genus,Chelon,40.8871233151,0.808976184,False,Spain,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Mugiliformes,Mugilidae,
-337716,2024-08-23,2024-08-23,2024-08-23,11:00:00,,nan,,,40.8871203151,0.808973184,False,Spain,needs_id,5214,urti,cc-by,0,0,,,,,,
-337715,2024-08-23,2024-08-23,2024-08-23,11:00:00,,nan,,,40.8871173151,0.808970184,False,Spain,needs_id,5214,urti,cc-by,0,0,,,,,,
-337714,2024-08-23,2024-08-23,2024-08-23,11:00:00,,nan,,,40.8871143151,0.808967184,False,Spain,needs_id,5214,urti,cc-by,0,0,,,,,,
-337712,2024-08-23,2024-08-23,2024-08-23,11:00:00,,nan,,,40.8871113151,0.808964184,False,Spain,needs_id,5214,urti,cc-by,0,0,,,,,,
-337711,2024-08-23,2024-08-23,2024-08-23,11:00:00,,nan,,,40.8871083151,0.808961184,False,Spain,needs_id,5214,urti,cc-by,0,0,,,,,,
-337710,2024-08-23,2024-08-23,2024-08-23,11:00:00,,nan,,,40.8871053151,0.808958184,False,Spain,needs_id,5214,urti,cc-by,0,0,,,,,,
-337709,2024-08-23,2024-08-23,2024-08-23,11:00:00,,nan,,,40.8871023151,0.808955184,False,Spain,needs_id,5214,urti,cc-by,0,0,,,,,,
-337708,2024-08-23,2024-08-23,2024-08-23,11:00:00,,nan,,,40.8870993151,0.808952184,False,Spain,needs_id,5214,urti,cc-by,0,0,,,,,,
-337707,2024-08-23,2024-08-23,2024-08-23,11:00:00,,nan,,,40.8870963151,0.808949184,False,Spain,needs_id,5214,urti,cc-by,0,0,,,,,,
+337716,2024-08-23,2024-08-23,2024-08-23,11:00:00,plantae,35128,species,Posidonia oceanica,40.8871203151,0.808973184,False,Spain,research,5214,urti,cc-by,1,0,Plantae,Magnoliophyta,Liliopsida,Alismatales,Posidoniaceae,Posidonia
+337715,2024-08-23,2024-08-23,2024-08-23,11:00:00,annelida,247041,species,Sabella spallanzanii,40.8871173151,0.808970184,False,Spain,needs_id,5214,urti,cc-by,0,0,Animalia,Annelida,Polychaeta,Sabellida,Sabellidae,Sabella
+337714,2024-08-23,2024-08-23,2024-08-23,11:00:00,ctenophora,247239,species,Mnemiopsis leidyi,40.8871143151,0.808967184,False,Spain,needs_id,5214,urti,cc-by,0,0,Animalia,Ctenophora,Tentaculata,Lobata,Bolinopsidae,Mnemiopsis
+337712,2024-08-23,2024-08-23,2024-08-23,11:00:00,actinopterygii,84424,genus,Trachurus,40.8871113151,0.808964184,False,Spain,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Carangidae,
+337711,2024-08-23,2024-08-23,2024-08-23,11:00:00,actinopterygii,250040,species,Oedalechilus labeo,40.8871083151,0.808961184,False,Spain,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Mugiliformes,Mugilidae,Oedalechilus
+337710,2024-08-23,2024-08-23,2024-08-23,11:00:00,actinopterygii,34798,species,Diplodus vulgaris,40.8871053151,0.808958184,False,Spain,research,5214,urti,cc-by,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+337709,2024-08-23,2024-08-23,2024-08-23,11:00:00,actinopterygii,34841,species,Diplodus annularis,40.8871023151,0.808955184,False,Spain,research,5214,urti,cc-by,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
+337708,2024-08-23,2024-08-23,2024-08-23,11:00:00,plantae,13285,genus,Cladophora,40.8870993151,0.808952184,False,Spain,needs_id,5214,urti,cc-by,0,0,Plantae,Chlorophyta,Ulvophyceae,Cladophorales,Cladophoraceae,
+337707,2024-08-23,2024-08-23,2024-08-23,11:00:00,chromista,251777,species,Cladostephus spongiosus,40.8870963151,0.808949184,False,Spain,needs_id,5214,urti,cc-by,0,0,Chromista,Ochrophyta,Phaeophyceae,Sphacelariales,Sphacelariaceae,Cladostephus
 337706,2024-08-23,2024-08-23,2024-08-23,11:00:00,actinopterygii,35120,species,Gobius incognitus,40.8870933151,0.808946184,False,Spain,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Gobiidae,Gobius
 337705,2024-08-23,2024-08-23,2024-08-23,11:00:00,mollusca,250214,species,Cerithium vulgatum,40.8870903151,0.808943184,False,Spain,needs_id,5214,urti,cc-by,0,0,Animalia,Mollusca,Gastropoda,,Cerithiidae,Cerithium
 337703,2024-08-23,2024-08-23,2024-08-23,11:00:00,chromista,251777,species,Cladostephus spongiosus,40.8870873151,0.808940184,False,Spain,needs_id,5214,urti,cc-by,0,0,Chromista,Ochrophyta,Phaeophyceae,Sphacelariales,Sphacelariaceae,Cladostephus
-337702,2024-08-23,2024-08-23,2024-08-23,11:00:00,actinopterygii,34837,species,Dicentrarchus labrax,40.8870843151,0.808937184,False,Spain,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Moronidae,Dicentrarchus
-337701,2024-08-23,2024-08-23,2024-08-23,11:00:00,actinopterygii,35125,species,Mullus surmuletus,40.8870813151,0.808934184,False,Spain,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Mullidae,Mullus
+337702,2024-08-23,2024-08-23,2024-08-23,11:00:00,actinopterygii,34837,species,Dicentrarchus labrax,40.8870843151,0.808937184,False,Spain,research,5214,urti,cc-by,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Moronidae,Dicentrarchus
+337701,2024-08-23,2024-08-23,2024-08-23,11:00:00,actinopterygii,35125,species,Mullus surmuletus,40.8870813151,0.808934184,False,Spain,research,5214,urti,cc-by,2,0,Animalia,Chordata,Actinopterygii,Perciformes,Mullidae,Mullus
 337700,2024-08-23,2024-08-23,2024-08-23,11:00:00,actinopterygii,13765,species,Serranus scriba,40.8870783151,0.808931184,False,Spain,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Serranidae,Serranus
 337698,2024-08-23,2024-08-23,2024-08-23,11:00:00,actinopterygii,240394,species,Atherina boyeri,40.8870753151,0.808928184,False,Spain,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Atheriniformes,Atherinidae,Atherina
 337697,2024-08-23,2024-08-23,2024-08-23,11:00:00,actinopterygii,35216,species,Symphodus tinca,40.8870723151,0.808925184,False,Spain,needs_id,5214,urti,cc-by,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Symphodus
