@@ -276,7 +276,7 @@ def get_marine_count(df_obs) -> pd.DataFrame:
 
 
 def _get_identifiers(proj_id: int) -> pd.DataFrame:
-    url = f"https://api.minka-sdg.org/v1/observations/identifiers?project_id={proj_id}"
+    url = f"https://api.minka-sdg.org/v1/observations/identifiers?project_id={proj_id}&quality_grade=research"
     results = requests.get(url).json()["results"]
     identifiers = []
     for result in results:
