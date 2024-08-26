@@ -181,8 +181,9 @@ def _get_species(user_name, proj_id):
 
 def get_participation_df(main_project):
     df_obs = pd.read_csv(f"data/{main_project}_obs.csv")
+    df_obs_research = df_obs[df_obs.quality_grade == "research"]
     pt_users = (
-        df_obs["user_login"]
+        df_obs_research["user_login"]
         .value_counts()
         .to_frame()
         .reset_index(drop=False)
