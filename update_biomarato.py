@@ -179,7 +179,43 @@ def _get_species(user_name, proj_id):
     return requests.get(species, params=params).json()["total_results"]
 
 
+def get_list_users(id_project):
+    users = []
+    url1 = f"https://api.minka-sdg.org/v1/observations/observers?project_id={id_project}&quality_grade=research"
+    results = requests.get(url1).json()["results"]
+    for result in results:
+        datos = {}
+        datos["user_id"] = result["user_id"]
+        datos["participant"] = result["user"]["login"]
+        datos["observacions"] = result["observation_count"]
+        datos["espècies"] = result["species_count"]
+        users.append(datos)
+    df_users = pd.DataFrame(users)
+
+    identifiers = []
+    url = f"https://api.minka-sdg.org/v1/observations/identifiers?project_id={id_project}&quality_grade=research"
+    results = requests.get(url).json()["results"]
+    for result in results:
+        datos = {}
+        datos["user_id"] = result["user_id"]
+        datos["identificacions"] = result["count"]
+        identifiers.append(datos)
+    df_identifiers = pd.DataFrame(identifiers)
+
+    df_users = pd.merge(df_users, df_identifiers, how="left", on="user_id")
+    df_users.fillna(0, inplace=True)
+
+    return df_users[["participant", "observacions", "espècies", "identificacions"]]
+
+
 def get_participation_df(main_project):
+    pt_users = get_list_users(main_project)
+    # convertimos nombres de columnas a mayúsculas
+    pt_users.columns = pt_users.columns.str.upper()
+    return pt_users
+
+
+def get_participation_df_original(main_project):
     df_obs = pd.read_csv(f"data/{main_project}_obs.csv")
     df_obs_research = df_obs[df_obs.quality_grade == "research"]
     pt_users = (
