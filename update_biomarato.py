@@ -210,36 +210,10 @@ def get_list_users(id_project):
 
 def get_participation_df(main_project):
     pt_users = get_list_users(main_project)
+    pt_users_clean = pt_users[-pt_users.isin(exclude_users)]
     # convertimos nombres de columnas a mayúsculas
-    pt_users.columns = pt_users.columns.str.upper()
-    return pt_users
-
-
-def get_participation_df_original(main_project):
-    df_obs = pd.read_csv(f"data/{main_project}_obs.csv")
-    df_obs_research = df_obs[df_obs.quality_grade == "research"]
-    pt_users = (
-        df_obs_research["user_login"]
-        .value_counts()
-        .to_frame()
-        .reset_index(drop=False)
-        .rename(columns={"user_login": "participant", "count": "observacions"})
-    )
-    pt_users = pt_users[-pt_users["participant"].isin(exclude_users)].reset_index(
-        drop=True
-    )
-    df_identifiers = _get_identifiers(main_project)
-
-    pt_users["identificacions"] = pt_users["participant"].apply(
-        lambda x: get_number_identifications(x, df_identifiers)
-    )
-
-    pt_users["espècies"] = pt_users["participant"].apply(
-        lambda x: _get_species(x, main_project)
-    )
-    # convertimos nombres de columnas a mayúsculas
-    pt_users.columns = pt_users.columns.str.upper()
-    return pt_users
+    pt_users_clean.columns = pt_users_clean.columns.str.upper()
+    return pt_users_clean
 
 
 def get_marine(taxon_name):
