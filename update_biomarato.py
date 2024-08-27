@@ -1,5 +1,6 @@
 import datetime
 import math
+import time
 
 import pandas as pd
 import requests
@@ -286,19 +287,6 @@ def get_marine_count(df_obs) -> pd.DataFrame:
     return df_marines
 
 
-def _get_identifiers(proj_id: int) -> pd.DataFrame:
-    url = f"https://api.minka-sdg.org/v1/observations/identifiers?project_id={proj_id}&quality_grade=research"
-    results = requests.get(url).json()["results"]
-    identifiers = []
-    for result in results:
-        identifier = {}
-        identifier["user_id"] = result["user_id"]
-        identifier["user_login"] = result["user"]["login"]
-        identifier["number"] = result["count"]
-        identifiers.append(identifier)
-    return pd.DataFrame(identifiers)
-
-
 def get_number_identifications(user_name, df_identifiers):
     try:
         number_id = df_identifiers.loc[
@@ -309,9 +297,62 @@ def get_number_identifications(user_name, df_identifiers):
     return number_id
 
 
+# update obs for projects
+def get_new_data(project):
+    df_obs = pd.read_csv(f"data/{project}_obs.csv")
+    df_photos = pd.read_csv(f"data/{project}_photos.csv")
+    max_id = df_obs["id"].max()
+
+    # Comprueba si hay observaciones nuevas
+    obs = get_obs(id_project=project, id_above=max_id)
+    if len(obs) > 0:
+        print(f"Add {len(obs)} obs in project {project}")
+        df_obs2, df_photos2 = get_dfs(obs)
+        df_obs = pd.concat([df_obs, df_obs2], ignore_index=True)
+        df_obs.to_csv(f"data/{project}_obs.csv", index=False)
+        df_photos = pd.concat([df_photos, df_photos2], ignore_index=True)
+        df_photos.to_csv(f"data/{project}_photos.csv", index=False)
+
+
+def update_dfs_projects(project, day=datetime.date.today().strftime("%Y-%m-%d")):
+
+    # updated today
+    obs_nuevas = get_obs(id_project=project, updated_since=day)
+    df_obs_new, df_photos_new = get_dfs(obs_nuevas)
+    df_photos_new["photos_id"] = df_photos_new["photos_id"].astype(int)
+
+    # get downloaded
+    df_obs = pd.read_csv(f"data/{project}_obs.csv")
+    df_photos = pd.read_csv(f"data/{project}_photos.csv")
+    old_obs = df_obs[-df_obs["id"].isin(df_obs_new["id"].to_list())]
+    old_photos = df_photos[
+        -df_photos["photos_id"].isin(df_photos_new["photos_id"].to_list())
+    ]
+
+    # join old and updated
+    df_obs_updated = pd.concat([old_obs, df_obs_new], ignore_index=True).sort_values(
+        by="id", ascending=False
+    )
+    df_photo_updated = pd.concat(
+        [old_photos, df_photos_new], ignore_index=True
+    ).sort_values(by="photos_id", ascending=False)
+
+    # remove casuals
+    obs_casual = get_obs(grade="casual", updated_since="2024-08-27")
+    casual_ids = [ob_casual.id for ob_casual in obs_casual]
+    df_obs_updated = df_obs_updated[-df_obs_updated["id"].isin(casual_ids)]
+    df_photo_updated = df_photo_updated[-df_photo_updated["id"].isin(casual_ids)]
+
+    df_obs_updated.to_csv(f"data/{project}_obs.csv", index=False)
+    df_photo_updated.to_csv(f"data/{project}_photos.csv", index=False)
+
+    print(f"Updated obs and photos for project {project}: {len(df_obs_updated)}")
+
+
 if __name__ == "__main__":
 
     # BioMARató 2024
+    start_time = time.time()
 
     # Actualiza main metrics
     main_metrics_df = update_main_metrics_by_day(main_project_bmt)
@@ -328,12 +369,13 @@ if __name__ == "__main__":
 
     # Actualiza df_obs y df_photos totales
     for id_proj in [283, 280, 281, 282]:
-        obs = get_obs(id_project=id_proj)
-        if len(obs) > 0:
-            df_obs, df_photos = get_dfs(obs)
-            df_obs.to_csv(f"data/{id_proj}_obs.csv", index=False)
-            df_photos.to_csv(f"data/{id_proj}_photos.csv", index=False)
+        # Update df_proj
+        get_new_data(id_proj)
+        update_dfs_projects(id_proj)
+        df_obs = pd.read_csv(f"data/{id_proj}_obs.csv")
+        df_photos = pd.read_csv(f"data/{id_proj}_photos.csv")
 
+        if len(df_obs) > 0:
             # Sacar columna marino
             print("Sacando columna marine")
             df_obs["taxon_id"] = df_obs["taxon_id"].replace("nan", None)
@@ -375,3 +417,9 @@ if __name__ == "__main__":
         }
     )
     df.to_csv(f"data/{main_project_bmt}_metrics_tiempo_real.csv", index=False)
+
+    end_time = time.time()
+
+    execution_time = end_time - start_time
+
+    print(f"Tiempo de ejecución {(execution_time / 60):.2f} minutos")
