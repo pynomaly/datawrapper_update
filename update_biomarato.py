@@ -210,7 +210,7 @@ def get_list_users(id_project):
 
 def get_participation_df(main_project):
     pt_users = get_list_users(main_project)
-    pt_users_clean = pt_users[-pt_users.isin(exclude_users)]
+    pt_users_clean = pt_users[-pt_users["participant"].isin(exclude_users)]
     # convertimos nombres de columnas a mayúsculas
     pt_users_clean.columns = pt_users_clean.columns.str.upper()
     return pt_users_clean
