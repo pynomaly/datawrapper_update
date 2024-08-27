@@ -338,7 +338,7 @@ def update_dfs_projects(project, day=datetime.date.today().strftime("%Y-%m-%d"))
     ).sort_values(by="photos_id", ascending=False)
 
     # remove casuals
-    obs_casual = get_obs(grade="casual", updated_since="2024-08-27")
+    obs_casual = get_obs(grade="casual", updated_since=day)
     casual_ids = [ob_casual.id for ob_casual in obs_casual]
     df_obs_updated = df_obs_updated[-df_obs_updated["id"].isin(casual_ids)]
     df_photo_updated = df_photo_updated[-df_photo_updated["id"].isin(casual_ids)]
