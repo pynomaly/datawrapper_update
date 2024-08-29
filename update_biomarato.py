@@ -321,30 +321,35 @@ def update_dfs_projects(
 
     # updated today
     obs_nuevas = get_obs(id_project=project, updated_since=day)
-    df_obs_new, df_photos_new = get_dfs(obs_nuevas)
-    df_photos_new["photos_id"] = df_photos_new["photos_id"].astype(int)
+    if len(obs_nuevas) > 0:
+        df_obs_new, df_photos_new = get_dfs(obs_nuevas)
+        df_photos_new["photos_id"] = df_photos_new["photos_id"].astype(int)
 
-    # get downloaded
-    df_obs = pd.read_csv(f"data/{project}_obs.csv")
-    df_photos = pd.read_csv(f"data/{project}_photos.csv")
-    old_obs = df_obs[-df_obs["id"].isin(df_obs_new["id"].to_list())]
-    old_photos = df_photos[
-        -df_photos["photos_id"].isin(df_photos_new["photos_id"].to_list())
-    ]
+        # get downloaded
+        df_obs = pd.read_csv(f"data/{project}_obs.csv")
+        df_photos = pd.read_csv(f"data/{project}_photos.csv")
+        old_obs = df_obs[-df_obs["id"].isin(df_obs_new["id"].to_list())]
+        old_photos = df_photos[
+            -df_photos["photos_id"].isin(df_photos_new["photos_id"].to_list())
+        ]
 
-    # join old and updated
-    df_obs_updated = pd.concat([old_obs, df_obs_new], ignore_index=True).sort_values(
-        by="id", ascending=False
-    )
-    df_photo_updated = pd.concat(
-        [old_photos, df_photos_new], ignore_index=True
-    ).sort_values(by="photos_id", ascending=False)
+        # join old and updated
+        df_obs_updated = pd.concat(
+            [old_obs, df_obs_new], ignore_index=True
+        ).sort_values(by="id", ascending=False)
+        df_photo_updated = pd.concat(
+            [old_photos, df_photos_new], ignore_index=True
+        ).sort_values(by="photos_id", ascending=False)
+    else:
+        df_obs_updated = None
+        df_photo_updated = None
 
     # remove casuals
     obs_casual = get_obs(grade="casual", updated_since=day)
-    casual_ids = [ob_casual.id for ob_casual in obs_casual]
-    df_obs_updated = df_obs_updated[-df_obs_updated["id"].isin(casual_ids)]
-    df_photo_updated = df_photo_updated[-df_photo_updated["id"].isin(casual_ids)]
+    if len(obs_casual) > 0:
+        casual_ids = [ob_casual.id for ob_casual in obs_casual]
+        df_obs_updated = df_obs_updated[-df_obs_updated["id"].isin(casual_ids)]
+        df_photo_updated = df_photo_updated[-df_photo_updated["id"].isin(casual_ids)]
 
     df_obs_updated.to_csv(f"data/{project}_obs.csv", index=False)
     df_photo_updated.to_csv(f"data/{project}_photos.csv", index=False)
