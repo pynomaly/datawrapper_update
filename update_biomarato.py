@@ -314,7 +314,10 @@ def get_new_data(project):
         df_photos.to_csv(f"data/{project}_photos.csv", index=False)
 
 
-def update_dfs_projects(project, day=datetime.date.today().strftime("%Y-%m-%d")):
+def update_dfs_projects(
+    project,
+    day=(datetime.date.today() - datetime.timedelta(days=1)).strftime("%Y-%m-%d"),
+):
 
     # updated today
     obs_nuevas = get_obs(id_project=project, updated_since=day)
