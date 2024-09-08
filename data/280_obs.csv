@@ -1,4 +1,15 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,identifications_count,identifiers,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+352902,2024-09-08,2024-09-08,2024-09-08,17:36:00,,nan,,,40.910510707,0.830740642,False,Spain,needs_id,5214,urti,cc-by,0,,0,0,,,,,,
+352901,2024-09-08,2024-09-08,2024-09-08,17:36:00,,nan,,,40.910507707,0.830737642,False,Spain,needs_id,5214,urti,cc-by,0,,0,0,,,,,,
+352900,2024-09-08,2024-09-08,2024-09-08,17:36:00,,nan,,,40.910504707,0.830734642,False,Spain,needs_id,5214,urti,cc-by,0,,0,0,,,,,,
+352899,2024-09-08,2024-09-08,2024-09-08,17:36:00,,nan,,,40.910501707,0.830731642,False,Spain,needs_id,5214,urti,cc-by,0,,0,0,,,,,,
+352898,2024-09-08,2024-09-08,2024-09-08,17:36:00,,nan,,,40.910498707,0.830728642,False,Spain,needs_id,5214,urti,cc-by,0,,0,0,,,,,,
+352897,2024-09-08,2024-09-08,2024-09-08,17:36:00,,nan,,,40.910495707,0.830725642,False,Spain,needs_id,5214,urti,cc-by,0,,0,0,,,,,,
+352896,2024-09-08,2024-09-08,2024-09-08,17:36:00,,nan,,,40.910492707,0.830722642,False,Spain,needs_id,5214,urti,cc-by,0,,0,0,,,,,,
+352895,2024-09-08,2024-09-08,2024-09-08,17:36:00,,nan,,,40.910489707,0.830719642,False,Spain,needs_id,5214,urti,cc-by,0,,0,0,,,,,,
+352894,2024-09-08,2024-09-08,2024-09-08,17:36:00,,nan,,,40.910486707,0.830716642,False,Spain,needs_id,5214,urti,cc-by,0,,0,0,,,,,,
+352893,2024-09-08,2024-09-08,2024-09-08,17:36:00,,nan,,,40.910483707,0.830713642,False,Spain,needs_id,5214,urti,cc-by,0,,0,0,,,,,,
+352892,2024-09-08,2024-09-08,2024-09-08,17:36:00,,nan,,,40.910480707,0.830710642,False,Spain,needs_id,5214,urti,cc-by,0,,0,0,,,,,,
 352302,2024-09-08,2024-09-08,2024-09-08,23:21:00,animalia,35134,species,Halocynthia papillosa,40.9127994827,0.8406815701,False,Spain,research,197,peixderoca24,cc-by-nc,1,"peixderoca24, xasalva",1,0,Animalia,Chordata,Ascidiacea,Pleurogona,Pyuridae,Halocynthia
 352301,2024-09-08,2024-09-08,2024-09-08,23:21:00,actinopterygii,34835,species,Coris julis,40.9127994827,0.8406815701,False,Spain,research,197,peixderoca24,cc-by-nc,1,"peixderoca24, virginia_canet",1,0,Animalia,Chordata,Actinopterygii,Perciformes,Labridae,Coris
 352300,2024-09-08,2024-09-08,2024-09-08,23:22:00,porifera,253956,species,Axinella damicornis,40.9127994827,0.8406815701,False,Spain,needs_id,197,peixderoca24,cc-by-nc,1,"peixderoca24, xasalva",1,0,Animalia,Porifera,Demospongiae,,Axinellidae,Axinella
