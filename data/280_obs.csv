@@ -1,4 +1,11 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,identifications_count,identifiers,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
+353190,2024-09-09,2024-09-09,2024-09-09,11:05:00,,nan,,,40.8870873135,0.8081313431,False,Spain,needs_id,5214,urti,cc-by,0,,0,0,,,,,,
+353189,2024-09-09,2024-09-09,2024-09-09,11:05:00,,nan,,,40.8870843135,0.8081283431,False,Spain,needs_id,5214,urti,cc-by,0,,0,0,,,,,,
+353188,2024-09-09,2024-09-09,2024-09-09,11:05:00,,nan,,,40.8870813135,0.8081253431,False,Spain,needs_id,5214,urti,cc-by,0,,0,0,,,,,,
+353187,2024-09-09,2024-09-09,2024-09-09,11:05:00,,nan,,,40.8870783135,0.8081223431,False,Spain,needs_id,5214,urti,cc-by,0,,0,0,,,,,,
+353186,2024-09-09,2024-09-09,2024-09-09,11:05:00,,nan,,,40.8870753135,0.8081193431,False,Spain,needs_id,5214,urti,cc-by,0,,0,0,,,,,,
+353185,2024-09-09,2024-09-09,2024-09-09,11:05:00,,nan,,,40.8870723135,0.8081163431,False,Spain,needs_id,5214,urti,cc-by,0,,0,0,,,,,,
+353184,2024-09-09,2024-09-09,2024-09-09,11:05:00,,nan,,,40.8870653135,0.8081093431,False,Spain,needs_id,5214,urti,cc-by,0,,0,0,,,,,,
 352902,2024-09-08,2024-09-09,2024-09-08,17:36:00,actinopterygii,12553,species,Diplodus sargus,40.910510707,0.830740642,False,Spain,research,5214,urti,cc-by,2,"badosa, xasalva",2,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
 352901,2024-09-08,2024-09-09,2024-09-08,17:36:00,actinopterygii,34805,species,Sarpa salpa,40.910507707,0.830737642,False,Spain,research,5214,urti,cc-by,2,"badosa, xasalva",2,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
 352900,2024-09-08,2024-09-09,2024-09-08,17:36:00,actinopterygii,240400,species,Oblada melanura,40.910504707,0.830734642,False,Spain,research,5214,urti,cc-by,2,"badosa, xasalva",2,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Oblada
