@@ -1,23 +1,23 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,identifications_count,identifiers,num_identification_agreements,num_identification_disagreements,kingdom,phylum,class,order,family,genus
 353642,2024-09-10,2024-09-10,2024-09-09,16:20:00,actinopterygii,35213,species,Diplodus puntazzo,40.9095462257,0.8303428472,False,Spain,needs_id,5214,urti,cc-by,0,xasalva,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Diplodus
-353641,2024-09-10,2024-09-10,2024-09-09,16:20:00,,nan,,,40.9095432257,0.8303398472,False,Spain,needs_id,5214,urti,cc-by,0,,0,0,,,,,,
-353640,2024-09-10,2024-09-10,2024-09-09,16:20:00,,nan,,,40.9095402257,0.8303368472,False,Spain,needs_id,5214,urti,cc-by,0,,0,0,,,,,,
-353639,2024-09-10,2024-09-10,2024-09-09,16:20:00,,nan,,,40.9095372257,0.8303338472,False,Spain,needs_id,5214,urti,cc-by,0,,0,0,,,,,,
-353638,2024-09-10,2024-09-10,2024-09-09,16:20:00,,nan,,,40.9095342257,0.8303308472,False,Spain,needs_id,5214,urti,cc-by,0,,0,0,,,,,,
-353637,2024-09-10,2024-09-10,2024-09-09,16:20:00,,nan,,,40.9095312257,0.8303278472,False,Spain,needs_id,5214,urti,cc-by,0,,0,0,,,,,,
-353636,2024-09-10,2024-09-10,2024-09-09,16:20:00,,nan,,,40.9095282257,0.8303248472,False,Spain,needs_id,5214,urti,cc-by,0,,0,0,,,,,,
-353635,2024-09-10,2024-09-10,2024-09-09,16:20:00,,nan,,,40.9095252257,0.8303218472,False,Spain,needs_id,5214,urti,cc-by,0,,0,0,,,,,,
-353634,2024-09-10,2024-09-10,2024-09-09,16:20:00,,nan,,,40.9095222257,0.8303188472,False,Spain,needs_id,5214,urti,cc-by,0,,0,0,,,,,,
-353633,2024-09-10,2024-09-10,2024-09-09,16:20:00,,nan,,,40.9095192257,0.8303158472,False,Spain,needs_id,5214,urti,cc-by,0,,0,0,,,,,,
-353632,2024-09-10,2024-09-10,2024-09-09,16:20:00,,nan,,,40.9095162257,0.8303128472,False,Spain,needs_id,5214,urti,cc-by,0,,0,0,,,,,,
+353641,2024-09-10,2024-09-10,2024-09-09,16:20:00,porifera,241994,species,Ircinia variabilis,40.9095432257,0.8303398472,False,Spain,needs_id,5214,urti,cc-by,0,xasalva,0,0,Animalia,Porifera,Demospongiae,Dictyoceratida,Irciniidae,Ircinia
+353640,2024-09-10,2024-09-10,2024-09-09,16:20:00,porifera,241994,species,Ircinia variabilis,40.9095402257,0.8303368472,False,Spain,needs_id,5214,urti,cc-by,0,xasalva,0,0,Animalia,Porifera,Demospongiae,Dictyoceratida,Irciniidae,Ircinia
+353639,2024-09-10,2024-09-10,2024-09-09,16:20:00,cnidaria,34827,species,Oculina patagonica,40.9095372257,0.8303338472,False,Spain,needs_id,5214,urti,cc-by,0,xasalva,0,0,Animalia,Cnidaria,Anthozoa,Scleractinia,Oculinidae,Oculina
+353638,2024-09-10,2024-09-10,2024-09-09,16:20:00,cnidaria,34827,species,Oculina patagonica,40.9095342257,0.8303308472,False,Spain,needs_id,5214,urti,cc-by,0,xasalva,0,0,Animalia,Cnidaria,Anthozoa,Scleractinia,Oculinidae,Oculina
+353637,2024-09-10,2024-09-10,2024-09-09,16:20:00,cnidaria,34827,species,Oculina patagonica,40.9095312257,0.8303278472,False,Spain,needs_id,5214,urti,cc-by,0,xasalva,0,0,Animalia,Cnidaria,Anthozoa,Scleractinia,Oculinidae,Oculina
+353636,2024-09-10,2024-09-10,2024-09-09,16:20:00,cnidaria,35011,species,Pennaria disticha,40.9095282257,0.8303248472,False,Spain,needs_id,5214,urti,cc-by,0,xasalva,0,0,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Pennariidae,Pennaria
+353635,2024-09-10,2024-09-10,2024-09-09,16:20:00,porifera,251208,species,Spirastrella cunctatrix,40.9095252257,0.8303218472,False,Spain,needs_id,5214,urti,cc-by,0,xasalva,0,0,Animalia,Porifera,Demospongiae,Hadromerida,Spirastrellidae,Spirastrella
+353634,2024-09-10,2024-09-10,2024-09-09,16:20:00,actinopterygii,35250,species,Parablennius pilicornis,40.9095222257,0.8303188472,False,Spain,needs_id,5214,urti,cc-by,0,xasalva,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+353633,2024-09-10,2024-09-10,2024-09-09,16:20:00,actinopterygii,35250,species,Parablennius pilicornis,40.9095192257,0.8303158472,False,Spain,needs_id,5214,urti,cc-by,0,xasalva,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+353632,2024-09-10,2024-09-10,2024-09-09,16:20:00,porifera,242281,species,Crambe crambe,40.9095162257,0.8303128472,False,Spain,needs_id,5214,urti,cc-by,0,xasalva,0,0,Animalia,Porifera,Demospongiae,Poecilosclerida,Crambeidae,Crambe
 353631,2024-09-10,2024-09-10,2024-09-09,16:20:00,actinopterygii,34796,species,Scorpaena notata,40.9095132257,0.8303098472,False,Spain,needs_id,5214,urti,cc-by,0,xasalva,0,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,Scorpaena
-353630,2024-09-10,2024-09-10,2024-09-09,16:20:00,,nan,,,40.9095102257,0.8303068472,False,Spain,needs_id,5214,urti,cc-by,0,,0,0,,,,,,
-353629,2024-09-10,2024-09-10,2024-09-09,16:20:00,,nan,,,40.9095072257,0.8303038472,False,Spain,needs_id,5214,urti,cc-by,0,,0,0,,,,,,
-353627,2024-09-10,2024-09-10,2024-09-09,16:20:00,,nan,,,40.9095042257,0.8303008472,False,Spain,needs_id,5214,urti,cc-by,0,,0,0,,,,,,
-353626,2024-09-10,2024-09-10,2024-09-09,16:20:00,,nan,,,40.9095012257,0.8302978472,False,Spain,needs_id,5214,urti,cc-by,0,,0,0,,,,,,
-353625,2024-09-10,2024-09-10,2024-09-09,16:20:00,,nan,,,40.9094982257,0.8302948472,False,Spain,needs_id,5214,urti,cc-by,0,,0,0,,,,,,
-353624,2024-09-10,2024-09-10,2024-09-09,16:20:00,,nan,,,40.9094952257,0.8302918472,False,Spain,needs_id,5214,urti,cc-by,0,,0,0,,,,,,
-353623,2024-09-10,2024-09-10,2024-09-09,16:20:00,,nan,,,40.9094922257,0.8302888472,False,Spain,needs_id,5214,urti,cc-by,0,,0,0,,,,,,
+353630,2024-09-10,2024-09-10,2024-09-09,16:20:00,chromista,35106,species,Padina pavonica,40.9095102257,0.8303068472,False,Spain,needs_id,5214,urti,cc-by,0,xasalva,0,0,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
+353629,2024-09-10,2024-09-10,2024-09-09,16:20:00,porifera,253021,species,Petrosia ficiformis,40.9095072257,0.8303038472,False,Spain,needs_id,5214,urti,cc-by,0,xasalva,0,0,Animalia,Porifera,Demospongiae,Haplosclerida,Petrosiidae,Petrosia
+353627,2024-09-10,2024-09-10,2024-09-09,16:20:00,actinopterygii,35250,species,Parablennius pilicornis,40.9095042257,0.8303008472,False,Spain,needs_id,5214,urti,cc-by,0,xasalva,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+353626,2024-09-10,2024-09-10,2024-09-09,16:20:00,actinopterygii,34805,species,Sarpa salpa,40.9095012257,0.8302978472,False,Spain,needs_id,5214,urti,cc-by,0,xasalva,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Sparidae,Sarpa
+353625,2024-09-10,2024-09-10,2024-09-09,16:20:00,actinopterygii,34983,species,Parablennius zvonimiri,40.9094982257,0.8302948472,False,Spain,needs_id,5214,urti,cc-by,0,xasalva,0,0,Animalia,Chordata,Actinopterygii,Perciformes,Blenniidae,Parablennius
+353624,2024-09-10,2024-09-10,2024-09-09,16:20:00,porifera,250915,species,Chondrosia reniformis,40.9094952257,0.8302918472,False,Spain,needs_id,5214,urti,cc-by,0,xasalva,0,0,Animalia,Porifera,Demospongiae,Chondrosida,Chondrillidae,Chondrosia
+353623,2024-09-10,2024-09-10,2024-09-09,16:20:00,actinopterygii,34796,species,Scorpaena notata,40.9094922257,0.8302888472,False,Spain,needs_id,5214,urti,cc-by,0,xasalva,0,0,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,Scorpaena
 353248,2024-09-09,2024-09-09,2024-09-09,11:05:00,mollusca,245125,species,Luria lurida,40.8872433135,0.8082873431,False,Spain,research,5214,urti,cc-by,2,"badosa, xasalva",2,0,Animalia,Mollusca,Gastropoda,Littorinimorpha,Cypraeidae,Luria
 353247,2024-09-09,2024-09-09,2024-09-09,11:05:00,,252060,species,Clibanarius erythropus,40.8872403135,0.8082843431,False,Spain,research,5214,urti,cc-by,2,"badosa, xasalva",2,0,Animalia,Arthropoda,Malacostraca,Decapoda,Diogenidae,Clibanarius
 353246,2024-09-09,2024-09-09,2024-09-09,11:05:00,mollusca,116,class,Gastropoda,40.8872373135,0.8082813431,False,Spain,needs_id,5214,urti,cc-by,0,xasalva,0,0,Animalia,Mollusca,,,,
