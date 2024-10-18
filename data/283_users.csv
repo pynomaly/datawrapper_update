@@ -1,7 +1,7 @@
 PARTICIPANT,OBSERVACIONS,ESPÈCIES,IDENTIFICACIONS
 ealcaniz,6107,263,758.0
 josepdegea,5037,320,0.0
-jastals,3947,326,0.0
+jastals,4037,326,0.0
 eloi_sanz,3403,264,46.0
 mpontes,3341,316,72.0
 yespi,2714,263,1262.0
@@ -9,7 +9,7 @@ manelor,2636,288,0.0
 peixderoca24,2376,267,100.0
 miquel17300,1931,196,6.0
 nuriasireni,1876,129,0.0
-virginia_canet,1844,261,484.0
+virginia_canet,1844,261,575.0
 adriacompte,1820,158,466.0
 badosa,1465,313,8718.0
 martanp,1424,153,264.0
@@ -130,6 +130,7 @@ superlopes,34,28,0.0
 xococdm,34,25,0.0
 fflorens,34,22,0.0
 carladc,34,19,0.0
+bernatperalta,34,19,0.0
 jordimares,33,18,0.0
 nancy_unisub,33,25,0.0
 francesc_fg,32,15,0.0
@@ -143,7 +144,6 @@ xavillabot,28,17,0.0
 edurneabaigarcrespo,28,18,0.0
 danisantiago,28,21,0.0
 nuriamkuin,27,24,0.0
-bernatperalta,27,15,0.0
 montgatalmar,26,12,0.0
 thais,26,20,0.0
 divemike,26,21,19.0
@@ -293,7 +293,7 @@ michellecabral,4,4,0.0
 sergiov,4,2,0.0
 jordialtimiras,4,3,0.0
 eroci,4,4,0.0
-fraortsco,4,3,72.0
+fraortsco,4,3,71.0
 merialorda,4,3,0.0
 silvilein,4,2,2.0
 grupb_miquel,4,4,0.0
