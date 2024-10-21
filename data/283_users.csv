@@ -1,17 +1,17 @@
 PARTICIPANT,OBSERVACIONS,ESPÈCIES,IDENTIFICACIONS
 ealcaniz,6108,263,759.0
-josepdegea,5048,320,0.0
-jastals,4860,338,0.0
+josepdegea,5084,321,0.0
+jastals,4875,339,0.0
 eloi_sanz,3403,264,69.0
 mpontes,3341,316,72.0
 yespi,2714,263,1262.0
 manelor,2636,288,0.0
-peixderoca24,2376,267,100.0
+peixderoca24,2378,267,100.0
 miquel17300,1931,196,6.0
 nuriasireni,1878,129,0.0
 virginia_canet,1850,261,579.0
 adriacompte,1820,158,466.0
-badosa,1465,313,8912.0
+badosa,1465,313,8920.0
 martanp,1424,153,265.0
 annacanela,1380,178,0.0
 david_marco,1273,319,0.0
@@ -19,7 +19,7 @@ conxi,1207,186,0.0
 evararo,1163,172,0.0
 jmturon,934,207,8.0
 urti,817,126,5.0
-rickydiving,728,135,170.0
+rickydiving,734,135,170.0
 martinacm,726,78,0.0
 mingokt,680,157,0.0
 ngoncubells,632,76,0.0
@@ -27,7 +27,7 @@ mar_avelles,611,142,0.0
 francesc_f,478,129,638.0
 jalaball,419,110,0.0
 pauperrim,415,182,8.0
-loreto_rodriguez,399,116,6669.0
+loreto_rodriguez,399,116,6671.0
 sergio_zafra,362,131,3.0
 joaquibote,319,111,0.0
 raulcalella,298,101,3.0
@@ -46,7 +46,7 @@ romu_freediving_photography,214,97,0.0
 irenebernabeu,208,53,0.0
 max,206,139,505.0
 xparellada,196,87,40.0
-andreu,196,74,6.0
+andreu,196,74,7.0
 oscarcg31,195,94,2.0
 asters,184,102,0.0
 wolfsms,176,58,0.0
@@ -86,12 +86,12 @@ max_andreu,69,22,0.0
 juancarlosdiez,69,32,0.0
 jean-pierre,68,47,0.0
 a_carulla,67,45,0.0
+agatals,65,21,1.0
 albagarri,65,45,0.0
 bieldpl,64,38,51.0
 francismpp,64,47,15.0
 saita_diving,64,30,0.0
 carlos88,63,25,0.0
-agatals,61,19,1.0
 hectorserranocereijo,61,46,0.0
 eminguez,60,38,0.0
 alicate_cr,59,40,2.0
@@ -103,11 +103,12 @@ alexdesagarra,54,44,0.0
 asalva1,54,42,0.0
 itziardiving,52,43,0.0
 jcaos,51,42,3.0
-sergisoldevila,49,25,0.0
+sergisoldevila,50,25,0.0
 gusgonzalezh,46,22,0.0
 ariadnap,46,27,0.0
 ninala,45,11,5.0
 xavimarimon8,45,14,0.0
+bernatperalta,43,25,0.0
 mvilabel,43,36,0.0
 maror,42,19,0.0
 alexm,42,24,0.0
@@ -121,7 +122,6 @@ vazquez_diego,39,27,0.0
 xevisan,38,24,0.0
 labatalladealbert,38,30,0.0
 pauladelmar,38,1,16.0
-bernatperalta,38,23,0.0
 ramonservitje,38,35,0.0
 davidtarrason,37,22,0.0
 eul_a_liarc,37,27,0.0
@@ -215,6 +215,7 @@ xavidp,12,10,5.0
 mionze,11,8,0.0
 lluis,11,5,0.0
 arnau225,11,9,2.0
+batdibu,11,10,0.0
 laiaalc,11,11,0.0
 eso2a,11,6,0.0
 pvives,11,11,0.0
@@ -225,7 +226,6 @@ lisap,10,6,0.0
 jmestras,10,10,0.0
 fabiopillon,10,6,0.0
 evaborreguero,10,9,0.0
-batdibu,10,9,0.0
 elultimocoral,10,9,0.0
 angelarroyes,10,8,0.0
 lola_mata_harroue,10,7,0.0
@@ -235,6 +235,7 @@ fergascod,9,8,0.0
 adriasolep,9,7,0.0
 cmita,9,8,0.0
 campus2024,9,6,0.0
+calypso,9,9,0.0
 alexiaaa,9,7,0.0
 longibanda,9,9,0.0
 laia,9,9,0.0
@@ -243,7 +244,6 @@ ricard_vilar,8,8,0.0
 iliasyab,8,8,0.0
 elsafc,8,7,0.0
 sosonacho,8,8,1.0
-calypso,8,8,0.0
 lauraaa,8,8,0.0
 mire,8,8,0.0
 juanvi,8,6,0.0
@@ -272,6 +272,7 @@ albert_g,5,5,0.0
 ferrangallo,5,4,0.0
 tpines,5,5,0.0
 pablor,5,0,0.0
+kike,5,5,0.0
 jbonany,5,5,0.0
 mjulia,5,5,0.0
 rosadelsvents,5,5,0.0
@@ -296,7 +297,7 @@ michellecabral,4,4,0.0
 sergiov,4,2,0.0
 jordialtimiras,4,3,0.0
 eroci,4,4,0.0
-fraortsco,4,3,71.0
+fraortsco,4,3,72.0
 merialorda,4,3,0.0
 silvilein,4,2,2.0
 grupb_miquel,4,4,0.0
@@ -323,7 +324,6 @@ cristii22,3,3,0.0
 darkbard,3,3,0.0
 anna7,3,3,0.0
 albalopezpalli,3,1,0.0
-kike,3,3,0.0
 eulalia_busquets,3,2,0.0
 migui,3,3,0.0
 hydronauta,3,3,0.0
