@@ -1,7 +1,7 @@
 PARTICIPANT,OBSERVACIONS,ESPÈCIES,IDENTIFICACIONS
 ealcaniz,6105,262,749.0
-jastals,5653,368,1.0
-mpontes,3464,316,75.0
+jastals,5653,368,0.0
+mpontes,3464,316,96.0
 eloi_sanz,3426,264,74.0
 yespi,2860,265,1245.0
 manelor,2637,288,0.0
@@ -10,7 +10,7 @@ miquel17300,1931,196,6.0
 nuriasireni,1881,128,0.0
 virginia_canet,1855,263,556.0
 adriacompte,1820,158,451.0
-badosa,1478,313,8382.0
+badosa,1478,313,8385.0
 martanp,1424,153,260.0
 conxi,1382,200,0.0
 annacanela,1380,178,0.0
@@ -20,10 +20,10 @@ jmturon,937,207,8.0
 martinacm,842,88,0.0
 urti,830,127,5.0
 rickydiving,742,137,153.0
-ngoncubells,691,76,0.0
+ngoncubells,693,76,197.0
 mingokt,680,157,0.0
 mar_avelles,616,144,0.0
-francesc_f,480,130,671.0
+francesc_f,480,130,672.0
 jalaball,419,110,0.0
 pauperrim,415,182,7.0
 loreto_rodriguez,399,116,6493.0
@@ -64,6 +64,7 @@ sos_loreina,119,27,0.0
 tonihillaalos,118,55,0.0
 jordisanjuanr,114,44,26.0
 singuermorning,114,65,19.0
+so_po,113,41,0.0
 neuscdm,111,72,0.0
 eduardmarques,109,87,0.0
 davidtsh,107,37,0.0
@@ -97,7 +98,6 @@ carlos88,63,25,0.0
 alicate_cr,60,41,1.0
 eminguez,60,38,0.0
 clarab,57,22,2.0
-so_po,55,18,0.0
 jaumegardelacdm,55,20,0.0
 marccornellas97,55,21,0.0
 alexdesagarra,54,44,0.0
