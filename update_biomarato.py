@@ -378,8 +378,8 @@ if __name__ == "__main__":
     # Actualiza df_obs y df_photos totales
     for id_proj in [283, 280, 281, 282]:
         # Update df_proj
-        get_new_data(id_proj)
-        update_dfs_projects(id_proj)
+        obs = get_obs(id_project=id_proj, grade="research")
+        df_obs, df_photos = get_dfs(obs)
         df_obs = pd.read_csv(f"data/{id_proj}_obs.csv")
         df_photos = pd.read_csv(f"data/{id_proj}_photos.csv")
 
