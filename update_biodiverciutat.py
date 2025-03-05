@@ -7,9 +7,9 @@ from mecoda_minka import get_dfs, get_obs
 
 API_PATH = "https://api.minka-sdg.org/v1"
 
-main_project_bdc = 233
+main_project_bdc = 233  # Area metropolitana de Barcelona, proyecto paraguas
 
-projects_bdc = {
+projects_bdc_sorted = {
     79: "Begues",
     80: "Viladecans",
     81: "Sant Climent de Llobregat",
@@ -21,7 +21,7 @@ projects_bdc = {
     89: "Corbera de Llobregat",
     91: "Sant Andreu de la Barca",
     92: "Castellbisbal",
-    93: "el Papiol",
+    93: "El Papiol",
     94: "Molins de Rei",
     95: "Sant Feliu de Llobregat",
     97: "Cornellà de Llobregat",
@@ -32,7 +32,7 @@ projects_bdc = {
     102: "Barberà del Vallès",
     103: "Ripollet",
     104: "Montcada i Reixac",
-    106: "Sant Adrià de Besòs",
+    106: "Sant Adrià del Besós",
     107: "Badalona",
     108: "Tiana",
     109: "Montgat",
@@ -47,24 +47,58 @@ projects_bdc = {
     232: "Àrea marina Barcelona",
 }
 
+places_bdc = {
+    279: "Begues",
+    (281, 354): "Viladecans",
+    280: "Sant Climent de Llobregat",
+    286: "Cervelló",
+    283: "Sant Boi de Llobregat",
+    284: "Santa Coloma de Cervelló",
+    291: "Sant Vicenç dels Horts",
+    285: "la Palma de Cervelló",
+    287: "Corbera de Llobregat",
+    288: "Sant Andreu de la Barca",
+    289: "Castellbisbal",
+    293: "el Papiol",
+    294: "Molins de Rei",
+    295: "Sant Feliu de Llobregat",
+    297: "Cornellà de Llobregat",
+    298: "l'Hospitalet de Llobregat",
+    310: "Esplugues de Llobregat",
+    309: "Sant Just Desvern",
+    292: "Sant Cugat del Vallès",
+    300: "Barberà del Vallès",
+    302: "Ripollet",
+    303: "Montcada i Reixac",
+    (305, 252): "Sant Adrià de Besòs",
+    (306, 251): "Badalona",
+    308: "Tiana",
+    (307, 366, 357): "Montgat",
+    (311, 247): "Barcelona",
+    (282, 351): "el Prat de Llobregat",
+    290: "Pallejà",
+    243: "Torrelles de Llobregat",
+    (277, 349): "Castelldefels",
+    (278, 350): "Gavà",
+    296: "Sant Joan Despí",
+    304: "Santa Coloma de Gramenet",
+}
 
-def update_main_metrics(proj_id):
+session = requests.Session()
+observations = f"{API_PATH}/observations?"
+species = f"{API_PATH}/observations/species_counts?"
+observers = f"{API_PATH}/observations/observers?"
+
+
+def update_main_metrics(proj_id, session=session):
     results = []
     observations = f"{API_PATH}/observations?"
     species = f"{API_PATH}/observations/species_counts?"
     observers = f"{API_PATH}/observations/observers?"
 
-    # Crear una sesión de requests
-    session = requests.Session()
-
-    # Rango de días de BioDiverCiutat
-    if proj_id == 233:
-        day = datetime.date(year=2024, month=4, day=26)
-        rango_temporal = (datetime.date(year=2024, month=4, day=30) - day).days
-    # Rango de días de BioMARato
-    elif proj_id == 283:
-        day = datetime.date(year=2024, month=5, day=6)
-        rango_temporal = (datetime.datetime.today().date() - day).days
+    # Rango de días de BioDiverCiutat 2025
+    day = datetime.date(year=2025, month=4, day=25)
+    rango_temporal = (datetime.date(year=2025, month=4, day=29) - day).days
 
     if rango_temporal > 0:
         for i in range(rango_temporal):
@@ -101,42 +135,47 @@ def update_main_metrics(proj_id):
         return result_df
 
 
-def get_metrics_proj(proj_id, proj_city):
-    observations = f"{API_PATH}/observations?"
-    species = f"{API_PATH}/observations/species_counts?"
-    observers = f"{API_PATH}/observations/observers?"
+def get_metrics_proj(places_bdc, main_project_bdc, session=session):
 
-    params = {
-        "project_id": proj_id,
-        "order": "desc",
-        "order_by": "created_at",
-    }
-    # Crear una sesión de requests
-    session = requests.Session()
-    total_species = session.get(species, params=params).json()["total_results"]
-    total_participants = session.get(observers, params=params).json()["total_results"]
-    total_obs = session.get(observations, params=params).json()["total_results"]
+    results = []
 
-    result = {
-        "project": proj_id,
-        "city": proj_city,
-        "observations": total_obs,
-        "species": total_species,
-        "participants": total_participants,
-    }
-    return result
+    for place_ids, place_name in places_bdc.items():
+        total_species = 0
+        total_participants = 0
+        total_obs = 0
 
+        if not isinstance(place_ids, tuple):
+            place_ids = (place_ids,)
 
-def create_df_projs(projects):
-    proj_metrics = []
+        for place_id in place_ids:
+            params = {
+                "project_id": main_project_bdc,
+                "place_id": place_id,
+                "order": "desc",
+                "order_by": "created_at",
+            }
+            total_species += (
+                session.get(species, params=params).json().get("total_results", 0)
+            )
+            total_participants += (
+                session.get(observers, params=params).json().get("total_results", 0)
+            )
+            total_obs += (
+                session.get(observations, params=params).json().get("total_results", 0)
+            )
 
-    for k, v in projects.items():
-        results = get_metrics_proj(k, v)
-        proj_metrics.append(results)
+        results.append(
+            {
+                "city": place_name,
+                "observations": total_obs,
+                "species": total_species,
+                "participants": total_participants,
+            }
+        )
 
-    df_projs = pd.DataFrame(proj_metrics)
-
-    return df_projs
+    # Imprime o usa los resultados
+    df_results = pd.DataFrame(results)
+    return df_results
 
 
 def get_missing_taxon(taxon_id, rank):
@@ -147,15 +186,15 @@ def get_missing_taxon(taxon_id, rank):
             return anc["name"]
 
 
-def _get_species(user_name, proj_id):
+def _get_species(user_name, proj_id, session=session):
     species = f"{API_PATH}/observations/species_counts"
     params = {"project_id": proj_id, "user_login": user_name}
-    return requests.get(species, params=params).json()["total_results"]
+    return session.get(species, params=params).json()["total_results"]
 
 
-def _get_identifiers(proj_id: int) -> pd.DataFrame:
-    url = "https://api.minka-sdg.org/v1/observations/identifiers?project_id=233"
-    results = requests.get(url).json()["results"]
+def _get_identifiers(proj_id: int, session=session) -> pd.DataFrame:
+    url = f"https://api.minka-sdg.org/v1/observations/identifiers?project_id={proj_id}"
+    results = session.get(url).json()["results"]
     identifiers = []
     for result in results:
         identifier = {}
@@ -220,28 +259,28 @@ def get_marine_count(df_obs) -> pd.DataFrame:
     return df_marines
 
 
-def get_main_metrics(proj_id):
+def get_main_metrics(proj_id, session=session):
     species = f"{API_PATH}/observations/species_counts?"
     url1 = f"{species}&project_id={proj_id}"
-    total_species = requests.get(url1).json()["total_results"]
+    total_species = session.get(url1).json()["total_results"]
 
     observers = f"{API_PATH}/observations/observers?"
     url2 = f"{observers}&project_id={proj_id}"
-    total_participants = requests.get(url2).json()["total_results"]
+    total_participants = session.get(url2).json()["total_results"]
 
     observations = f"{API_PATH}/observations?"
     url3 = f"{observations}&project_id={proj_id}"
-    total_obs = requests.get(url3).json()["total_results"]
+    total_obs = session.get(url3).json()["total_results"]
 
     return total_species, total_participants, total_obs
 
 
-def get_marine(taxon_name: str) -> bool:
+def get_marine(taxon_name: str, session=session) -> bool:
     """
     Devuelve True/False en base a un taxon_name
     """
     name_clean = taxon_name.replace(" ", "+")
-    status = requests.get(
+    status = session.get(
         f"https://www.marinespecies.org/rest/AphiaIDByName/{name_clean}?marine_only=true"
     ).status_code
     if (status == 200) or (status == 206):
@@ -251,13 +290,13 @@ def get_marine(taxon_name: str) -> bool:
     return result
 
 
-def get_species_df(proj_id):
+def get_species_df(proj_id, session=session):
     total_sp = []
 
     species = f"{API_PATH}/observations/species_counts?"
     url1 = f"{species}&project_id={proj_id}"
 
-    total_num = requests.get(url1).json()["total_results"]
+    total_num = session.get(url1).json()["total_results"]
 
     pages = math.ceil(total_num / 500)
 
@@ -265,7 +304,7 @@ def get_species_df(proj_id):
         especie = {}
         page = i + 1
         url = f"{species}&project_id={proj_id}&page={page}"
-        results = requests.get(url).json()["results"]
+        results = session.get(url).json()["results"]
         for result in results:
             especie = {}
             especie["taxon_id"] = result["taxon"]["id"]
@@ -277,7 +316,7 @@ def get_species_df(proj_id):
     df_species = pd.DataFrame(total_sp)
 
     # Añadimos columna de marine
-    taxon_url = "https://raw.githubusercontent.com/eosc-cos4cloud/mecoda-orange/master/mecoda_orange/data/taxon_tree_with_marines.csv"
+    taxon_url = "https://raw.githubusercontent.com/eosc-cos4cloud/mecoda-minka/refs/heads/master/src/mecoda_minka/data/taxon_tree.csv"
     taxon_tree = pd.read_csv(taxon_url)
 
     df_species = pd.merge(
@@ -289,13 +328,13 @@ def get_species_df(proj_id):
     return df_species
 
 
-def get_marine_species(proj_id):
+def get_marine_species(proj_id, session=session):
     total_sp = []
 
     species = f"{API_PATH}/observations/species_counts?"
     url1 = f"{species}&project_id={proj_id}"
 
-    total_num = requests.get(url1).json()["total_results"]
+    total_num = session.get(url1).json()["total_results"]
 
     pages = math.ceil(total_num / 500)
 
@@ -303,7 +342,7 @@ def get_marine_species(proj_id):
         especie = {}
         page = i + 1
         url = f"{species}&project_id={proj_id}&page={page}"
-        results = requests.get(url).json()["results"]
+        results = session.get(url).json()["results"]
         for result in results:
             especie = {}
             especie["taxon_id"] = result["taxon"]["id"]
@@ -331,21 +370,30 @@ if __name__ == "__main__":
 
     # Actualiza main metrics
     main_metrics_df = update_main_metrics(main_project_bdc)
-    main_metrics_df.to_csv(f"data/{main_project_bdc}_main_metrics.csv", index=False)
+    main_metrics_df.to_csv(
+        f"data/biodiverciutat25/{main_project_bdc}_main_metrics.csv", index=False
+    )
     print("Main metrics actualizada")
 
     # Actualiza métricas de los proyectos
-    df_projs = create_df_projs(projects_bdc)
-    df_projs.to_csv(f"data/{main_project_bdc}_main_metrics_projects.csv", index=False)
+    df_projs = get_metrics_proj(places_bdc, main_project_bdc)
+    df_projs.to_csv(
+        f"data/biodiverciutat25/{main_project_bdc}_main_metrics_projects.csv",
+        index=False,
+    )
     print("Main metrics of city projects actualizado")
 
     # Actualiza df_obs y df_photos totales
     obs = get_obs(id_project=main_project_bdc)
+
+    # solo si hay observaciones
     if len(obs) > 0:
         print("Sacando df de observaciones totales")
         df_obs, df_photos = get_dfs(obs)
-        df_obs.to_csv(f"data/{main_project_bdc}_obs.csv", index=False)
-        df_photos.to_csv(f"data/{main_project_bdc}_photos.csv", index=False)
+        df_obs.to_csv(f"data/biodiverciutat25/{main_project_bdc}_obs.csv", index=False)
+        df_photos.to_csv(
+            f"data/biodiverciutat25/{main_project_bdc}_photos.csv", index=False
+        )
 
         print("Sacando columna marine")
         df_obs["taxon_id"] = df_obs["taxon_id"].replace("nan", None)
@@ -365,12 +413,16 @@ if __name__ == "__main__":
         # Dataframe de participantes
         print("Dataframe de participantes")
         df_users = get_participation_df(main_project_bdc)
-        df_users.to_csv(f"data/{main_project_bdc}_users.csv", index=False)
+        df_users.to_csv(
+            f"data/biodiverciutat25/{main_project_bdc}_users.csv", index=False
+        )
 
         # Dataframe de marino/terrestre
         print("Cuenta de marinos/terrestres")
         df_marine = get_marine_count(df_filtered)
-        df_marine.to_csv(f"data/{main_project_bdc}_marines.csv", index=False)
+        df_marine.to_csv(
+            f"data/biodiverciutat25/{main_project_bdc}_marines.csv", index=False
+        )
 
     # Dataframe métricas totales
     print("Dataframe métricas tiempo real")
@@ -381,4 +433,6 @@ if __name__ == "__main__":
             "values": [total_obs, total_species, total_participants],
         }
     )
-    df.to_csv(f"data/{main_project_bdc}_metrics_tiempo_real.csv", index=False)
+    df.to_csv(
+        f"data/biodiverciutat25/{main_project_bdc}_metrics_tiempo_real.csv", index=False
+    )
