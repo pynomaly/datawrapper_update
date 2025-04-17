@@ -1,8 +1,8 @@
 ---
-name: Update_Counter
+name: Update_BioDiverCiutat
 on:  # yamllint disable-line rule:truthy
   schedule:
-    - cron: "0 */3 * * *"
+    - cron: "0 */1 * * *"
   workflow_dispatch:
 
 jobs:
@@ -23,7 +23,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run the script
-        run: python update_counter_biom.py
+        run: python update_biodiverciutat.py
 
       - name: Commit files
         run: |
