@@ -1,4 +1,37 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,identifications_count,identifiers,num_identification_agreements,num_identification_disagreements,device,kingdom,phylum,class,order,family,genus
+443471,2025-04-25,2025-04-25,2025-04-25,09:07:00,mollusca,13590,genus,Arion,41.4137309722,2.148187,False,Spain,needs_id,16467,david_lurpa_natura,cc-by,0,david_lurpa_natura,0,0,app,Animalia,Mollusca,Gastropoda,Stylommatophora,Arionidae,
+443470,2025-04-25,2025-04-25,2025-04-25,09:33:00,life,1,stateofmatter,Life,41.4136987,2.1480798,False,Spain,casual,16475,acidh23,cc-by,0,acidh23,0,0,app,,,,,,
+443469,2025-04-25,2025-04-25,2025-04-25,09:37:00,,nan,,,41.413675,2.1478805556,False,Spain,casual,16473,condal,cc-by,0,,0,0,app,,,,,,
+443468,2025-04-25,2025-04-25,2025-04-25,09:36:00,,nan,,,41.413675,2.1478805556,False,Spain,casual,16473,condal,cc-by,0,,0,0,app,,,,,,
+443467,2025-04-25,2025-04-25,2025-04-25,09:32:00,plantae,243357,species,Lavandula dentata,41.41373825,2.1476399722,False,Spain,needs_id,16474,alexsantjordi,cc-by,0,alexsantjordi,0,0,app,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,Lavandula
+443466,2025-04-25,2025-04-25,2025-04-25,09:31:00,crustacea,2076,family,Porcellionidae,41.4142638889,2.1464666667,False,Spain,needs_id,16444,naturaleza_pillada,cc-by,0,naturaleza_pillada,0,0,app,Animalia,Arthropoda,Malacostraca,Isopoda,,
+443465,2025-04-25,2025-04-25,2025-04-25,09:32:00,life,1,stateofmatter,Life,41.4140495,2.1463071,False,Spain,casual,16475,acidh23,cc-by,0,acidh23,0,0,app,,,,,,
+443464,2025-04-25,2025-04-25,2025-04-25,09:29:00,plantae,248098,species,Calendula officinalis,41.4137621,2.1464207,False,Spain,casual,16475,acidh23,cc-by,0,acidh23,0,0,app,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Calendula
+443463,2025-04-25,2025-04-25,2025-04-25,09:28:00,plantae,49224,genus,Calendula,41.4136694444,2.14785,False,Spain,casual,16473,condal,cc-by,0,condal,0,0,app,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,
+443462,2025-04-25,2025-04-25,2025-04-25,09:29:00,insecta,262351,superfamily,Asiloidea,41.4136404,2.1474761,False,Spain,casual,16475,acidh23,cc-by,0,acidh23,0,0,app,Animalia,Arthropoda,Insecta,Diptera,,
+443461,2025-04-25,2025-04-25,2025-04-25,09:28:00,insecta,262351,superfamily,Asiloidea,41.4136694444,2.14785,False,Spain,casual,16473,condal,cc-by,0,condal,0,0,app,Animalia,Arthropoda,Insecta,Diptera,,
+443460,2025-04-25,2025-04-25,2025-04-25,09:28:00,,nan,,,41.413636,2.1474439,False,Spain,casual,16475,acidh23,cc-by,0,,0,0,app,,,,,,
+443459,2025-04-25,2025-04-25,2025-04-25,09:27:00,,nan,,,41.4142784,2.1472127,False,Spain,casual,16475,acidh23,cc-by,0,,0,0,app,,,,,,
+443458,2025-04-25,2025-04-25,2025-04-25,09:25:00,plantae,38118,genus,Taraxacum,41.4133224,2.1455748,False,Spain,casual,16475,acidh23,cc-by,0,acidh23,0,0,app,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,
+443457,2025-04-25,2025-04-25,2025-04-25,09:25:00,aves,252264,species,Columba livia,41.413773,2.1481475,False,Spain,needs_id,16444,naturaleza_pillada,cc-by,0,naturaleza_pillada,0,0,app,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
+443456,2025-04-25,2025-04-25,2025-04-25,09:24:00,plantae,38118,genus,Taraxacum,41.4136777778,2.1479333333,False,Spain,casual,16473,condal,cc-by,0,condal,0,0,app,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,
+443455,2025-04-25,2025-04-25,2025-04-25,09:22:00,plantae,250710,species,Taraxacum officinale,41.4136482,2.1475159,False,Spain,casual,16475,acidh23,cc-by,0,acidh23,0,0,app,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Taraxacum
+443454,2025-04-25,2025-04-25,2025-04-25,09:22:00,plantae,248995,species,Foeniculum vulgare,41.4137111111,2.1480888889,False,Spain,casual,16473,condal,cc-by,0,condal,0,0,app,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,Foeniculum
+443453,2025-04-25,2025-04-25,2025-04-25,09:07:00,insecta,1407,family,Libellulidae,41.4140792,2.1466241,False,Spain,needs_id,16474,alexsantjordi,cc-by,0,alexsantjordi,0,0,app,Animalia,Arthropoda,Insecta,Odonata,,
+443452,2025-04-25,2025-04-25,2025-04-25,09:20:00,,nan,,,41.4142346,2.1475981,False,Spain,casual,16475,acidh23,cc-by,0,,0,0,app,,,,,,
+443451,2025-04-25,2025-04-25,2025-04-25,09:21:00,plantae,47100,genus,Lavandula,41.4136638889,2.148125,False,Spain,casual,16473,condal,cc-by,0,condal,0,0,app,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,
+443450,2025-04-25,2025-04-25,2025-04-25,09:19:00,,nan,,,41.413625,2.1482388889,False,Spain,casual,16473,condal,cc-by,0,,0,0,app,,,,,,
+443449,2025-04-25,2025-04-25,2025-04-25,09:18:00,insecta,1407,family,Libellulidae,41.4151871,2.1462358,False,Spain,needs_id,16475,acidh23,cc-by,0,acidh23,0,0,app,Animalia,Arthropoda,Insecta,Odonata,,
+443448,2025-04-25,2025-04-25,2025-04-25,09:15:00,,nan,,,41.4151143,2.1468487,False,Spain,needs_id,16477,adrimp,cc-by,0,,0,0,app,,,,,,
+443447,2025-04-25,2025-04-25,2025-04-25,09:18:00,insecta,1407,family,Libellulidae,41.413625,2.1482388889,False,Spain,casual,16473,condal,cc-by,0,condal,0,0,app,Animalia,Arthropoda,Insecta,Odonata,,
+443446,2025-04-25,2025-04-25,2025-04-25,09:17:00,,nan,,,41.4141077876,2.1474156909,False,Spain,needs_id,16476,rebeca,cc-by,0,,0,0,app,,,,,,
+443445,2025-04-25,2025-04-25,2025-04-25,09:16:00,,nan,,,41.4136444444,2.1481944444,False,Spain,needs_id,16473,condal,cc-by,0,,0,0,app,,,,,,
+443444,2025-04-25,2025-04-25,2025-04-25,09:16:00,,nan,,,41.4140716149,2.1475782096,False,Spain,needs_id,16476,rebeca,cc-by,0,,0,0,app,,,,,,
+443443,2025-04-25,2025-04-25,2025-04-25,09:16:00,,nan,,,41.4136400208,2.1481506964,False,Spain,needs_id,16476,rebeca,cc-by,0,,0,0,app,,,,,,
+443442,2025-04-25,2025-04-25,2025-04-25,09:14:00,,nan,,,41.4139711,2.1490676,False,Spain,needs_id,16478,fabricio1,cc-by,0,,0,0,app,,,,,,
+443441,2025-04-25,2025-04-25,2025-04-25,09:15:00,,nan,,,41.4136222222,2.1480972222,False,Spain,casual,16473,condal,cc-by,0,,0,0,app,,,,,,
+443440,2025-04-25,2025-04-25,2025-04-25,09:07:00,,nan,,,41.4142574236,2.1476042469,False,Spain,needs_id,16476,rebeca,cc-by,0,,0,0,app,,,,,,
+443439,2025-04-25,2025-04-25,2025-04-25,09:13:00,,nan,,,41.4135482,2.1481644,False,Spain,casual,16473,condal,cc-by,0,,0,0,app,,,,,,
 443438,2025-04-25,2025-04-25,2025-04-25,08:13:00,,nan,,,41.4320239,2.1670157,False,Spain,needs_id,16471,amordedios,cc-by,0,,0,0,app,,,,,,
 443437,2025-04-25,2025-04-25,2025-04-25,08:13:00,,nan,,,41.4320239,2.1670157,False,Spain,casual,16471,amordedios,cc-by,0,,0,0,app,,,,,,
 443436,2025-04-25,2025-04-25,2025-04-25,08:43:00,,nan,,,41.4320505,2.1670302,False,Spain,needs_id,16471,amordedios,cc-by,0,,0,0,app,,,,,,
