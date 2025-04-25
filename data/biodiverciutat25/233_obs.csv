@@ -3,7 +3,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 443496,2025-04-25,2025-04-25,2025-04-25,10:30:00,plantae,251420,species,Thymus vulgaris,41.413383,2.147508,False,Spain,needs_id,16467,david_lurpa_natura,cc-by,0,david_lurpa_natura,0,0,app,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,Thymus
 443495,2025-04-25,2025-04-25,2025-04-25,10:20:00,amphibia,247070,species,Salamandra salamandra,41.4133555556,2.1467583333,False,Spain,casual,16473,condal,cc-by,0,condal,0,0,app,Animalia,Chordata,Amphibia,Caudata,Salamandridae,Salamandra
 443494,2025-04-25,2025-04-25,2025-04-25,10:27:00,aves,247963,species,Myiopsitta monachus,41.4273501,2.1758874,False,Spain,needs_id,26,carlosrodero,cc-by-nc,0,carlosrodero,0,0,app,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Myiopsitta
-443492,2025-04-25,2025-04-25,2025-04-25,10:11:00,,nan,,,41.4132416667,2.1475472222,False,Spain,needs_id,16473,condal,cc-by,0,,0,0,app,,,,,,
+443492,2025-04-25,2025-04-25,2025-04-25,10:11:00,insecta,249587,species,Nyctophila reichii,41.4132416667,2.1475472222,False,Spain,needs_id,16473,condal,cc-by,0,francesc_f,0,0,app,Animalia,Arthropoda,Insecta,Coleoptera,Lampyridae,Nyctophila
 443491,2025-04-25,2025-04-25,2025-04-25,10:10:00,,nan,,,41.4131944444,2.1477333333,False,Spain,casual,16473,condal,cc-by,0,,0,0,app,,,,,,
 443489,2025-04-25,2025-04-25,2025-04-25,10:10:00,,nan,,,41.4131944444,2.1477333333,False,Spain,casual,16473,condal,cc-by,0,,0,0,app,,,,,,
 443488,2025-04-25,2025-04-25,2025-04-25,10:10:00,,nan,,,41.4131944444,2.1477333333,False,Spain,casual,16473,condal,cc-by,0,,0,0,app,,,,,,
@@ -45,7 +45,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 443449,2025-04-25,2025-04-25,2025-04-25,09:18:00,insecta,1407,family,Libellulidae,41.4151871,2.1462358,False,Spain,needs_id,16475,acidh23,cc-by,0,acidh23,0,0,app,Animalia,Arthropoda,Insecta,Odonata,,
 443448,2025-04-25,2025-04-25,2025-04-25,09:15:00,,nan,,,41.4151143,2.1468487,False,Spain,needs_id,16477,adrimp,cc-by,0,,0,0,app,,,,,,
 443447,2025-04-25,2025-04-25,2025-04-25,09:18:00,insecta,1407,family,Libellulidae,41.413625,2.1482388889,False,Spain,casual,16473,condal,cc-by,0,condal,0,0,app,Animalia,Arthropoda,Insecta,Odonata,,
-443446,2025-04-25,2025-04-25,2025-04-25,09:17:00,,nan,,,41.4141077876,2.1474156909,False,Spain,needs_id,16476,rebeca,cc-by,0,,0,0,app,,,,,,
+443446,2025-04-25,2025-04-25,2025-04-25,09:17:00,plantae,43544,genus,Cistus,41.4141077876,2.1474156909,False,Spain,needs_id,16476,rebeca,cc-by,0,francesc_f,0,0,app,Plantae,Tracheophyta,Magnoliopsida,Violales,Cistaceae,
 443445,2025-04-25,2025-04-25,2025-04-25,09:16:00,,nan,,,41.4136444444,2.1481944444,False,Spain,needs_id,16473,condal,cc-by,0,,0,0,app,,,,,,
 443444,2025-04-25,2025-04-25,2025-04-25,09:16:00,,nan,,,41.4140716149,2.1475782096,False,Spain,needs_id,16476,rebeca,cc-by,0,,0,0,app,,,,,,
 443443,2025-04-25,2025-04-25,2025-04-25,09:16:00,,nan,,,41.4136400208,2.1481506964,False,Spain,needs_id,16476,rebeca,cc-by,0,,0,0,app,,,,,,
@@ -137,6 +137,6 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 443356,2025-04-25,2025-04-25,2025-04-25,07:46:00,,nan,,,41.4338207488,2.1670657365,False,Spain,needs_id,16471,amordedios,cc-by,0,,0,0,app,,,,,,
 443354,2025-04-25,2025-04-25,2025-04-25,07:45:00,plantae,242058,species,Pinus pinea,41.4329406,2.1673629997,False,Spain,needs_id,26,carlosrodero,cc-by-nc,0,carlosrodero,0,0,app,Plantae,Tracheophyta,Pinopsida,Pinales,Pinaceae,Pinus
 443353,2025-04-25,2025-04-25,2025-04-25,06:42:00,plantae,12,kingdom,Plantae,41.411805,2.1736407,False,Spain,needs_id,16401,vergobret,cc-by,0,vergobret,0,0,app,,,,,,
-443351,2025-04-25,2025-04-25,2025-04-25,05:21:00,,nan,,,41.4051245,2.2209727,False,Spain,needs_id,4,xasalva,cc-by-nc,0,,0,0,app,,,,,,
+443351,2025-04-25,2025-04-25,2025-04-25,05:21:00,plantae,253693,species,Washingtonia filifera,41.4051245,2.2209727,False,Spain,needs_id,4,xasalva,cc-by-nc,0,francesc_f,0,0,app,Plantae,Tracheophyta,Liliopsida,Arecales,Arecaceae,Washingtonia
 443350,2025-04-25,2025-04-25,2025-04-25,05:20:00,plantae,248995,species,Foeniculum vulgare,41.4051306,2.220975,False,Spain,research,4,xasalva,cc-by-nc,1,"xasalva, jaume-piera",1,0,app,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,Foeniculum
 443349,2025-04-25,2025-04-25,2025-04-25,05:20:00,,nan,,,41.4091075,2.2204384,False,Spain,needs_id,4,xasalva,cc-by-nc,0,,0,0,app,,,,,,

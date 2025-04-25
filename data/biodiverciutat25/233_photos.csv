@@ -4,7 +4,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 443495,597367,amphibia,Salamandra salamandra,https://minka-sdg.org/attachments/local_photos/files/597367/medium.jpg,condal,41.4133555556,2.1467583333,cc-by,"(c) centro condal, some rights reserved (CC BY)",443495_597367.jpg
 443494,597365,aves,Myiopsitta monachus,https://minka-sdg.org/attachments/local_photos/files/597365/medium.jpg,carlosrodero,41.4273501,2.1758874,cc-by-nc,"(c) Carlos Rodero, some rights reserved (CC BY-NC)",443494_597365.jpg
 443494,597366,aves,Myiopsitta monachus,https://minka-sdg.org/attachments/local_photos/files/597366/medium.jpg,carlosrodero,41.4273501,2.1758874,cc-by-nc,"(c) Carlos Rodero, some rights reserved (CC BY-NC)",443494_597366.jpg
-443492,597363,,,https://minka-sdg.org/attachments/local_photos/files/597363/medium.jpg,condal,41.4132416667,2.1475472222,cc-by,"(c) centro condal, some rights reserved (CC BY)",443492_597363.jpg
+443492,597363,insecta,Nyctophila reichii,https://minka-sdg.org/attachments/local_photos/files/597363/medium.jpg,condal,41.4132416667,2.1475472222,cc-by,"(c) centro condal, some rights reserved (CC BY)",443492_597363.jpg
 443491,597362,,,https://minka-sdg.org/attachments/local_photos/files/597362/medium.jpg,condal,41.4131944444,2.1477333333,cc-by,"(c) centro condal, some rights reserved (CC BY)",443491_597362.jpg
 443489,597360,,,https://minka-sdg.org/attachments/local_photos/files/597360/medium.jpg,condal,41.4131944444,2.1477333333,cc-by,"(c) centro condal, some rights reserved (CC BY)",443489_597360.jpg
 443488,597359,,,https://minka-sdg.org/attachments/local_photos/files/597359/medium.jpg,condal,41.4131944444,2.1477333333,cc-by,"(c) centro condal, some rights reserved (CC BY)",443488_597359.jpg
@@ -46,7 +46,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 443449,597320,insecta,Libellulidae,https://minka-sdg.org/attachments/local_photos/files/597320/medium.jpg,acidh23,41.4151871,2.1462358,cc-by,"(c) jennifer charles sanchez, some rights reserved (CC BY)",443449_597320.jpg
 443448,597319,,,https://minka-sdg.org/attachments/local_photos/files/597319/medium.jpg,adrimp,41.4151143,2.1468487,cc-by,"(c) Adria MP, some rights reserved (CC BY)",443448_597319.jpg
 443447,597318,insecta,Libellulidae,https://minka-sdg.org/attachments/local_photos/files/597318/medium.jpg,condal,41.413625,2.1482388889,cc-by,"(c) centro condal, some rights reserved (CC BY)",443447_597318.jpg
-443446,597317,,,https://minka-sdg.org/attachments/local_photos/files/597317/medium.jpg,rebeca,41.4141077876,2.1474156909,cc-by,"(c) rebeca Rodríguez, some rights reserved (CC BY)",443446_597317.jpg
+443446,597317,plantae,Cistus,https://minka-sdg.org/attachments/local_photos/files/597317/medium.jpg,rebeca,41.4141077876,2.1474156909,cc-by,"(c) rebeca Rodríguez, some rights reserved (CC BY)",443446_597317.jpg
 443445,597315,,,https://minka-sdg.org/attachments/local_photos/files/597315/medium.jpg,condal,41.4136444444,2.1481944444,cc-by,"(c) centro condal, some rights reserved (CC BY)",443445_597315.jpg
 443444,597316,,,https://minka-sdg.org/attachments/local_photos/files/597316/medium.jpg,rebeca,41.4140716149,2.1475782096,cc-by,"(c) rebeca Rodríguez, some rights reserved (CC BY)",443444_597316.jpg
 443443,597314,,,https://minka-sdg.org/attachments/local_photos/files/597314/medium.jpg,rebeca,41.4136400208,2.1481506964,cc-by,"(c) rebeca Rodríguez, some rights reserved (CC BY)",443443_597314.jpg
@@ -173,6 +173,6 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 443356,597194,,,https://minka-sdg.org/attachments/local_photos/files/597194/medium.jpg,amordedios,41.4338207488,2.1670657365,cc-by,"(c) amordedios, some rights reserved (CC BY)",443356_597194.jpg
 443354,597193,plantae,Pinus pinea,https://minka-sdg.org/attachments/local_photos/files/597193/medium.jpg,carlosrodero,41.4329406,2.1673629997,cc-by-nc,"(c) Carlos Rodero, some rights reserved (CC BY-NC)",443354_597193.jpg
 443353,597187,plantae,Plantae,https://minka-sdg.org/attachments/local_photos/files/597187/medium.jpg,vergobret,41.411805,2.1736407,cc-by,"(c) vergobret, some rights reserved (CC BY)",443353_597187.jpg
-443351,597185,,,https://minka-sdg.org/attachments/local_photos/files/597185/medium.jpg,xasalva,41.4051245,2.2209727,cc-by-nc,"(c) xavi salvador costa, some rights reserved (CC BY-NC)",443351_597185.jpg
+443351,597185,plantae,Washingtonia filifera,https://minka-sdg.org/attachments/local_photos/files/597185/medium.jpg,xasalva,41.4051245,2.2209727,cc-by-nc,"(c) xavi salvador costa, some rights reserved (CC BY-NC)",443351_597185.jpg
 443350,597184,plantae,Foeniculum vulgare,https://minka-sdg.org/attachments/local_photos/files/597184/medium.jpg,xasalva,41.4051306,2.220975,cc-by-nc,"(c) xavi salvador costa, some rights reserved (CC BY-NC)",443350_597184.jpg
 443349,597183,,,https://minka-sdg.org/attachments/local_photos/files/597183/medium.jpg,xasalva,41.4091075,2.2204384,cc-by-nc,"(c) xavi salvador costa, some rights reserved (CC BY-NC)",443349_597183.jpg
