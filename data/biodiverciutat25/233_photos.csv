@@ -1,24 +1,35 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+443379,597233,plantae,Asparagus acutifolius,https://minka-sdg.org/attachments/local_photos/files/597233/medium.jpg,carlosrodero,41.4329625,2.1664327,cc-by-nc,"(c) Carlos Rodero, some rights reserved (CC BY-NC)",443379_597233.jpg
+443379,597234,plantae,Asparagus acutifolius,https://minka-sdg.org/attachments/local_photos/files/597234/medium.jpg,carlosrodero,41.4329625,2.1664327,cc-by-nc,"(c) Carlos Rodero, some rights reserved (CC BY-NC)",443379_597234.jpg
+443378,597231,,,https://minka-sdg.org/attachments/local_photos/files/597231/medium.jpg,amordedios,41.4266076997,2.1553076997,cc-by,"(c) amordedios, some rights reserved (CC BY)",443378_597231.jpg
+443378,597232,,,https://minka-sdg.org/attachments/local_photos/files/597232/medium.jpg,amordedios,41.4266076997,2.1553076997,cc-by,"(c) amordedios, some rights reserved (CC BY)",443378_597232.jpg
+443377,597230,,,https://minka-sdg.org/attachments/local_photos/files/597230/medium.jpg,amordedios,41.4322307158,2.1674211266,cc-by,"(c) amordedios, some rights reserved (CC BY)",443377_597230.jpg
+443376,597229,,,https://minka-sdg.org/attachments/local_photos/files/597229/medium.jpg,amordedios,41.4320586375,2.166316753,cc-by,"(c) amordedios, some rights reserved (CC BY)",443376_597229.jpg
+443375,597224,insecta,Bombus terrestris,https://minka-sdg.org/attachments/local_photos/files/597224/medium.jpg,carlosrodero,41.4323449,2.1665946,cc-by-nc,"(c) Carlos Rodero, some rights reserved (CC BY-NC)",443375_597224.jpg
+443375,597226,insecta,Bombus terrestris,https://minka-sdg.org/attachments/local_photos/files/597226/medium.jpg,carlosrodero,41.4323449,2.1665946,cc-by-nc,"(c) Carlos Rodero, some rights reserved (CC BY-NC)",443375_597226.jpg
+443375,597227,insecta,Bombus terrestris,https://minka-sdg.org/attachments/local_photos/files/597227/medium.jpg,carlosrodero,41.4323449,2.1665946,cc-by-nc,"(c) Carlos Rodero, some rights reserved (CC BY-NC)",443375_597227.jpg
+443375,597228,insecta,Bombus terrestris,https://minka-sdg.org/attachments/local_photos/files/597228/medium.jpg,carlosrodero,41.4323449,2.1665946,cc-by-nc,"(c) Carlos Rodero, some rights reserved (CC BY-NC)",443375_597228.jpg
+443374,597225,,,https://minka-sdg.org/attachments/local_photos/files/597225/medium.jpg,amordedios,41.4312229138,2.1717353592,cc-by,"(c) amordedios, some rights reserved (CC BY)",443374_597225.jpg
 443373,597223,,,https://minka-sdg.org/attachments/local_photos/files/597223/medium.jpg,amordedios,41.4314708609,2.1716091056,cc-by,"(c) amordedios, some rights reserved (CC BY)",443373_597223.jpg
 443372,597222,,,https://minka-sdg.org/attachments/local_photos/files/597222/medium.jpg,amordedios,41.4316041633,2.1712859183,cc-by,"(c) amordedios, some rights reserved (CC BY)",443372_597222.jpg
 443371,597221,,,https://minka-sdg.org/attachments/local_photos/files/597221/medium.jpg,amordedios,41.4328476609,2.1655797328,cc-by,"(c) amordedios, some rights reserved (CC BY)",443371_597221.jpg
 443370,597220,,,https://minka-sdg.org/attachments/local_photos/files/597220/medium.jpg,amordedios,41.4363890444,2.1645704019,cc-by,"(c) amordedios, some rights reserved (CC BY)",443370_597220.jpg
 443369,597218,,,https://minka-sdg.org/attachments/local_photos/files/597218/medium.jpg,carlosrodero,41.432833,2.1657748,cc-by-nc,"(c) Carlos Rodero, some rights reserved (CC BY-NC)",443369_597218.jpg
 443369,597219,,,https://minka-sdg.org/attachments/local_photos/files/597219/medium.jpg,carlosrodero,41.432833,2.1657748,cc-by-nc,"(c) Carlos Rodero, some rights reserved (CC BY-NC)",443369_597219.jpg
-443368,597208,,,https://minka-sdg.org/attachments/local_photos/files/597208/medium.jpg,amordedios,41.4360242,2.1645269,cc-by,"(c) amordedios, some rights reserved (CC BY)",443368_597208.jpg
-443368,597210,,,https://minka-sdg.org/attachments/local_photos/files/597210/medium.jpg,amordedios,41.4360242,2.1645269,cc-by,"(c) amordedios, some rights reserved (CC BY)",443368_597210.jpg
-443368,597211,,,https://minka-sdg.org/attachments/local_photos/files/597211/medium.jpg,amordedios,41.4360242,2.1645269,cc-by,"(c) amordedios, some rights reserved (CC BY)",443368_597211.jpg
+443368,597217,,,https://minka-sdg.org/attachments/local_photos/files/597217/medium.jpg,amordedios,41.4360242,2.1645269,cc-by,"(c) amordedios, some rights reserved (CC BY)",443368_597217.jpg
+443368,597216,,,https://minka-sdg.org/attachments/local_photos/files/597216/medium.jpg,amordedios,41.4360242,2.1645269,cc-by,"(c) amordedios, some rights reserved (CC BY)",443368_597216.jpg
 443368,597213,,,https://minka-sdg.org/attachments/local_photos/files/597213/medium.jpg,amordedios,41.4360242,2.1645269,cc-by,"(c) amordedios, some rights reserved (CC BY)",443368_597213.jpg
 443368,597214,,,https://minka-sdg.org/attachments/local_photos/files/597214/medium.jpg,amordedios,41.4360242,2.1645269,cc-by,"(c) amordedios, some rights reserved (CC BY)",443368_597214.jpg
 443368,597215,,,https://minka-sdg.org/attachments/local_photos/files/597215/medium.jpg,amordedios,41.4360242,2.1645269,cc-by,"(c) amordedios, some rights reserved (CC BY)",443368_597215.jpg
-443368,597216,,,https://minka-sdg.org/attachments/local_photos/files/597216/medium.jpg,amordedios,41.4360242,2.1645269,cc-by,"(c) amordedios, some rights reserved (CC BY)",443368_597216.jpg
-443368,597217,,,https://minka-sdg.org/attachments/local_photos/files/597217/medium.jpg,amordedios,41.4360242,2.1645269,cc-by,"(c) amordedios, some rights reserved (CC BY)",443368_597217.jpg
 443368,597212,,,https://minka-sdg.org/attachments/local_photos/files/597212/medium.jpg,amordedios,41.4360242,2.1645269,cc-by,"(c) amordedios, some rights reserved (CC BY)",443368_597212.jpg
+443368,597211,,,https://minka-sdg.org/attachments/local_photos/files/597211/medium.jpg,amordedios,41.4360242,2.1645269,cc-by,"(c) amordedios, some rights reserved (CC BY)",443368_597211.jpg
+443368,597210,,,https://minka-sdg.org/attachments/local_photos/files/597210/medium.jpg,amordedios,41.4360242,2.1645269,cc-by,"(c) amordedios, some rights reserved (CC BY)",443368_597210.jpg
+443368,597208,,,https://minka-sdg.org/attachments/local_photos/files/597208/medium.jpg,amordedios,41.4360242,2.1645269,cc-by,"(c) amordedios, some rights reserved (CC BY)",443368_597208.jpg
 443367,597204,,,https://minka-sdg.org/attachments/local_photos/files/597204/medium.jpg,amordedios,41.4328169539,2.1665655784,cc-by,"(c) amordedios, some rights reserved (CC BY)",443367_597204.jpg
+443366,597205,arachnida,Arachnida,https://minka-sdg.org/attachments/local_photos/files/597205/medium.jpg,carlosrodero,41.4326203,2.1657322,cc-by-nc,"(c) Carlos Rodero, some rights reserved (CC BY-NC)",443366_597205.jpg
+443366,597206,arachnida,Arachnida,https://minka-sdg.org/attachments/local_photos/files/597206/medium.jpg,carlosrodero,41.4326203,2.1657322,cc-by-nc,"(c) Carlos Rodero, some rights reserved (CC BY-NC)",443366_597206.jpg
 443366,597207,arachnida,Arachnida,https://minka-sdg.org/attachments/local_photos/files/597207/medium.jpg,carlosrodero,41.4326203,2.1657322,cc-by-nc,"(c) Carlos Rodero, some rights reserved (CC BY-NC)",443366_597207.jpg
 443366,597209,arachnida,Arachnida,https://minka-sdg.org/attachments/local_photos/files/597209/medium.jpg,carlosrodero,41.4326203,2.1657322,cc-by-nc,"(c) Carlos Rodero, some rights reserved (CC BY-NC)",443366_597209.jpg
-443366,597206,arachnida,Arachnida,https://minka-sdg.org/attachments/local_photos/files/597206/medium.jpg,carlosrodero,41.4326203,2.1657322,cc-by-nc,"(c) Carlos Rodero, some rights reserved (CC BY-NC)",443366_597206.jpg
-443366,597205,arachnida,Arachnida,https://minka-sdg.org/attachments/local_photos/files/597205/medium.jpg,carlosrodero,41.4326203,2.1657322,cc-by-nc,"(c) Carlos Rodero, some rights reserved (CC BY-NC)",443366_597205.jpg
 443365,597203,,,https://minka-sdg.org/attachments/local_photos/files/597203/medium.jpg,carlosrodero,41.4327187,2.1658949997,cc-by-nc,"(c) Carlos Rodero, some rights reserved (CC BY-NC)",443365_597203.jpg
 443364,597202,,,https://minka-sdg.org/attachments/local_photos/files/597202/medium.jpg,amordedios,41.4314216081,2.167489384,cc-by,"(c) amordedios, some rights reserved (CC BY)",443364_597202.jpg
 443363,597201,,,https://minka-sdg.org/attachments/local_photos/files/597201/medium.jpg,amordedios,41.4319776129,2.1671546379,cc-by,"(c) amordedios, some rights reserved (CC BY)",443363_597201.jpg

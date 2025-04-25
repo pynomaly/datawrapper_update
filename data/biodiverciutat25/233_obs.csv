@@ -1,4 +1,10 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,identifications_count,identifiers,num_identification_agreements,num_identification_disagreements,device,kingdom,phylum,class,order,family,genus
+443379,2025-04-25,2025-04-25,2025-04-25,08:09:00,plantae,246918,species,Asparagus acutifolius,41.4329625,2.1664327,False,Spain,needs_id,26,carlosrodero,cc-by-nc,0,carlosrodero,0,0,app,Plantae,Tracheophyta,Liliopsida,Asparagales,Asparagaceae,Asparagus
+443378,2025-04-25,2025-04-25,2025-04-25,08:08:00,,nan,,,41.4266076997,2.1553076997,False,Spain,needs_id,16471,amordedios,cc-by,0,,0,0,app,,,,,,
+443377,2025-04-25,2025-04-25,2025-04-25,08:10:00,,nan,,,41.4322307158,2.1674211266,False,Spain,needs_id,16471,amordedios,cc-by,0,,0,0,app,,,,,,
+443376,2025-04-25,2025-04-25,2025-04-25,08:07:00,,nan,,,41.4320586375,2.166316753,False,Spain,needs_id,16471,amordedios,cc-by,0,,0,0,app,,,,,,
+443375,2025-04-25,2025-04-25,2025-04-25,08:02:00,insecta,246859,species,Bombus terrestris,41.4323449,2.1665946,False,Spain,needs_id,26,carlosrodero,cc-by-nc,0,carlosrodero,0,0,app,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Bombus
+443374,2025-04-25,2025-04-25,2025-04-25,08:04:00,,nan,,,41.4312229138,2.1717353592,False,Spain,needs_id,16471,amordedios,cc-by,0,,0,0,app,,,,,,
 443373,2025-04-25,2025-04-25,2025-04-25,08:03:00,,nan,,,41.4314708609,2.1716091056,False,Spain,needs_id,16471,amordedios,cc-by,0,,0,0,app,,,,,,
 443372,2025-04-25,2025-04-25,2025-04-25,08:01:00,,nan,,,41.4316041633,2.1712859183,False,Spain,needs_id,16471,amordedios,cc-by,0,,0,0,app,,,,,,
 443371,2025-04-25,2025-04-25,2025-04-25,08:00:00,,nan,,,41.4328476609,2.1655797328,False,Spain,needs_id,16471,amordedios,cc-by,0,,0,0,app,,,,,,
