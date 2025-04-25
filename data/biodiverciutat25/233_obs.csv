@@ -1,9 +1,9 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,identifications_count,identifiers,num_identification_agreements,num_identification_disagreements,device,kingdom,phylum,class,order,family,genus
-444166,2025-04-25,2025-04-25,2025-04-25,08:00:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
-444165,2025-04-25,2025-04-25,2025-04-25,08:00:00,,nan,,,41.408859,2.226974,False,"Piscinas del Forum, Barcelona",needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
-444164,2025-04-25,2025-04-25,2025-04-25,08:00:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
+444166,2025-04-25,2025-04-25,2025-04-25,08:00:00,actinopterygii,35225,species,Chromis chromis,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,mingokt,0,0,web,Animalia,Chordata,Teleostei,Perciformes,Pomacentridae,Chromis
+444165,2025-04-25,2025-04-25,2025-04-25,08:00:00,actinopterygii,34835,species,Coris julis,41.408859,2.226974,False,"Piscinas del Forum, Barcelona",needs_id,1030,mingokt,cc-by-nc,0,mingokt,0,0,web,Animalia,Chordata,Teleostei,Perciformes,Labridae,Coris
+444164,2025-04-25,2025-04-25,2025-04-25,08:00:00,,35063,species,Dictyota dichotoma,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,mingokt,0,0,web,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota
 444163,2025-04-25,2025-04-25,2025-04-25,08:00:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
-444162,2025-04-25,2025-04-25,2025-04-25,08:01:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
+444162,2025-04-25,2025-04-25,2025-04-25,08:01:00,actinopterygii,35225,species,Chromis chromis,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,mingokt,0,0,web,Animalia,Chordata,Teleostei,Perciformes,Pomacentridae,Chromis
 444161,2025-04-25,2025-04-25,2025-04-25,08:01:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
 444160,2025-04-25,2025-04-25,2025-04-25,08:01:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
 444159,2025-04-25,2025-04-25,2025-04-25,08:04:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
@@ -11,26 +11,26 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 444157,2025-04-25,2025-04-25,2025-04-25,08:05:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
 444156,2025-04-25,2025-04-25,2025-04-25,08:05:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
 444155,2025-04-25,2025-04-25,2025-04-25,08:09:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
-444154,2025-04-25,2025-04-25,2025-04-25,08:10:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
+444154,2025-04-25,2025-04-25,2025-04-25,08:10:00,,35106,species,Padina pavonica,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,mingokt,0,0,web,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
 444153,2025-04-25,2025-04-25,2025-04-25,08:11:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
 444152,2025-04-25,2025-04-25,2025-04-25,08:12:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
 444151,2025-04-25,2025-04-25,2025-04-25,08:14:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
 444150,2025-04-25,2025-04-25,2025-04-25,08:15:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
 444149,2025-04-25,2025-04-25,2025-04-25,08:15:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
 444148,2025-04-25,2025-04-25,2025-04-25,08:18:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
-444147,2025-04-25,2025-04-25,2025-04-25,08:19:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
-444146,2025-04-25,2025-04-25,2025-04-25,08:19:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
+444147,2025-04-25,2025-04-25,2025-04-25,08:19:00,,35106,species,Padina pavonica,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,mingokt,0,0,web,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
+444146,2025-04-25,2025-04-25,2025-04-25,08:19:00,,35106,species,Padina pavonica,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,mingokt,0,0,web,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Padina
 444145,2025-04-25,2025-04-25,2025-04-25,08:19:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
 444144,2025-04-25,2025-04-25,2025-04-25,08:20:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
-444143,2025-04-25,2025-04-25,2025-04-25,08:22:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
+444143,2025-04-25,2025-04-25,2025-04-25,08:22:00,cnidaria,35220,species,Anemonia viridis,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,mingokt,0,0,web,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Anemonia
 444142,2025-04-25,2025-04-25,2025-04-25,08:21:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
 444141,2025-04-25,2025-04-25,2025-04-25,08:23:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
-444140,2025-04-25,2025-04-25,2025-04-25,08:27:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
+444140,2025-04-25,2025-04-25,2025-04-25,08:27:00,mollusca,35036,species,Cratena peregrina,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,mingokt,0,0,web,Animalia,Mollusca,Gastropoda,Nudibranchia,Facelinidae,Cratena
 444139,2025-04-25,2025-04-25,2025-04-25,08:29:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
 444138,2025-04-25,2025-04-25,2025-04-25,08:33:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
 444137,2025-04-25,2025-04-25,2025-04-25,08:36:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
 444136,2025-04-25,2025-04-25,2025-04-25,08:36:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
-444135,2025-04-25,2025-04-25,2025-04-25,08:37:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
+444135,2025-04-25,2025-04-25,2025-04-25,08:37:00,actinopterygii,34805,species,Sarpa salpa,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,mingokt,0,0,web,Animalia,Chordata,Teleostei,Perciformes,Sparidae,Sarpa
 444134,2025-04-25,2025-04-25,2025-04-25,08:37:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
 444133,2025-04-25,2025-04-25,2025-04-25,08:37:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
 444132,2025-04-25,2025-04-25,2025-04-25,08:38:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
@@ -39,30 +39,30 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 444129,2025-04-25,2025-04-25,2025-04-25,08:48:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
 444128,2025-04-25,2025-04-25,2025-04-25,08:50:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
 444127,2025-04-25,2025-04-25,2025-04-25,08:50:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
-444126,2025-04-25,2025-04-25,2025-04-25,08:51:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
+444126,2025-04-25,2025-04-25,2025-04-25,08:51:00,actinopterygii,34805,species,Sarpa salpa,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,mingokt,0,0,web,Animalia,Chordata,Teleostei,Perciformes,Sparidae,Sarpa
 444125,2025-04-25,2025-04-25,2025-04-25,08:53:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
 444124,2025-04-25,2025-04-25,2025-04-25,08:53:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
 444123,2025-04-25,2025-04-25,2025-04-25,08:55:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
 444122,2025-04-25,2025-04-25,2025-04-25,09:08:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
 444121,2025-04-25,2025-04-25,2025-04-25,09:10:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
 444120,2025-04-25,2025-04-25,2025-04-25,09:11:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
-444119,2025-04-25,2025-04-25,2025-04-25,09:11:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
+444119,2025-04-25,2025-04-25,2025-04-25,09:11:00,echinodermata,34848,species,Paracentrotus lividus,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,mingokt,0,0,web,Animalia,Echinodermata,Echinoidea,Camarodonta,Parechinidae,Paracentrotus
 444118,2025-04-25,2025-04-25,2025-04-25,09:11:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
 444117,2025-04-25,2025-04-25,2025-04-25,09:11:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
-444116,2025-04-25,2025-04-25,2025-04-25,09:14:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
-444115,2025-04-25,2025-04-25,2025-04-25,09:15:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
+444116,2025-04-25,2025-04-25,2025-04-25,09:14:00,mollusca,35185,species,Felimare picta,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,mingokt,0,0,web,Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Felimare
+444115,2025-04-25,2025-04-25,2025-04-25,09:15:00,cnidaria,34999,species,Actinia mediterranea,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,mingokt,0,0,web,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Actinia
 444114,2025-04-25,2025-04-25,2025-04-25,09:19:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
 444113,2025-04-25,2025-04-25,2025-04-25,09:24:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
-444112,2025-04-25,2025-04-25,2025-04-25,09:28:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
+444112,2025-04-25,2025-04-25,2025-04-25,09:28:00,actinopterygii,34805,species,Sarpa salpa,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,mingokt,0,0,web,Animalia,Chordata,Teleostei,Perciformes,Sparidae,Sarpa
 444111,2025-04-25,2025-04-25,2025-04-25,09:29:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
-444110,2025-04-25,2025-04-25,2025-04-25,09:30:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
+444110,2025-04-25,2025-04-25,2025-04-25,09:30:00,actinopterygii,240400,species,Oblada melanura,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,mingokt,0,0,web,Animalia,Chordata,Teleostei,Perciformes,Sparidae,Oblada
 444109,2025-04-25,2025-04-25,2025-04-25,09:31:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
 444108,2025-04-25,2025-04-25,2025-04-25,09:31:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
 444107,2025-04-25,2025-04-25,2025-04-25,09:31:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
 444106,2025-04-25,2025-04-25,2025-04-25,09:32:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
-444105,2025-04-25,2025-04-25,2025-04-25,09:34:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
+444105,2025-04-25,2025-04-25,2025-04-25,09:34:00,cnidaria,34999,species,Actinia mediterranea,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,mingokt,0,0,web,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Actinia
 444104,2025-04-25,2025-04-25,2025-04-25,09:35:00,,nan,,,41.408859,2.226974,False,Piscinas del Forum,needs_id,1030,mingokt,cc-by-nc,0,,0,0,web,,,,,,
-444092,2025-04-25,2025-04-25,2025-04-25,08:06:00,aves,1597,family,Psittacidae,41.4329116812,2.1659708167,False,"El Turó de la Peira, Distrito de Nou Barris, 08031 Barcelona, España",needs_id,1053,lydia,cc-by-nc,2,"lydia, jaume-piera",2,0,web,Animalia,Chordata,Aves,Psittaciformes,,
+444092,2025-04-25,2025-04-25,2025-04-25,08:06:00,aves,247963,species,Myiopsitta monachus,41.4329116812,2.1659708167,False,"El Turó de la Peira, Distrito de Nou Barris, 08031 Barcelona, España",research,1053,lydia,cc-by-nc,1,"lydia, jaume-piera, lydia",1,0,web,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Myiopsitta
 444091,2025-04-25,2025-04-25,2025-04-25,08:06:00,plantae,250460,species,Opuntia ficus-indica,41.4329116812,2.1659708167,False,"El Turó de la Peira, Distrito de Nou Barris, 08031 Barcelona, España",research,1053,lydia,cc-by-nc,1,"lydia, jaume-piera",1,0,web,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Opuntia
 444090,2025-04-25,2025-04-25,2025-04-25,08:06:00,plantae,245454,species,Echium plantagineum,41.4329116812,2.1659708167,False,"El Turó de la Peira, Distrito de Nou Barris, 08031 Barcelona, España",research,1053,lydia,cc-by-nc,1,"lydia, jaume-piera",1,0,web,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Boraginaceae,Echium
 444089,2025-04-25,2025-04-25,2025-04-25,08:10:00,plantae,251189,species,Spiraea cantoniensis,41.4329116812,2.1659708167,False,"El Turó de la Peira, Distrito de Nou Barris, 08031 Barcelona, España",research,1053,lydia,cc-by-nc,1,"lydia, jaume-piera",1,0,web,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,Spiraea
