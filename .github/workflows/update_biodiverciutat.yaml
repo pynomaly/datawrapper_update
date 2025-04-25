@@ -26,6 +26,7 @@ jobs:
         run: |
           git config --local user.email "ci@ci.ci"
           git config --local user.name "CI"
+          git status
           git add .
           git diff-index --quiet HEAD \
             || git commit -m "Actualización de datos"
