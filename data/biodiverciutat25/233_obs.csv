@@ -1,4 +1,13 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,identifications_count,identifiers,num_identification_agreements,num_identification_disagreements,device,kingdom,phylum,class,order,family,genus
+443492,2025-04-25,2025-04-25,2025-04-25,10:11:00,,nan,,,41.4132416667,2.1475472222,False,Spain,needs_id,16473,condal,cc-by,0,,0,0,app,,,,,,
+443491,2025-04-25,2025-04-25,2025-04-25,10:10:00,,nan,,,41.4131944444,2.1477333333,False,Spain,casual,16473,condal,cc-by,0,,0,0,app,,,,,,
+443489,2025-04-25,2025-04-25,2025-04-25,10:10:00,,nan,,,41.4131944444,2.1477333333,False,Spain,casual,16473,condal,cc-by,0,,0,0,app,,,,,,
+443488,2025-04-25,2025-04-25,2025-04-25,10:10:00,,nan,,,41.4131944444,2.1477333333,False,Spain,casual,16473,condal,cc-by,0,,0,0,app,,,,,,
+443487,2025-04-25,2025-04-25,2025-04-25,10:10:00,,nan,,,41.4131944444,2.1477333333,False,Spain,casual,16473,condal,cc-by,0,,0,0,app,,,,,,
+443486,2025-04-25,2025-04-25,2025-04-25,10:10:00,,nan,,,41.4131944444,2.1477333333,False,Spain,casual,16473,condal,cc-by,0,,0,0,app,,,,,,
+443485,2025-04-25,2025-04-25,2025-04-25,10:09:00,life,1,stateofmatter,Life,41.4139242,2.1459545,False,Spain,casual,16475,acidh23,cc-by,0,acidh23,0,0,app,,,,,,
+443483,2025-04-25,2025-04-25,2025-04-25,10:06:00,insecta,246794,species,Messor barbarus,41.4134788333,2.14784,False,Spain,needs_id,16474,alexsantjordi,cc-by,0,alexsantjordi,0,0,app,Animalia,Arthropoda,Insecta,Hymenoptera,Formicidae,Messor
+443480,2025-04-25,2025-04-25,2025-04-25,10:03:00,plantae,39929,genus,Pittosporum,41.4138231,2.1475759,False,Spain,casual,16475,acidh23,cc-by,0,acidh23,0,0,app,Plantae,Tracheophyta,Magnoliopsida,Rosales,Pittosporaceae,
 443479,2025-04-25,2025-04-25,2025-04-25,10:00:00,insecta,96351,genus,Elmis,41.414788,2.1471481,False,Spain,casual,16473,condal,cc-by,0,condal,0,0,app,Animalia,Arthropoda,Insecta,Coleoptera,Elmidae,
 443478,2025-04-25,2025-04-25,2025-04-25,09:58:00,insecta,244065,species,Protaetia morio,41.4141111111,2.1481333333,False,Spain,needs_id,16444,naturaleza_pillada,cc-by,0,naturaleza_pillada,0,0,app,Animalia,Arthropoda,Insecta,Coleoptera,Cetoniidae,Protaetia
 443477,2025-04-25,2025-04-25,2025-04-25,09:58:00,life,1,stateofmatter,Life,41.4141111111,2.1481333333,False,Spain,needs_id,16444,naturaleza_pillada,cc-by,0,naturaleza_pillada,0,0,app,,,,,,
