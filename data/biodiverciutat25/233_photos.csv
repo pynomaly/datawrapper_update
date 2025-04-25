@@ -1,4 +1,9 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+443497,597369,plantae,Salvia officinalis lavandulifolia,https://minka-sdg.org/attachments/local_photos/files/597369/medium.jpg,david_lurpa_natura,41.413474,2.1476269722,cc-by,"(c) David Ruiz Palomo, some rights reserved (CC BY)",443497_597369.jpg
+443496,597368,plantae,Thymus vulgaris,https://minka-sdg.org/attachments/local_photos/files/597368/medium.jpg,david_lurpa_natura,41.413383,2.147508,cc-by,"(c) David Ruiz Palomo, some rights reserved (CC BY)",443496_597368.jpg
+443495,597367,amphibia,Salamandra salamandra,https://minka-sdg.org/attachments/local_photos/files/597367/medium.jpg,condal,41.4133555556,2.1467583333,cc-by,"(c) centro condal, some rights reserved (CC BY)",443495_597367.jpg
+443494,597365,aves,Myiopsitta monachus,https://minka-sdg.org/attachments/local_photos/files/597365/medium.jpg,carlosrodero,41.4273501,2.1758874,cc-by-nc,"(c) Carlos Rodero, some rights reserved (CC BY-NC)",443494_597365.jpg
+443494,597366,aves,Myiopsitta monachus,https://minka-sdg.org/attachments/local_photos/files/597366/medium.jpg,carlosrodero,41.4273501,2.1758874,cc-by-nc,"(c) Carlos Rodero, some rights reserved (CC BY-NC)",443494_597366.jpg
 443492,597363,,,https://minka-sdg.org/attachments/local_photos/files/597363/medium.jpg,condal,41.4132416667,2.1475472222,cc-by,"(c) centro condal, some rights reserved (CC BY)",443492_597363.jpg
 443491,597362,,,https://minka-sdg.org/attachments/local_photos/files/597362/medium.jpg,condal,41.4131944444,2.1477333333,cc-by,"(c) centro condal, some rights reserved (CC BY)",443491_597362.jpg
 443489,597360,,,https://minka-sdg.org/attachments/local_photos/files/597360/medium.jpg,condal,41.4131944444,2.1477333333,cc-by,"(c) centro condal, some rights reserved (CC BY)",443489_597360.jpg
@@ -64,19 +69,19 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 443426,597298,,,https://minka-sdg.org/attachments/local_photos/files/597298/medium.jpg,amordedios,41.432031,2.1670226,cc-by,"(c) amordedios, some rights reserved (CC BY)",443426_597298.jpg
 443425,597297,aves,Streptopelia decaocto,https://minka-sdg.org/attachments/local_photos/files/597297/medium.jpg,amordedios,41.4320277,2.1670163,cc-by,"(c) amordedios, some rights reserved (CC BY)",443425_597297.jpg
 443424,597296,,,https://minka-sdg.org/attachments/local_photos/files/597296/medium.jpg,amordedios,41.4320277,2.1670163,cc-by,"(c) amordedios, some rights reserved (CC BY)",443424_597296.jpg
+443423,597291,,,https://minka-sdg.org/attachments/local_photos/files/597291/medium.jpg,amordedios,41.4332472222,2.1680361111,cc-by,"(c) amordedios, some rights reserved (CC BY)",443423_597291.jpg
+443423,597292,,,https://minka-sdg.org/attachments/local_photos/files/597292/medium.jpg,amordedios,41.4332472222,2.1680361111,cc-by,"(c) amordedios, some rights reserved (CC BY)",443423_597292.jpg
+443423,597293,,,https://minka-sdg.org/attachments/local_photos/files/597293/medium.jpg,amordedios,41.4332472222,2.1680361111,cc-by,"(c) amordedios, some rights reserved (CC BY)",443423_597293.jpg
 443423,597294,,,https://minka-sdg.org/attachments/local_photos/files/597294/medium.jpg,amordedios,41.4332472222,2.1680361111,cc-by,"(c) amordedios, some rights reserved (CC BY)",443423_597294.jpg
 443423,597295,,,https://minka-sdg.org/attachments/local_photos/files/597295/medium.jpg,amordedios,41.4332472222,2.1680361111,cc-by,"(c) amordedios, some rights reserved (CC BY)",443423_597295.jpg
-443423,597291,,,https://minka-sdg.org/attachments/local_photos/files/597291/medium.jpg,amordedios,41.4332472222,2.1680361111,cc-by,"(c) amordedios, some rights reserved (CC BY)",443423_597291.jpg
-443423,597293,,,https://minka-sdg.org/attachments/local_photos/files/597293/medium.jpg,amordedios,41.4332472222,2.1680361111,cc-by,"(c) amordedios, some rights reserved (CC BY)",443423_597293.jpg
-443423,597292,,,https://minka-sdg.org/attachments/local_photos/files/597292/medium.jpg,amordedios,41.4332472222,2.1680361111,cc-by,"(c) amordedios, some rights reserved (CC BY)",443423_597292.jpg
 443422,597290,aves,Pica pica,https://minka-sdg.org/attachments/local_photos/files/597290/medium.jpg,amordedios,41.4320215,2.1670196,cc-by,"(c) amordedios, some rights reserved (CC BY)",443422_597290.jpg
 443421,597289,,,https://minka-sdg.org/attachments/local_photos/files/597289/medium.jpg,amordedios,41.4320249,2.1670118,cc-by,"(c) amordedios, some rights reserved (CC BY)",443421_597289.jpg
 443420,597288,,,https://minka-sdg.org/attachments/local_photos/files/597288/medium.jpg,amordedios,41.4323317,2.1677786,cc-by,"(c) amordedios, some rights reserved (CC BY)",443420_597288.jpg
 443419,597287,,,https://minka-sdg.org/attachments/local_photos/files/597287/medium.jpg,amordedios,41.4328311,2.1680084,cc-by,"(c) amordedios, some rights reserved (CC BY)",443419_597287.jpg
 443418,597286,aves,Columba livia,https://minka-sdg.org/attachments/local_photos/files/597286/medium.jpg,amordedios,41.4328311,2.1680084,cc-by,"(c) amordedios, some rights reserved (CC BY)",443418_597286.jpg
 443417,597285,insecta,Bombus terrestris,https://minka-sdg.org/attachments/local_photos/files/597285/medium.jpg,amordedios,41.4327518,2.1675545,cc-by,"(c) amordedios, some rights reserved (CC BY)",443417_597285.jpg
-443416,597284,plantae,Passiflora,https://minka-sdg.org/attachments/local_photos/files/597284/medium.jpg,david_lurpa_natura,41.4133909722,2.147513,cc-by,"(c) David Ruiz Palomo, some rights reserved (CC BY)",443416_597284.jpg
 443416,597283,plantae,Passiflora,https://minka-sdg.org/attachments/local_photos/files/597283/medium.jpg,david_lurpa_natura,41.4133909722,2.147513,cc-by,"(c) David Ruiz Palomo, some rights reserved (CC BY)",443416_597283.jpg
+443416,597284,plantae,Passiflora,https://minka-sdg.org/attachments/local_photos/files/597284/medium.jpg,david_lurpa_natura,41.4133909722,2.147513,cc-by,"(c) David Ruiz Palomo, some rights reserved (CC BY)",443416_597284.jpg
 443415,597281,,,https://minka-sdg.org/attachments/local_photos/files/597281/medium.jpg,amordedios,41.432899,2.1675986,cc-by,"(c) amordedios, some rights reserved (CC BY)",443415_597281.jpg
 443415,597282,,,https://minka-sdg.org/attachments/local_photos/files/597282/medium.jpg,amordedios,41.432899,2.1675986,cc-by,"(c) amordedios, some rights reserved (CC BY)",443415_597282.jpg
 443414,597280,,,https://minka-sdg.org/attachments/local_photos/files/597280/medium.jpg,amordedios,41.4331643,2.1682156,cc-by,"(c) amordedios, some rights reserved (CC BY)",443414_597280.jpg
@@ -99,15 +104,15 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 443397,597258,,,https://minka-sdg.org/attachments/local_photos/files/597258/medium.jpg,amordedios,41.4333688,2.168268,cc-by,"(c) amordedios, some rights reserved (CC BY)",443397_597258.jpg
 443396,597256,,,https://minka-sdg.org/attachments/local_photos/files/597256/medium.jpg,amordedios,41.4333688,2.168268,cc-by,"(c) amordedios, some rights reserved (CC BY)",443396_597256.jpg
 443395,597253,,,https://minka-sdg.org/attachments/local_photos/files/597253/medium.jpg,amordedios,41.4333688,2.168268,cc-by,"(c) amordedios, some rights reserved (CC BY)",443395_597253.jpg
-443394,597257,,,https://minka-sdg.org/attachments/local_photos/files/597257/medium.jpg,amordedios,41.4332545,2.1676225,cc-by,"(c) amordedios, some rights reserved (CC BY)",443394_597257.jpg
 443394,597263,,,https://minka-sdg.org/attachments/local_photos/files/597263/medium.jpg,amordedios,41.4332545,2.1676225,cc-by,"(c) amordedios, some rights reserved (CC BY)",443394_597263.jpg
-443394,597260,,,https://minka-sdg.org/attachments/local_photos/files/597260/medium.jpg,amordedios,41.4332545,2.1676225,cc-by,"(c) amordedios, some rights reserved (CC BY)",443394_597260.jpg
+443394,597257,,,https://minka-sdg.org/attachments/local_photos/files/597257/medium.jpg,amordedios,41.4332545,2.1676225,cc-by,"(c) amordedios, some rights reserved (CC BY)",443394_597257.jpg
 443394,597259,,,https://minka-sdg.org/attachments/local_photos/files/597259/medium.jpg,amordedios,41.4332545,2.1676225,cc-by,"(c) amordedios, some rights reserved (CC BY)",443394_597259.jpg
 443394,597262,,,https://minka-sdg.org/attachments/local_photos/files/597262/medium.jpg,amordedios,41.4332545,2.1676225,cc-by,"(c) amordedios, some rights reserved (CC BY)",443394_597262.jpg
 443394,597255,,,https://minka-sdg.org/attachments/local_photos/files/597255/medium.jpg,amordedios,41.4332545,2.1676225,cc-by,"(c) amordedios, some rights reserved (CC BY)",443394_597255.jpg
-443394,597254,,,https://minka-sdg.org/attachments/local_photos/files/597254/medium.jpg,amordedios,41.4332545,2.1676225,cc-by,"(c) amordedios, some rights reserved (CC BY)",443394_597254.jpg
-443394,597252,,,https://minka-sdg.org/attachments/local_photos/files/597252/medium.jpg,amordedios,41.4332545,2.1676225,cc-by,"(c) amordedios, some rights reserved (CC BY)",443394_597252.jpg
 443394,597251,,,https://minka-sdg.org/attachments/local_photos/files/597251/medium.jpg,amordedios,41.4332545,2.1676225,cc-by,"(c) amordedios, some rights reserved (CC BY)",443394_597251.jpg
+443394,597254,,,https://minka-sdg.org/attachments/local_photos/files/597254/medium.jpg,amordedios,41.4332545,2.1676225,cc-by,"(c) amordedios, some rights reserved (CC BY)",443394_597254.jpg
+443394,597260,,,https://minka-sdg.org/attachments/local_photos/files/597260/medium.jpg,amordedios,41.4332545,2.1676225,cc-by,"(c) amordedios, some rights reserved (CC BY)",443394_597260.jpg
+443394,597252,,,https://minka-sdg.org/attachments/local_photos/files/597252/medium.jpg,amordedios,41.4332545,2.1676225,cc-by,"(c) amordedios, some rights reserved (CC BY)",443394_597252.jpg
 443393,597250,,,https://minka-sdg.org/attachments/local_photos/files/597250/medium.jpg,amordedios,41.4333688,2.168268,cc-by,"(c) amordedios, some rights reserved (CC BY)",443393_597250.jpg
 443392,597249,,,https://minka-sdg.org/attachments/local_photos/files/597249/medium.jpg,amordedios,41.4333688,2.168268,cc-by,"(c) amordedios, some rights reserved (CC BY)",443392_597249.jpg
 443391,597248,,,https://minka-sdg.org/attachments/local_photos/files/597248/medium.jpg,amordedios,41.4333688,2.168268,cc-by,"(c) amordedios, some rights reserved (CC BY)",443391_597248.jpg
@@ -142,11 +147,11 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 443370,597220,,,https://minka-sdg.org/attachments/local_photos/files/597220/medium.jpg,amordedios,41.4363890444,2.1645704019,cc-by,"(c) amordedios, some rights reserved (CC BY)",443370_597220.jpg
 443369,597218,,,https://minka-sdg.org/attachments/local_photos/files/597218/medium.jpg,carlosrodero,41.432833,2.1657748,cc-by-nc,"(c) Carlos Rodero, some rights reserved (CC BY-NC)",443369_597218.jpg
 443369,597219,,,https://minka-sdg.org/attachments/local_photos/files/597219/medium.jpg,carlosrodero,41.432833,2.1657748,cc-by-nc,"(c) Carlos Rodero, some rights reserved (CC BY-NC)",443369_597219.jpg
-443368,597217,,,https://minka-sdg.org/attachments/local_photos/files/597217/medium.jpg,amordedios,41.4360242,2.1645269,cc-by,"(c) amordedios, some rights reserved (CC BY)",443368_597217.jpg
 443368,597213,,,https://minka-sdg.org/attachments/local_photos/files/597213/medium.jpg,amordedios,41.4360242,2.1645269,cc-by,"(c) amordedios, some rights reserved (CC BY)",443368_597213.jpg
+443368,597216,,,https://minka-sdg.org/attachments/local_photos/files/597216/medium.jpg,amordedios,41.4360242,2.1645269,cc-by,"(c) amordedios, some rights reserved (CC BY)",443368_597216.jpg
 443368,597215,,,https://minka-sdg.org/attachments/local_photos/files/597215/medium.jpg,amordedios,41.4360242,2.1645269,cc-by,"(c) amordedios, some rights reserved (CC BY)",443368_597215.jpg
 443368,597214,,,https://minka-sdg.org/attachments/local_photos/files/597214/medium.jpg,amordedios,41.4360242,2.1645269,cc-by,"(c) amordedios, some rights reserved (CC BY)",443368_597214.jpg
-443368,597216,,,https://minka-sdg.org/attachments/local_photos/files/597216/medium.jpg,amordedios,41.4360242,2.1645269,cc-by,"(c) amordedios, some rights reserved (CC BY)",443368_597216.jpg
+443368,597217,,,https://minka-sdg.org/attachments/local_photos/files/597217/medium.jpg,amordedios,41.4360242,2.1645269,cc-by,"(c) amordedios, some rights reserved (CC BY)",443368_597217.jpg
 443368,597212,,,https://minka-sdg.org/attachments/local_photos/files/597212/medium.jpg,amordedios,41.4360242,2.1645269,cc-by,"(c) amordedios, some rights reserved (CC BY)",443368_597212.jpg
 443368,597211,,,https://minka-sdg.org/attachments/local_photos/files/597211/medium.jpg,amordedios,41.4360242,2.1645269,cc-by,"(c) amordedios, some rights reserved (CC BY)",443368_597211.jpg
 443368,597210,,,https://minka-sdg.org/attachments/local_photos/files/597210/medium.jpg,amordedios,41.4360242,2.1645269,cc-by,"(c) amordedios, some rights reserved (CC BY)",443368_597210.jpg

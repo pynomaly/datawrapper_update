@@ -1,4 +1,8 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,identifications_count,identifiers,num_identification_agreements,num_identification_disagreements,device,kingdom,phylum,class,order,family,genus
+443497,2025-04-25,2025-04-25,2025-04-25,10:31:00,plantae,247396,subspecies,Salvia officinalis lavandulifolia,41.413474,2.1476269722,False,Spain,needs_id,16467,david_lurpa_natura,cc-by,0,david_lurpa_natura,0,0,app,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,Salvia
+443496,2025-04-25,2025-04-25,2025-04-25,10:30:00,plantae,251420,species,Thymus vulgaris,41.413383,2.147508,False,Spain,needs_id,16467,david_lurpa_natura,cc-by,0,david_lurpa_natura,0,0,app,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,Thymus
+443495,2025-04-25,2025-04-25,2025-04-25,10:20:00,amphibia,247070,species,Salamandra salamandra,41.4133555556,2.1467583333,False,Spain,casual,16473,condal,cc-by,0,condal,0,0,app,Animalia,Chordata,Amphibia,Caudata,Salamandridae,Salamandra
+443494,2025-04-25,2025-04-25,2025-04-25,10:27:00,aves,247963,species,Myiopsitta monachus,41.4273501,2.1758874,False,Spain,needs_id,26,carlosrodero,cc-by-nc,0,carlosrodero,0,0,app,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Myiopsitta
 443492,2025-04-25,2025-04-25,2025-04-25,10:11:00,,nan,,,41.4132416667,2.1475472222,False,Spain,needs_id,16473,condal,cc-by,0,,0,0,app,,,,,,
 443491,2025-04-25,2025-04-25,2025-04-25,10:10:00,,nan,,,41.4131944444,2.1477333333,False,Spain,casual,16473,condal,cc-by,0,,0,0,app,,,,,,
 443489,2025-04-25,2025-04-25,2025-04-25,10:10:00,,nan,,,41.4131944444,2.1477333333,False,Spain,casual,16473,condal,cc-by,0,,0,0,app,,,,,,
