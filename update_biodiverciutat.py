@@ -216,7 +216,7 @@ def get_number_identifications(user_name, df_identifiers):
 
 
 def get_participation_df(main_project):
-    df_obs = pd.read_csv(f"data/{main_project}_obs.csv")
+    df_obs = pd.read_csv(f"data/biodiverciutat25/{main_project}_obs.csv")
     pt_users = (
         df_obs["user_login"]
         .value_counts()
