@@ -1,4 +1,12 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,identifications_count,identifiers,num_identification_agreements,num_identification_disagreements,device,kingdom,phylum,class,order,family,genus
+443479,2025-04-25,2025-04-25,2025-04-25,10:00:00,insecta,96351,genus,Elmis,41.414788,2.1471481,False,Spain,casual,16473,condal,cc-by,0,condal,0,0,app,Animalia,Arthropoda,Insecta,Coleoptera,Elmidae,
+443478,2025-04-25,2025-04-25,2025-04-25,09:58:00,insecta,244065,species,Protaetia morio,41.4141111111,2.1481333333,False,Spain,needs_id,16444,naturaleza_pillada,cc-by,0,naturaleza_pillada,0,0,app,Animalia,Arthropoda,Insecta,Coleoptera,Cetoniidae,Protaetia
+443477,2025-04-25,2025-04-25,2025-04-25,09:58:00,life,1,stateofmatter,Life,41.4141111111,2.1481333333,False,Spain,needs_id,16444,naturaleza_pillada,cc-by,0,naturaleza_pillada,0,0,app,,,,,,
+443476,2025-04-25,2025-04-25,2025-04-25,09:54:00,mollusca,253295,species,Physella acuta,41.4136888889,2.1482694444,False,Spain,casual,16473,condal,cc-by,0,condal,0,0,app,Animalia,Mollusca,Gastropoda,,Physidae,Physella
+443475,2025-04-25,2025-04-25,2025-04-25,09:55:00,mollusca,19920,genus,Physella,41.4139929,2.1489517,False,Spain,needs_id,16475,acidh23,cc-by,0,acidh23,0,0,app,Animalia,Mollusca,Gastropoda,,Physidae,
+443474,2025-04-25,2025-04-25,2025-04-25,09:43:00,life,1,stateofmatter,Life,41.4136598,2.1482266,False,Spain,needs_id,16473,condal,cc-by,0,condal,0,0,app,,,,,,
+443473,2025-04-25,2025-04-25,2025-04-25,09:34:00,insecta,1407,family,Libellulidae,41.4136886389,2.1481928611,False,Spain,needs_id,16474,alexsantjordi,cc-by,0,alexsantjordi,0,0,app,Animalia,Arthropoda,Insecta,Odonata,,
+443472,2025-04-25,2025-04-25,2025-04-25,09:45:00,insecta,1407,family,Libellulidae,41.4136969,2.1482582,False,Spain,casual,16475,acidh23,cc-by,0,acidh23,0,0,app,Animalia,Arthropoda,Insecta,Odonata,,
 443471,2025-04-25,2025-04-25,2025-04-25,09:07:00,mollusca,13590,genus,Arion,41.4137309722,2.148187,False,Spain,needs_id,16467,david_lurpa_natura,cc-by,0,david_lurpa_natura,0,0,app,Animalia,Mollusca,Gastropoda,Stylommatophora,Arionidae,
 443470,2025-04-25,2025-04-25,2025-04-25,09:33:00,life,1,stateofmatter,Life,41.4136987,2.1480798,False,Spain,casual,16475,acidh23,cc-by,0,acidh23,0,0,app,,,,,,
 443469,2025-04-25,2025-04-25,2025-04-25,09:37:00,,nan,,,41.413675,2.1478805556,False,Spain,casual,16473,condal,cc-by,0,,0,0,app,,,,,,
