@@ -1,37 +1,64 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,identifications_count,identifiers,num_identification_agreements,num_identification_disagreements,device,kingdom,phylum,class,order,family,genus
-446135,2025-04-27,2025-04-27,2025-04-27,10:13:00,insecta,241830,species,Pieris brassicae,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pieris
-446134,2025-04-27,2025-04-27,2025-04-27,10:12:00,insecta,241830,species,Pieris brassicae,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pieris
-446133,2025-04-27,2025-04-27,2025-04-27,10:12:00,insecta,241830,species,Pieris brassicae,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pieris
+446175,2025-04-27,2025-04-27,2025-04-27,19:24:00,insecta,325,order,Lepidoptera,41.2665065997,2.0191333,False,Spain,needs_id,908,annacanela,cc-by-nc,0,annacanela,0,0,app,Animalia,Arthropoda,Insecta,,,
+446174,2025-04-27,2025-04-27,2025-04-27,19:24:00,insecta,243241,species,Cydnus aterrimus,41.2666206111,2.0178079444,False,Spain,needs_id,908,annacanela,cc-by-nc,1,"annacanela, jaume-piera",1,0,app,Animalia,Arthropoda,Insecta,Hemiptera,Cydnidae,Cydnus
+446173,2025-04-27,2025-04-27,2025-04-27,19:24:00,arachnida,9,class,Arachnida,41.2665965997,2.0177583,False,Spain,needs_id,908,annacanela,cc-by-nc,0,annacanela,0,0,app,Animalia,Arthropoda,,,,
+446172,2025-04-27,2025-04-27,2025-04-27,19:24:00,arachnida,9,class,Arachnida,41.2665965997,2.0177583,False,Spain,needs_id,908,annacanela,cc-by-nc,0,annacanela,0,0,app,Animalia,Arthropoda,,,,
+446171,2025-04-27,2025-04-27,2025-04-27,19:24:00,insecta,11,class,Insecta,41.2663399997,2.0173266,False,Spain,needs_id,908,annacanela,cc-by-nc,2,"annacanela, jaume-piera",2,0,app,Animalia,Arthropoda,,,,
+446170,2025-04-27,2025-04-27,2025-04-27,19:24:00,insecta,18482,species,Oedemera nobilis,41.2663399997,2.0173266,False,Spain,needs_id,908,annacanela,cc-by-nc,0,annacanela,0,0,app,Animalia,Arthropoda,Insecta,Coleoptera,Oedemeridae,Oedemera
+446169,2025-04-27,2025-04-27,2025-04-27,19:24:00,mollusca,116,class,Gastropoda,41.2663726667,2.0172979722,False,Spain,needs_id,908,annacanela,cc-by-nc,0,annacanela,0,0,app,Animalia,Mollusca,,,,
+446168,2025-04-27,2025-04-27,2025-04-27,19:24:00,plantae,252707,species,Pancratium maritimum,41.266304,2.0179779444,False,Spain,research,908,annacanela,cc-by-nc,1,"annacanela, jaume-piera",1,0,app,Plantae,Tracheophyta,Liliopsida,Asparagales,Amaryllidaceae,Pancratium
+446167,2025-04-27,2025-04-27,2025-04-27,10:59:00,aves,243973,species,Delichon urbicum,41.3591571628,1.9816946765,False,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,64,vicent,cc-by-nc,0,vicent,0,0,web,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Delichon
+446166,2025-04-27,2025-04-27,2025-04-27,10:21:00,insecta,241863,species,Pieris rapae,41.3624488529,1.9826551966,False,"Barcelona, España",needs_id,64,vicent,cc-by-nc,0,vicent,0,0,web,Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pieris
+446165,2025-04-27,2025-04-27,2025-04-27,10:20:00,insecta,252782,species,Pararge aegeria,41.3621718878,1.9821332176,False,"Barcelona, España",needs_id,64,vicent,cc-by-nc,0,vicent,0,0,web,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Pararge
+446164,2025-04-27,2025-04-27,2025-04-27,10:18:00,aves,245135,species,Luscinia megarhynchos,41.361632368,1.9814599832,False,"Barcelona, España",research,64,vicent,cc-by-nc,1,"vicent, jaume-piera",1,0,web,Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Luscinia
+446163,2025-04-27,2025-04-27,2025-04-27,10:14:00,aves,251811,species,Hirundo rustica,41.3615606581,1.9783800464,False,"Barcelona, España",research,64,vicent,cc-by-nc,1,"vicent, jaume-piera",1,0,web,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Hirundo
+446162,2025-04-27,2025-04-27,2025-04-27,10:10:00,insecta,252782,species,Pararge aegeria,41.3626218198,1.9757227381,False,"Barcelona, España",research,64,vicent,cc-by-nc,1,"vicent, jaume-piera",1,0,web,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Pararge
+446161,2025-04-27,2025-04-27,2025-04-27,10:09:00,plantae,12,kingdom,Plantae,41.362580551,1.9752895613,False,"Barcelona, España",needs_id,64,vicent,cc-by-nc,0,vicent,0,0,web,,,,,,
+446160,2025-04-27,2025-04-27,2025-04-27,10:08:00,aves,245728,species,Emberiza cirlus,41.3625845772,1.9749797662,False,"Barcelona, España",research,64,vicent,cc-by-nc,1,"vicent, jaume-piera",1,0,web,Animalia,Chordata,Aves,Passeriformes,Emberizidae,Emberiza
+446159,2025-04-27,2025-04-27,2025-04-27,10:04:00,aves,246236,species,Sylvia atricapilla,41.3629821134,1.9728935218,False,"Barcelona, España",needs_id,64,vicent,cc-by-nc,0,vicent,0,0,web,Animalia,Chordata,Aves,Passeriformes,Sylviidae,Sylvia
+446158,2025-04-27,2025-04-27,2025-04-27,09:58:00,insecta,244988,species,Pyrrhocoris apterus,41.3626572171,1.9745954743,False,"Barcelona, España",research,64,vicent,cc-by-nc,1,"vicent, jaume-piera",1,0,web,Animalia,Arthropoda,Insecta,Hemiptera,Pyrrhocoridae,Pyrrhocoris
+446157,2025-04-27,2025-04-27,2025-04-27,09:56:00,plantae,247030,species,Erucastrum nasturtiifolium,41.3626223395,1.9755472473,False,"Barcelona, España",research,64,vicent,cc-by-nc,1,"vicent, jaume-piera",1,0,web,Plantae,Tracheophyta,Magnoliopsida,Capparales,Brassicaceae,Erucastrum
+446156,2025-04-27,2025-04-27,2025-04-27,09:51:00,reptilia,156225,species,Tarentola mauritanica,41.3619707428,1.9780770092,False,"Barcelona, España",research,64,vicent,cc-by-nc,1,"vicent, jaume-piera",1,0,web,Animalia,Chordata,Reptilia,Squamata,Gekkonidae,Tarentola
+446155,2025-04-27,2025-04-27,2025-04-27,09:48:00,insecta,10655,genus,Timarcha,41.3615762289,1.9802085634,False,"Barcelona, España",needs_id,64,vicent,cc-by-nc,0,vicent,0,0,web,Animalia,Arthropoda,Insecta,Coleoptera,Chrysomelidae,
+446154,2025-04-27,2025-04-27,2025-04-27,09:42:00,aves,245686,species,Apus apus,41.3629676139,1.9796355823,False,"Barcelona, España",research,64,vicent,cc-by-nc,1,"vicent, jaume-piera",1,0,web,Animalia,Chordata,Aves,Apodiformes,Apodidae,Apus
+446153,2025-04-27,2025-04-27,2025-04-27,09:42:00,aves,246557,species,Apus melba,41.3627884476,1.9804943085,False,"Barcelona, España",research,64,vicent,cc-by-nc,1,"vicent, jaume-piera",1,0,web,Animalia,Chordata,Aves,Apodiformes,Apodidae,Apus
+446152,2025-04-27,2025-04-27,2025-04-27,09:37:00,aves,249670,species,Serinus serinus,41.3621335723,1.9810691393,False,"Barcelona, España",research,64,vicent,cc-by-nc,1,"vicent, jaume-piera",1,0,web,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Serinus
+446151,2025-04-27,2025-04-27,2025-04-27,09:37:00,aves,250485,species,Sturnus vulgaris,41.3622362417,1.981242477,False,"Barcelona, España",research,64,vicent,cc-by-nc,1,"vicent, jaume-piera",1,0,web,Animalia,Chordata,Aves,Passeriformes,Sturnidae,Sturnus
+446150,2025-04-27,2025-04-27,2025-04-27,09:36:00,aves,252272,species,Columba palumbus,41.3621685836,1.9814496773,False,"Barcelona, España",research,64,vicent,cc-by-nc,1,"vicent, jaume-piera",1,0,web,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
+446149,2025-04-27,2025-04-27,2025-04-27,09:28:00,aves,253889,species,Pica pica,41.3629493216,1.9829074579,False,"Barcelona, España",research,64,vicent,cc-by-nc,1,"vicent, jaume-piera",1,0,web,Animalia,Chordata,Aves,Passeriformes,Corvidae,Pica
+446135,2025-04-27,2025-04-27,2025-04-27,10:13:00,insecta,241830,species,Pieris brassicae,41.4123532169,2.0311396177,False,"Barcelona, España",research,4,xasalva,cc-by-nc,1,"xasalva, jaume-piera",1,0,web,Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pieris
+446134,2025-04-27,2025-04-27,2025-04-27,10:12:00,insecta,241830,species,Pieris brassicae,41.4123532169,2.0311396177,False,"Barcelona, España",research,4,xasalva,cc-by-nc,1,"xasalva, jaume-piera",1,0,web,Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pieris
+446133,2025-04-27,2025-04-27,2025-04-27,10:12:00,insecta,241830,species,Pieris brassicae,41.4123532169,2.0311396177,False,"Barcelona, España",research,4,xasalva,cc-by-nc,1,"xasalva, jaume-piera",1,0,web,Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pieris
 446132,2025-04-27,2025-04-27,2025-04-27,10:11:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 446131,2025-04-27,2025-04-27,2025-04-27,10:11:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-446130,2025-04-27,2025-04-27,2025-04-27,10:10:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-446129,2025-04-27,2025-04-27,2025-04-27,10:10:00,insecta,8048,genus,Polistes,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Hymenoptera,Eumenidae,
-446128,2025-04-27,2025-04-27,2025-04-27,10:09:00,insecta,241830,species,Pieris brassicae,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pieris
+446130,2025-04-27,2025-04-27,2025-04-27,10:10:00,arachnida,247312,species,Salticus scenicus,41.4123532169,2.0311396177,False,"Barcelona, España",research,4,xasalva,cc-by-nc,1,"xasalva, badosa",1,0,web,Animalia,Arthropoda,Arachnida,Araneae,Salticidae,Salticus
+446129,2025-04-27,2025-04-27,2025-04-27,10:10:00,insecta,8048,genus,Polistes,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,2,"xasalva, jaume-piera, badosa",2,0,web,Animalia,Arthropoda,Insecta,Hymenoptera,Eumenidae,
+446128,2025-04-27,2025-04-27,2025-04-27,10:09:00,insecta,241830,species,Pieris brassicae,41.4123532169,2.0311396177,False,"Barcelona, España",research,4,xasalva,cc-by-nc,1,"xasalva, jaume-piera",1,0,web,Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pieris
 446127,2025-04-27,2025-04-27,2025-04-27,10:09:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 446126,2025-04-27,2025-04-27,2025-04-27,10:07:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 446125,2025-04-27,2025-04-27,2025-04-27,10:06:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 446124,2025-04-27,2025-04-27,2025-04-27,10:05:00,insecta,326,order,Hymenoptera,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,,,
 446123,2025-04-27,2025-04-27,2025-04-27,10:05:00,plantae,247470,species,Salvia verbenaca,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,Salvia
 446122,2025-04-27,2025-04-27,2025-04-27,10:03:00,arachnida,40,order,Araneae,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Arachnida,,,
-446121,2025-04-27,2025-04-27,2025-04-27,10:00:00,insecta,249135,species,Cardiophorus biguttatus,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Coleoptera,Elateridae,Cardiophorus
+446121,2025-04-27,2025-04-27,2025-04-27,10:00:00,insecta,249135,species,Cardiophorus biguttatus,41.4123532169,2.0311396177,False,"Barcelona, España",research,4,xasalva,cc-by-nc,1,"xasalva, badosa",1,0,web,Animalia,Arthropoda,Insecta,Coleoptera,Elateridae,Cardiophorus
 446120,2025-04-27,2025-04-27,2025-04-27,10:02:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 446119,2025-04-27,2025-04-27,2025-04-27,09:57:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-446118,2025-04-27,2025-04-27,2025-04-27,09:57:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+446118,2025-04-27,2025-04-27,2025-04-27,09:57:00,arachnida,246633,species,Menemerus semilimbatus,41.4123532169,2.0311396177,False,"Barcelona, España",research,4,xasalva,cc-by-nc,1,"xasalva, badosa",1,0,web,Animalia,Arthropoda,Arachnida,Araneae,Salticidae,Menemerus
 446117,2025-04-27,2025-04-27,2025-04-27,09:57:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 446116,2025-04-27,2025-04-27,2025-04-27,09:56:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-446115,2025-04-27,2025-04-27,2025-04-27,09:55:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+446115,2025-04-27,2025-04-27,2025-04-27,09:55:00,arachnida,246633,species,Menemerus semilimbatus,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Arachnida,Araneae,Salticidae,Menemerus
 446114,2025-04-27,2025-04-27,2025-04-27,09:55:00,insecta,1054,family,Formicidae,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Hymenoptera,,
-446113,2025-04-27,2025-04-27,2025-04-27,09:54:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-446112,2025-04-27,2025-04-27,2025-04-27,09:54:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+446113,2025-04-27,2025-04-27,2025-04-27,09:54:00,arachnida,246633,species,Menemerus semilimbatus,41.4123532169,2.0311396177,False,"Barcelona, España",research,4,xasalva,cc-by-nc,1,"xasalva, jaume-piera",1,0,web,Animalia,Arthropoda,Arachnida,Araneae,Salticidae,Menemerus
+446112,2025-04-27,2025-04-27,2025-04-27,09:54:00,arachnida,246637,species,Menemerus taeniatus,41.4123532169,2.0311396177,False,"Barcelona, España",research,4,xasalva,cc-by-nc,1,"xasalva, jaume-piera",1,0,web,Animalia,Arthropoda,Arachnida,Araneae,Salticidae,Menemerus
 446111,2025-04-27,2025-04-27,2025-04-27,09:53:00,insecta,1054,family,Formicidae,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Hymenoptera,,
-446110,2025-04-27,2025-04-27,2025-04-27,09:53:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-446109,2025-04-27,2025-04-27,2025-04-27,09:53:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+446110,2025-04-27,2025-04-27,2025-04-27,09:53:00,arachnida,247312,species,Salticus scenicus,41.4123532169,2.0311396177,False,"Barcelona, España",research,4,xasalva,cc-by-nc,1,"xasalva, badosa",1,0,web,Animalia,Arthropoda,Arachnida,Araneae,Salticidae,Salticus
+446109,2025-04-27,2025-04-27,2025-04-27,09:53:00,arachnida,246637,species,Menemerus taeniatus,41.4123532169,2.0311396177,False,"Barcelona, España",research,4,xasalva,cc-by-nc,1,"xasalva, jaume-piera",1,0,web,Animalia,Arthropoda,Arachnida,Araneae,Salticidae,Menemerus
 446108,2025-04-27,2025-04-27,2025-04-27,09:52:00,insecta,241072,suborder,Heteroptera,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Hemiptera,,
 446107,2025-04-27,2025-04-27,2025-04-27,09:52:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 446106,2025-04-27,2025-04-27,2025-04-27,09:51:00,plantae,262699,species,Chenopodiastrum murale,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,Chenopodiastrum
-446105,2025-04-27,2025-04-27,2025-04-27,09:51:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-446104,2025-04-27,2025-04-27,2025-04-27,09:50:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-446103,2025-04-27,2025-04-27,2025-04-27,09:47:00,plantae,250148,species,Cerastium glomeratum,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,Cerastium
+446105,2025-04-27,2025-04-27,2025-04-27,09:51:00,arachnida,246637,species,Menemerus taeniatus,41.4123532169,2.0311396177,False,"Barcelona, España",research,4,xasalva,cc-by-nc,1,"xasalva, badosa",1,0,web,Animalia,Arthropoda,Arachnida,Araneae,Salticidae,Menemerus
+446104,2025-04-27,2025-04-27,2025-04-27,09:50:00,arachnida,246633,species,Menemerus semilimbatus,41.4123532169,2.0311396177,False,"Barcelona, España",research,4,xasalva,cc-by-nc,1,"xasalva, jaume-piera",1,0,web,Animalia,Arthropoda,Arachnida,Araneae,Salticidae,Menemerus
+446103,2025-04-27,2025-04-27,2025-04-27,09:47:00,plantae,250148,species,Cerastium glomeratum,41.4123532169,2.0311396177,False,"Barcelona, España",research,4,xasalva,cc-by-nc,1,"xasalva, jaume-piera",1,0,web,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,Cerastium
 446102,2025-04-27,2025-04-27,2025-04-27,09:46:00,plantae,1071,family,Apiaceae,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Apiales,,
 446101,2025-04-27,2025-04-27,2025-04-27,09:42:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 446100,2025-04-27,2025-04-27,2025-04-27,09:41:00,plantae,246178,species,Medicago polymorpha,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Medicago
@@ -42,7 +69,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 446095,2025-04-27,2025-04-27,2025-04-27,09:37:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 446094,2025-04-27,2025-04-27,2025-04-27,09:36:00,plantae,252413,species,Convolvulus althaeoides,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,Convolvulus
 446093,2025-04-27,2025-04-27,2025-04-27,09:35:00,plantae,1061,family,Brassicaceae,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Capparales,,
-446092,2025-04-27,2025-04-27,2025-04-27,09:34:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+446092,2025-04-27,2025-04-27,2025-04-27,09:34:00,arachnida,248979,species,Scytodes thoracica,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Arachnida,Araneae,Scytodidae,Scytodes
 446091,2025-04-27,2025-04-27,2025-04-27,09:33:00,animalia,494,order,Julida,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Diplopoda,,,
 446090,2025-04-27,2025-04-27,2025-04-27,09:33:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 446089,2025-04-27,2025-04-27,2025-04-27,09:33:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
@@ -85,28 +112,28 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 446052,2025-04-27,2025-04-27,2025-04-27,09:11:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 446051,2025-04-27,2025-04-27,2025-04-27,09:10:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 446050,2025-04-27,2025-04-27,2025-04-27,09:10:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-446049,2025-04-27,2025-04-27,2025-04-27,09:09:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+446049,2025-04-27,2025-04-27,2025-04-27,09:09:00,arachnida,246479,species,Synema globosum,41.4123532169,2.0311396177,False,"Barcelona, España",research,4,xasalva,cc-by-nc,1,"badosa, xasalva",1,0,web,Animalia,Arthropoda,Arachnida,Araneae,Thomisidae,Synema
 446048,2025-04-27,2025-04-27,2025-04-27,09:08:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 446047,2025-04-27,2025-04-27,2025-04-27,09:08:00,plantae,247265,species,Bromus diandrus,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,Bromus
 446046,2025-04-27,2025-04-27,2025-04-27,09:07:00,plantae,43791,genus,Fumaria,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Papaverales,Fumariaceae,
-446045,2025-04-27,2025-04-27,2025-04-27,09:07:00,insecta,252648,species,Oxythyrea funesta,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Coleoptera,Cetoniidae,Oxythyrea
+446045,2025-04-27,2025-04-27,2025-04-27,09:07:00,insecta,252648,species,Oxythyrea funesta,41.4123532169,2.0311396177,False,"Barcelona, España",research,4,xasalva,cc-by-nc,1,"xasalva, badosa",1,0,web,Animalia,Arthropoda,Insecta,Coleoptera,Cetoniidae,Oxythyrea
 446044,2025-04-27,2025-04-27,2025-04-27,09:07:00,plantae,253501,species,Urospermum dalechampii,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Urospermum
 446043,2025-04-27,2025-04-27,2025-04-27,09:06:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-446042,2025-04-27,2025-04-27,2025-04-27,09:06:00,insecta,252164,species,Coccinella septempunctata,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Coleoptera,Coccinellidae,Coccinella
+446042,2025-04-27,2025-04-27,2025-04-27,09:06:00,insecta,252164,species,Coccinella septempunctata,41.4123532169,2.0311396177,False,"Barcelona, España",research,4,xasalva,cc-by-nc,1,"xasalva, badosa",1,0,web,Animalia,Arthropoda,Insecta,Coleoptera,Coccinellidae,Coccinella
 446041,2025-04-27,2025-04-27,2025-04-27,09:06:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 446040,2025-04-27,2025-04-27,2025-04-27,09:03:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 446039,2025-04-27,2025-04-27,2025-04-27,09:03:00,insecta,40515,species,Lachnaia tristigma,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Lachnaia
-446038,2025-04-27,2025-04-27,2025-04-27,09:02:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-446037,2025-04-27,2025-04-27,2025-04-27,09:02:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-446036,2025-04-27,2025-04-27,2025-04-27,09:01:00,plantae,252806,species,Parietaria judaica,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Urticales,Urticaceae,Parietaria
-446035,2025-04-27,2025-04-27,2025-04-27,09:01:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+446038,2025-04-27,2025-04-27,2025-04-27,09:02:00,plantae,27352,species,Galium aparine,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Rubiales,Rubiaceae,Galium
+446037,2025-04-27,2025-04-27,2025-04-27,09:02:00,plantae,249267,species,Carduus pycnocephalus,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Carduus
+446036,2025-04-27,2025-04-27,2025-04-27,09:01:00,plantae,252806,species,Parietaria judaica,41.4123532169,2.0311396177,False,"Barcelona, España",research,4,xasalva,cc-by-nc,1,"xasalva, badosa",1,0,web,Plantae,Tracheophyta,Magnoliopsida,Urticales,Urticaceae,Parietaria
+446035,2025-04-27,2025-04-27,2025-04-27,09:01:00,plantae,242266,species,Pittosporum tobira,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Rosales,Pittosporaceae,Pittosporum
 446034,2025-04-27,2025-04-27,2025-04-27,09:01:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 446033,2025-04-27,2025-04-27,2025-04-27,09:01:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 446032,2025-04-27,2025-04-27,2025-04-27,08:58:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 446031,2025-04-27,2025-04-27,2025-04-27,08:57:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 446030,2025-04-27,2025-04-27,2025-04-27,08:57:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 446029,2025-04-27,2025-04-27,2025-04-27,08:57:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-446028,2025-04-27,2025-04-27,2025-04-27,08:56:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+446028,2025-04-27,2025-04-27,2025-04-27,08:56:00,plantae,29279,genus,Rumex,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Polygonales,Polygonaceae,
 446027,2025-04-27,2025-04-27,2025-04-27,08:55:00,insecta,245544,species,Aphis fabae,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Hemiptera,Aphididae,Aphis
 446026,2025-04-27,2025-04-27,2025-04-27,08:54:00,insecta,8048,genus,Polistes,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Hymenoptera,Eumenidae,
 446025,2025-04-27,2025-04-27,2025-04-27,08:52:00,plantae,242058,species,Pinus pinea,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Pinopsida,Pinales,Pinaceae,Pinus
@@ -115,68 +142,68 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 446022,2025-04-27,2025-04-27,2025-04-27,08:51:00,insecta,40513,species,Lachnaia paradoxa,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Lachnaia
 446021,2025-04-27,2025-04-27,2025-04-27,08:51:00,insecta,40513,species,Lachnaia paradoxa,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Lachnaia
 446020,2025-04-27,2025-04-27,2025-04-27,08:50:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-446019,2025-04-27,2025-04-27,2025-04-27,08:50:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-446018,2025-04-27,2025-04-27,2025-04-27,08:49:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+446019,2025-04-27,2025-04-27,2025-04-27,08:50:00,plantae,43788,genus,Pyracantha,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,
+446018,2025-04-27,2025-04-27,2025-04-27,08:49:00,plantae,250103,species,Olea europaea,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Scrophulariales,Oleaceae,Olea
 446017,2025-04-27,2025-04-27,2025-04-27,08:48:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 446016,2025-04-27,2025-04-27,2025-04-27,08:47:00,plantae,250165,species,Ceratonia siliqua,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Ceratonia
 446015,2025-04-27,2025-04-27,2025-04-27,08:46:00,plantae,244452,species,Anacyclus valentinus,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Anacyclus
 446014,2025-04-27,2025-04-27,2025-04-27,08:46:00,plantae,252738,species,Papaver rhoeas,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Papaverales,Papaveraceae,Papaver
-446013,2025-04-27,2025-04-27,2025-04-27,08:45:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+446013,2025-04-27,2025-04-27,2025-04-27,08:45:00,plantae,129044,species,Lathyrus clymenum,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lathyrus
 446012,2025-04-27,2025-04-27,2025-04-27,08:45:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-446011,2025-04-27,2025-04-27,2025-04-27,08:43:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-446010,2025-04-27,2025-04-27,2025-04-27,08:42:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+446011,2025-04-27,2025-04-27,2025-04-27,08:43:00,plantae,262699,species,Chenopodiastrum murale,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,Chenopodiastrum
+446010,2025-04-27,2025-04-27,2025-04-27,08:42:00,plantae,246573,species,Rubia peregrina,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Rubiales,Rubiaceae,Rubia
 446009,2025-04-27,2025-04-27,2025-04-27,08:42:00,plantae,1041,family,Poaceae,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Liliopsida,Poales,,
 446008,2025-04-27,2025-04-27,2025-04-27,08:42:00,fungi,13,kingdom,Fungi,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,,,,,,
-446007,2025-04-27,2025-04-27,2025-04-27,08:42:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-446006,2025-04-27,2025-04-27,2025-04-27,08:41:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-446005,2025-04-27,2025-04-27,2025-04-27,08:41:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+446007,2025-04-27,2025-04-27,2025-04-27,08:42:00,plantae,8968,genus,Solanum,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,
+446006,2025-04-27,2025-04-27,2025-04-27,08:41:00,plantae,129044,species,Lathyrus clymenum,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lathyrus
+446005,2025-04-27,2025-04-27,2025-04-27,08:41:00,plantae,100585,species,Medicago sativa,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Medicago
 446004,2025-04-27,2025-04-27,2025-04-27,08:40:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 446003,2025-04-27,2025-04-27,2025-04-27,08:40:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 446002,2025-04-27,2025-04-27,2025-04-27,08:40:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 446001,2025-04-27,2025-04-27,2025-04-27,08:39:00,plantae,246918,species,Asparagus acutifolius,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Liliopsida,Asparagales,Asparagaceae,Asparagus
-446000,2025-04-27,2025-04-27,2025-04-27,08:39:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+446000,2025-04-27,2025-04-27,2025-04-27,08:39:00,plantae,245800,species,Rhamnus alaternus,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Rhamnales,Rhamnaceae,Rhamnus
 445999,2025-04-27,2025-04-27,2025-04-27,08:37:00,fungi,13,kingdom,Fungi,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,,,,,,
 445998,2025-04-27,2025-04-27,2025-04-27,08:36:00,insecta,1054,family,Formicidae,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Hymenoptera,,
 445997,2025-04-27,2025-04-27,2025-04-27,08:35:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445996,2025-04-27,2025-04-27,2025-04-27,08:35:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445995,2025-04-27,2025-04-27,2025-04-27,08:33:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445994,2025-04-27,2025-04-27,2025-04-27,08:33:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445993,2025-04-27,2025-04-27,2025-04-27,08:33:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445996,2025-04-27,2025-04-27,2025-04-27,08:35:00,plantae,252413,species,Convolvulus althaeoides,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,Convolvulus
+445995,2025-04-27,2025-04-27,2025-04-27,08:33:00,plantae,8621,genus,Astragalus,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,
+445994,2025-04-27,2025-04-27,2025-04-27,08:33:00,plantae,252413,species,Convolvulus althaeoides,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,Convolvulus
+445993,2025-04-27,2025-04-27,2025-04-27,08:33:00,plantae,40169,genus,Avena,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,
 445992,2025-04-27,2025-04-27,2025-04-27,08:33:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445991,2025-04-27,2025-04-27,2025-04-27,08:32:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445990,2025-04-27,2025-04-27,2025-04-27,08:32:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445990,2025-04-27,2025-04-27,2025-04-27,08:32:00,plantae,51385,genus,Petrosedum,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Rosales,Crassulaceae,
 445989,2025-04-27,2025-04-27,2025-04-27,08:31:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445988,2025-04-27,2025-04-27,2025-04-27,08:31:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445987,2025-04-27,2025-04-27,2025-04-27,08:30:00,plantae,252413,species,Convolvulus althaeoides,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,Convolvulus
-445986,2025-04-27,2025-04-27,2025-04-27,08:30:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445986,2025-04-27,2025-04-27,2025-04-27,08:30:00,plantae,264801,species,Plantago albicans,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Plantaginales,Plantaginaceae,Plantago
 445985,2025-04-27,2025-04-27,2025-04-27,08:29:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445984,2025-04-27,2025-04-27,2025-04-27,08:29:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445984,2025-04-27,2025-04-27,2025-04-27,08:29:00,plantae,51385,genus,Petrosedum,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Rosales,Crassulaceae,
 445983,2025-04-27,2025-04-27,2025-04-27,08:28:00,insecta,9294,genus,Messor,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Hymenoptera,Formicidae,
 445982,2025-04-27,2025-04-27,2025-04-27,08:28:00,insecta,325,order,Lepidoptera,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,,,
-445981,2025-04-27,2025-04-27,2025-04-27,08:27:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445980,2025-04-27,2025-04-27,2025-04-27,08:27:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445981,2025-04-27,2025-04-27,2025-04-27,08:27:00,plantae,247811,species,Euphorbia helioscopia,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,Euphorbia
+445980,2025-04-27,2025-04-27,2025-04-27,08:27:00,plantae,247904,species,Euphorbia peplus,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,Euphorbia
 445979,2025-04-27,2025-04-27,2025-04-27,08:27:00,plantae,246907,species,Borago officinalis,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Boraginaceae,Borago
-445978,2025-04-27,2025-04-27,2025-04-27,08:26:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445978,2025-04-27,2025-04-27,2025-04-27,08:26:00,plantae,246178,species,Medicago polymorpha,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Medicago
 445977,2025-04-27,2025-04-27,2025-04-27,08:25:00,plantae,241915,species,Acanthus mollis,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Scrophulariales,Acanthaceae,Acanthus
-445976,2025-04-27,2025-04-27,2025-04-27,08:25:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445975,2025-04-27,2025-04-27,2025-04-27,08:24:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445976,2025-04-27,2025-04-27,2025-04-27,08:25:00,plantae,245478,species,Echium vulgare,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Boraginaceae,Echium
+445975,2025-04-27,2025-04-27,2025-04-27,08:24:00,plantae,250509,species,Sonchus tenerrimus,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Sonchus
 445974,2025-04-27,2025-04-27,2025-04-27,08:24:00,insecta,1054,family,Formicidae,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Hymenoptera,,
 445973,2025-04-27,2025-04-27,2025-04-27,08:24:00,plantae,241915,species,Acanthus mollis,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Scrophulariales,Acanthaceae,Acanthus
 445972,2025-04-27,2025-04-27,2025-04-27,08:23:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445971,2025-04-27,2025-04-27,2025-04-27,08:23:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445971,2025-04-27,2025-04-27,2025-04-27,08:23:00,plantae,246559,species,Rostraria cristata,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,Rostraria
 445970,2025-04-27,2025-04-27,2025-04-27,08:23:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445969,2025-04-27,2025-04-27,2025-04-27,08:22:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445968,2025-04-27,2025-04-27,2025-04-27,08:21:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445967,2025-04-27,2025-04-27,2025-04-27,08:21:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445967,2025-04-27,2025-04-27,2025-04-27,08:21:00,plantae,264800,species,Silene nocturna,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,Silene
 445966,2025-04-27,2025-04-27,2025-04-27,08:19:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445965,2025-04-27,2025-04-27,2025-04-27,08:18:00,insecta,161,order,Diptera,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,,,
 445964,2025-04-27,2025-04-27,2025-04-27,08:18:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445963,2025-04-27,2025-04-27,2025-04-27,08:17:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445963,2025-04-27,2025-04-27,2025-04-27,08:17:00,plantae,38160,genus,Allium,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Liliopsida,Asparagales,Amaryllidaceae,
 445962,2025-04-27,2025-04-27,2025-04-27,08:17:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445961,2025-04-27,2025-04-27,2025-04-27,08:16:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445960,2025-04-27,2025-04-27,2025-04-27,08:16:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445961,2025-04-27,2025-04-27,2025-04-27,08:16:00,fungi,244624,species,Puccinia malvacearum,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Fungi,Basidiomycota,Pucciniomycetes,Pucciniales,Pucciniaceae,Puccinia
+445960,2025-04-27,2025-04-27,2025-04-27,08:16:00,fungi,244624,species,Puccinia malvacearum,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Fungi,Basidiomycota,Pucciniomycetes,Pucciniales,Pucciniaceae,Puccinia
 445959,2025-04-27,2025-04-27,2025-04-27,08:16:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445958,2025-04-27,2025-04-27,2025-04-27,08:15:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445958,2025-04-27,2025-04-27,2025-04-27,08:15:00,plantae,38461,genus,Medicago,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,
 445957,2025-04-27,2025-04-27,2025-04-27,08:14:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445956,2025-04-27,2025-04-27,2025-04-27,08:14:00,insecta,252782,species,Pararge aegeria,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Pararge
 445955,2025-04-27,2025-04-27,2025-04-27,08:13:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
@@ -186,53 +213,53 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 445951,2025-04-27,2025-04-27,2025-04-27,08:10:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445950,2025-04-27,2025-04-27,2025-04-27,08:10:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445949,2025-04-27,2025-04-27,2025-04-27,08:09:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445948,2025-04-27,2025-04-27,2025-04-27,08:08:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445947,2025-04-27,2025-04-27,2025-04-27,08:08:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445948,2025-04-27,2025-04-27,2025-04-27,08:08:00,insecta,252782,species,Pararge aegeria,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Pararge
+445947,2025-04-27,2025-04-27,2025-04-27,08:08:00,plantae,246573,species,Rubia peregrina,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Rubiales,Rubiaceae,Rubia
 445946,2025-04-27,2025-04-27,2025-04-27,08:08:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445945,2025-04-27,2025-04-27,2025-04-27,08:07:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445945,2025-04-27,2025-04-27,2025-04-27,08:07:00,plantae,247811,species,Euphorbia helioscopia,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,Euphorbia
 445944,2025-04-27,2025-04-27,2025-04-27,08:07:00,insecta,326,order,Hymenoptera,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,,,
-445943,2025-04-27,2025-04-27,2025-04-27,08:06:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445942,2025-04-27,2025-04-27,2025-04-27,08:06:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445943,2025-04-27,2025-04-27,2025-04-27,08:06:00,plantae,245698,species,Reseda lutea,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Capparales,Resedaceae,Reseda
+445942,2025-04-27,2025-04-27,2025-04-27,08:06:00,plantae,246968,species,Erodium moschatum,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Geraniales,Geraniaceae,Erodium
 445941,2025-04-27,2025-04-27,2025-04-27,08:05:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445940,2025-04-27,2025-04-27,2025-04-27,08:05:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445940,2025-04-27,2025-04-27,2025-04-27,08:05:00,insecta,245030,species,Lucilia sericata,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Diptera,Calliphoridae,Lucilia
 445939,2025-04-27,2025-04-27,2025-04-27,08:04:00,insecta,161,order,Diptera,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,,,
-445938,2025-04-27,2025-04-27,2025-04-27,08:04:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445938,2025-04-27,2025-04-27,2025-04-27,08:04:00,insecta,245030,species,Lucilia sericata,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Diptera,Calliphoridae,Lucilia
 445937,2025-04-27,2025-04-27,2025-04-27,08:04:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445936,2025-04-27,2025-04-27,2025-04-27,08:03:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445936,2025-04-27,2025-04-27,2025-04-27,08:03:00,plantae,244728,species,Lobularia maritima,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Capparales,Brassicaceae,
 445935,2025-04-27,2025-04-27,2025-04-27,08:02:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445934,2025-04-27,2025-04-27,2025-04-27,08:00:00,insecta,1252,family,Sarcophagidae,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Diptera,,
 445933,2025-04-27,2025-04-27,2025-04-27,08:01:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445932,2025-04-27,2025-04-27,2025-04-27,07:59:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445932,2025-04-27,2025-04-27,2025-04-27,07:59:00,plantae,43499,genus,Brachypodium,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,
 445931,2025-04-27,2025-04-27,2025-04-27,08:00:00,plantae,242219,species,Pistacia lentiscus,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Sapindales,Anacardiaceae,Pistacia
-445930,2025-04-27,2025-04-27,2025-04-27,07:59:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445929,2025-04-27,2025-04-27,2025-04-27,07:58:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445928,2025-04-27,2025-04-27,2025-04-27,07:58:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445927,2025-04-27,2025-04-27,2025-04-27,07:58:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445926,2025-04-27,2025-04-27,2025-04-27,07:58:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445925,2025-04-27,2025-04-27,2025-04-27,07:57:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445924,2025-04-27,2025-04-27,2025-04-27,07:57:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445923,2025-04-27,2025-04-27,2025-04-27,07:57:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445930,2025-04-27,2025-04-27,2025-04-27,07:59:00,fungi,13,kingdom,Fungi,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,,,,,,
+445929,2025-04-27,2025-04-27,2025-04-27,07:58:00,plantae,12,kingdom,Plantae,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,,,,,,
+445928,2025-04-27,2025-04-27,2025-04-27,07:58:00,plantae,242940,species,Polycarpon tetraphyllum,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,Polycarpon
+445927,2025-04-27,2025-04-27,2025-04-27,07:58:00,plantae,38461,genus,Medicago,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,
+445926,2025-04-27,2025-04-27,2025-04-27,07:58:00,plantae,242219,species,Pistacia lentiscus,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Sapindales,Anacardiaceae,Pistacia
+445925,2025-04-27,2025-04-27,2025-04-27,07:57:00,plantae,247470,species,Salvia verbenaca,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,Salvia
+445924,2025-04-27,2025-04-27,2025-04-27,07:57:00,plantae,245800,species,Rhamnus alaternus,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Rhamnales,Rhamnaceae,Rhamnus
+445923,2025-04-27,2025-04-27,2025-04-27,07:57:00,plantae,263156,species,Asparagus africanus,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Liliopsida,Asparagales,Asparagaceae,Asparagus
 445922,2025-04-27,2025-04-27,2025-04-27,07:57:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445921,2025-04-27,2025-04-27,2025-04-27,07:56:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445920,2025-04-27,2025-04-27,2025-04-27,07:56:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445919,2025-04-27,2025-04-27,2025-04-27,07:56:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445921,2025-04-27,2025-04-27,2025-04-27,07:56:00,plantae,250981,species,Hedypnois rhagadioloides,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hedypnois
+445920,2025-04-27,2025-04-27,2025-04-27,07:56:00,plantae,246965,species,Erodium malacoides,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Geraniales,Geraniaceae,Erodium
+445919,2025-04-27,2025-04-27,2025-04-27,07:56:00,fungi,244624,species,Puccinia malvacearum,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Fungi,Basidiomycota,Pucciniomycetes,Pucciniales,Pucciniaceae,Puccinia
 445918,2025-04-27,2025-04-27,2025-04-27,07:55:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445917,2025-04-27,2025-04-27,2025-04-27,07:55:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445916,2025-04-27,2025-04-27,2025-04-27,07:54:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445915,2025-04-27,2025-04-27,2025-04-27,07:54:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445914,2025-04-27,2025-04-27,2025-04-27,07:54:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445913,2025-04-27,2025-04-27,2025-04-27,07:53:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445912,2025-04-27,2025-04-27,2025-04-27,07:53:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445911,2025-04-27,2025-04-27,2025-04-27,07:52:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445910,2025-04-27,2025-04-27,2025-04-27,07:52:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445909,2025-04-27,2025-04-27,2025-04-27,07:52:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445908,2025-04-27,2025-04-27,2025-04-27,07:52:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445907,2025-04-27,2025-04-27,2025-04-27,07:51:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445906,2025-04-27,2025-04-27,2025-04-27,07:51:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445905,2025-04-27,2025-04-27,2025-04-27,07:51:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445904,2025-04-27,2025-04-27,2025-04-27,07:51:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445903,2025-04-27,2025-04-27,2025-04-27,07:51:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445902,2025-04-27,2025-04-27,2025-04-27,07:51:00,,nan,,,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445915,2025-04-27,2025-04-27,2025-04-27,07:54:00,plantae,38169,genus,Salvia,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,
+445914,2025-04-27,2025-04-27,2025-04-27,07:54:00,plantae,262854,species,Plantago lagopus,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Plantaginales,Plantaginaceae,Plantago
+445913,2025-04-27,2025-04-27,2025-04-27,07:53:00,plantae,248813,species,Capsella bursa-pastoris,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Capparales,Brassicaceae,Capsella
+445912,2025-04-27,2025-04-27,2025-04-27,07:53:00,plantae,262854,species,Plantago lagopus,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Plantaginales,Plantaginaceae,Plantago
+445911,2025-04-27,2025-04-27,2025-04-27,07:52:00,plantae,1061,family,Brassicaceae,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Capparales,,
+445910,2025-04-27,2025-04-27,2025-04-27,07:52:00,plantae,250328,species,Sisymbrium irio,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Capparales,Brassicaceae,Sisymbrium
+445909,2025-04-27,2025-04-27,2025-04-27,07:52:00,plantae,243602,species,Lepidium draba,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Capparales,Brassicaceae,Lepidium
+445908,2025-04-27,2025-04-27,2025-04-27,07:52:00,plantae,252691,species,Pallenis spinosa,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pallenis
+445907,2025-04-27,2025-04-27,2025-04-27,07:51:00,plantae,31093,genus,Euphorbia,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,
+445906,2025-04-27,2025-04-27,2025-04-27,07:51:00,plantae,250509,species,Sonchus tenerrimus,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Sonchus
+445905,2025-04-27,2025-04-27,2025-04-27,07:51:00,plantae,243911,species,Aloe vera,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Liliopsida,Asparagales,Xanthorrhoeaceae,Aloe
+445904,2025-04-27,2025-04-27,2025-04-27,07:51:00,plantae,40121,genus,Malva,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,
+445903,2025-04-27,2025-04-27,2025-04-27,07:51:00,plantae,251910,species,Hordeum murinum,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,Hordeum
+445902,2025-04-27,2025-04-27,2025-04-27,07:51:00,plantae,262854,species,Plantago lagopus,41.4123532169,2.0311396177,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Plantaginales,Plantaginaceae,Plantago
 445795,2025-04-27,2025-04-27,2025-04-27,14:15:00,insecta,252164,species,Coccinella septempunctata,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,jaume-piera,0,0,web,Animalia,Arthropoda,Insecta,Coleoptera,Coccinellidae,Coccinella
 445794,2025-04-27,2025-04-27,2025-04-27,14:09:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445793,2025-04-27,2025-04-27,2025-04-27,14:07:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
@@ -242,31 +269,31 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 445789,2025-04-27,2025-04-27,2025-04-27,13:59:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445788,2025-04-27,2025-04-27,2025-04-27,13:58:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445787,2025-04-27,2025-04-27,2025-04-27,13:57:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445786,2025-04-27,2025-04-27,2025-04-27,13:57:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445785,2025-04-27,2025-04-27,2025-04-27,13:55:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
+445786,2025-04-27,2025-04-27,2025-04-27,13:57:00,animalia,1352,family,Julidae,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Diplopoda,Julida,,
+445785,2025-04-27,2025-04-27,2025-04-27,13:55:00,reptilia,254136,species,Podarcis liolepis,41.2914169727,2.1088570123,False,"Barcelona, España",research,54,loreto_rodriguez,cc-by-nc,2,"badosa, xasalva",2,0,web,Animalia,Chordata,Reptilia,Squamata,Lacertidae,Podarcis
 445784,2025-04-27,2025-04-27,2025-04-27,13:55:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445783,2025-04-27,2025-04-27,2025-04-27,13:44:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
+445783,2025-04-27,2025-04-27,2025-04-27,13:44:00,fungi,13,kingdom,Fungi,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,,,,,,
 445782,2025-04-27,2025-04-27,2025-04-27,13:43:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445781,2025-04-27,2025-04-27,2025-04-27,13:40:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445780,2025-04-27,2025-04-27,2025-04-27,13:40:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445779,2025-04-27,2025-04-27,2025-04-27,13:36:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
+445779,2025-04-27,2025-04-27,2025-04-27,13:36:00,plantae,242357,species,Juncus acutus,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Liliopsida,Poales,Juncaceae,Juncus
 445778,2025-04-27,2025-04-27,2025-04-27,13:35:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445777,2025-04-27,2025-04-27,2025-04-27,13:32:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445776,2025-04-27,2025-04-27,2025-04-27,13:30:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445775,2025-04-27,2025-04-27,2025-04-27,13:29:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445774,2025-04-27,2025-04-27,2025-04-27,13:28:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445773,2025-04-27,2025-04-27,2025-04-27,13:27:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445772,2025-04-27,2025-04-27,2025-04-27,13:25:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445771,2025-04-27,2025-04-27,2025-04-27,13:25:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445770,2025-04-27,2025-04-27,2025-04-27,13:22:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445769,2025-04-27,2025-04-27,2025-04-27,13:21:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445768,2025-04-27,2025-04-27,2025-04-27,13:21:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445767,2025-04-27,2025-04-27,2025-04-27,13:21:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
+445773,2025-04-27,2025-04-27,2025-04-27,13:27:00,insecta,40515,species,Lachnaia tristigma,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Lachnaia
+445772,2025-04-27,2025-04-27,2025-04-27,13:25:00,plantae,247985,species,Euphorbia terracina,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,Euphorbia
+445771,2025-04-27,2025-04-27,2025-04-27,13:25:00,plantae,251660,species,Cistus salviifolius,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Violales,Cistaceae,Cistus
+445770,2025-04-27,2025-04-27,2025-04-27,13:22:00,animalia,1352,family,Julidae,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Diplopoda,Julida,,
+445769,2025-04-27,2025-04-27,2025-04-27,13:21:00,arachnida,251143,species,Heliophanus apiatus,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Arachnida,Araneae,Salticidae,Heliophanus
+445768,2025-04-27,2025-04-27,2025-04-27,13:21:00,plantae,30877,genus,Vicia,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,
+445767,2025-04-27,2025-04-27,2025-04-27,13:21:00,plantae,221647,species,Paronychia argentea,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,Paronychia
 445766,2025-04-27,2025-04-27,2025-04-27,13:19:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445765,2025-04-27,2025-04-27,2025-04-27,13:19:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
+445765,2025-04-27,2025-04-27,2025-04-27,13:19:00,insecta,252648,species,Oxythyrea funesta,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Coleoptera,Cetoniidae,Oxythyrea
 445764,2025-04-27,2025-04-27,2025-04-27,13:19:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445763,2025-04-27,2025-04-27,2025-04-27,13:18:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445762,2025-04-27,2025-04-27,2025-04-27,13:18:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
+445762,2025-04-27,2025-04-27,2025-04-27,13:18:00,insecta,252648,species,Oxythyrea funesta,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Coleoptera,Cetoniidae,Oxythyrea
 445761,2025-04-27,2025-04-27,2025-04-27,13:17:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445760,2025-04-27,2025-04-27,2025-04-27,13:17:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445759,2025-04-27,2025-04-27,2025-04-27,13:17:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
@@ -286,36 +313,36 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 445745,2025-04-27,2025-04-27,2025-04-27,13:11:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445744,2025-04-27,2025-04-27,2025-04-27,13:10:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445743,2025-04-27,2025-04-27,2025-04-27,13:10:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445742,2025-04-27,2025-04-27,2025-04-27,13:09:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
+445742,2025-04-27,2025-04-27,2025-04-27,13:09:00,plantae,246522,species,Bituminaria bituminosa,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Bituminaria
 445741,2025-04-27,2025-04-27,2025-04-27,13:09:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445740,2025-04-27,2025-04-27,2025-04-27,13:09:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445739,2025-04-27,2025-04-27,2025-04-27,13:08:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445738,2025-04-27,2025-04-27,2025-04-27,13:08:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445737,2025-04-27,2025-04-27,2025-04-27,13:07:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
+445737,2025-04-27,2025-04-27,2025-04-27,13:07:00,plantae,51227,genus,Asphodelus,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Liliopsida,Asparagales,Xanthorrhoeaceae,
 445736,2025-04-27,2025-04-27,2025-04-27,13:06:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445735,2025-04-27,2025-04-27,2025-04-27,13:06:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445734,2025-04-27,2025-04-27,2025-04-27,13:05:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
+445735,2025-04-27,2025-04-27,2025-04-27,13:06:00,plantae,51227,genus,Asphodelus,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Liliopsida,Asparagales,Xanthorrhoeaceae,
+445734,2025-04-27,2025-04-27,2025-04-27,13:05:00,insecta,252648,species,Oxythyrea funesta,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Coleoptera,Cetoniidae,Oxythyrea
 445733,2025-04-27,2025-04-27,2025-04-27,13:04:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445732,2025-04-27,2025-04-27,2025-04-27,13:04:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445731,2025-04-27,2025-04-27,2025-04-27,13:03:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445730,2025-04-27,2025-04-27,2025-04-27,13:03:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
+445730,2025-04-27,2025-04-27,2025-04-27,13:03:00,plantae,246807,species,Arundo donax,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,Arundo
 445729,2025-04-27,2025-04-27,2025-04-27,13:03:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445728,2025-04-27,2025-04-27,2025-04-27,13:02:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445727,2025-04-27,2025-04-27,2025-04-27,12:59:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445726,2025-04-27,2025-04-27,2025-04-27,12:58:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445725,2025-04-27,2025-04-27,2025-04-27,12:58:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445724,2025-04-27,2025-04-27,2025-04-27,12:57:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445723,2025-04-27,2025-04-27,2025-04-27,12:57:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445722,2025-04-27,2025-04-27,2025-04-27,12:56:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445721,2025-04-27,2025-04-27,2025-04-27,12:56:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445720,2025-04-27,2025-04-27,2025-04-27,12:55:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445719,2025-04-27,2025-04-27,2025-04-27,12:55:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445718,2025-04-27,2025-04-27,2025-04-27,12:55:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
+445724,2025-04-27,2025-04-27,2025-04-27,12:57:00,plantae,366,family,Asteraceae,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Asterales,,
+445723,2025-04-27,2025-04-27,2025-04-27,12:57:00,plantae,244452,species,Anacyclus valentinus,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Anacyclus
+445722,2025-04-27,2025-04-27,2025-04-27,12:56:00,insecta,7702,genus,Sarcophaga,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,
+445721,2025-04-27,2025-04-27,2025-04-27,12:56:00,insecta,1054,family,Formicidae,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Hymenoptera,,
+445720,2025-04-27,2025-04-27,2025-04-27,12:55:00,plantae,12134,genus,Pinus,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Pinopsida,Pinales,Pinaceae,
+445719,2025-04-27,2025-04-27,2025-04-27,12:55:00,plantae,243563,species,Populus alba,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Salicales,Salicaceae,Populus
+445718,2025-04-27,2025-04-27,2025-04-27,12:55:00,plantae,243563,species,Populus alba,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Salicales,Salicaceae,Populus
 445717,2025-04-27,2025-04-27,2025-04-27,12:54:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445716,2025-04-27,2025-04-27,2025-04-27,12:54:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445715,2025-04-27,2025-04-27,2025-04-27,12:51:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
+445715,2025-04-27,2025-04-27,2025-04-27,12:51:00,aves,252272,species,Columba palumbus,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
 445714,2025-04-27,2025-04-27,2025-04-27,12:49:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445713,2025-04-27,2025-04-27,2025-04-27,12:48:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
+445713,2025-04-27,2025-04-27,2025-04-27,12:48:00,plantae,251722,species,Torilis nodosa,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,Torilis
 445712,2025-04-27,2025-04-27,2025-04-27,12:45:00,aves,252848,species,Passer domesticus,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,badosa,0,0,web,Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer
 445711,2025-04-27,2025-04-27,2025-04-27,12:45:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445710,2025-04-27,2025-04-27,2025-04-27,12:45:00,,nan,,,41.2914169727,2.1088570123,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
@@ -331,7 +358,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 445700,2025-04-27,2025-04-27,2025-04-27,14:04:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445699,2025-04-27,2025-04-27,2025-04-27,14:02:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445698,2025-04-27,2025-04-27,2025-04-27,14:01:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445697,2025-04-27,2025-04-27,2025-04-27,13:59:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445697,2025-04-27,2025-04-27,2025-04-27,13:59:00,plantae,38161,genus,Cirsium,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,
 445696,2025-04-27,2025-04-27,2025-04-27,13:59:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445695,2025-04-27,2025-04-27,2025-04-27,13:59:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445694,2025-04-27,2025-04-27,2025-04-27,13:57:00,crustacea,2671,family,Armadillidiidae,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Malacostraca,Isopoda,,
@@ -343,14 +370,14 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 445688,2025-04-27,2025-04-27,2025-04-27,13:52:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445687,2025-04-27,2025-04-27,2025-04-27,13:53:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445686,2025-04-27,2025-04-27,2025-04-27,13:51:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445685,2025-04-27,2025-04-27,2025-04-27,13:51:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445685,2025-04-27,2025-04-27,2025-04-27,13:51:00,plantae,250509,species,Sonchus tenerrimus,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Sonchus
 445684,2025-04-27,2025-04-27,2025-04-27,13:51:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445683,2025-04-27,2025-04-27,2025-04-27,13:50:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445682,2025-04-27,2025-04-27,2025-04-27,13:49:00,insecta,252648,species,Oxythyrea funesta,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Coleoptera,Cetoniidae,Oxythyrea
 445681,2025-04-27,2025-04-27,2025-04-27,13:48:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445680,2025-04-27,2025-04-27,2025-04-27,13:48:00,crustacea,2671,family,Armadillidiidae,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Malacostraca,Isopoda,,
 445679,2025-04-27,2025-04-27,2025-04-27,13:47:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445678,2025-04-27,2025-04-27,2025-04-27,13:47:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445678,2025-04-27,2025-04-27,2025-04-27,13:47:00,plantae,264802,species,Linum strictum,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Linales,Linaceae,Linum
 445677,2025-04-27,2025-04-27,2025-04-27,13:46:00,plantae,40121,genus,Malva,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,
 445676,2025-04-27,2025-04-27,2025-04-27,13:46:00,plantae,221647,species,Paronychia argentea,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,Paronychia
 445675,2025-04-27,2025-04-27,2025-04-27,13:45:00,,246372,species,Armadillidium vulgare,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Malacostraca,Isopoda,Armadillidiidae,Armadillidium
@@ -358,11 +385,11 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 445673,2025-04-27,2025-04-27,2025-04-27,13:44:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445672,2025-04-27,2025-04-27,2025-04-27,13:43:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445671,2025-04-27,2025-04-27,2025-04-27,13:43:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445670,2025-04-27,2025-04-27,2025-04-27,13:42:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445669,2025-04-27,2025-04-27,2025-04-27,13:42:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445670,2025-04-27,2025-04-27,2025-04-27,13:42:00,plantae,250512,species,Suaeda vera,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Chenopodiaceae,Suaeda
+445669,2025-04-27,2025-04-27,2025-04-27,13:42:00,plantae,77023,genus,Dipsacus,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Dipsacales,Dipsacaceae,
 445668,2025-04-27,2025-04-27,2025-04-27,13:41:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445667,2025-04-27,2025-04-27,2025-04-27,13:40:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445666,2025-04-27,2025-04-27,2025-04-27,13:40:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445667,2025-04-27,2025-04-27,2025-04-27,13:40:00,plantae,248399,species,Calystegia sepium,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,Calystegia
+445666,2025-04-27,2025-04-27,2025-04-27,13:40:00,plantae,244036,species,Althaea officinalis,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,Althaea
 445665,2025-04-27,2025-04-27,2025-04-27,13:37:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445664,2025-04-27,2025-04-27,2025-04-27,13:36:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445663,2025-04-27,2025-04-27,2025-04-27,13:36:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
@@ -370,7 +397,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 445661,2025-04-27,2025-04-27,2025-04-27,13:32:00,fungi,13,kingdom,Fungi,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,,,,,,
 445660,2025-04-27,2025-04-27,2025-04-27,13:30:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445659,2025-04-27,2025-04-27,2025-04-27,13:30:00,insecta,9294,genus,Messor,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Hymenoptera,Formicidae,
-445658,2025-04-27,2025-04-27,2025-04-27,13:30:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445658,2025-04-27,2025-04-27,2025-04-27,13:30:00,insecta,1054,family,Formicidae,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Hymenoptera,,
 445657,2025-04-27,2025-04-27,2025-04-27,13:30:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445656,2025-04-27,2025-04-27,2025-04-27,13:28:00,insecta,325,order,Lepidoptera,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,,,
 445655,2025-04-27,2025-04-27,2025-04-27,13:27:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
@@ -387,47 +414,47 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 445644,2025-04-27,2025-04-27,2025-04-27,13:16:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445643,2025-04-27,2025-04-27,2025-04-27,13:17:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445642,2025-04-27,2025-04-27,2025-04-27,13:15:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445641,2025-04-27,2025-04-27,2025-04-27,13:14:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445641,2025-04-27,2025-04-27,2025-04-27,13:14:00,plantae,1199,family,Caprifoliaceae,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Dipsacales,,
 445640,2025-04-27,2025-04-27,2025-04-27,13:14:00,insecta,40513,species,Lachnaia paradoxa,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Lachnaia
 445639,2025-04-27,2025-04-27,2025-04-27,13:13:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445638,2025-04-27,2025-04-27,2025-04-27,13:13:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445637,2025-04-27,2025-04-27,2025-04-27,13:13:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445636,2025-04-27,2025-04-27,2025-04-27,13:12:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445638,2025-04-27,2025-04-27,2025-04-27,13:13:00,plantae,38207,genus,Bromus,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,
+445637,2025-04-27,2025-04-27,2025-04-27,13:13:00,plantae,31093,genus,Euphorbia,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,
+445636,2025-04-27,2025-04-27,2025-04-27,13:12:00,plantae,251660,species,Cistus salviifolius,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Violales,Cistaceae,Cistus
 445635,2025-04-27,2025-04-27,2025-04-27,13:12:00,plantae,251660,species,Cistus salviifolius,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Violales,Cistaceae,Cistus
 445634,2025-04-27,2025-04-27,2025-04-27,13:11:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445633,2025-04-27,2025-04-27,2025-04-27,13:10:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445632,2025-04-27,2025-04-27,2025-04-27,13:10:00,plantae,242219,species,Pistacia lentiscus,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Sapindales,Anacardiaceae,Pistacia
 445631,2025-04-27,2025-04-27,2025-04-27,13:09:00,animalia,1352,family,Julidae,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Diplopoda,Julida,,
-445630,2025-04-27,2025-04-27,2025-04-27,13:09:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445629,2025-04-27,2025-04-27,2025-04-27,13:08:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445628,2025-04-27,2025-04-27,2025-04-27,13:08:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445630,2025-04-27,2025-04-27,2025-04-27,13:09:00,arachnida,251143,species,Heliophanus apiatus,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Arachnida,Araneae,Salticidae,Heliophanus
+445629,2025-04-27,2025-04-27,2025-04-27,13:08:00,plantae,27352,species,Galium aparine,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Rubiales,Rubiaceae,Galium
+445628,2025-04-27,2025-04-27,2025-04-27,13:08:00,plantae,253626,species,Vicia sativa,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Vicia
 445627,2025-04-27,2025-04-27,2025-04-27,13:08:00,insecta,252648,species,Oxythyrea funesta,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Coleoptera,Cetoniidae,Oxythyrea
-445626,2025-04-27,2025-04-27,2025-04-27,13:08:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445625,2025-04-27,2025-04-27,2025-04-27,13:06:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445626,2025-04-27,2025-04-27,2025-04-27,13:08:00,plantae,258628,species,Lysimachia arvensis,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Primulales,Primulaceae,Lysimachia
+445625,2025-04-27,2025-04-27,2025-04-27,13:06:00,arachnida,246479,species,Synema globosum,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Arachnida,Araneae,Thomisidae,Synema
 445624,2025-04-27,2025-04-27,2025-04-27,13:05:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445623,2025-04-27,2025-04-27,2025-04-27,13:05:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445623,2025-04-27,2025-04-27,2025-04-27,13:05:00,insecta,252648,species,Oxythyrea funesta,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Coleoptera,Cetoniidae,Oxythyrea
 445622,2025-04-27,2025-04-27,2025-04-27,13:05:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445621,2025-04-27,2025-04-27,2025-04-27,13:04:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445620,2025-04-27,2025-04-27,2025-04-27,13:03:00,insecta,476,order,Mantodea,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,,,
 445619,2025-04-27,2025-04-27,2025-04-27,13:03:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445618,2025-04-27,2025-04-27,2025-04-27,13:02:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445617,2025-04-27,2025-04-27,2025-04-27,13:01:00,insecta,8001,genus,Bombus,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,
-445616,2025-04-27,2025-04-27,2025-04-27,13:00:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445616,2025-04-27,2025-04-27,2025-04-27,13:00:00,plantae,253501,species,Urospermum dalechampii,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Urospermum
 445615,2025-04-27,2025-04-27,2025-04-27,13:00:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445614,2025-04-27,2025-04-27,2025-04-27,13:00:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445614,2025-04-27,2025-04-27,2025-04-27,13:00:00,plantae,25747,species,Dittrichia viscosa,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Dittrichia
 445613,2025-04-27,2025-04-27,2025-04-27,12:59:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445612,2025-04-27,2025-04-27,2025-04-27,12:59:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445611,2025-04-27,2025-04-27,2025-04-27,12:58:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445610,2025-04-27,2025-04-27,2025-04-27,12:58:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445611,2025-04-27,2025-04-27,2025-04-27,12:58:00,plantae,245478,species,Echium vulgare,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Boraginaceae,Echium
+445610,2025-04-27,2025-04-27,2025-04-27,12:58:00,plantae,90449,species,Scabiosa atropurpurea,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Dipsacales,Dipsacaceae,Scabiosa
 445609,2025-04-27,2025-04-27,2025-04-27,12:58:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445608,2025-04-27,2025-04-27,2025-04-27,12:57:00,plantae,25747,species,Dittrichia viscosa,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Dittrichia
-445607,2025-04-27,2025-04-27,2025-04-27,12:57:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445607,2025-04-27,2025-04-27,2025-04-27,12:57:00,plantae,246522,species,Bituminaria bituminosa,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Bituminaria
 445606,2025-04-27,2025-04-27,2025-04-27,12:57:00,plantae,246657,species,Rubus ulmifolius,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,Rubus
-445605,2025-04-27,2025-04-27,2025-04-27,12:57:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445605,2025-04-27,2025-04-27,2025-04-27,12:57:00,plantae,246522,species,Bituminaria bituminosa,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Bituminaria
 445604,2025-04-27,2025-04-27,2025-04-27,12:56:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445603,2025-04-27,2025-04-27,2025-04-27,12:56:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445602,2025-04-27,2025-04-27,2025-04-27,12:54:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445601,2025-04-27,2025-04-27,2025-04-27,12:54:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445601,2025-04-27,2025-04-27,2025-04-27,12:54:00,plantae,245478,species,Echium vulgare,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Boraginaceae,Echium
 445600,2025-04-27,2025-04-27,2025-04-27,12:54:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445599,2025-04-27,2025-04-27,2025-04-27,12:54:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445598,2025-04-27,2025-04-27,2025-04-27,12:53:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
@@ -445,13 +472,13 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 445586,2025-04-27,2025-04-27,2025-04-27,12:46:00,plantae,244452,species,Anacyclus valentinus,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Anacyclus
 445585,2025-04-27,2025-04-27,2025-04-27,12:45:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445584,2025-04-27,2025-04-27,2025-04-27,12:45:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445583,2025-04-27,2025-04-27,2025-04-27,12:44:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445582,2025-04-27,2025-04-27,2025-04-27,12:43:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445581,2025-04-27,2025-04-27,2025-04-27,12:43:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445580,2025-04-27,2025-04-27,2025-04-27,12:43:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445583,2025-04-27,2025-04-27,2025-04-27,12:44:00,insecta,7702,genus,Sarcophaga,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Diptera,Sarcophagidae,
+445582,2025-04-27,2025-04-27,2025-04-27,12:43:00,plantae,43474,genus,Ulmus,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Urticales,Ulmaceae,
+445581,2025-04-27,2025-04-27,2025-04-27,12:43:00,plantae,242058,species,Pinus pinea,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Pinopsida,Pinales,Pinaceae,Pinus
+445580,2025-04-27,2025-04-27,2025-04-27,12:43:00,plantae,242353,species,Plantago coronopus,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Plantaginales,Plantaginaceae,Plantago
 445579,2025-04-27,2025-04-27,2025-04-27,12:42:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445578,2025-04-27,2025-04-27,2025-04-27,12:42:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445577,2025-04-27,2025-04-27,2025-04-27,12:42:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445578,2025-04-27,2025-04-27,2025-04-27,12:42:00,plantae,248846,species,Geranium rotundifolium,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Geraniales,Geraniaceae,Geranium
+445577,2025-04-27,2025-04-27,2025-04-27,12:42:00,plantae,40169,genus,Avena,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,
 445576,2025-04-27,2025-04-27,2025-04-27,12:42:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445575,2025-04-27,2025-04-27,2025-04-27,12:41:00,insecta,1054,family,Formicidae,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Hymenoptera,,
 445574,2025-04-27,2025-04-27,2025-04-27,12:40:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
@@ -462,17 +489,17 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 445569,2025-04-27,2025-04-27,2025-04-27,12:39:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445568,2025-04-27,2025-04-27,2025-04-27,12:38:00,aves,252272,species,Columba palumbus,41.2907767515,2.105471244,False,"Barcelona, España",research,4,xasalva,cc-by-nc,1,"xasalva, badosa",1,0,web,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
 445567,2025-04-27,2025-04-27,2025-04-27,12:37:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445566,2025-04-27,2025-04-27,2025-04-27,12:36:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445566,2025-04-27,2025-04-27,2025-04-27,12:36:00,plantae,246965,species,Erodium malacoides,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Geraniales,Geraniaceae,Erodium
 445565,2025-04-27,2025-04-27,2025-04-27,12:36:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445564,2025-04-27,2025-04-27,2025-04-27,12:35:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445563,2025-04-27,2025-04-27,2025-04-27,12:35:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445562,2025-04-27,2025-04-27,2025-04-27,12:34:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445564,2025-04-27,2025-04-27,2025-04-27,12:35:00,plantae,251722,species,Torilis nodosa,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,Torilis
+445563,2025-04-27,2025-04-27,2025-04-27,12:35:00,plantae,246918,species,Asparagus acutifolius,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Liliopsida,Asparagales,Asparagaceae,Asparagus
+445562,2025-04-27,2025-04-27,2025-04-27,12:34:00,plantae,251910,species,Hordeum murinum,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,Hordeum
 445561,2025-04-27,2025-04-27,2025-04-27,12:34:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445560,2025-04-27,2025-04-27,2025-04-27,12:33:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445559,2025-04-27,2025-04-27,2025-04-27,12:33:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445558,2025-04-27,2025-04-27,2025-04-27,12:33:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445559,2025-04-27,2025-04-27,2025-04-27,12:33:00,aves,252848,species,Passer domesticus,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer
+445558,2025-04-27,2025-04-27,2025-04-27,12:33:00,plantae,242058,species,Pinus pinea,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Pinopsida,Pinales,Pinaceae,Pinus
 445557,2025-04-27,2025-04-27,2025-04-27,12:32:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
-445556,2025-04-27,2025-04-27,2025-04-27,12:32:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
+445556,2025-04-27,2025-04-27,2025-04-27,12:32:00,plantae,242353,species,Plantago coronopus,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Plantaginales,Plantaginaceae,Plantago
 445555,2025-04-27,2025-04-27,2025-04-27,12:32:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445554,2025-04-27,2025-04-27,2025-04-27,12:32:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
 445553,2025-04-27,2025-04-27,2025-04-27,12:32:00,,nan,,,41.2907767515,2.105471244,False,"Barcelona, España",needs_id,4,xasalva,cc-by-nc,0,,0,0,web,,,,,,
@@ -494,12 +521,12 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 445537,2025-04-27,2025-04-27,2025-04-27,09:48:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445536,2025-04-27,2025-04-27,2025-04-27,09:45:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445535,2025-04-27,2025-04-27,2025-04-27,09:45:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445534,2025-04-27,2025-04-27,2025-04-27,09:40:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
+445534,2025-04-27,2025-04-27,2025-04-27,09:40:00,fungi,23570,genus,Xanthoria,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Fungi,Ascomycota,Lecanoromycetes,Teloschistales,Teloschistaceae,
 445533,2025-04-27,2025-04-27,2025-04-27,09:41:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445532,2025-04-27,2025-04-27,2025-04-27,09:34:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445531,2025-04-27,2025-04-27,2025-04-27,09:32:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445530,2025-04-27,2025-04-27,2025-04-27,09:28:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445529,2025-04-27,2025-04-27,2025-04-27,09:26:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
+445530,2025-04-27,2025-04-27,2025-04-27,09:28:00,insecta,40513,species,Lachnaia paradoxa,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Lachnaia
+445529,2025-04-27,2025-04-27,2025-04-27,09:26:00,arachnida,248402,species,Evarcha jucunda,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Arachnida,Araneae,Salticidae,Evarcha
 445528,2025-04-27,2025-04-27,2025-04-27,09:26:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445527,2025-04-27,2025-04-27,2025-04-27,09:24:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445526,2025-04-27,2025-04-27,2025-04-27,09:24:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
@@ -507,16 +534,16 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 445524,2025-04-27,2025-04-27,2025-04-27,09:21:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445523,2025-04-27,2025-04-27,2025-04-27,09:21:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445522,2025-04-27,2025-04-27,2025-04-27,09:18:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445521,2025-04-27,2025-04-27,2025-04-27,09:17:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
+445521,2025-04-27,2025-04-27,2025-04-27,09:17:00,insecta,40515,species,Lachnaia tristigma,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Lachnaia
 445520,2025-04-27,2025-04-27,2025-04-27,09:15:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445519,2025-04-27,2025-04-27,2025-04-27,09:14:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445518,2025-04-27,2025-04-27,2025-04-27,09:13:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445517,2025-04-27,2025-04-27,2025-04-27,09:12:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445516,2025-04-27,2025-04-27,2025-04-27,09:09:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445515,2025-04-27,2025-04-27,2025-04-27,09:08:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
+445517,2025-04-27,2025-04-27,2025-04-27,09:12:00,plantae,246907,species,Borago officinalis,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Boraginaceae,Borago
+445516,2025-04-27,2025-04-27,2025-04-27,09:09:00,insecta,40510,genus,Lachnaia,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Coleoptera,Chrysomelidae,
+445515,2025-04-27,2025-04-27,2025-04-27,09:08:00,insecta,40510,genus,Lachnaia,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Coleoptera,Chrysomelidae,
 445514,2025-04-27,2025-04-27,2025-04-27,09:07:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445513,2025-04-27,2025-04-27,2025-04-27,09:06:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445512,2025-04-27,2025-04-27,2025-04-27,09:03:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
+445512,2025-04-27,2025-04-27,2025-04-27,09:03:00,insecta,40513,species,Lachnaia paradoxa,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Lachnaia
 445511,2025-04-27,2025-04-27,2025-04-27,09:03:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445510,2025-04-27,2025-04-27,2025-04-27,09:02:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445509,2025-04-27,2025-04-27,2025-04-27,09:02:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
@@ -524,29 +551,29 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 445507,2025-04-27,2025-04-27,2025-04-27,08:59:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445506,2025-04-27,2025-04-27,2025-04-27,08:48:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445505,2025-04-27,2025-04-27,2025-04-27,08:47:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445504,2025-04-27,2025-04-27,2025-04-27,08:46:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
+445504,2025-04-27,2025-04-27,2025-04-27,08:46:00,plantae,252413,species,Convolvulus althaeoides,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,Convolvulus
 445503,2025-04-27,2025-04-27,2025-04-27,08:42:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445502,2025-04-27,2025-04-27,2025-04-27,08:41:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445501,2025-04-27,2025-04-27,2025-04-27,08:40:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445500,2025-04-27,2025-04-27,2025-04-27,08:35:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445499,2025-04-27,2025-04-27,2025-04-27,08:34:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
+445499,2025-04-27,2025-04-27,2025-04-27,08:34:00,plantae,40121,genus,Malva,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,
 445498,2025-04-27,2025-04-27,2025-04-27,08:33:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445497,2025-04-27,2025-04-27,2025-04-27,08:32:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
+445497,2025-04-27,2025-04-27,2025-04-27,08:32:00,insecta,241863,species,Pieris rapae,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pieris
 445496,2025-04-27,2025-04-27,2025-04-27,08:31:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445495,2025-04-27,2025-04-27,2025-04-27,08:30:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445494,2025-04-27,2025-04-27,2025-04-27,08:26:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445493,2025-04-27,2025-04-27,2025-04-27,08:25:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445492,2025-04-27,2025-04-27,2025-04-27,08:22:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
+445492,2025-04-27,2025-04-27,2025-04-27,08:22:00,insecta,252782,species,Pararge aegeria,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Pararge
 445491,2025-04-27,2025-04-27,2025-04-27,08:20:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445490,2025-04-27,2025-04-27,2025-04-27,08:19:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445489,2025-04-27,2025-04-27,2025-04-27,08:18:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445488,2025-04-27,2025-04-27,2025-04-27,08:17:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445487,2025-04-27,2025-04-27,2025-04-27,08:15:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445486,2025-04-27,2025-04-27,2025-04-27,08:14:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445485,2025-04-27,2025-04-27,2025-04-27,08:12:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
+445485,2025-04-27,2025-04-27,2025-04-27,08:12:00,insecta,252164,species,Coccinella septempunctata,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Coleoptera,Coccinellidae,Coccinella
 445484,2025-04-27,2025-04-27,2025-04-27,08:09:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445483,2025-04-27,2025-04-27,2025-04-27,08:08:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
-445482,2025-04-27,2025-04-27,2025-04-27,08:07:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
+445483,2025-04-27,2025-04-27,2025-04-27,08:08:00,plantae,43791,genus,Fumaria,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Papaverales,Fumariaceae,
+445482,2025-04-27,2025-04-27,2025-04-27,08:07:00,insecta,1054,family,Formicidae,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Hymenoptera,,
 445481,2025-04-27,2025-04-27,2025-04-27,08:07:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445480,2025-04-27,2025-04-27,2025-04-27,08:06:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
 445479,2025-04-27,2025-04-27,2025-04-27,08:06:00,,nan,,,41.4122365494,2.0309357698,False,"Barcelona, España",needs_id,54,loreto_rodriguez,cc-by-nc,0,,0,0,web,,,,,,
@@ -634,7 +661,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 445306,2025-04-27,2025-04-27,2025-04-27,06:43:00,aves,253420,species,Turdus merula,41.3708551557,1.9938188901,False,"Barcelona, España",research,64,vicent,cc-by-nc,1,"vicent, jaume-piera",1,0,web,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus
 445294,2025-04-27,2025-04-27,2025-04-25,16:15:00,aves,243187,species,Larus michahellis,41.3765404167,2.1787677667,False,Spain,research,11,jaume-piera,cc-by-nc,1,"jaume-piera, xasalva",1,0,web,Animalia,Chordata,Aves,Ciconiiformes,Laridae,Larus
 445293,2025-04-27,2025-04-27,2025-04-25,16:15:00,aves,243187,species,Larus michahellis,41.3767659,2.1785243667,False,Spain,research,11,jaume-piera,cc-by-nc,1,"jaume-piera, xasalva",1,0,web,Animalia,Chordata,Aves,Ciconiiformes,Laridae,Larus
-445292,2025-04-27,2025-04-27,2025-04-25,16:14:00,actinopterygii,250654,species,Chelon labrosus,41.3758962,2.1794631833,False,Spain,needs_id,11,jaume-piera,cc-by-nc,1,"jaume-piera, xasalva",1,0,web,Animalia,Chordata,Teleostei,Mugiliformes,Mugilidae,Chelon
+445292,2025-04-27,2025-04-27,2025-04-25,16:14:00,actinopterygii,250654,species,Chelon labrosus,41.3758962,2.1794631833,False,Spain,research,11,jaume-piera,cc-by-nc,1,"jaume-piera, xasalva, jaume-piera",1,0,web,Animalia,Chordata,Teleostei,Mugiliformes,Mugilidae,Chelon
 445291,2025-04-27,2025-04-27,2025-04-25,16:14:00,aves,252264,species,Columba livia,41.3761646167,2.1791734333,False,Spain,research,11,jaume-piera,cc-by-nc,1,"jaume-piera, xasalva",1,0,web,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
 445290,2025-04-27,2025-04-27,2025-04-25,16:13:00,aves,243187,species,Larus michahellis,41.37574565,2.17940845,False,Spain,research,11,jaume-piera,cc-by-nc,1,"jaume-piera, xasalva",1,0,web,Animalia,Chordata,Aves,Ciconiiformes,Laridae,Larus
 445289,2025-04-27,2025-04-27,2025-04-25,16:13:00,aves,243187,species,Larus michahellis,41.3757824,2.1794302,False,Spain,research,11,jaume-piera,cc-by-nc,1,"jaume-piera, xasalva",1,0,web,Animalia,Chordata,Aves,Ciconiiformes,Laridae,Larus
@@ -710,7 +737,6 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 445209,2025-04-27,2025-04-27,2025-04-27,10:37:00,aves,253420,species,Turdus merula,41.4076459,2.1749179,False,"La Sagrada Familia, L'Eixample, Barcelona, Espanya",research,11,jaume-piera,cc-by-nc,1,"jaume-piera, xasalva",1,0,web,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus
 445208,2025-04-27,2025-04-27,2025-04-26,16:48:00,aves,5,class,Aves,41.4270033333,2.1898116667,False,Spain,needs_id,1244,meri,cc-by,1,"meri, xasalva",1,0,app,Animalia,Chordata,,,,
 445207,2025-04-27,2025-04-27,2025-04-26,17:02:00,aves,245911,species,Ardea cinerea,41.4269866667,2.18968,False,Spain,research,1244,meri,cc-by,1,"meri, jaume-piera",1,0,app,Animalia,Chordata,Aves,Ciconiiformes,Ardeidae,Ardea
-445201,2025-04-27,2025-04-27,2025-04-27,10:17:00,,nan,,,41.2663399997,2.0173266,False,Spain,casual,908,annacanela,cc-by-nc,0,,0,0,app,,,,,,
 445200,2025-04-27,2025-04-27,2025-04-25,09:36:00,aves,244453,species,Psittacula krameri,41.38831865,2.1917576833,False,Spain,research,11,jaume-piera,cc-by-nc,1,"jaume-piera, xasalva",1,0,web,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Psittacula
 445199,2025-04-27,2025-04-27,2025-04-25,09:36:00,aves,247963,species,Myiopsitta monachus,41.38828865,2.1918024333,False,Spain,research,11,jaume-piera,cc-by-nc,1,"jaume-piera, xasalva",1,0,web,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Myiopsitta
 445198,2025-04-27,2025-04-27,2025-04-25,09:33:00,aves,243187,species,Larus michahellis,41.3887488,2.1911160833,False,Spain,research,11,jaume-piera,cc-by-nc,1,"jaume-piera, xasalva",1,0,web,Animalia,Chordata,Aves,Ciconiiformes,Laridae,Larus
