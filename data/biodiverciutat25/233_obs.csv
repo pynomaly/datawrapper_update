@@ -1,4 +1,46 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,identifications_count,identifiers,num_identification_agreements,num_identification_disagreements,device,kingdom,phylum,class,order,family,genus
+446397,2025-04-28,2025-04-28,2025-04-28,10:41:00,,nan,,,41.264663,1.9908233,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,,0,0,app,,,,,,
+446396,2025-04-28,2025-04-28,2025-04-28,10:36:00,,nan,,,41.2646707,1.9911857,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,,0,0,app,,,,,,
+446395,2025-04-28,2025-04-28,2025-04-28,10:27:00,life,1,stateofmatter,Life,41.4936600433,1.9589017332,False,Spain,needs_id,135,jaom,cc-by-nc,0,jaom,0,0,app,,,,,,
+446394,2025-04-28,2025-04-28,2025-04-28,10:18:00,insecta,242763,species,Aedes albopictus,41.4958338015,1.9567150623,False,Spain,needs_id,135,jaom,cc-by-nc,0,jaom,0,0,app,Animalia,Arthropoda,Insecta,Diptera,Culicidae,Aedes
+446393,2025-04-28,2025-04-28,2025-04-28,09:34:00,arachnida,249437,species,Carrhotus xanthogramma,41.4949543624,1.9551020488,False,Spain,needs_id,135,jaom,cc-by-nc,0,jaom,0,0,app,Animalia,Arthropoda,Arachnida,Araneae,Salticidae,Carrhotus
+446392,2025-04-28,2025-04-28,2025-04-28,09:42:00,,nan,,,41.2736233,1.9906946,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
+446391,2025-04-28,2025-04-28,2025-04-28,09:42:00,,nan,,,41.2736233,1.9906946,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
+446390,2025-04-28,2025-04-28,2025-04-28,09:41:00,,nan,,,41.2741513,1.9904286,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,,0,0,app,,,,,,
+446389,2025-04-28,2025-04-28,2025-04-27,09:12:00,,nan,,,41.3554261,1.9793518,False,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,420,pitubis,cc-by-nc,0,,0,0,web,,,,,,
+446388,2025-04-28,2025-04-28,2025-04-28,09:16:00,,nan,,,41.274491,1.9875095,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,,0,0,app,,,,,,
+446387,2025-04-28,2025-04-28,2025-04-28,09:14:00,,nan,,,41.2737422,1.9862735,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,,0,0,app,,,,,,
+446386,2025-04-28,2025-04-28,2025-04-28,09:10:00,reptilia,246083,species,Mauremys leprosa,41.2730907,1.9846596,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,badosa,0,0,app,Animalia,Chordata,Reptilia,Testudines,Geoemydidae,Mauremys
+446385,2025-04-28,2025-04-28,2025-04-28,09:10:00,aves,244592,species,Anas platyrhynchos,41.2730907,1.9846596,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,badosa,0,0,app,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas
+446384,2025-04-28,2025-04-28,2025-04-28,09:10:00,,nan,,,41.2730907,1.9846596,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
+446383,2025-04-28,2025-04-28,2025-04-28,09:10:00,,nan,,,41.2730907,1.9846596,False,Spain,casual,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
+446382,2025-04-28,2025-04-28,2025-04-28,09:10:00,,nan,,,41.2730907,1.9846596,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
+446381,2025-04-28,2025-04-28,2025-04-28,09:10:00,,nan,,,41.2730907,1.9846596,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
+446380,2025-04-28,2025-04-28,2025-04-27,09:04:00,,nan,,,41.3554261,1.9793518,False,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,420,pitubis,cc-by-nc,0,,0,0,web,,,,,,
+446378,2025-04-28,2025-04-28,2025-04-28,09:01:00,aves,249839,species,Gallinula chloropus,41.2727613,1.9832795,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,marinatorresgi,0,0,app,Animalia,Chordata,Aves,Gruiformes,Rallidae,Gallinula
+446377,2025-04-28,2025-04-28,2025-04-28,08:56:00,,nan,,,41.2739734,1.9835087,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
+446376,2025-04-28,2025-04-28,2025-04-28,08:56:00,,nan,,,41.2739734,1.9835087,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
+446374,2025-04-28,2025-04-28,2025-04-28,08:53:00,mammalia,242484,species,Crocidura russula,41.2740331,1.9834064,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,marinatorresgi,0,0,app,Animalia,Chordata,Mammalia,Soricomorpha,Soricidae,Crocidura
+446373,2025-04-28,2025-04-28,2025-04-28,08:51:00,,nan,,,41.2739976,1.9828511,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,,0,0,app,,,,,,
+446372,2025-04-28,2025-04-28,2025-04-28,08:49:00,,nan,,,41.2741072,1.9829166,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,,0,0,app,,,,,,
+446371,2025-04-28,2025-04-28,2025-04-28,08:45:00,,nan,,,41.2741612,1.9829402,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
+446370,2025-04-28,2025-04-28,2025-04-28,08:45:00,,nan,,,41.2741612,1.9829402,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
+446369,2025-04-28,2025-04-28,2025-04-28,08:45:00,,nan,,,41.2741612,1.9829402,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
+446368,2025-04-28,2025-04-28,2025-04-28,08:45:00,,nan,,,41.2740838,1.9831162,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
+446367,2025-04-28,2025-04-28,2025-04-28,08:45:00,,nan,,,41.2740838,1.9831162,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
+446366,2025-04-28,2025-04-28,2025-04-28,08:45:00,,nan,,,41.2740838,1.9831162,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
+446365,2025-04-28,2025-04-28,2025-04-28,08:45:00,,nan,,,41.2740838,1.9831162,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
+446364,2025-04-28,2025-04-28,2025-04-28,08:45:00,,nan,,,41.2740838,1.9831162,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
+446363,2025-04-28,2025-04-28,2025-04-28,08:45:00,,nan,,,41.2740838,1.9831162,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
+446362,2025-04-28,2025-04-28,2025-04-28,08:45:00,,nan,,,41.2740838,1.9831162,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
+446361,2025-04-28,2025-04-28,2025-04-28,08:47:00,,nan,,,41.2741228,1.9829483,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,,0,0,app,,,,,,
+446360,2025-04-28,2025-04-28,2025-04-27,09:07:00,,nan,,,41.3554261,1.9793518,False,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,420,pitubis,cc-by-nc,0,,0,0,web,,,,,,
+446359,2025-04-28,2025-04-28,2025-04-27,08:54:00,,nan,,,41.3554261,1.9793518,False,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,420,pitubis,cc-by-nc,0,,0,0,web,,,,,,
+446358,2025-04-28,2025-04-28,2025-04-28,08:45:00,,nan,,,41.2741403,1.9833807,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,,0,0,app,,,,,,
+446357,2025-04-28,2025-04-28,2025-04-26,09:14:00,,nan,,,41.3554261,1.9793518,False,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,420,pitubis,cc-by-nc,0,,0,0,web,,,,,,
+446356,2025-04-28,2025-04-28,2025-04-28,08:43:00,,nan,,,41.2744562,1.9832481,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,,0,0,app,,,,,,
+446355,2025-04-28,2025-04-28,2025-04-26,09:11:00,,nan,,,41.3554261,1.9793518,False,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,420,pitubis,cc-by-nc,0,,0,0,web,,,,,,
+446354,2025-04-28,2025-04-28,2025-04-26,09:07:00,,nan,,,41.3554261,1.9793518,False,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,420,pitubis,cc-by-nc,0,,0,0,web,,,,,,
 446353,2025-04-28,2025-04-28,2025-04-26,08:57:00,,nan,,,41.3554261,1.9793518,False,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,420,pitubis,cc-by-nc,0,,0,0,web,,,,,,
 446352,2025-04-28,2025-04-28,2025-04-26,08:56:00,,nan,,,41.3554261,1.9793518,False,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,420,pitubis,cc-by-nc,0,,0,0,web,,,,,,
 446351,2025-04-28,2025-04-28,2025-04-26,08:54:00,,nan,,,41.3554261,1.9793518,False,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,420,pitubis,cc-by-nc,0,,0,0,web,,,,,,
@@ -1169,19 +1211,17 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 444352,2025-04-26,2025-04-26,2025-04-26,10:03:00,plantae,38907,genus,Gladiolus,41.4156477,2.146944,False,Spain,research,16501,eduard,cc-by,1,"eduard, xasalva",1,0,app,Plantae,Tracheophyta,Liliopsida,Liliales,Iridaceae,
 444351,2025-04-26,2025-04-26,2025-04-26,09:56:00,plantae,252625,species,Oxalis pes-caprae,41.4149537,2.1496164,False,Spain,research,16501,eduard,cc-by,1,"eduard, xasalva",1,0,app,Plantae,Tracheophyta,Magnoliopsida,Geraniales,Oxalidaceae,Oxalis
 444350,2025-04-26,2025-04-26,2025-04-26,09:54:00,plantae,31093,genus,Euphorbia,41.414899,2.1494249,False,Spain,research,16501,eduard,cc-by,1,"eduard, xasalva",1,0,app,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,
-444349,2025-04-26,2025-04-26,2025-04-26,09:52:00,plantae,331,order,Caryophyllales,41.4149298,2.1497137,False,Spain,needs_id,16501,eduard,cc-by,2,"eduard, xasalva",2,0,app,Plantae,Tracheophyta,Magnoliopsida,,,
+444349,2025-04-26,2025-04-28,2025-04-26,09:52:00,plantae,262699,species,Chenopodiastrum murale,41.4149298,2.1497137,False,Spain,research,16501,eduard,cc-by,1,"eduard, xasalva, eduard",1,0,app,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Amaranthaceae,Chenopodiastrum
 444348,2025-04-26,2025-04-26,2025-04-26,09:50:00,plantae,251303,species,Stachys ocymastrum,41.414816,2.1494613,False,Spain,needs_id,16501,eduard,cc-by,0,xasalva,0,0,app,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,Stachys
 444347,2025-04-26,2025-04-26,2025-04-26,09:46:00,plantae,252413,species,Convolvulus althaeoides,41.4148806,2.1490368,False,Spain,research,16501,eduard,cc-by,1,"eduard, xasalva",1,0,app,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,Convolvulus
 444346,2025-04-26,2025-04-26,2025-04-26,09:45:00,plantae,242219,species,Pistacia lentiscus,41.4145889,2.1492814,False,Spain,research,16501,eduard,cc-by,1,"eduard, xasalva",1,0,app,Plantae,Tracheophyta,Magnoliopsida,Sapindales,Anacardiaceae,Pistacia
 444345,2025-04-26,2025-04-26,2025-04-26,09:44:00,plantae,244728,species,Lobularia maritima,41.4146519,2.1493854,False,Spain,research,16501,eduard,cc-by,1,"eduard, xasalva",1,0,app,Plantae,Tracheophyta,Magnoliopsida,Capparales,Brassicaceae,
-444344,2025-04-26,2025-04-26,2025-04-26,09:43:00,plantae,251303,species,Stachys ocymastrum,41.4152328,2.1466347,False,Spain,needs_id,16501,eduard,cc-by,0,xasalva,0,0,app,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,Stachys
 444343,2025-04-26,2025-04-26,2025-04-26,09:40:00,plantae,249514,species,Galactites tomentosus,41.4144411,2.1492823,False,Spain,research,16501,eduard,cc-by,1,"eduard, xasalva",1,0,app,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Galactites
 444341,2025-04-26,2025-04-27,2025-04-26,09:40:00,plantae,244452,species,Anacyclus valentinus,41.4145378,2.1493257,False,Spain,research,16501,eduard,cc-by,1,"eduard, xasalva, eduard",1,0,app,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Anacyclus
 444340,2025-04-26,2025-04-26,2025-04-26,09:38:00,plantae,8968,genus,Solanum,41.4137069,2.1496647,False,Spain,research,16501,eduard,cc-by,1,"eduard, xasalva",1,0,app,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,
 444339,2025-04-26,2025-04-26,2025-04-26,09:36:00,plantae,252691,species,Pallenis spinosa,41.4139791,2.1494392,False,Spain,research,16501,eduard,cc-by,1,"eduard, xasalva",1,0,app,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pallenis
 444338,2025-04-26,2025-04-26,2025-04-26,09:35:00,plantae,246968,species,Erodium moschatum,41.4137876,2.1495648,False,Spain,research,16501,eduard,cc-by,1,"eduard, xasalva",1,0,app,Plantae,Tracheophyta,Magnoliopsida,Geraniales,Geraniaceae,Erodium
 444337,2025-04-26,2025-04-26,2025-04-26,09:34:00,plantae,251303,species,Stachys ocymastrum,41.4139963,2.1494641,False,Spain,research,16501,eduard,cc-by,1,"eduard, xasalva",1,0,app,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,Stachys
-444336,2025-04-26,2025-04-26,2025-04-26,09:28:00,plantae,244452,species,Anacyclus valentinus,41.4138295,2.148611,False,Spain,needs_id,16501,eduard,cc-by,0,xasalva,0,0,app,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Anacyclus
 444335,2025-04-26,2025-04-26,2025-04-26,09:26:00,plantae,8968,genus,Solanum,41.4135429,2.1475833,False,Spain,research,16501,eduard,cc-by,1,"eduard, xasalva",1,0,app,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,
 444334,2025-04-26,2025-04-26,2025-04-26,09:23:00,plantae,45455,genus,Sambucus,41.4142674,2.1470731,False,Spain,research,16501,eduard,cc-by,1,"eduard, xasalva",1,0,app,Plantae,Tracheophyta,Magnoliopsida,Dipsacales,Caprifoliaceae,
 444333,2025-04-26,2025-04-26,2025-04-26,09:20:00,plantae,241978,species,Ipomoea indica,41.413412,2.147319,False,Spain,needs_id,16501,eduard,cc-by,1,"eduard, xasalva",1,0,app,Plantae,Tracheophyta,Magnoliopsida,Solanales,Convolvulaceae,Ipomoea
