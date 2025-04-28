@@ -1,32 +1,205 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,identifications_count,identifiers,num_identification_agreements,num_identification_disagreements,device,kingdom,phylum,class,order,family,genus
-446423,2025-04-28,2025-04-28,2025-04-27,10:31:00,actinopterygii,35194,species,Thalassoma pavo,41.4089122432,2.2273376978,False,"El Besòs i el Maresme, Sant Martí, Barcelona, España",needs_id,16513,albertorubio,cc-by,0,albertorubio,0,0,web,Animalia,Chordata,Teleostei,Perciformes,Labridae,Thalassoma
-446422,2025-04-28,2025-04-28,2025-04-27,10:41:00,,241889,species,Pilumnus hirtellus,41.4089122432,2.2273376978,False,"El Besòs i el Maresme, Sant Martí, Barcelona, España",needs_id,16513,albertorubio,cc-by,0,albertorubio,0,0,web,Animalia,Arthropoda,Malacostraca,Decapoda,Pilumnidae,Pilumnus
-446421,2025-04-28,2025-04-28,2025-04-27,10:39:00,plantae,246914,species,Asparagopsis taxiformis,41.4090016137,2.2272840536,False,Spain,needs_id,16513,albertorubio,cc-by,0,albertorubio,0,0,web,Plantae,Rhodophyta,Florideophyceae,Bonnemaisoniales,Bonnemaisoniaceae,Asparagopsis
-446420,2025-04-28,2025-04-28,2025-04-27,10:17:00,,35063,species,Dictyota dichotoma,41.4089122432,2.2273376978,False,"El Besòs i el Maresme, Sant Martí, Barcelona, España",needs_id,16513,albertorubio,cc-by,0,albertorubio,0,0,web,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota
-446419,2025-04-28,2025-04-28,2025-04-27,09:36:00,,nan,,,41.4099359101,2.2279706991,False,Spain,needs_id,16513,albertorubio,cc-by,0,,0,0,web,,,,,,
-446418,2025-04-28,2025-04-28,2025-04-27,09:37:00,actinopterygii,17901,genus,Gobio,41.4093645998,2.2274342573,False,Spain,needs_id,16513,albertorubio,cc-by,0,albertorubio,0,0,web,Animalia,Chordata,Teleostei,Cypriniformes,Cyprinidae,
-446417,2025-04-28,2025-04-28,2025-04-27,09:42:00,actinopterygii,17901,genus,Gobio,41.4079966534,2.2263613737,False,Spain,needs_id,16513,albertorubio,cc-by,0,albertorubio,0,0,web,Animalia,Chordata,Teleostei,Cypriniformes,Cyprinidae,
+446621,2025-04-28,2025-04-28,2025-04-28,14:27:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446620,2025-04-28,2025-04-28,2025-04-28,14:26:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446619,2025-04-28,2025-04-28,2025-04-28,14:26:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446618,2025-04-28,2025-04-28,2025-04-28,14:25:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446617,2025-04-28,2025-04-28,2025-04-28,14:24:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446616,2025-04-28,2025-04-28,2025-04-28,14:23:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446615,2025-04-28,2025-04-28,2025-04-28,14:22:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446614,2025-04-28,2025-04-28,2025-04-28,14:22:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446613,2025-04-28,2025-04-28,2025-04-28,14:22:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446612,2025-04-28,2025-04-28,2025-04-28,14:22:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446611,2025-04-28,2025-04-28,2025-04-28,14:21:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446610,2025-04-28,2025-04-28,2025-04-28,14:21:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446609,2025-04-28,2025-04-28,2025-04-28,14:21:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446608,2025-04-28,2025-04-28,2025-04-28,14:20:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446607,2025-04-28,2025-04-28,2025-04-28,14:20:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446606,2025-04-28,2025-04-28,2025-04-28,14:20:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446605,2025-04-28,2025-04-28,2025-04-28,14:19:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446604,2025-04-28,2025-04-28,2025-04-28,14:19:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446603,2025-04-28,2025-04-28,2025-04-28,14:19:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446602,2025-04-28,2025-04-28,2025-04-28,14:19:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446601,2025-04-28,2025-04-28,2025-04-28,14:18:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446600,2025-04-28,2025-04-28,2025-04-28,14:17:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446599,2025-04-28,2025-04-28,2025-04-28,14:17:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446598,2025-04-28,2025-04-28,2025-04-28,14:15:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446597,2025-04-28,2025-04-28,2025-04-28,14:15:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446596,2025-04-28,2025-04-28,2025-04-28,14:13:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446595,2025-04-28,2025-04-28,2025-04-28,14:13:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446594,2025-04-28,2025-04-28,2025-04-28,14:12:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446593,2025-04-28,2025-04-28,2025-04-28,14:12:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446592,2025-04-28,2025-04-28,2025-04-28,14:11:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446591,2025-04-28,2025-04-28,2025-04-28,14:11:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446590,2025-04-28,2025-04-28,2025-04-28,14:11:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446589,2025-04-28,2025-04-28,2025-04-28,14:11:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446588,2025-04-28,2025-04-28,2025-04-28,14:10:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446587,2025-04-28,2025-04-28,2025-04-28,14:10:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446586,2025-04-28,2025-04-28,2025-04-28,14:08:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446585,2025-04-28,2025-04-28,2025-04-28,14:08:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446584,2025-04-28,2025-04-28,2025-04-28,14:02:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446583,2025-04-28,2025-04-28,2025-04-28,14:07:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446582,2025-04-28,2025-04-28,2025-04-28,14:01:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446581,2025-04-28,2025-04-28,2025-04-28,14:01:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446580,2025-04-28,2025-04-28,2025-04-28,14:01:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446579,2025-04-28,2025-04-28,2025-04-28,13:59:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446578,2025-04-28,2025-04-28,2025-04-28,13:59:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446577,2025-04-28,2025-04-28,2025-04-28,13:59:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446576,2025-04-28,2025-04-28,2025-04-28,13:58:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446575,2025-04-28,2025-04-28,2025-04-28,13:57:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446574,2025-04-28,2025-04-28,2025-04-28,13:56:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446573,2025-04-28,2025-04-28,2025-04-28,13:56:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446572,2025-04-28,2025-04-28,2025-04-28,13:56:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446571,2025-04-28,2025-04-28,2025-04-28,13:56:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446570,2025-04-28,2025-04-28,2025-04-28,13:52:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446569,2025-04-28,2025-04-28,2025-04-28,13:49:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446568,2025-04-28,2025-04-28,2025-04-28,13:49:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446567,2025-04-28,2025-04-28,2025-04-28,13:48:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446566,2025-04-28,2025-04-28,2025-04-28,13:48:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446565,2025-04-28,2025-04-28,2025-04-28,13:48:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446564,2025-04-28,2025-04-28,2025-04-28,13:47:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446563,2025-04-28,2025-04-28,2025-04-28,13:47:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446562,2025-04-28,2025-04-28,2025-04-28,13:47:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446561,2025-04-28,2025-04-28,2025-04-28,13:46:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446560,2025-04-28,2025-04-28,2025-04-28,13:46:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446559,2025-04-28,2025-04-28,2025-04-28,13:45:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446558,2025-04-28,2025-04-28,2025-04-28,13:45:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446557,2025-04-28,2025-04-28,2025-04-28,13:45:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446556,2025-04-28,2025-04-28,2025-04-28,13:45:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446555,2025-04-28,2025-04-28,2025-04-28,13:45:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446554,2025-04-28,2025-04-28,2025-04-28,13:43:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446553,2025-04-28,2025-04-28,2025-04-28,13:43:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446552,2025-04-28,2025-04-28,2025-04-28,13:43:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446551,2025-04-28,2025-04-28,2025-04-28,13:43:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446550,2025-04-28,2025-04-28,2025-04-28,13:43:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446549,2025-04-28,2025-04-28,2025-04-28,13:42:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446548,2025-04-28,2025-04-28,2025-04-28,13:42:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446547,2025-04-28,2025-04-28,2025-04-28,13:41:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446546,2025-04-28,2025-04-28,2025-04-28,13:41:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446545,2025-04-28,2025-04-28,2025-04-28,13:41:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446544,2025-04-28,2025-04-28,2025-04-28,13:41:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446543,2025-04-28,2025-04-28,2025-04-28,13:41:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446542,2025-04-28,2025-04-28,2025-04-28,13:40:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446541,2025-04-28,2025-04-28,2025-04-28,13:40:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446540,2025-04-28,2025-04-28,2025-04-28,13:40:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446539,2025-04-28,2025-04-28,2025-04-28,13:40:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446538,2025-04-28,2025-04-28,2025-04-28,13:39:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446537,2025-04-28,2025-04-28,2025-04-28,13:39:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446536,2025-04-28,2025-04-28,2025-04-28,13:39:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446535,2025-04-28,2025-04-28,2025-04-28,13:39:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446534,2025-04-28,2025-04-28,2025-04-28,13:37:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446533,2025-04-28,2025-04-28,2025-04-28,13:37:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446532,2025-04-28,2025-04-28,2025-04-28,13:37:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446531,2025-04-28,2025-04-28,2025-04-28,13:37:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446530,2025-04-28,2025-04-28,2025-04-28,13:36:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446529,2025-04-28,2025-04-28,2025-04-28,13:36:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446528,2025-04-28,2025-04-28,2025-04-28,13:36:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446527,2025-04-28,2025-04-28,2025-04-28,13:35:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446526,2025-04-28,2025-04-28,2025-04-28,13:34:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446525,2025-04-28,2025-04-28,2025-04-28,13:33:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446524,2025-04-28,2025-04-28,2025-04-28,13:33:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446523,2025-04-28,2025-04-28,2025-04-28,13:32:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446522,2025-04-28,2025-04-28,2025-04-28,13:31:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446521,2025-04-28,2025-04-28,2025-04-28,13:31:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446520,2025-04-28,2025-04-28,2025-04-28,13:30:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446519,2025-04-28,2025-04-28,2025-04-28,13:30:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446518,2025-04-28,2025-04-28,2025-04-28,13:30:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446517,2025-04-28,2025-04-28,2025-04-28,13:29:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446516,2025-04-28,2025-04-28,2025-04-28,13:29:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446515,2025-04-28,2025-04-28,2025-04-28,13:29:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446514,2025-04-28,2025-04-28,2025-04-28,13:28:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446513,2025-04-28,2025-04-28,2025-04-28,13:26:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446512,2025-04-28,2025-04-28,2025-04-28,13:26:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446511,2025-04-28,2025-04-28,2025-04-28,13:25:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446510,2025-04-28,2025-04-28,2025-04-28,13:24:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446509,2025-04-28,2025-04-28,2025-04-28,13:24:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446508,2025-04-28,2025-04-28,2025-04-28,13:24:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446507,2025-04-28,2025-04-28,2025-04-28,13:23:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446506,2025-04-28,2025-04-28,2025-04-28,13:23:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446505,2025-04-28,2025-04-28,2025-04-28,13:23:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446504,2025-04-28,2025-04-28,2025-04-28,13:21:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446503,2025-04-28,2025-04-28,2025-04-28,13:20:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446502,2025-04-28,2025-04-28,2025-04-28,13:19:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446501,2025-04-28,2025-04-28,2025-04-28,13:19:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446500,2025-04-28,2025-04-28,2025-04-28,13:19:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446499,2025-04-28,2025-04-28,2025-04-28,13:19:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446498,2025-04-28,2025-04-28,2025-04-28,13:18:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446497,2025-04-28,2025-04-28,2025-04-28,13:18:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446496,2025-04-28,2025-04-28,2025-04-28,13:18:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446495,2025-04-28,2025-04-28,2025-04-28,13:18:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446494,2025-04-28,2025-04-28,2025-04-28,13:17:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446493,2025-04-28,2025-04-28,2025-04-28,13:17:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446492,2025-04-28,2025-04-28,2025-04-28,13:17:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446491,2025-04-28,2025-04-28,2025-04-28,13:16:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446490,2025-04-28,2025-04-28,2025-04-28,13:16:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446489,2025-04-28,2025-04-28,2025-04-28,13:14:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446488,2025-04-28,2025-04-28,2025-04-28,13:14:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446487,2025-04-28,2025-04-28,2025-04-28,13:13:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446486,2025-04-28,2025-04-28,2025-04-28,13:13:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446485,2025-04-28,2025-04-28,2025-04-28,13:13:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446484,2025-04-28,2025-04-28,2025-04-28,13:12:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446483,2025-04-28,2025-04-28,2025-04-28,13:12:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446482,2025-04-28,2025-04-28,2025-04-28,13:12:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446481,2025-04-28,2025-04-28,2025-04-28,13:11:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446480,2025-04-28,2025-04-28,2025-04-28,13:10:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446479,2025-04-28,2025-04-28,2025-04-28,13:10:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446478,2025-04-28,2025-04-28,2025-04-28,13:10:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446477,2025-04-28,2025-04-28,2025-04-28,13:10:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446476,2025-04-28,2025-04-28,2025-04-28,13:10:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446475,2025-04-28,2025-04-28,2025-04-28,13:09:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446474,2025-04-28,2025-04-28,2025-04-28,13:08:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446473,2025-04-28,2025-04-28,2025-04-28,13:09:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446472,2025-04-28,2025-04-28,2025-04-28,13:08:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446471,2025-04-28,2025-04-28,2025-04-28,13:07:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446470,2025-04-28,2025-04-28,2025-04-28,13:07:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446469,2025-04-28,2025-04-28,2025-04-28,13:07:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446468,2025-04-28,2025-04-28,2025-04-28,13:07:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446467,2025-04-28,2025-04-28,2025-04-28,13:07:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446466,2025-04-28,2025-04-28,2025-04-28,13:06:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446465,2025-04-28,2025-04-28,2025-04-28,13:06:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446464,2025-04-28,2025-04-28,2025-04-28,13:06:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446463,2025-04-28,2025-04-28,2025-04-28,13:05:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446462,2025-04-28,2025-04-28,2025-04-28,13:05:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446461,2025-04-28,2025-04-28,2025-04-28,13:04:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446460,2025-04-28,2025-04-28,2025-04-28,13:04:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446459,2025-04-28,2025-04-28,2025-04-28,13:04:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446458,2025-04-28,2025-04-28,2025-04-28,14:09:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446457,2025-04-28,2025-04-28,2025-04-28,14:03:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446456,2025-04-28,2025-04-28,2025-04-28,13:59:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446455,2025-04-28,2025-04-28,2025-04-28,13:50:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446454,2025-04-28,2025-04-28,2025-04-28,13:50:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446453,2025-04-28,2025-04-28,2025-04-28,13:22:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446452,2025-04-28,2025-04-28,2025-04-28,13:50:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446451,2025-04-28,2025-04-28,2025-04-28,13:15:00,mollusca,254010,species,Rhyssoplax olivacea,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,xasalva,0,0,web,Animalia,Mollusca,Polyplacophora,,Chitonidae,Rhyssoplax
+446450,2025-04-28,2025-04-28,2025-04-28,13:15:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446449,2025-04-28,2025-04-28,2025-04-28,13:13:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446423,2025-04-28,2025-04-28,2025-04-27,10:31:00,actinopterygii,35216,species,Symphodus tinca,41.4089122432,2.2273376978,False,"El Besòs i el Maresme, Sant Martí, Barcelona, España",research,16513,albertorubio,cc-by,1,"albertorubio, xasalva, albertorubio",1,0,web,Animalia,Chordata,Teleostei,Perciformes,Labridae,Symphodus
+446422,2025-04-28,2025-04-28,2025-04-27,10:41:00,crustacea,344,order,Decapoda,41.4089122432,2.2273376978,False,"El Besòs i el Maresme, Sant Martí, Barcelona, España",needs_id,16513,albertorubio,cc-by,2,"albertorubio, xasalva",2,0,web,Animalia,Arthropoda,Malacostraca,,,
+446421,2025-04-28,2025-04-28,2025-04-27,10:39:00,plantae,246914,species,Asparagopsis taxiformis,41.4090016137,2.2272840536,False,Spain,research,16513,albertorubio,cc-by,1,"albertorubio, xasalva",1,0,web,Plantae,Rhodophyta,Florideophyceae,Bonnemaisoniales,Bonnemaisoniaceae,Asparagopsis
+446420,2025-04-28,2025-04-28,2025-04-27,10:17:00,chromista,35541,genus,Dictyota,41.4089122432,2.2273376978,False,"El Besòs i el Maresme, Sant Martí, Barcelona, España",needs_id,16513,albertorubio,cc-by,2,"albertorubio, xasalva",2,0,web,Chromista,Ochrophyta,Phaeophyceae,Dictyotales,Dictyotaceae,
+446419,2025-04-28,2025-04-28,2025-04-27,09:36:00,actinopterygii,240399,species,Tripterygion tripteronotum,41.4099359101,2.2279706991,False,Spain,needs_id,16513,albertorubio,cc-by,0,xasalva,0,0,web,Animalia,Chordata,Teleostei,Perciformes,Tripterygiidae,Tripterygion
+446418,2025-04-28,2025-04-28,2025-04-27,09:37:00,actinopterygii,264556,class,Teleostei,41.4093645998,2.2274342573,False,Spain,needs_id,16513,albertorubio,cc-by,2,"albertorubio, xasalva",2,0,web,Animalia,Chordata,Actinopterygii,,,
+446417,2025-04-28,2025-04-28,2025-04-27,09:42:00,actinopterygii,264556,class,Teleostei,41.4079966534,2.2263613737,False,Spain,needs_id,16513,albertorubio,cc-by,2,"albertorubio, xasalva",2,0,web,Animalia,Chordata,Actinopterygii,,,
 446416,2025-04-28,2025-04-28,2025-04-27,09:42:00,echinodermata,34848,species,Paracentrotus lividus,41.4082380578,2.2268119848,False,Spain,research,16513,albertorubio,cc-by,1,"albertorubio, guillermoalvarez_fecdas",1,0,web,Animalia,Echinodermata,Echinoidea,Camarodonta,Parechinidae,Paracentrotus
-446415,2025-04-28,2025-04-28,2025-04-27,09:44:00,actinopterygii,246349,species,Symphodus melops,41.4099680964,2.2271445787,False,Spain,needs_id,16513,albertorubio,cc-by,0,albertorubio,0,0,web,Animalia,Chordata,Teleostei,Perciformes,Labridae,Symphodus
+446415,2025-04-28,2025-04-28,2025-04-27,09:44:00,actinopterygii,35040,genus,Symphodus,41.4099680964,2.2271445787,False,Spain,needs_id,16513,albertorubio,cc-by,2,"albertorubio, xasalva",2,0,web,Animalia,Chordata,Teleostei,Perciformes,Labridae,
 446414,2025-04-28,2025-04-28,2025-04-27,10:18:00,mollusca,35185,species,Felimare picta,41.4090024991,2.2268763578,False,Spain,research,16513,albertorubio,cc-by,1,"albertorubio, guillermoalvarez_fecdas",1,0,web,Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Felimare
 446413,2025-04-28,2025-04-28,2025-04-27,10:24:00,actinopterygii,34835,species,Coris julis,41.4085277419,2.226801256,False,Spain,research,16513,albertorubio,cc-by,1,"albertorubio, guillermoalvarez_fecdas",1,0,web,Animalia,Chordata,Teleostei,Perciformes,Labridae,Coris
-446412,2025-04-28,2025-04-28,2025-04-27,10:22:00,actinopterygii,34796,species,Scorpaena notata,41.4096703721,2.2275415457,False,Spain,needs_id,16513,albertorubio,cc-by,0,albertorubio,0,0,web,Animalia,Chordata,Teleostei,Scorpaeniformes,Scorpaenidae,Scorpaena
+446412,2025-04-28,2025-04-28,2025-04-27,10:22:00,actinopterygii,11299,genus,Scorpaena,41.4096703721,2.2275415457,False,Spain,needs_id,16513,albertorubio,cc-by,2,"albertorubio, xasalva",2,0,web,Animalia,Chordata,Teleostei,Scorpaeniformes,Scorpaenidae,
 446411,2025-04-28,2025-04-28,2025-04-27,10:28:00,crustacea,34898,species,Upogebia pusilla,41.4101934004,2.2277561224,False,Spain,research,16513,albertorubio,cc-by,1,"albertorubio, guillermoalvarez_fecdas",1,0,web,Animalia,Arthropoda,Malacostraca,Decapoda,Upogebiidae,Upogebia
-446410,2025-04-28,2025-04-28,2025-04-27,10:35:00,echinodermata,251875,species,Holothuria tubulosa,41.408270245,2.2264150179,False,Spain,needs_id,16513,albertorubio,cc-by,1,"albertorubio, guillermoalvarez_fecdas",1,0,web,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria
-446409,2025-04-28,2025-04-28,2025-04-27,10:37:00,mollusca,1177,family,Muricidae,41.408777191,2.2266939676,False,Spain,needs_id,16513,albertorubio,cc-by,2,"albertorubio, guillermoalvarez_fecdas",2,0,web,Animalia,Mollusca,Gastropoda,Neogastropoda,,
+446410,2025-04-28,2025-04-28,2025-04-27,10:35:00,echinodermata,251875,species,Holothuria tubulosa,41.408270245,2.2264150179,False,Spain,research,16513,albertorubio,cc-by,2,"albertorubio, guillermoalvarez_fecdas, xasalva",2,0,web,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria
+446409,2025-04-28,2025-04-28,2025-04-27,10:37:00,mollusca,1177,family,Muricidae,41.408777191,2.2266939676,False,Spain,needs_id,16513,albertorubio,cc-by,3,"albertorubio, guillermoalvarez_fecdas, xasalva",3,0,web,Animalia,Mollusca,Gastropoda,Neogastropoda,,
 446408,2025-04-28,2025-04-28,2025-04-27,10:37:00,cnidaria,35220,species,Anemonia viridis,41.4098554441,2.2274986303,False,Spain,needs_id,16513,albertorubio,cc-by,0,albertorubio,0,0,web,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Anemonia
 446407,2025-04-28,2025-04-28,2025-04-27,10:39:00,annelida,34800,species,Branchiomma luctuosum,41.4092197598,2.2269729174,False,Spain,research,16513,albertorubio,cc-by,1,"albertorubio, guillermoalvarez_fecdas",1,0,web,Animalia,Annelida,Polychaeta,Sabellida,Sabellidae,Branchiomma
 446406,2025-04-28,2025-04-28,2025-04-27,10:42:00,actinopterygii,35120,species,Gobius incognitus,41.4095407407,2.2269729174,False,Spain,research,16513,albertorubio,cc-by,1,"albertorubio, guillermoalvarez_fecdas",1,0,web,Animalia,Chordata,Teleostei,Gobiiformes,Gobiidae,Gobius
 446405,2025-04-28,2025-04-28,2025-04-27,10:42:00,,252680,species,Pagurus anachoretus,41.4089122432,2.2273376978,False,"El Besòs i el Maresme, Sant Martí, Barcelona, España",needs_id,16513,albertorubio,cc-by,0,albertorubio,0,0,web,Animalia,Arthropoda,Malacostraca,Decapoda,Paguridae,Pagurus
-446404,2025-04-28,2025-04-28,2025-04-27,09:56:00,actinopterygii,34835,species,Coris julis,41.4107637,2.2273513,False,"Zona Fòrum, Moll de la Vela, 1, 08930 Sant Adrià de Besòs, Barcelona, Espanya",research,8653,martatv,cc-by,1,"martatv, guillermoalvarez_fecdas",1,0,web,Animalia,Chordata,Teleostei,Perciformes,Labridae,Coris
-446403,2025-04-28,2025-04-28,2025-04-27,10:52:00,mollusca,35185,species,Felimare picta,41.4107637,2.2273513,False,"Zona Fòrum, Moll de la Vela, 1, 08930 Sant Adrià de Besòs, Barcelona, Espanya",needs_id,8653,martatv,cc-by,1,"martatv, guillermoalvarez_fecdas",1,0,web,Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Felimare
+446404,2025-04-28,2025-04-28,2025-04-27,09:56:00,actinopterygii,34835,species,Coris julis,41.4107637,2.2273513,False,"Zona Fòrum, Moll de la Vela, 1, 08930 Sant Adrià de Besòs, Barcelona, Espanya",research,8653,martatv,cc-by,2,"martatv, guillermoalvarez_fecdas, xasalva",2,0,web,Animalia,Chordata,Teleostei,Perciformes,Labridae,Coris
+446403,2025-04-28,2025-04-28,2025-04-27,10:52:00,mollusca,35185,species,Felimare picta,41.4107637,2.2273513,False,"Zona Fòrum, Moll de la Vela, 1, 08930 Sant Adrià de Besòs, Barcelona, Espanya",research,8653,martatv,cc-by,2,"martatv, guillermoalvarez_fecdas, xasalva",2,0,web,Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Felimare
 446402,2025-04-28,2025-04-28,2025-04-27,10:11:00,actinopterygii,3,subphylum,Actinopterygii,41.4107637,2.2273513,False,"Zona Fòrum, Moll de la Vela, 1, 08930 Sant Adrià de Besòs, Barcelona, Espanya",needs_id,8653,martatv,cc-by,0,martatv,0,0,web,Animalia,Chordata,,,,
-446401,2025-04-28,2025-04-28,2025-04-27,09:54:00,mollusca,34875,species,Hexaplex trunculus,41.4107637,2.2273513,False,"Zona Fòrum, Moll de la Vela, 1, 08930 Sant Adrià de Besòs, Barcelona, Espanya",needs_id,8653,martatv,cc-by,1,"martatv, guillermoalvarez_fecdas",1,0,web,Animalia,Mollusca,Gastropoda,Neogastropoda,Muricidae,Hexaplex
+446401,2025-04-28,2025-04-28,2025-04-27,09:54:00,mollusca,34875,species,Hexaplex trunculus,41.4107637,2.2273513,False,"Zona Fòrum, Moll de la Vela, 1, 08930 Sant Adrià de Besòs, Barcelona, Espanya",research,8653,martatv,cc-by,2,"martatv, guillermoalvarez_fecdas, xasalva",2,0,web,Animalia,Mollusca,Gastropoda,Neogastropoda,Muricidae,Hexaplex
 446400,2025-04-28,2025-04-28,2025-04-27,09:51:00,actinopterygii,3,subphylum,Actinopterygii,41.4107637,2.2273513,False,"Zona Fòrum, Moll de la Vela, 1, 08930 Sant Adrià de Besòs, Barcelona, Espanya",needs_id,8653,martatv,cc-by,0,martatv,0,0,web,Animalia,Chordata,,,,
-446399,2025-04-28,2025-04-28,2025-04-27,09:50:00,echinodermata,251866,species,Holothuria forskali,41.4107637,2.2273513,False,"Zona Fòrum, Moll de la Vela, 1, 08930 Sant Adrià de Besòs, Barcelona, Espanya",needs_id,8653,martatv,cc-by,0,martatv,0,0,web,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria
-446398,2025-04-28,2025-04-28,2025-04-27,09:44:00,mollusca,35185,species,Felimare picta,41.4107637,2.2273513,False,"Zona Fòrum, Moll de la Vela, 1, 08930 Sant Adrià de Besòs, Barcelona, Espanya",needs_id,8653,martatv,cc-by,1,"martatv, guillermoalvarez_fecdas",1,0,web,Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Felimare
-446397,2025-04-28,2025-04-28,2025-04-28,10:41:00,,nan,,,41.264663,1.9908233,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,,0,0,app,,,,,,
-446396,2025-04-28,2025-04-28,2025-04-28,10:36:00,,nan,,,41.2646707,1.9911857,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,,0,0,app,,,,,,
+446399,2025-04-28,2025-04-28,2025-04-27,09:50:00,echinodermata,9659,genus,Holothuria,41.4107637,2.2273513,False,"Zona Fòrum, Moll de la Vela, 1, 08930 Sant Adrià de Besòs, Barcelona, Espanya",needs_id,8653,martatv,cc-by,2,"martatv, xasalva",2,0,web,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,
+446398,2025-04-28,2025-04-28,2025-04-27,09:44:00,mollusca,35185,species,Felimare picta,41.4107637,2.2273513,False,"Zona Fòrum, Moll de la Vela, 1, 08930 Sant Adrià de Besòs, Barcelona, Espanya",research,8653,martatv,cc-by,2,"martatv, guillermoalvarez_fecdas, xasalva",2,0,web,Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Felimare
+446397,2025-04-28,2025-04-28,2025-04-28,10:41:00,insecta,245563,species,Apis mellifera,41.264663,1.9908233,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,xasalva,0,0,app,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Apis
+446396,2025-04-28,2025-04-28,2025-04-28,10:36:00,plantae,245902,species,Arctotheca calendula,41.2646707,1.9911857,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,xasalva,0,0,app,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Arctotheca
 446395,2025-04-28,2025-04-28,2025-04-28,10:27:00,life,1,stateofmatter,Life,41.4936600433,1.9589017332,False,Spain,needs_id,135,jaom,cc-by-nc,0,jaom,0,0,app,,,,,,
 446394,2025-04-28,2025-04-28,2025-04-28,10:18:00,insecta,242763,species,Aedes albopictus,41.4958338015,1.9567150623,False,Spain,research,135,jaom,cc-by-nc,1,"jaom, badosa",1,0,app,Animalia,Arthropoda,Insecta,Diptera,Culicidae,Aedes
 446393,2025-04-28,2025-04-28,2025-04-28,09:34:00,arachnida,249437,species,Carrhotus xanthogramma,41.4949543624,1.9551020488,False,Spain,needs_id,135,jaom,cc-by-nc,0,jaom,0,0,app,Animalia,Arthropoda,Arachnida,Araneae,Salticidae,Carrhotus
@@ -38,20 +211,20 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 446387,2025-04-28,2025-04-28,2025-04-28,09:14:00,aves,253889,species,Pica pica,41.2737422,1.9862735,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,xasalva,0,0,app,Animalia,Chordata,Aves,Passeriformes,Corvidae,Pica
 446386,2025-04-28,2025-04-28,2025-04-28,09:10:00,reptilia,246083,species,Mauremys leprosa,41.2730907,1.9846596,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,badosa,0,0,app,Animalia,Chordata,Reptilia,Testudines,Geoemydidae,Mauremys
 446385,2025-04-28,2025-04-28,2025-04-28,09:10:00,aves,244592,species,Anas platyrhynchos,41.2730907,1.9846596,False,Spain,research,988,elibonfill,cc-by-nc,2,"badosa, xasalva",2,0,app,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas
-446384,2025-04-28,2025-04-28,2025-04-28,09:10:00,,nan,,,41.2730907,1.9846596,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
+446384,2025-04-28,2025-04-28,2025-04-28,09:10:00,reptilia,251750,species,Trachemys scripta,41.2730907,1.9846596,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,xasalva,0,0,app,Animalia,Chordata,Reptilia,Testudines,Emydidae,Trachemys
 446383,2025-04-28,2025-04-28,2025-04-28,09:10:00,,nan,,,41.2730907,1.9846596,False,Spain,casual,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
 446382,2025-04-28,2025-04-28,2025-04-28,09:10:00,,nan,,,41.2730907,1.9846596,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
-446381,2025-04-28,2025-04-28,2025-04-28,09:10:00,,nan,,,41.2730907,1.9846596,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
+446381,2025-04-28,2025-04-28,2025-04-28,09:10:00,insecta,244988,species,Pyrrhocoris apterus,41.2730907,1.9846596,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,xasalva,0,0,app,Animalia,Arthropoda,Insecta,Hemiptera,Pyrrhocoridae,Pyrrhocoris
 446380,2025-04-28,2025-04-28,2025-04-27,09:04:00,,nan,,,41.3554261,1.9793518,False,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,420,pitubis,cc-by-nc,0,,0,0,web,,,,,,
-446378,2025-04-28,2025-04-28,2025-04-28,09:01:00,aves,249839,species,Gallinula chloropus,41.2727613,1.9832795,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,marinatorresgi,0,0,app,Animalia,Chordata,Aves,Gruiformes,Rallidae,Gallinula
+446378,2025-04-28,2025-04-28,2025-04-28,09:01:00,aves,249839,species,Gallinula chloropus,41.2727613,1.9832795,False,Spain,research,817,marinatorresgi,cc-by-nc,1,"marinatorresgi, xasalva",1,0,app,Animalia,Chordata,Aves,Gruiformes,Rallidae,Gallinula
 446377,2025-04-28,2025-04-28,2025-04-28,08:56:00,,nan,,,41.2739734,1.9835087,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
 446376,2025-04-28,2025-04-28,2025-04-28,08:56:00,,nan,,,41.2739734,1.9835087,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
 446374,2025-04-28,2025-04-28,2025-04-28,08:53:00,mammalia,242484,species,Crocidura russula,41.2740331,1.9834064,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,marinatorresgi,0,0,app,Animalia,Chordata,Mammalia,Soricomorpha,Soricidae,Crocidura
 446373,2025-04-28,2025-04-28,2025-04-28,08:51:00,,nan,,,41.2739976,1.9828511,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,,0,0,app,,,,,,
-446372,2025-04-28,2025-04-28,2025-04-28,08:49:00,,nan,,,41.2741072,1.9829166,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,,0,0,app,,,,,,
+446372,2025-04-28,2025-04-28,2025-04-28,08:49:00,aves,244592,species,Anas platyrhynchos,41.2741072,1.9829166,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,xasalva,0,0,app,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas
 446371,2025-04-28,2025-04-28,2025-04-28,08:45:00,,nan,,,41.2741612,1.9829402,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
 446370,2025-04-28,2025-04-28,2025-04-28,08:45:00,,nan,,,41.2741612,1.9829402,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
-446369,2025-04-28,2025-04-28,2025-04-28,08:45:00,,nan,,,41.2741612,1.9829402,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
+446369,2025-04-28,2025-04-28,2025-04-28,08:45:00,plantae,246907,species,Borago officinalis,41.2741612,1.9829402,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,xasalva,0,0,app,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Boraginaceae,Borago
 446368,2025-04-28,2025-04-28,2025-04-28,08:45:00,,nan,,,41.2740838,1.9831162,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
 446367,2025-04-28,2025-04-28,2025-04-28,08:45:00,,nan,,,41.2740838,1.9831162,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
 446366,2025-04-28,2025-04-28,2025-04-28,08:45:00,,nan,,,41.2740838,1.9831162,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
@@ -59,7 +232,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 446364,2025-04-28,2025-04-28,2025-04-28,08:45:00,,nan,,,41.2740838,1.9831162,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
 446363,2025-04-28,2025-04-28,2025-04-28,08:45:00,,nan,,,41.2740838,1.9831162,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
 446362,2025-04-28,2025-04-28,2025-04-28,08:45:00,,nan,,,41.2740838,1.9831162,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
-446361,2025-04-28,2025-04-28,2025-04-28,08:47:00,reptilia,251750,species,Trachemys scripta,41.2741228,1.9829483,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,badosa,0,0,app,Animalia,Chordata,Reptilia,Testudines,Emydidae,Trachemys
+446361,2025-04-28,2025-04-28,2025-04-28,08:47:00,reptilia,251750,species,Trachemys scripta,41.2741228,1.9829483,False,Spain,research,817,marinatorresgi,cc-by-nc,2,"badosa, xasalva",2,0,app,Animalia,Chordata,Reptilia,Testudines,Emydidae,Trachemys
 446360,2025-04-28,2025-04-28,2025-04-27,09:07:00,,nan,,,41.3554261,1.9793518,False,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,420,pitubis,cc-by-nc,0,,0,0,web,,,,,,
 446359,2025-04-28,2025-04-28,2025-04-27,08:54:00,,nan,,,41.3554261,1.9793518,False,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,420,pitubis,cc-by-nc,0,,0,0,web,,,,,,
 446358,2025-04-28,2025-04-28,2025-04-28,08:45:00,,nan,,,41.2741403,1.9833807,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,,0,0,app,,,,,,
@@ -67,7 +240,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 446356,2025-04-28,2025-04-28,2025-04-28,08:43:00,,nan,,,41.2744562,1.9832481,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,,0,0,app,,,,,,
 446355,2025-04-28,2025-04-28,2025-04-26,09:11:00,,nan,,,41.3554261,1.9793518,False,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,420,pitubis,cc-by-nc,0,,0,0,web,,,,,,
 446354,2025-04-28,2025-04-28,2025-04-26,09:07:00,,nan,,,41.3554261,1.9793518,False,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,420,pitubis,cc-by-nc,0,,0,0,web,,,,,,
-446353,2025-04-28,2025-04-28,2025-04-26,08:57:00,,nan,,,41.3554261,1.9793518,False,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,420,pitubis,cc-by-nc,0,,0,0,web,,,,,,
+446353,2025-04-28,2025-04-28,2025-04-26,08:57:00,insecta,252648,species,Oxythyrea funesta,41.3554261,1.9793518,False,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,420,pitubis,cc-by-nc,0,xasalva,0,0,web,Animalia,Arthropoda,Insecta,Coleoptera,Cetoniidae,Oxythyrea
 446352,2025-04-28,2025-04-28,2025-04-26,08:56:00,,nan,,,41.3554261,1.9793518,False,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,420,pitubis,cc-by-nc,0,,0,0,web,,,,,,
 446351,2025-04-28,2025-04-28,2025-04-26,08:54:00,,nan,,,41.3554261,1.9793518,False,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,420,pitubis,cc-by-nc,0,,0,0,web,,,,,,
 446350,2025-04-28,2025-04-28,2025-04-28,08:33:00,aves,253488,species,Upupa epops,41.2754175,1.9847947,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,badosa,0,0,app,Animalia,Chordata,Aves,Upupiformes,Upupidae,Upupa
@@ -77,21 +250,21 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 446346,2025-04-28,2025-04-28,2025-04-26,08:43:00,,nan,,,41.3554261,1.9793518,False,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,420,pitubis,cc-by-nc,0,,0,0,web,,,,,,
 446345,2025-04-28,2025-04-28,2025-04-26,08:43:00,,nan,,,41.3554261,1.9793518,False,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,420,pitubis,cc-by-nc,0,,0,0,web,,,,,,
 446344,2025-04-28,2025-04-28,2025-04-26,08:40:00,,nan,,,41.3554261,1.9793518,False,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,420,pitubis,cc-by-nc,0,,0,0,web,,,,,,
-446343,2025-04-28,2025-04-28,2025-04-28,08:22:00,,nan,,,41.2767332,1.9801631,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,,0,0,app,,,,,,
+446343,2025-04-28,2025-04-28,2025-04-28,08:22:00,plantae,246918,species,Asparagus acutifolius,41.2767332,1.9801631,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,xasalva,0,0,app,Plantae,Tracheophyta,Liliopsida,Asparagales,Asparagaceae,Asparagus
 446342,2025-04-28,2025-04-28,2025-04-28,08:22:00,,nan,,,41.2767332,1.9801631,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,,0,0,app,,,,,,
 446341,2025-04-28,2025-04-28,2025-04-28,08:22:00,,nan,,,41.2767332,1.9801631,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,,0,0,app,,,,,,
 446340,2025-04-28,2025-04-28,2025-04-28,08:22:00,,nan,,,41.2767332,1.9801631,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,,0,0,app,,,,,,
 446339,2025-04-28,2025-04-28,2025-04-26,08:35:00,,nan,,,41.3554261,1.9793518,False,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,420,pitubis,cc-by-nc,0,,0,0,web,,,,,,
 446338,2025-04-28,2025-04-28,2025-04-26,08:34:00,,nan,,,41.3554261,1.9793518,False,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,420,pitubis,cc-by-nc,0,,0,0,web,,,,,,
 446336,2025-04-28,2025-04-28,2025-04-26,08:34:00,,nan,,,41.3554261,1.9793518,False,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,420,pitubis,cc-by-nc,0,,0,0,web,,,,,,
-446335,2025-04-28,2025-04-28,2025-04-28,07:36:00,insecta,262206,subspecies,Vespa velutina nigrithorax,41.491826757,1.9576377422,False,Spain,needs_id,135,jaom,cc-by-nc,0,jaom,0,0,app,Animalia,Arthropoda,Insecta,Hymenoptera,Vespidae,Vespa
-446334,2025-04-28,2025-04-28,2025-04-28,08:12:00,insecta,211993,species,Halyomorpha halys,41.4916873749,1.9576498121,False,Spain,needs_id,135,jaom,cc-by-nc,0,jaom,0,0,app,Animalia,Arthropoda,Insecta,Hemiptera,Pentatomidae,Halyomorpha
+446335,2025-04-28,2025-04-28,2025-04-28,07:36:00,insecta,262206,subspecies,Vespa velutina nigrithorax,41.491826757,1.9576377422,False,Spain,research,135,jaom,cc-by-nc,1,"jaom, xasalva",1,0,app,Animalia,Arthropoda,Insecta,Hymenoptera,Vespidae,Vespa
+446334,2025-04-28,2025-04-28,2025-04-28,08:12:00,insecta,211993,species,Halyomorpha halys,41.4916873749,1.9576498121,False,Spain,research,135,jaom,cc-by-nc,1,"jaom, xasalva",1,0,app,Animalia,Arthropoda,Insecta,Hemiptera,Pentatomidae,Halyomorpha
 446248,2025-04-27,2025-04-28,2025-04-27,16:45:00,plantae,248995,species,Foeniculum vulgare,41.5033354699,2.148950246,False,"Ripollet, España",research,1030,mingokt,cc-by-nc,1,"mingokt, jaume-piera",1,0,web,Plantae,Tracheophyta,Magnoliopsida,Apiales,Apiaceae,Foeniculum
 446247,2025-04-27,2025-04-27,2025-04-27,16:45:00,plantae,244166,species,Prunus dulcis,41.5033354699,2.148950246,False,"Ripollet, España",needs_id,1030,mingokt,cc-by-nc,0,mingokt,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,Prunus
 446246,2025-04-27,2025-04-27,2025-04-27,16:46:00,plantae,244166,species,Prunus dulcis,41.5033354699,2.148950246,False,"Ripollet, España",needs_id,1030,mingokt,cc-by-nc,0,mingokt,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,Prunus
 446245,2025-04-27,2025-04-28,2025-04-27,16:47:00,plantae,250112,species,Olea europea,41.5033354699,2.148950246,False,"Ripollet, España",research,1030,mingokt,cc-by-nc,1,"mingokt, jaume-piera",1,0,web,Plantae,Tracheophyta,Magnoliopsida,Scrophulariales,Oleaceae,Olea
 446244,2025-04-27,2025-04-28,2025-04-27,16:47:00,aves,244592,species,Anas platyrhynchos,41.5033354699,2.148950246,False,"Ripollet, España",research,1030,mingokt,cc-by-nc,1,"mingokt, jaume-piera",1,0,web,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas
-446243,2025-04-27,2025-04-28,2025-04-27,16:50:00,plantae,245478,species,Echium vulgare,41.5033354699,2.148950246,False,"Ripollet, España",needs_id,1030,mingokt,cc-by-nc,0,piripip,0,0,web,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Boraginaceae,Echium
+446243,2025-04-27,2025-04-28,2025-04-27,16:50:00,plantae,245478,species,Echium vulgare,41.5033354699,2.148950246,False,"Ripollet, España",research,1030,mingokt,cc-by-nc,2,"piripip, xasalva",2,0,web,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Boraginaceae,Echium
 446242,2025-04-27,2025-04-28,2025-04-27,16:48:00,plantae,248800,species,Ficus carica,41.5033354699,2.148950246,False,"Ripollet, España",research,1030,mingokt,cc-by-nc,1,"mingokt, jaume-piera",1,0,web,Plantae,Tracheophyta,Magnoliopsida,Urticales,Moraceae,Ficus
 446241,2025-04-27,2025-04-28,2025-04-27,16:52:00,aves,252848,species,Passer domesticus,41.5033354699,2.148950246,False,"Ripollet, España",research,1030,mingokt,cc-by-nc,2,"badosa, xasalva, mingokt",2,0,web,Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer
 446240,2025-04-27,2025-04-28,2025-04-27,16:52:00,aves,245911,species,Ardea cinerea,41.5033354699,2.148950246,False,"Ripollet, España",research,1030,mingokt,cc-by-nc,1,"mingokt, jaume-piera",1,0,web,Animalia,Chordata,Aves,Ciconiiformes,Ardeidae,Ardea
