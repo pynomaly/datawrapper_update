@@ -2,7 +2,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 446397,2025-04-28,2025-04-28,2025-04-28,10:41:00,,nan,,,41.264663,1.9908233,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,,0,0,app,,,,,,
 446396,2025-04-28,2025-04-28,2025-04-28,10:36:00,,nan,,,41.2646707,1.9911857,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,,0,0,app,,,,,,
 446395,2025-04-28,2025-04-28,2025-04-28,10:27:00,life,1,stateofmatter,Life,41.4936600433,1.9589017332,False,Spain,needs_id,135,jaom,cc-by-nc,0,jaom,0,0,app,,,,,,
-446394,2025-04-28,2025-04-28,2025-04-28,10:18:00,insecta,242763,species,Aedes albopictus,41.4958338015,1.9567150623,False,Spain,needs_id,135,jaom,cc-by-nc,0,jaom,0,0,app,Animalia,Arthropoda,Insecta,Diptera,Culicidae,Aedes
+446394,2025-04-28,2025-04-28,2025-04-28,10:18:00,insecta,242763,species,Aedes albopictus,41.4958338015,1.9567150623,False,Spain,research,135,jaom,cc-by-nc,1,"jaom, badosa",1,0,app,Animalia,Arthropoda,Insecta,Diptera,Culicidae,Aedes
 446393,2025-04-28,2025-04-28,2025-04-28,09:34:00,arachnida,249437,species,Carrhotus xanthogramma,41.4949543624,1.9551020488,False,Spain,needs_id,135,jaom,cc-by-nc,0,jaom,0,0,app,Animalia,Arthropoda,Arachnida,Araneae,Salticidae,Carrhotus
 446392,2025-04-28,2025-04-28,2025-04-28,09:42:00,,nan,,,41.2736233,1.9906946,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
 446391,2025-04-28,2025-04-28,2025-04-28,09:42:00,,nan,,,41.2736233,1.9906946,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
@@ -33,7 +33,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 446364,2025-04-28,2025-04-28,2025-04-28,08:45:00,,nan,,,41.2740838,1.9831162,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
 446363,2025-04-28,2025-04-28,2025-04-28,08:45:00,,nan,,,41.2740838,1.9831162,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
 446362,2025-04-28,2025-04-28,2025-04-28,08:45:00,,nan,,,41.2740838,1.9831162,False,Spain,needs_id,988,elibonfill,cc-by-nc,0,,0,0,app,,,,,,
-446361,2025-04-28,2025-04-28,2025-04-28,08:47:00,,nan,,,41.2741228,1.9829483,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,,0,0,app,,,,,,
+446361,2025-04-28,2025-04-28,2025-04-28,08:47:00,reptilia,251750,species,Trachemys scripta,41.2741228,1.9829483,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,badosa,0,0,app,Animalia,Chordata,Reptilia,Testudines,Emydidae,Trachemys
 446360,2025-04-28,2025-04-28,2025-04-27,09:07:00,,nan,,,41.3554261,1.9793518,False,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,420,pitubis,cc-by-nc,0,,0,0,web,,,,,,
 446359,2025-04-28,2025-04-28,2025-04-27,08:54:00,,nan,,,41.3554261,1.9793518,False,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,420,pitubis,cc-by-nc,0,,0,0,web,,,,,,
 446358,2025-04-28,2025-04-28,2025-04-28,08:45:00,,nan,,,41.2741403,1.9833807,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,,0,0,app,,,,,,
@@ -44,7 +44,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 446353,2025-04-28,2025-04-28,2025-04-26,08:57:00,,nan,,,41.3554261,1.9793518,False,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,420,pitubis,cc-by-nc,0,,0,0,web,,,,,,
 446352,2025-04-28,2025-04-28,2025-04-26,08:56:00,,nan,,,41.3554261,1.9793518,False,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,420,pitubis,cc-by-nc,0,,0,0,web,,,,,,
 446351,2025-04-28,2025-04-28,2025-04-26,08:54:00,,nan,,,41.3554261,1.9793518,False,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,420,pitubis,cc-by-nc,0,,0,0,web,,,,,,
-446350,2025-04-28,2025-04-28,2025-04-28,08:33:00,,nan,,,41.2754175,1.9847947,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,,0,0,app,,,,,,
+446350,2025-04-28,2025-04-28,2025-04-28,08:33:00,aves,253488,species,Upupa epops,41.2754175,1.9847947,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,badosa,0,0,app,Animalia,Chordata,Aves,Upupiformes,Upupidae,Upupa
 446349,2025-04-28,2025-04-28,2025-04-26,08:53:00,,nan,,,41.3554261,1.9793518,False,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,420,pitubis,cc-by-nc,0,,0,0,web,,,,,,
 446348,2025-04-28,2025-04-28,2025-04-28,08:32:00,,nan,,,41.2753474,1.9840358,False,Spain,needs_id,817,marinatorresgi,cc-by-nc,0,,0,0,app,,,,,,
 446347,2025-04-28,2025-04-28,2025-04-26,08:44:00,,nan,,,41.3554261,1.9793518,False,"08629 Torrelles de Llobregat, Barcelona, España",needs_id,420,pitubis,cc-by-nc,0,,0,0,web,,,,,,
