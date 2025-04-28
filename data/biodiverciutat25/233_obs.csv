@@ -1,9 +1,13 @@
 id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxon_rank,taxon_name,latitude,longitude,obscured,place_name,quality_grade,user_id,user_login,license_obs,identifications_count,identifiers,num_identification_agreements,num_identification_disagreements,device,kingdom,phylum,class,order,family,genus
+446625,2025-04-28,2025-04-28,2025-04-28,21:10:00,plantae,26561,species,Veronica persica,41.4956615308,1.9585483521,False,Spain,needs_id,135,jaom,cc-by-nc,0,jaom,0,0,app,Plantae,Tracheophyta,Magnoliopsida,Scrophulariales,Scrophulariaceae,Veronica
+446624,2025-04-28,2025-04-28,2025-04-28,21:05:00,plantae,253591,species,Verbena officinalis,41.495449582,1.9583931193,False,Spain,needs_id,135,jaom,cc-by-nc,0,jaom,0,0,app,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Verbenaceae,Verbena
+446623,2025-04-28,2025-04-28,2025-04-28,18:28:00,plantae,253626,species,Vicia sativa,41.4946299061,1.9559415802,False,Spain,needs_id,135,jaom,cc-by-nc,0,jaom,0,0,app,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Vicia
+446622,2025-04-28,2025-04-28,2025-04-28,21:03:00,plantae,247526,species,Sanguisorba minor,41.489135248,1.9574576989,False,Spain,needs_id,135,jaom,cc-by-nc,0,jaom,0,0,app,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,Sanguisorba
 446621,2025-04-28,2025-04-28,2025-04-28,14:27:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
 446620,2025-04-28,2025-04-28,2025-04-28,14:26:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
 446619,2025-04-28,2025-04-28,2025-04-28,14:26:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
 446618,2025-04-28,2025-04-28,2025-04-28,14:25:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
-446617,2025-04-28,2025-04-28,2025-04-28,14:24:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446617,2025-04-28,2025-04-28,2025-04-28,14:24:00,plantae,246914,species,Asparagopsis taxiformis,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,ealcaniz,0,0,web,Plantae,Rhodophyta,Florideophyceae,Bonnemaisoniales,Bonnemaisoniaceae,Asparagopsis
 446616,2025-04-28,2025-04-28,2025-04-28,14:23:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
 446615,2025-04-28,2025-04-28,2025-04-28,14:22:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
 446614,2025-04-28,2025-04-28,2025-04-28,14:22:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
@@ -11,7 +15,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 446612,2025-04-28,2025-04-28,2025-04-28,14:22:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
 446611,2025-04-28,2025-04-28,2025-04-28,14:21:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
 446610,2025-04-28,2025-04-28,2025-04-28,14:21:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
-446609,2025-04-28,2025-04-28,2025-04-28,14:21:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446609,2025-04-28,2025-04-28,2025-04-28,14:21:00,actinopterygii,34871,species,Tripterygion delaisi,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,ealcaniz,0,0,web,Animalia,Chordata,Teleostei,Perciformes,Tripterygiidae,Tripterygion
 446608,2025-04-28,2025-04-28,2025-04-28,14:20:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
 446607,2025-04-28,2025-04-28,2025-04-28,14:20:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
 446606,2025-04-28,2025-04-28,2025-04-28,14:20:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
@@ -34,16 +38,16 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 446589,2025-04-28,2025-04-28,2025-04-28,14:11:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
 446588,2025-04-28,2025-04-28,2025-04-28,14:10:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
 446587,2025-04-28,2025-04-28,2025-04-28,14:10:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
-446586,2025-04-28,2025-04-28,2025-04-28,14:08:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446586,2025-04-28,2025-04-28,2025-04-28,14:08:00,actinopterygii,35250,species,Parablennius pilicornis,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,ealcaniz,0,0,web,Animalia,Chordata,Teleostei,Perciformes,Blenniidae,Parablennius
 446585,2025-04-28,2025-04-28,2025-04-28,14:08:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
-446584,2025-04-28,2025-04-28,2025-04-28,14:02:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446584,2025-04-28,2025-04-28,2025-04-28,14:02:00,mollusca,245596,species,Aplysia depilans,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,ealcaniz,0,0,web,Animalia,Mollusca,Gastropoda,Aplysiida,Aplysiidae,Aplysia
 446583,2025-04-28,2025-04-28,2025-04-28,14:07:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
 446582,2025-04-28,2025-04-28,2025-04-28,14:01:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
 446581,2025-04-28,2025-04-28,2025-04-28,14:01:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
 446580,2025-04-28,2025-04-28,2025-04-28,14:01:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
-446579,2025-04-28,2025-04-28,2025-04-28,13:59:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
-446578,2025-04-28,2025-04-28,2025-04-28,13:59:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
-446577,2025-04-28,2025-04-28,2025-04-28,13:59:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
+446579,2025-04-28,2025-04-28,2025-04-28,13:59:00,actinopterygii,35250,species,Parablennius pilicornis,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,ealcaniz,0,0,web,Animalia,Chordata,Teleostei,Perciformes,Blenniidae,Parablennius
+446578,2025-04-28,2025-04-28,2025-04-28,13:59:00,actinopterygii,35250,species,Parablennius pilicornis,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,ealcaniz,0,0,web,Animalia,Chordata,Teleostei,Perciformes,Blenniidae,Parablennius
+446577,2025-04-28,2025-04-28,2025-04-28,13:59:00,actinopterygii,35250,species,Parablennius pilicornis,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,ealcaniz,0,0,web,Animalia,Chordata,Teleostei,Perciformes,Blenniidae,Parablennius
 446576,2025-04-28,2025-04-28,2025-04-28,13:58:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
 446575,2025-04-28,2025-04-28,2025-04-28,13:57:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
 446574,2025-04-28,2025-04-28,2025-04-28,13:56:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
@@ -169,7 +173,7 @@ id,created_at,updated_at,observed_on,observed_on_time,iconic_taxon,taxon_id,taxo
 446454,2025-04-28,2025-04-28,2025-04-28,13:50:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
 446453,2025-04-28,2025-04-28,2025-04-28,13:22:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
 446452,2025-04-28,2025-04-28,2025-04-28,13:50:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
-446451,2025-04-28,2025-04-28,2025-04-28,13:15:00,mollusca,254010,species,Rhyssoplax olivacea,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,xasalva,0,0,web,Animalia,Mollusca,Polyplacophora,,Chitonidae,Rhyssoplax
+446451,2025-04-28,2025-04-28,2025-04-28,13:15:00,mollusca,254010,species,Rhyssoplax olivacea,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",research,219,ealcaniz,cc-by-nc-sa,1,"xasalva, ealcaniz",1,0,web,Animalia,Mollusca,Polyplacophora,,Chitonidae,Rhyssoplax
 446450,2025-04-28,2025-04-28,2025-04-28,13:15:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
 446449,2025-04-28,2025-04-28,2025-04-28,13:13:00,,nan,,,41.4098418425,2.227830543,False,"Zona de Banys Fòrum, Barcelona, Spain",needs_id,219,ealcaniz,cc-by-nc-sa,0,,0,0,web,,,,,,
 446423,2025-04-28,2025-04-28,2025-04-27,10:31:00,actinopterygii,35216,species,Symphodus tinca,41.4089122432,2.2273376978,False,"El Besòs i el Maresme, Sant Martí, Barcelona, España",research,16513,albertorubio,cc-by,1,"albertorubio, xasalva, albertorubio",1,0,web,Animalia,Chordata,Teleostei,Perciformes,Labridae,Symphodus
