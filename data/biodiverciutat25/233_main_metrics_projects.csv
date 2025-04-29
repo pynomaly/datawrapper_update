@@ -1,9 +1,9 @@
 city,observations,species,participants
 Begues,0,0,0
-Viladecans,0,0,0
+Viladecans,2,2,1
 Sant Climent de Llobregat,0,0,0
 Cervelló,0,0,0
-Sant Boi de Llobregat,0,0,0
+Sant Boi de Llobregat,1,1,1
 Santa Coloma de Cervelló,0,0,0
 Sant Vicenç dels Horts,0,0,0
 la Palma de Cervelló,0,0,0
@@ -25,11 +25,11 @@ Sant Adrià de Besòs,4,4,1
 Badalona,0,0,0
 Tiana,0,0,0
 Montgat,0,0,0
-Barcelona,1200,319,37
-el Prat de Llobregat,246,83,3
+Barcelona,1319,331,39
+el Prat de Llobregat,262,95,5
 Pallejà,0,0,0
-Torrelles de Llobregat,398,154,2
-Castelldefels,234,107,7
-Gavà,22,19,7
+Torrelles de Llobregat,440,161,2
+Castelldefels,269,120,7
+Gavà,30,21,9
 Sant Joan Despí,0,0,0
 Santa Coloma de Gramenet,0,0,0
