@@ -1,14 +1,14 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
 450681,607035,,,https://minka-sdg.org/attachments/local_photos/files/607035/medium.jpg,aasafa,41.4029305556,2.1805861111,cc-by,"(c) aasafa, some rights reserved (CC BY)",450681_607035.jpg
 450680,607034,,,https://minka-sdg.org/attachments/local_photos/files/607034/medium.jpg,aasafa,41.4029305556,2.1805861111,cc-by,"(c) aasafa, some rights reserved (CC BY)",450680_607034.jpg
-450679,607033,,,https://minka-sdg.org/attachments/local_photos/files/607033/medium.jpg,aasafa,41.4029305556,2.1805861111,cc-by,"(c) aasafa, some rights reserved (CC BY)",450679_607033.jpg
-450678,607032,,,https://minka-sdg.org/attachments/local_photos/files/607032/medium.jpg,aasafa,41.4029305556,2.1805861111,cc-by,"(c) aasafa, some rights reserved (CC BY)",450678_607032.jpg
-450677,607031,,,https://minka-sdg.org/attachments/local_photos/files/607031/medium.jpg,aasafa,41.4029305556,2.1805861111,cc-by,"(c) aasafa, some rights reserved (CC BY)",450677_607031.jpg
-450676,607030,,,https://minka-sdg.org/attachments/local_photos/files/607030/medium.jpg,aasafa,41.4029722222,2.1806166667,cc-by,"(c) aasafa, some rights reserved (CC BY)",450676_607030.jpg
+450679,607033,plantae,Raphanus raphanistrum,https://minka-sdg.org/attachments/local_photos/files/607033/medium.jpg,aasafa,41.4029305556,2.1805861111,cc-by,"(c) aasafa, some rights reserved (CC BY)",450679_607033.jpg
+450678,607032,insecta,Aphis fabae,https://minka-sdg.org/attachments/local_photos/files/607032/medium.jpg,aasafa,41.4029305556,2.1805861111,cc-by,"(c) aasafa, some rights reserved (CC BY)",450678_607032.jpg
+450677,607031,plantae,Ficus carica,https://minka-sdg.org/attachments/local_photos/files/607031/medium.jpg,aasafa,41.4029305556,2.1805861111,cc-by,"(c) aasafa, some rights reserved (CC BY)",450677_607031.jpg
+450676,607030,plantae,Rhaphiolepis bibas,https://minka-sdg.org/attachments/local_photos/files/607030/medium.jpg,aasafa,41.4029722222,2.1806166667,cc-by,"(c) aasafa, some rights reserved (CC BY)",450676_607030.jpg
 450675,607029,,,https://minka-sdg.org/attachments/local_photos/files/607029/medium.jpg,aasafa,41.4029722222,2.1806166667,cc-by,"(c) aasafa, some rights reserved (CC BY)",450675_607029.jpg
-450674,607028,,,https://minka-sdg.org/attachments/local_photos/files/607028/medium.jpg,aasafa,41.402675,2.1802388889,cc-by,"(c) aasafa, some rights reserved (CC BY)",450674_607028.jpg
+450674,607028,plantae,Plantae,https://minka-sdg.org/attachments/local_photos/files/607028/medium.jpg,aasafa,41.402675,2.1802388889,cc-by,"(c) aasafa, some rights reserved (CC BY)",450674_607028.jpg
 450673,607026,,,https://minka-sdg.org/attachments/local_photos/files/607026/medium.jpg,aasafa,41.402675,2.1802388889,cc-by,"(c) aasafa, some rights reserved (CC BY)",450673_607026.jpg
-450672,607025,,,https://minka-sdg.org/attachments/local_photos/files/607025/medium.jpg,aasafa,41.402675,2.1802388889,cc-by,"(c) aasafa, some rights reserved (CC BY)",450672_607025.jpg
+450672,607025,plantae,Euphorbia peplus,https://minka-sdg.org/attachments/local_photos/files/607025/medium.jpg,aasafa,41.402675,2.1802388889,cc-by,"(c) aasafa, some rights reserved (CC BY)",450672_607025.jpg
 450671,607024,,,https://minka-sdg.org/attachments/local_photos/files/607024/medium.jpg,aasafa,41.402675,2.1802388889,cc-by,"(c) aasafa, some rights reserved (CC BY)",450671_607024.jpg
 450670,607023,plantae,Geranium,https://minka-sdg.org/attachments/local_photos/files/607023/medium.jpg,aasafa,41.402675,2.1802388889,cc-by,"(c) aasafa, some rights reserved (CC BY)",450670_607023.jpg
 450669,607022,plantae,Borago officinalis,https://minka-sdg.org/attachments/local_photos/files/607022/medium.jpg,aasafa,41.402675,2.1802388889,cc-by,"(c) aasafa, some rights reserved (CC BY)",450669_607022.jpg
