@@ -2,7 +2,7 @@
 name: Update_BioMARato
 on:  # yamllint disable-line rule:truthy
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */1 * * *"
   workflow_dispatch:
 
 jobs:
@@ -26,6 +26,7 @@ jobs:
         run: |
           git config --local user.email "ci@ci.ci"
           git config --local user.name "CI"
+          git status
           git add .
           git diff-index --quiet HEAD \
             || git commit -m "Actualización de datos"
