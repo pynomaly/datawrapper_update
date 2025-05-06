@@ -383,8 +383,8 @@ if __name__ == "__main__":
         obs = get_obs(id_project=id_proj, grade="research")
         if len(obs) > 0:
             df_obs, df_photos = get_dfs(obs)
-            df_obs = pd.read_csv(f"data/biomarato25/{id_proj}_obs.csv")
-            df_photos = pd.read_csv(f"data/biomarato25/{id_proj}_photos.csv")
+            df_obs.to_csv(f"data/biomarato25/{id_proj}_obs.csv", index=False)
+            df_photos.to_csv(f"data/biomarato25/{id_proj}_photos.csv", index=False)
 
             # Sacar columna marino
             print("Sacando columna marine")
