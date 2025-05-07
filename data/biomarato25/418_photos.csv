@@ -1,4 +1,5 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
+451813,609441,actinopterygii,Gobius incognitus,https://minka-sdg.org/attachments/local_photos/files/609441/medium.jpeg,manelor,42.3948843024,3.1561271595,cc-by,"(c) Manel Ortega, some rights reserved (CC BY)",451813_609441.jpg
 451811,609439,actinopterygii,Tripterygion tripteronotum,https://minka-sdg.org/attachments/local_photos/files/609439/medium.jpeg,manelor,42.3955181722,3.1566421436,cc-by,"(c) Manel Ortega, some rights reserved (CC BY)",451811_609439.jpg
 451810,609438,porifera,Aplysina aerophoba,https://minka-sdg.org/attachments/local_photos/files/609438/medium.jpeg,manelor,42.3951378511,3.1567279743,cc-by,"(c) Manel Ortega, some rights reserved (CC BY)",451810_609438.jpg
 451809,609437,annelida,Bispira volutacornis,https://minka-sdg.org/attachments/local_photos/files/609437/medium.jpeg,manelor,42.3955181722,3.157071297,cc-by,"(c) Manel Ortega, some rights reserved (CC BY)",451809_609437.jpg
@@ -24,6 +25,8 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 451792,609413,porifera,Sarcotragus fasciculatus,https://minka-sdg.org/attachments/local_photos/files/609413/medium.jpeg,manelor,42.395328012,3.1566421436,cc-by,"(c) Manel Ortega, some rights reserved (CC BY)",451792_609413.jpg
 451791,609411,actinopterygii,Tripterygion tripteronotum,https://minka-sdg.org/attachments/local_photos/files/609411/medium.jpeg,manelor,42.3957083319,3.1572429584,cc-by,"(c) Manel Ortega, some rights reserved (CC BY)",451791_609411.jpg
 451789,609405,,Colpomenia sinuosa,https://minka-sdg.org/attachments/local_photos/files/609405/medium.jpeg,manelor,42.3946307527,3.1553546833,cc-by,"(c) Manel Ortega, some rights reserved (CC BY)",451789_609405.jpg
+451788,609403,chromista,Cutleria adspersa,https://minka-sdg.org/attachments/local_photos/files/609403/medium.jpeg,manelor,42.394377202,3.1564704822,cc-by,"(c) Manel Ortega, some rights reserved (CC BY)",451788_609403.jpg
+451788,609404,chromista,Cutleria adspersa,https://minka-sdg.org/attachments/local_photos/files/609404/medium.jpeg,manelor,42.394377202,3.1564704822,cc-by,"(c) Manel Ortega, some rights reserved (CC BY)",451788_609404.jpg
 451787,609402,actinopterygii,Diplodus sargus,https://minka-sdg.org/attachments/local_photos/files/609402/medium.jpeg,manelor,42.3956449454,3.1569854664,cc-by,"(c) Manel Ortega, some rights reserved (CC BY)",451787_609402.jpg
 451786,609401,annelida,Serpula vermicularis,https://minka-sdg.org/attachments/local_photos/files/609401/medium.jpeg,manelor,42.3948843024,3.1553546833,cc-by,"(c) Manel Ortega, some rights reserved (CC BY)",451786_609401.jpg
 451785,609400,annelida,Sabella spallanzanii,https://minka-sdg.org/attachments/local_photos/files/609400/medium.jpeg,manelor,42.3944405898,3.1561271595,cc-by,"(c) Manel Ortega, some rights reserved (CC BY)",451785_609400.jpg
