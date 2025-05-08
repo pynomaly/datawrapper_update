@@ -381,7 +381,9 @@ if __name__ == "__main__":
     for id_proj in [417, 418, 419, 420]:
         # Update df_proj
         obs = get_obs(id_project=id_proj, grade="research")
-        if len(obs) > 0:
+        downloaded_obs = pd.read_csv(f"data/biomarato25/{id_proj}_obs.csv")
+
+        if (len(obs) > 0) & (len(obs) != len(downloaded_obs)):
             df_obs, df_photos = get_dfs(obs)
             df_obs.to_csv(f"data/biomarato25/{id_proj}_obs.csv", index=False)
             df_photos.to_csv(f"data/biomarato25/{id_proj}_photos.csv", index=False)
