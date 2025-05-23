@@ -1,5 +1,5 @@
 id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path
-458534,618458,,Xantho poressa,https://minka-sdg.org/attachments/local_photos/files/618458/medium.jpeg,cescgv,41.4082067245,2.2266894579,cc-by,"(c) cescgv, some rights reserved (CC BY)",458534_618458.jpg
+458534,618458,,Xantho,https://minka-sdg.org/attachments/local_photos/files/618458/medium.jpeg,cescgv,41.4082067245,2.2266894579,cc-by,"(c) cescgv, some rights reserved (CC BY)",458534_618458.jpg
 458533,618459,porifera,Cliona celata,https://minka-sdg.org/attachments/local_photos/files/618459/medium.jpeg,cescgv,41.4082067245,2.2266894579,cc-by,"(c) cescgv, some rights reserved (CC BY)",458533_618459.jpg
 458532,618457,annelida,Bonellia viridis,https://minka-sdg.org/attachments/local_photos/files/618457/medium.jpeg,cescgv,41.4082067245,2.2266894579,cc-by,"(c) cescgv, some rights reserved (CC BY)",458532_618457.jpg
 458531,618454,actinopterygii,Symphodus roissali,https://minka-sdg.org/attachments/local_photos/files/618454/medium.jpeg,cescgv,41.4082067245,2.2266894579,cc-by,"(c) cescgv, some rights reserved (CC BY)",458531_618454.jpg
@@ -10,7 +10,7 @@ id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longi
 458527,618440,actinopterygii,Parablennius pilicornis,https://minka-sdg.org/attachments/local_photos/files/618440/medium.jpeg,cescgv,41.4082067245,2.2266894579,cc-by,"(c) cescgv, some rights reserved (CC BY)",458527_618440.jpg
 458526,618439,actinopterygii,Parablennius pilicornis,https://minka-sdg.org/attachments/local_photos/files/618439/medium.jpeg,cescgv,41.4082067245,2.2266894579,cc-by,"(c) cescgv, some rights reserved (CC BY)",458526_618439.jpg
 458525,618438,porifera,Phorbas,https://minka-sdg.org/attachments/local_photos/files/618438/medium.jpeg,cescgv,41.4082067245,2.2266894579,cc-by,"(c) cescgv, some rights reserved (CC BY)",458525_618438.jpg
-458524,618437,animalia,Lissoclinum,https://minka-sdg.org/attachments/local_photos/files/618437/medium.jpeg,cescgv,41.4082067245,2.2266894579,cc-by,"(c) cescgv, some rights reserved (CC BY)",458524_618437.jpg
+458524,618437,animalia,Lissoclinum weigelei,https://minka-sdg.org/attachments/local_photos/files/618437/medium.jpeg,cescgv,41.4082067245,2.2266894579,cc-by,"(c) cescgv, some rights reserved (CC BY)",458524_618437.jpg
 458523,618435,annelida,Branchiomma luctuosum,https://minka-sdg.org/attachments/local_photos/files/618435/medium.jpeg,cescgv,41.4082067245,2.2266894579,cc-by,"(c) cescgv, some rights reserved (CC BY)",458523_618435.jpg
 458522,618434,actinopterygii,Gobius niger,https://minka-sdg.org/attachments/local_photos/files/618434/medium.jpeg,cescgv,41.4082067245,2.2266894579,cc-by,"(c) cescgv, some rights reserved (CC BY)",458522_618434.jpg
 458521,618433,actinopterygii,Gobius xanthocephalus,https://minka-sdg.org/attachments/local_photos/files/618433/medium.jpeg,cescgv,41.4082067245,2.2266894579,cc-by,"(c) cescgv, some rights reserved (CC BY)",458521_618433.jpg
