@@ -133,45 +133,50 @@ def fetch_day_metrics(proj_id, day_str):
     }
 
 def update_main_metrics_by_day(proj_id):
+    results = []
+    observations = f"{API_PATH}/observations?"
+    species = f"{API_PATH}/observations/species_counts?"
+    observers = f"{API_PATH}/observations/observers?"
+
     # Rango de días de BioMARato
-    start_day = datetime.date(year=2025, month=5, day=3)
-    rango_temporal = (datetime.datetime.today().date() - start_day).days
+    day = datetime.date(year=2025, month=5, day=3)
+    rango_temporal = (datetime.datetime.today().date() - day).days
     print("Número de días: ", rango_temporal)
 
     if rango_temporal >= 0:
-        # Generate all days to process
-        days_to_process = []
-        day = start_day
-        for i in range(rango_temporal):
+        for i in range(rango_temporal + 1):
+            print(i)
             if datetime.datetime.today().date() >= day:
-                days_to_process.append(day.strftime("%Y-%m-%d"))
+                st_day = day.strftime("%Y-%m-%d")
+
+                params = {
+                    "project_id": proj_id,
+                    "created_d2": st_day,
+                    "order": "desc",
+                    "order_by": "created_at",
+                }
+
+                # Utilizar la sesión global para realizar las solicitudes
+                total_species = SESSION.get(species, params=params).json()[
+                    "total_results"
+                ]
+                total_participants = SESSION.get(observers, params=params).json()[
+                    "total_results"
+                ]
+                total_obs = SESSION.get(observations, params=params).json()[
+                    "total_results"
+                ]
+
+                result = {
+                    "date": st_day,
+                    "observations": total_obs,
+                    "species": total_species,
+                    "participants": total_participants,
+                }
+
+                results.append(result)
                 day = day + datetime.timedelta(days=1)
-        
-        print(f"Processing {len(days_to_process)} days in parallel...")
-        
-        # Process days in smaller batches with reduced concurrency
-        results = []
-        batch_size = 5  # Reduced batch size to avoid API rate limiting
-        
-        for i in range(0, len(days_to_process), batch_size):
-            batch = days_to_process[i:i + batch_size]
-            print(f"Processing batch {i//batch_size + 1}/{(len(days_to_process) + batch_size - 1)//batch_size}")
-            
-            with ThreadPoolExecutor(max_workers=3) as executor:  # Reduced max_workers
-                futures = [executor.submit(fetch_day_metrics, proj_id, day_str) for day_str in batch]
-                for future in as_completed(futures):
-                    try:
-                        result = future.result()
-                        results.append(result)
-                    except Exception as e:
-                        print(f"Error processing day: {e}")
-            
-            # Add delay between batches
-            import time
-            time.sleep(0.5)
-        
-        # Sort results by date
-        results.sort(key=lambda x: x["date"])
+
         result_df = pd.DataFrame(results)
         print("Updated main metrics")
         return result_df
