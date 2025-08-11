@@ -103,15 +103,17 @@ def update_main_metrics_by_day(proj_id):
                 }
 
                 # Utilizar la sesión para realizar las solicitudes
-                total_species = session.get(species, params=params).json()[
-                    "total_results"
-                ]
-                total_participants = session.get(observers, params=params).json()[
-                    "total_results"
-                ]
-                total_obs = session.get(observations, params=params).json()[
-                    "total_results"
-                ]
+                species_response = session.get(species, params=params).json()
+                print(f"Species response keys: {species_response.keys()}")
+                total_species = species_response.get("total_results", 0)
+                
+                observers_response = session.get(observers, params=params).json()
+                print(f"Observers response keys: {observers_response.keys()}")
+                total_participants = observers_response.get("total_results", 0)
+                
+                observations_response = session.get(observations, params=params).json()
+                print(f"Observations response keys: {observations_response.keys()}")
+                total_obs = observations_response.get("total_results", 0)
 
                 result = {
                     "date": st_day,
@@ -387,8 +389,9 @@ if __name__ == "__main__":
             # Sacar columna marino
             print("Sacando columna marine")
             df_obs["taxon_id"] = df_obs["taxon_id"].replace("nan", None)
+            df_obs["taxon_id"] = df_obs["taxon_id"].replace("", None)
             df_filtered = df_obs[df_obs["taxon_id"].notnull()].copy()
-            df_filtered["taxon_id"] = df_filtered["taxon_id"].astype(int)
+            df_filtered["taxon_id"] = df_filtered["taxon_id"].astype(float).astype(int)
 
             # sacamos listado de especies incluidas en el proyecto con col marina
             print("Sacando listado de especies")

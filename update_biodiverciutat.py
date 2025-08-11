@@ -397,8 +397,9 @@ if __name__ == "__main__":
 
         print("Sacando columna marine")
         df_obs["taxon_id"] = df_obs["taxon_id"].replace("nan", None)
+        df_obs["taxon_id"] = df_obs["taxon_id"].replace("", None)
         df_filtered = df_obs[df_obs["taxon_id"].notnull()].copy()
-        df_filtered["taxon_id"] = df_filtered["taxon_id"].astype(int)
+        df_filtered["taxon_id"] = df_filtered["taxon_id"].astype(float).astype(int)
 
         # sacamos listado de especies incluidas en el proyecto con col marina
         df_species = get_marine_species(main_project_bdc)

@@ -47,6 +47,9 @@ if __name__ == "__main__":
     # 417, biomarato-2025-catalunya
 
     df_total = get_metrics_proj(proj_ids)
-    print(df_total)
-
-    df_total.to_csv("data/biomarato_global_counter.csv", index=False)
+    downloaded_data = pd.read_csv("data/biomarato_global_counter.csv")
+    if downloaded_data["observations"] != df_total["observations"]:
+        print(df_total)
+        df_total.to_csv("data/biomarato_global_counter.csv", index=False)
+    else:
+        print("No changes in data.")

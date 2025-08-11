@@ -1,12 +1,17 @@
 import datetime
 import math
 import time
+import os
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import pandas as pd
 import requests
 from mecoda_minka import get_dfs, get_obs
 
 API_PATH = "https://api.minka-sdg.org/v1"
+
+# Global session for all requests
+SESSION = requests.Session()
 
 main_project_bmt = 417
 
@@ -63,66 +68,110 @@ exclude_users = [
 def get_main_metrics(proj_id):
     species = f"{API_PATH}/observations/species_counts?"
     url1 = f"{species}&project_id={proj_id}"
-    total_species = requests.get(url1).json()["total_results"]
+    total_species = SESSION.get(url1).json()["total_results"]
 
     observers = f"{API_PATH}/observations/observers?"
     url2 = f"{observers}&project_id={proj_id}"
-    total_participants = requests.get(url2).json()["total_results"]
+    total_participants = SESSION.get(url2).json()["total_results"]
 
     observations = f"{API_PATH}/observations?"
     url3 = f"{observations}&project_id={proj_id}"
-    total_obs = requests.get(url3).json()["total_results"]
+    total_obs = SESSION.get(url3).json()["total_results"]
 
     return total_species, total_participants, total_obs
 
 
-def update_main_metrics_by_day(proj_id):
-    results = []
+def fetch_day_metrics(proj_id, day_str):
+    """Fetch metrics for a single day"""
     observations = f"{API_PATH}/observations?"
     species = f"{API_PATH}/observations/species_counts?"
     observers = f"{API_PATH}/observations/observers?"
+    
+    params = {
+        "project_id": proj_id,
+        "created_d2": day_str,
+        "order": "desc",
+        "order_by": "created_at",
+    }
+    
+    try:
+        # Sequential requests with delay to avoid API rate limiting
+        import time
+        
+        species_resp = SESSION.get(species, params=params)
+        time.sleep(0.1)  # Small delay between requests
+        observers_resp = SESSION.get(observers, params=params)
+        time.sleep(0.1)
+        observations_resp = SESSION.get(observations, params=params)
+        
+        # Check if responses are valid
+        species_json = species_resp.json()
+        observers_json = observers_resp.json()
+        observations_json = observations_resp.json()
+        
+        total_species = species_json.get("total_results", 0)
+        total_participants = observers_json.get("total_results", 0) 
+        total_obs = observations_json.get("total_results", 0)
+        
+        # Log if any response is missing total_results
+        if "total_results" not in species_json:
+            print(f"Species API response for {day_str}: {list(species_json.keys())}")
+        if "total_results" not in observers_json:
+            print(f"Observers API response for {day_str}: {list(observers_json.keys())}")
+        if "total_results" not in observations_json:
+            print(f"Observations API response for {day_str}: {list(observations_json.keys())}")
+        
+    except Exception as e:
+        print(f"Error fetching data for {day_str}: {e}")
+        total_species = total_participants = total_obs = 0
+    
+    return {
+        "date": day_str,
+        "observations": total_obs,
+        "species": total_species,
+        "participants": total_participants,
+    }
 
-    # Crear una sesión de requests
-    session = requests.Session()
-
+def update_main_metrics_by_day(proj_id):
     # Rango de días de BioMARato
-    day = datetime.date(year=2024, month=5, day=6)
-    rango_temporal = (datetime.datetime.today().date() - day).days
+    start_day = datetime.date(year=2025, month=5, day=3)
+    rango_temporal = (datetime.datetime.today().date() - start_day).days
+    print("Número de días: ", rango_temporal)
 
     if rango_temporal >= 0:
-        for i in range(rango_temporal + 1):
-            print(i)
+        # Generate all days to process
+        days_to_process = []
+        day = start_day
+        for i in range(rango_temporal):
             if datetime.datetime.today().date() >= day:
-                st_day = day.strftime("%Y-%m-%d")
-
-                params = {
-                    "project_id": proj_id,
-                    "created_d2": st_day,
-                    "order": "desc",
-                    "order_by": "created_at",
-                }
-
-                # Utilizar la sesión para realizar las solicitudes
-                total_species = session.get(species, params=params).json()[
-                    "total_results"
-                ]
-                total_participants = session.get(observers, params=params).json()[
-                    "total_results"
-                ]
-                total_obs = session.get(observations, params=params).json()[
-                    "total_results"
-                ]
-
-                result = {
-                    "date": st_day,
-                    "observations": total_obs,
-                    "species": total_species,
-                    "participants": total_participants,
-                }
-
-                results.append(result)
+                days_to_process.append(day.strftime("%Y-%m-%d"))
                 day = day + datetime.timedelta(days=1)
-
+        
+        print(f"Processing {len(days_to_process)} days in parallel...")
+        
+        # Process days in smaller batches with reduced concurrency
+        results = []
+        batch_size = 5  # Reduced batch size to avoid API rate limiting
+        
+        for i in range(0, len(days_to_process), batch_size):
+            batch = days_to_process[i:i + batch_size]
+            print(f"Processing batch {i//batch_size + 1}/{(len(days_to_process) + batch_size - 1)//batch_size}")
+            
+            with ThreadPoolExecutor(max_workers=3) as executor:  # Reduced max_workers
+                futures = [executor.submit(fetch_day_metrics, proj_id, day_str) for day_str in batch]
+                for future in as_completed(futures):
+                    try:
+                        result = future.result()
+                        results.append(result)
+                    except Exception as e:
+                        print(f"Error processing day: {e}")
+            
+            # Add delay between batches
+            import time
+            time.sleep(0.5)
+        
+        # Sort results by date
+        results.sort(key=lambda x: x["date"])
         result_df = pd.DataFrame(results)
         print("Updated main metrics")
         return result_df
@@ -138,11 +187,16 @@ def get_metrics_proj(proj_id, proj_city):
         "order": "desc",
         "order_by": "created_at",
     }
-    # Crear una sesión de requests
-    session = requests.Session()
-    total_species = session.get(species, params=params).json()["total_results"]
-    total_participants = session.get(observers, params=params).json()["total_results"]
-    total_obs = session.get(observations, params=params).json()["total_results"]
+    
+    # Parallelize the 3 API calls
+    with ThreadPoolExecutor(max_workers=3) as executor:
+        future_species = executor.submit(SESSION.get, species, params=params)
+        future_observers = executor.submit(SESSION.get, observers, params=params)
+        future_observations = executor.submit(SESSION.get, observations, params=params)
+        
+        total_species = future_species.result().json()["total_results"]
+        total_participants = future_observers.result().json()["total_results"]
+        total_obs = future_observations.result().json()["total_results"]
 
     result = {
         "project": proj_id,
@@ -168,7 +222,7 @@ def create_df_projs(projects):
 
 def get_missing_taxon(taxon_id, rank):
     url = f"https://api.minka-sdg.org/v1/taxa/{taxon_id}"
-    ancestors = requests.get(url).json()["results"][0]["ancestors"]
+    ancestors = SESSION.get(url).json()["results"][0]["ancestors"]
     for anc in ancestors:
         if anc["rank"] == rank:
             return anc["name"]
@@ -177,13 +231,13 @@ def get_missing_taxon(taxon_id, rank):
 def _get_species(user_name, proj_id):
     species = f"{API_PATH}/observations/species_counts"
     params = {"project_id": proj_id, "user_login": user_name, "rank": "species"}
-    return requests.get(species, params=params).json()["total_results"]
+    return SESSION.get(species, params=params).json()["total_results"]
 
 
 def get_list_users(id_project):
     users = []
     url1 = f"https://api.minka-sdg.org/v1/observations/observers?project_id={id_project}&quality_grade=research"
-    results = requests.get(url1).json()["results"]
+    results = SESSION.get(url1).json()["results"]
     for result in results:
         datos = {}
         datos["user_id"] = result["user_id"]
@@ -195,7 +249,7 @@ def get_list_users(id_project):
 
     identifiers = []
     url = f"https://api.minka-sdg.org/v1/observations/identifiers?project_id={id_project}&quality_grade=research"
-    results = requests.get(url).json()["results"]
+    results = SESSION.get(url).json()["results"]
     for result in results:
         datos = {}
         datos["user_id"] = result["user_id"]
@@ -219,7 +273,7 @@ def get_participation_df(main_project):
 
 def get_marine(taxon_name):
     name_clean = taxon_name.replace(" ", "+")
-    status = requests.get(
+    status = SESSION.get(
         f"https://www.marinespecies.org/rest/AphiaIDByName/{name_clean}?marine_only=true"
     ).status_code
     if (status == 200) or (status == 206):
@@ -229,13 +283,31 @@ def get_marine(taxon_name):
     return result
 
 
+# Global cache for taxon_tree
+_taxon_tree_cache = None
+
+def get_cached_taxon_tree():
+    global _taxon_tree_cache
+    if _taxon_tree_cache is None:
+        cache_file = "data/taxon_tree_with_marines.csv"
+        if os.path.exists(cache_file):
+            print("Loading taxon_tree from cache")
+            _taxon_tree_cache = pd.read_csv(cache_file)
+        else:
+            print("Downloading taxon_tree")
+            taxon_url = "https://raw.githubusercontent.com/eosc-cos4cloud/mecoda-orange/master/mecoda_orange/data/taxon_tree_with_marines.csv"
+            _taxon_tree_cache = pd.read_csv(taxon_url)
+            os.makedirs("data", exist_ok=True)
+            _taxon_tree_cache.to_csv(cache_file, index=False)
+    return _taxon_tree_cache
+
 def get_marine_species(proj_id):
     total_sp = []
 
     species = f"{API_PATH}/observations/species_counts?"
     url1 = f"{species}&project_id={proj_id}"
 
-    total_num = requests.get(url1).json()["total_results"]
+    total_num = SESSION.get(url1).json()["total_results"]
 
     pages = math.ceil(total_num / 500)
 
@@ -243,7 +315,7 @@ def get_marine_species(proj_id):
         especie = {}
         page = i + 1
         url = f"{species}&project_id={proj_id}&page={page}"
-        results = requests.get(url).json()["results"]
+        results = SESSION.get(url).json()["results"]
         for result in results:
             especie = {}
             especie["taxon_id"] = result["taxon"]["id"]
@@ -253,8 +325,7 @@ def get_marine_species(proj_id):
             total_sp.append(especie)
 
     df_species = pd.DataFrame(total_sp)
-    taxon_url = "https://raw.githubusercontent.com/eosc-cos4cloud/mecoda-orange/master/mecoda_orange/data/taxon_tree_with_marines.csv"
-    taxon_tree = pd.read_csv(taxon_url)
+    taxon_tree = get_cached_taxon_tree()
 
     df_species = pd.merge(
         df_species,
