@@ -48,8 +48,7 @@ if __name__ == "__main__":
 
     df_total = get_metrics_proj(proj_ids)
     downloaded_data = pd.read_csv("data/biomarato_global_counter.csv")
-    if downloaded_data["observations"] != df_total["observations"]:
-        print(df_total)
+    if downloaded_data["observations"].iloc[0] != df_total["observations"].iloc[0]:
         df_total.to_csv("data/biomarato_global_counter.csv", index=False)
     else:
         print("No changes in data.")
