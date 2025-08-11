@@ -320,7 +320,43 @@ def get_marine_species(proj_id):
         especie = {}
         page = i + 1
         url = f"{species}&project_id={proj_id}&page={page}"
-        results = SESSION.get(url).json()["results"]
+        
+        # Rate limiting - pausa entre requests
+        time.sleep(0.5)
+        
+        # Reintentos con manejo de errores
+        max_retries = 3
+        for retry in range(max_retries):
+            try:
+                response = SESSION.get(url)
+                response.raise_for_status()  # Lanza excepción si status code es error
+                
+                json_data = response.json()
+                if "results" not in json_data:
+                    print(f"Warning: 'results' key missing in API response for page {page}")
+                    print(f"Response keys: {list(json_data.keys())}")
+                    if retry == max_retries - 1:
+                        print(f"Skipping page {page} after {max_retries} attempts")
+                        break
+                    time.sleep(2)  # Pausa más larga antes de reintentar
+                    continue
+                
+                results = json_data["results"]
+                break
+                
+            except requests.exceptions.RequestException as e:
+                print(f"Error en request para página {page}, intento {retry + 1}: {e}")
+                if retry == max_retries - 1:
+                    print(f"Fallaron todos los intentos para página {page}")
+                    continue
+                time.sleep(2)
+            except KeyError as e:
+                print(f"Error en estructura de respuesta para página {page}: {e}")
+                if retry == max_retries - 1:
+                    continue
+                time.sleep(2)
+        else:
+            continue  # Si no se pudo obtener results, continúa con la siguiente página
         for result in results:
             especie = {}
             especie["taxon_id"] = result["taxon"]["id"]
