@@ -1,13 +1,13 @@
 PARTICIPANT,OBSERVACIONS,ESPÈCIES,IDENTIFICACIONS
-manelor,3214,362,0.0
-conxi,2338,276,0.0
-guillermoalvarez,2285,404,4468.0
+manelor,3246,362,0.0
+conxi,2353,276,0.0
+guillermoalvarez,2285,404,4498.0
 ealcaniz,1903,246,305.0
 jastals,1611,234,10.0
 miquel17300,1291,134,0.0
 evararo,939,163,0.0
+badosa,887,262,5815.0
 yespi,862,141,101.0
-badosa,837,254,5733.0
 martanp,810,147,96.0
 mpontes,775,195,2.0
 mingokt,730,150,67.0
@@ -29,6 +29,7 @@ eul_a_liarc,306,81,0.0
 borisweitzmann,298,130,16.0
 estades_marines,289,85,0.0
 annacanela,285,80,0.0
+urti,268,94,0.0
 agatals,267,76,0.0
 sergisoldevila,266,105,14.0
 otger_salva,265,124,0.0
@@ -36,7 +37,6 @@ albertvim,264,124,122.0
 eloi_alcaide,263,103,1.0
 joaquibote,261,99,0.0
 anabel_salmeron,249,101,1.0
-urti,249,92,0.0
 seathevish,245,81,0.0
 portu,228,61,0.0
 mjvergotti,219,130,20.0
@@ -61,13 +61,13 @@ xavibou,125,89,0.0
 jordifors,123,61,0.0
 francesca,117,43,0.0
 meri_superdive,112,54,2.0
-artigassole,106,73,0.0
+artigassole,111,74,0.0
 mcollell91,99,80,0.0
 margastoncodony,99,31,2.0
+cave_cavet,88,47,16.0
 so_po,85,30,0.0
 ricard,85,31,7.0
-cave_cavet,83,47,16.0
-oscarcg31,81,69,16.0
+oscarcg31,85,71,16.0
 jordi_balague,75,54,0.0
 francismpp,74,57,15.0
 carlos88,74,43,0.0
@@ -85,6 +85,7 @@ elisenda_casabona,58,40,0.0
 mvilabel,57,41,0.0
 anacente,54,26,0.0
 cris1954,53,34,0.0
+ramonservitje,53,50,0.0
 dani_rhincodontypus24,52,42,828.0
 danigc89,51,29,0.0
 isaac_susi,51,28,0.0
@@ -94,7 +95,6 @@ ruizmfrn,49,29,0.0
 david_marco,47,41,0.0
 iescandelera,46,15,0.0
 albertorubio,46,28,0.0
-ramonservitje,45,44,0.0
 arnau225,42,18,8.0
 cocolotus,41,38,0.0
 mcomerma,40,34,0.0
@@ -185,10 +185,10 @@ ainara,11,11,0.0
 francescvictoria,11,11,0.0
 alinemgallo,11,8,0.0
 centreimmersiocapdecreus,11,10,0.0
+rele,11,9,0.0
 patopi,11,11,0.0
 martinaaa,10,9,0.0
 eliisa26,10,8,1.0
-rele,10,9,0.0
 packa,10,10,0.0
 lauratorres,9,8,0.0
 paquiserramoya,9,8,0.0
@@ -249,6 +249,7 @@ marserrano,4,3,0.0
 xavierlln,4,4,1.0
 annagm,4,4,0.0
 chumi,4,4,0.0
+lioba,4,4,27.0
 bernatperalta,4,4,0.0
 andreu682,3,2,0.0
 katha,3,2,0.0
