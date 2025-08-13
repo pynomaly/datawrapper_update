@@ -1,7 +1,7 @@
 import datetime
 import math
-import time
 import os
+import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import pandas as pd
@@ -86,51 +86,56 @@ def fetch_day_metrics(proj_id, day_str):
     observations = f"{API_PATH}/observations?"
     species = f"{API_PATH}/observations/species_counts?"
     observers = f"{API_PATH}/observations/observers?"
-    
+
     params = {
         "project_id": proj_id,
         "created_d2": day_str,
         "order": "desc",
         "order_by": "created_at",
     }
-    
+
     try:
         # Sequential requests with delay to avoid API rate limiting
         import time
-        
+
         species_resp = SESSION.get(species, params=params)
         time.sleep(0.1)  # Small delay between requests
         observers_resp = SESSION.get(observers, params=params)
         time.sleep(0.1)
         observations_resp = SESSION.get(observations, params=params)
-        
+
         # Check if responses are valid
         species_json = species_resp.json()
         observers_json = observers_resp.json()
         observations_json = observations_resp.json()
-        
+
         total_species = species_json.get("total_results", 0)
-        total_participants = observers_json.get("total_results", 0) 
+        total_participants = observers_json.get("total_results", 0)
         total_obs = observations_json.get("total_results", 0)
-        
+
         # Log if any response is missing total_results
         if "total_results" not in species_json:
             print(f"Species API response for {day_str}: {list(species_json.keys())}")
         if "total_results" not in observers_json:
-            print(f"Observers API response for {day_str}: {list(observers_json.keys())}")
+            print(
+                f"Observers API response for {day_str}: {list(observers_json.keys())}"
+            )
         if "total_results" not in observations_json:
-            print(f"Observations API response for {day_str}: {list(observations_json.keys())}")
-        
+            print(
+                f"Observations API response for {day_str}: {list(observations_json.keys())}"
+            )
+
     except Exception as e:
         print(f"Error fetching data for {day_str}: {e}")
         total_species = total_participants = total_obs = 0
-    
+
     return {
         "date": day_str,
         "observations": total_obs,
         "species": total_species,
         "participants": total_participants,
     }
+
 
 def update_main_metrics_by_day(proj_id):
     results = []
@@ -143,9 +148,60 @@ def update_main_metrics_by_day(proj_id):
     rango_temporal = (datetime.datetime.today().date() - day).days
     print("Número de días: ", rango_temporal)
 
+    def get_total_results_with_retry(url, params, max_retries=5, initial_wait=1):
+        """
+        Hace petición a la API con reintentos y manejo de límites de API
+        """
+        for attempt in range(max_retries):
+            try:
+                response = SESSION.get(url, params=params)
+                response.raise_for_status()
+
+                json_data = response.json()
+
+                if "total_results" in json_data:
+                    return json_data["total_results"]
+                else:
+                    print(f"Warning: 'total_results' not found in response for {url}")
+                    print(f"Response keys: {list(json_data.keys())}")
+
+                    if attempt < max_retries - 1:
+                        wait_time = initial_wait * (2**attempt)  # Exponential backoff
+                        print(
+                            f"Retrying in {wait_time} seconds... (attempt {attempt + 1}/{max_retries})"
+                        )
+                        time.sleep(wait_time)
+                        continue
+                    else:
+                        print(
+                            f"Failed to get total_results after {max_retries} attempts"
+                        )
+                        return 0
+
+            except requests.exceptions.RequestException as e:
+                print(f"Request error on attempt {attempt + 1}: {e}")
+                if attempt < max_retries - 1:
+                    wait_time = initial_wait * (2**attempt)
+                    print(f"Retrying in {wait_time} seconds...")
+                    time.sleep(wait_time)
+                    continue
+                else:
+                    print(f"Request failed after {max_retries} attempts")
+                    return 0
+            except (KeyError, ValueError) as e:
+                print(f"JSON parsing error on attempt {attempt + 1}: {e}")
+                if attempt < max_retries - 1:
+                    wait_time = initial_wait * (2**attempt)
+                    print(f"Retrying in {wait_time} seconds...")
+                    time.sleep(wait_time)
+                    continue
+                else:
+                    return 0
+
+        return 0
+
     if rango_temporal >= 0:
         for i in range(rango_temporal + 1):
-            print(i)
             if datetime.datetime.today().date() >= day:
                 st_day = day.strftime("%Y-%m-%d")
 
@@ -156,16 +212,16 @@ def update_main_metrics_by_day(proj_id):
                     "order_by": "created_at",
                 }
 
-                # Utilizar la sesión global para realizar las solicitudes
-                total_species = SESSION.get(species, params=params).json()[
-                    "total_results"
-                ]
-                total_participants = SESSION.get(observers, params=params).json()[
-                    "total_results"
-                ]
-                total_obs = SESSION.get(observations, params=params).json()[
-                    "total_results"
-                ]
+                # Realizar las solicitudes con retry logic
+                print(f"Fetching data for {st_day}...")
+                total_species = get_total_results_with_retry(species, params)
+                time.sleep(0.5)  # Pausa entre requests para evitar límites de API
+
+                total_participants = get_total_results_with_retry(observers, params)
+                time.sleep(0.5)
+
+                total_obs = get_total_results_with_retry(observations, params)
+                time.sleep(0.5)
 
                 result = {
                     "date": st_day,
@@ -192,13 +248,13 @@ def get_metrics_proj(proj_id, proj_city):
         "order": "desc",
         "order_by": "created_at",
     }
-    
+
     # Parallelize the 3 API calls
     with ThreadPoolExecutor(max_workers=3) as executor:
         future_species = executor.submit(SESSION.get, species, params=params)
         future_observers = executor.submit(SESSION.get, observers, params=params)
         future_observations = executor.submit(SESSION.get, observations, params=params)
-        
+
         total_species = future_species.result().json()["total_results"]
         total_participants = future_observers.result().json()["total_results"]
         total_obs = future_observations.result().json()["total_results"]
@@ -291,6 +347,7 @@ def get_marine(taxon_name):
 # Global cache for taxon_tree
 _taxon_tree_cache = None
 
+
 def get_cached_taxon_tree():
     global _taxon_tree_cache
     if _taxon_tree_cache is None:
@@ -306,6 +363,7 @@ def get_cached_taxon_tree():
             _taxon_tree_cache.to_csv(cache_file, index=False)
     return _taxon_tree_cache
 
+
 def get_marine_species(proj_id):
     total_sp = []
 
@@ -320,30 +378,32 @@ def get_marine_species(proj_id):
         especie = {}
         page = i + 1
         url = f"{species}&project_id={proj_id}&page={page}"
-        
+
         # Rate limiting - pausa entre requests
         time.sleep(0.5)
-        
+
         # Reintentos con manejo de errores
         max_retries = 3
         for retry in range(max_retries):
             try:
                 response = SESSION.get(url)
                 response.raise_for_status()  # Lanza excepción si status code es error
-                
+
                 json_data = response.json()
                 if "results" not in json_data:
-                    print(f"Warning: 'results' key missing in API response for page {page}")
+                    print(
+                        f"Warning: 'results' key missing in API response for page {page}"
+                    )
                     print(f"Response keys: {list(json_data.keys())}")
                     if retry == max_retries - 1:
                         print(f"Skipping page {page} after {max_retries} attempts")
                         break
                     time.sleep(2)  # Pausa más larga antes de reintentar
                     continue
-                
+
                 results = json_data["results"]
                 break
-                
+
             except requests.exceptions.RequestException as e:
                 print(f"Error en request para página {page}, intento {retry + 1}: {e}")
                 if retry == max_retries - 1:
