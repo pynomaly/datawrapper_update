@@ -1,14 +1,14 @@
 PARTICIPANT,OBSERVACIONS,ESPÈCIES,IDENTIFICACIONS
 manelor,3549,386,0.0
 conxi,1973,246,0.0
-miquel17300,1437,142,0.0
+miquel17300,1436,142,0.0
 guillermoalvarez,1350,281,3093.0
 jastals,1341,225,10.0
 ealcaniz,1156,220,239.0
 martanp,816,143,81.0
 yespi,601,88,17.0
 mpontes,585,161,2.0
-badosa,557,245,4462.0
+badosa,557,245,4461.0
 eloi_alcaide,525,164,1.0
 virginia_canet,476,160,49.0
 mingokt,415,98,61.0
@@ -23,9 +23,9 @@ estades_marines,289,85,0.0
 loreto_rodriguez,284,127,4793.0
 sergisoldevila,264,104,13.0
 agatals,264,75,0.0
-mik_peixos,219,73,0.0
 mjvergotti,219,130,13.0
 xavisanjuan,218,111,0.0
+mik_peixos,218,72,0.0
 xavibou,216,132,0.0
 evararo,212,87,0.0
 seathevish,204,76,0.0
@@ -66,6 +66,7 @@ jalaball,58,33,3.0
 mvilabel,57,41,0.0
 patriciabesem,51,28,0.0
 david_marco,47,41,0.0
+lioba,44,30,18.0
 aina_5,39,27,0.0
 danigc89,38,22,0.0
 erik97,37,29,0.0
@@ -87,7 +88,6 @@ marinatp,26,21,0.0
 marcsendra,25,19,0.0
 jbm9359,25,19,0.0
 laia3421,25,18,0.0
-lioba,25,21,18.0
 a_carulla,25,20,0.0
 emiliduran,23,22,0.0
 elifv8,23,10,0.0
@@ -174,7 +174,7 @@ jeffreyabbot,2,2,0.0
 mjulia,2,2,0.0
 joanpuigbomoll,2,2,3.0
 itziardiving,2,2,0.0
-enea_gncorbera,2,2,0.0
+enea,2,2,0.0
 suky,2,1,0.0
 juanatural,2,1,0.0
 josepherrero,1,1,0.0
