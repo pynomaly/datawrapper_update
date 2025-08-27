@@ -2,7 +2,10 @@ import datetime
 import math
 import os
 import time
+import json
+import hashlib
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from functools import wraps
 
 import pandas as pd
 import requests
@@ -12,6 +15,114 @@ API_PATH = "https://api.minka-sdg.org/v1"
 
 # Global session for all requests
 SESSION = requests.Session()
+
+# Rate limiting configuration - optimizado para velocidad pero seguro
+API_RATE_LIMIT = float(os.environ.get('API_RATE_LIMIT', 1.2))  # Reducido de 3s a 1.2s
+API_RETRY_MAX = int(os.environ.get('API_RETRY_MAX', 3))
+API_BACKOFF_FACTOR = int(os.environ.get('API_BACKOFF_FACTOR', 2))
+BATCH_SIZE = int(os.environ.get('BATCH_SIZE', 4))  # Procesar en lotes de 4
+
+# Global rate limiter
+last_request_time = 0
+
+# Cache configuration
+CACHE_DIR = "data/api_cache"
+CACHE_DURATION = int(os.environ.get('CACHE_DURATION', 1800))  # 30 minutes default for CI
+
+def get_cache_path(url, params=None):
+    """Genera path del cache basado en URL y parámetros"""
+    cache_key = f"{url}_{params}"
+    cache_hash = hashlib.md5(cache_key.encode()).hexdigest()
+    return os.path.join(CACHE_DIR, f"{cache_hash}.json")
+
+def is_cache_valid(cache_file):
+    """Verifica si el cache es válido (no expirado)"""
+    if not os.path.exists(cache_file):
+        return False
+    
+    cache_age = time.time() - os.path.getmtime(cache_file)
+    return cache_age < CACHE_DURATION
+
+def load_from_cache(cache_file):
+    """Carga datos del cache"""
+    try:
+        with open(cache_file, 'r') as f:
+            return json.load(f)
+    except:
+        return None
+
+def save_to_cache(cache_file, data):
+    """Guarda datos al cache"""
+    try:
+        os.makedirs(CACHE_DIR, exist_ok=True)
+        with open(cache_file, 'w') as f:
+            json.dump(data, f)
+    except Exception as e:
+        print(f"Error saving to cache: {e}")
+
+def rate_limited_request(func):
+    """Decorator para limitar la tasa de peticiones a la API"""
+    @wraps(func)
+    def wrapper(*args, **kwargs):
+        global last_request_time
+        current_time = time.time()
+        time_since_last = current_time - last_request_time
+        
+        if time_since_last < API_RATE_LIMIT:
+            sleep_time = API_RATE_LIMIT - time_since_last
+            print(f"Rate limiting: sleeping for {sleep_time:.2f}s")
+            time.sleep(sleep_time)
+        
+        last_request_time = time.time()
+        return func(*args, **kwargs)
+    return wrapper
+
+@rate_limited_request
+def safe_api_request(url, params=None, max_retries=None, use_cache=True):
+    """Hace petición a la API con cache, rate limiting y manejo de errores"""
+    if max_retries is None:
+        max_retries = API_RETRY_MAX
+    
+    # Verificar cache primero
+    cache_file = None
+    if use_cache:
+        cache_file = get_cache_path(url, params)
+        if is_cache_valid(cache_file):
+            cached_data = load_from_cache(cache_file)
+            if cached_data:
+                print(f"Using cached data for {url}")
+                return cached_data
+        
+    for attempt in range(max_retries):
+        try:
+            response = SESSION.get(url, params=params, timeout=30)
+            
+            if response.status_code == 429:  # Too Many Requests
+                wait_time = API_BACKOFF_FACTOR ** attempt
+                print(f"Rate limited (429), waiting {wait_time}s before retry {attempt+1}/{max_retries}")
+                time.sleep(wait_time)
+                continue
+                
+            response.raise_for_status()
+            data = response.json()
+            
+            # Guardar en cache
+            if use_cache and cache_file and data:
+                save_to_cache(cache_file, data)
+                
+            return data
+            
+        except requests.exceptions.RequestException as e:
+            wait_time = API_BACKOFF_FACTOR ** attempt
+            print(f"Request error (attempt {attempt+1}/{max_retries}): {e}")
+            if attempt < max_retries - 1:
+                print(f"Retrying in {wait_time}s...")
+                time.sleep(wait_time)
+            else:
+                print(f"Max retries reached for {url}")
+                return None
+                
+    return None
 
 main_project_bmt = 417
 
@@ -68,15 +179,18 @@ exclude_users = [
 def get_main_metrics(proj_id):
     species = f"{API_PATH}/observations/species_counts?"
     url1 = f"{species}&project_id={proj_id}"
-    total_species = SESSION.get(url1).json()["total_results"]
+    species_data = safe_api_request(url1)
+    total_species = species_data.get("total_results", 0) if species_data else 0
 
     observers = f"{API_PATH}/observations/observers?"
     url2 = f"{observers}&project_id={proj_id}"
-    total_participants = SESSION.get(url2).json()["total_results"]
+    observers_data = safe_api_request(url2)
+    total_participants = observers_data.get("total_results", 0) if observers_data else 0
 
     observations = f"{API_PATH}/observations?"
     url3 = f"{observations}&project_id={proj_id}"
-    total_obs = SESSION.get(url3).json()["total_results"]
+    obs_data = safe_api_request(url3)
+    total_obs = obs_data.get("total_results", 0) if obs_data else 0
 
     return total_species, total_participants, total_obs
 
@@ -137,18 +251,59 @@ def fetch_day_metrics(proj_id, day_str):
     }
 
 
+def fetch_day_batch_parallel(proj_id, days_batch):
+    """Procesa un lote de días usando ThreadPoolExecutor muy limitado"""
+    
+    def fetch_single_day_metrics(day_str):
+        observations = f"{API_PATH}/observations?"
+        species = f"{API_PATH}/observations/species_counts?"
+        observers = f"{API_PATH}/observations/observers?"
+        
+        params = {
+            "project_id": proj_id,
+            "created_d2": day_str,
+            "order": "desc",
+            "order_by": "created_at",
+        }
+        
+        # Hacer las 3 peticiones secuenciales para este día
+        species_data = safe_api_request(species, params, use_cache=True)
+        observers_data = safe_api_request(observers, params, use_cache=True) 
+        obs_data = safe_api_request(observations, params, use_cache=True)
+        
+        return {
+            "date": day_str,
+            "observations": obs_data.get("total_results", 0) if obs_data else 0,
+            "species": species_data.get("total_results", 0) if species_data else 0,
+            "participants": observers_data.get("total_results", 0) if observers_data else 0,
+        }
+    
+    results = []
+    # Solo 2 workers para evitar sobrecargar la API
+    with ThreadPoolExecutor(max_workers=2) as executor:
+        future_to_day = {executor.submit(fetch_single_day_metrics, day): day for day in days_batch}
+        
+        for future in as_completed(future_to_day):
+            try:
+                result = future.result()
+                results.append(result)
+                print(f"✓ {result['date']}: {result['observations']} obs, {result['species']} spp")
+            except Exception as e:
+                day = future_to_day[future]
+                print(f"✗ Error en {day}: {e}")
+                results.append({"date": day, "observations": 0, "species": 0, "participants": 0})
+    
+    return sorted(results, key=lambda x: x['date'])
+
 def update_main_metrics_by_day(proj_id):
     results = []
-    observations = f"{API_PATH}/observations?"
-    species = f"{API_PATH}/observations/species_counts?"
-    observers = f"{API_PATH}/observations/observers?"
 
     # Rango de días de BioMARato
     day = datetime.date(year=2025, month=5, day=3)
     rango_temporal = (datetime.datetime.today().date() - day).days
-    print("Número de días: ", rango_temporal)
+    print(f"Procesando {rango_temporal + 1} días en lotes de {BATCH_SIZE}")
 
-    def get_total_results_with_retry(url, params, max_retries=5, initial_wait=1):
+    def get_total_results_with_retry_deprecated(url, params, max_retries=5, initial_wait=1):
         """
         Hace petición a la API con reintentos y manejo de límites de API
         """
@@ -201,40 +356,31 @@ def update_main_metrics_by_day(proj_id):
         return 0
 
     if rango_temporal >= 0:
+        days_batch = []
+        
         for i in range(rango_temporal + 1):
             if datetime.datetime.today().date() >= day:
                 st_day = day.strftime("%Y-%m-%d")
-
-                params = {
-                    "project_id": proj_id,
-                    "created_d2": st_day,
-                    "order": "desc",
-                    "order_by": "created_at",
-                }
-
-                # Realizar las solicitudes con retry logic
-                print(f"Fetching data for {st_day}...")
-                total_species = get_total_results_with_retry(species, params)
-                time.sleep(0.5)  # Pausa entre requests para evitar límites de API
-
-                total_participants = get_total_results_with_retry(observers, params)
-                time.sleep(0.5)
-
-                total_obs = get_total_results_with_retry(observations, params)
-                time.sleep(0.5)
-
-                result = {
-                    "date": st_day,
-                    "observations": total_obs,
-                    "species": total_species,
-                    "participants": total_participants,
-                }
-
-                results.append(result)
+                days_batch.append(st_day)
+                
+                # Procesar lote cuando esté lleno o sea el último día
+                if len(days_batch) >= BATCH_SIZE or i == rango_temporal:
+                    print(f"\nProcesando lote {len(days_batch)} días: {days_batch[0]} - {days_batch[-1]}")
+                    batch_results = fetch_day_batch_parallel(proj_id, days_batch)
+                    results.extend(batch_results)
+                    days_batch = []  # Limpiar lote
+                    
+                    # Breve pausa entre lotes
+                    if i < rango_temporal:
+                        print("Pausa entre lotes...")
+                        time.sleep(1)
+                
                 day = day + datetime.timedelta(days=1)
 
         result_df = pd.DataFrame(results)
-        print("Updated main metrics")
+        if not result_df.empty:
+            result_df = result_df.sort_values('date').reset_index(drop=True)
+        print(f"\n✓ Main metrics actualizadas: {len(result_df)} días")
         return result_df
 
 
@@ -249,15 +395,15 @@ def get_metrics_proj(proj_id, proj_city):
         "order_by": "created_at",
     }
 
-    # Parallelize the 3 API calls
-    with ThreadPoolExecutor(max_workers=3) as executor:
-        future_species = executor.submit(SESSION.get, species, params=params)
-        future_observers = executor.submit(SESSION.get, observers, params=params)
-        future_observations = executor.submit(SESSION.get, observations, params=params)
-
-        total_species = future_species.result().json()["total_results"]
-        total_participants = future_observers.result().json()["total_results"]
-        total_obs = future_observations.result().json()["total_results"]
+    # Sequential API calls with rate limiting (avoiding parallel overload)
+    species_data = safe_api_request(species, params=params)
+    total_species = species_data.get("total_results", 0) if species_data else 0
+    
+    observers_data = safe_api_request(observers, params=params)
+    total_participants = observers_data.get("total_results", 0) if observers_data else 0
+    
+    obs_data = safe_api_request(observations, params=params)
+    total_obs = obs_data.get("total_results", 0) if obs_data else 0
 
     result = {
         "project": proj_id,
@@ -292,36 +438,46 @@ def get_missing_taxon(taxon_id, rank):
 def _get_species(user_name, proj_id):
     species = f"{API_PATH}/observations/species_counts"
     params = {"project_id": proj_id, "user_login": user_name, "rank": "species"}
-    return SESSION.get(species, params=params).json()["total_results"]
+    data = safe_api_request(species, params=params)
+    return data.get("total_results", 0) if data else 0
 
 
 def get_list_users(id_project):
     users = []
     url1 = f"https://api.minka-sdg.org/v1/observations/observers?project_id={id_project}&quality_grade=research"
-    results = SESSION.get(url1).json()["results"]
-    for result in results:
-        datos = {}
-        datos["user_id"] = result["user_id"]
-        datos["participant"] = result["user"]["login"]
-        datos["observacions"] = result["observation_count"]
-        datos["espècies"] = result["species_count"]
-        users.append(datos)
+    observers_data = safe_api_request(url1)
+    
+    if observers_data and "results" in observers_data:
+        for result in observers_data["results"]:
+            datos = {}
+            datos["user_id"] = result["user_id"]
+            datos["participant"] = result["user"]["login"]
+            datos["observacions"] = result["observation_count"]
+            datos["espècies"] = result["species_count"]
+            users.append(datos)
     df_users = pd.DataFrame(users)
 
     identifiers = []
     url = f"https://api.minka-sdg.org/v1/observations/identifiers?project_id={id_project}&quality_grade=research"
-    results = SESSION.get(url).json()["results"]
-    for result in results:
-        datos = {}
-        datos["user_id"] = result["user_id"]
-        datos["identificacions"] = result["count"]
-        identifiers.append(datos)
+    identifiers_data = safe_api_request(url)
+    
+    if identifiers_data and "results" in identifiers_data:
+        for result in identifiers_data["results"]:
+            datos = {}
+            datos["user_id"] = result["user_id"]
+            datos["identificacions"] = result["count"]
+            identifiers.append(datos)
     df_identifiers = pd.DataFrame(identifiers)
 
-    df_users = pd.merge(df_users, df_identifiers, how="left", on="user_id")
-    df_users.fillna(0, inplace=True)
-
-    return df_users[["participant", "observacions", "espècies", "identificacions"]]
+    if not df_users.empty and not df_identifiers.empty:
+        df_users = pd.merge(df_users, df_identifiers, how="left", on="user_id")
+        df_users.fillna(0, inplace=True)
+        return df_users[["participant", "observacions", "espècies", "identificacions"]]
+    elif not df_users.empty:
+        df_users["identificacions"] = 0
+        return df_users[["participant", "observacions", "espècies", "identificacions"]]
+    else:
+        return pd.DataFrame(columns=["participant", "observacions", "espècies", "identificacions"])
 
 
 def get_participation_df(main_project):
@@ -334,12 +490,18 @@ def get_participation_df(main_project):
 
 def get_marine(taxon_name):
     name_clean = taxon_name.replace(" ", "+")
-    status = SESSION.get(
-        f"https://www.marinespecies.org/rest/AphiaIDByName/{name_clean}?marine_only=true"
-    ).status_code
-    if (status == 200) or (status == 206):
-        result = True
-    else:
+    url = f"https://www.marinespecies.org/rest/AphiaIDByName/{name_clean}?marine_only=true"
+    
+    try:
+        # MarineSpecies API no necesita tanto rate limiting, pero aún aplicamos prudencia
+        time.sleep(0.1)
+        response = SESSION.get(url, timeout=10)
+        status = response.status_code
+        if (status == 200) or (status == 206):
+            result = True
+        else:
+            result = False
+    except:
         result = False
     return result
 
@@ -364,68 +526,82 @@ def get_cached_taxon_tree():
     return _taxon_tree_cache
 
 
+def fetch_species_page_batch(proj_id, page_numbers):
+    """Procesa un lote de páginas de especies en paralelo"""
+    species = f"{API_PATH}/observations/species_counts?"
+    
+    def fetch_single_page(page):
+        url = f"{species}&project_id={proj_id}&page={page}"
+        json_data = safe_api_request(url)
+        
+        if not json_data or "results" not in json_data:
+            return []
+            
+        page_species = []
+        for result in json_data["results"]:
+            especie = {
+                "taxon_id": result["taxon"]["id"],
+                "taxon_name": result["taxon"]["name"],
+                "rank": result["taxon"]["rank"],
+                "ancestry": result["taxon"]["ancestry"]
+            }
+            page_species.append(especie)
+        return page_species
+    
+    all_species = []
+    # Solo 2 workers para evitar sobrecargar
+    with ThreadPoolExecutor(max_workers=2) as executor:
+        future_to_page = {executor.submit(fetch_single_page, page): page for page in page_numbers}
+        
+        for future in as_completed(future_to_page):
+            try:
+                page_species = future.result()
+                all_species.extend(page_species)
+                page = future_to_page[future]
+                print(f"✓ Página {page}: {len(page_species)} especies")
+            except Exception as e:
+                page = future_to_page[future]
+                print(f"✗ Error en página {page}: {e}")
+    
+    return all_species
+
 def get_marine_species(proj_id):
     total_sp = []
 
     species = f"{API_PATH}/observations/species_counts?"
     url1 = f"{species}&project_id={proj_id}"
 
-    total_num = SESSION.get(url1).json()["total_results"]
-
+    species_count_data = safe_api_request(url1)
+    if not species_count_data:
+        print(f"No se pudo obtener el conteo de especies para el proyecto {proj_id}")
+        return pd.DataFrame()
+    
+    total_num = species_count_data.get("total_results", 0)
     pages = math.ceil(total_num / 500)
+    print(f"Procesando {pages} páginas de especies en lotes de {BATCH_SIZE}")
 
-    for i in range(pages):
-        especie = {}
-        page = i + 1
-        url = f"{species}&project_id={proj_id}&page={page}"
-
-        # Rate limiting - pausa entre requests
-        time.sleep(0.5)
-
-        # Reintentos con manejo de errores
-        max_retries = 3
-        for retry in range(max_retries):
-            try:
-                response = SESSION.get(url)
-                response.raise_for_status()  # Lanza excepción si status code es error
-
-                json_data = response.json()
-                if "results" not in json_data:
-                    print(
-                        f"Warning: 'results' key missing in API response for page {page}"
-                    )
-                    print(f"Response keys: {list(json_data.keys())}")
-                    if retry == max_retries - 1:
-                        print(f"Skipping page {page} after {max_retries} attempts")
-                        break
-                    time.sleep(2)  # Pausa más larga antes de reintentar
-                    continue
-
-                results = json_data["results"]
-                break
-
-            except requests.exceptions.RequestException as e:
-                print(f"Error en request para página {page}, intento {retry + 1}: {e}")
-                if retry == max_retries - 1:
-                    print(f"Fallaron todos los intentos para página {page}")
-                    continue
-                time.sleep(2)
-            except KeyError as e:
-                print(f"Error en estructura de respuesta para página {page}: {e}")
-                if retry == max_retries - 1:
-                    continue
-                time.sleep(2)
-        else:
-            continue  # Si no se pudo obtener results, continúa con la siguiente página
-        for result in results:
-            especie = {}
-            especie["taxon_id"] = result["taxon"]["id"]
-            especie["taxon_name"] = result["taxon"]["name"]
-            especie["rank"] = result["taxon"]["rank"]
-            especie["ancestry"] = result["taxon"]["ancestry"]
-            total_sp.append(especie)
+    # Procesar en lotes
+    page_batch = []
+    for page_idx in range(pages):
+        page = page_idx + 1
+        page_batch.append(page)
+        
+        # Procesar lote cuando esté lleno o sea la última página
+        if len(page_batch) >= BATCH_SIZE or page_idx == pages - 1:
+            print(f"Procesando lote páginas {page_batch[0]}-{page_batch[-1]}")
+            batch_species = fetch_species_page_batch(proj_id, page_batch)
+            total_sp.extend(batch_species)
+            page_batch = []
+            
+            # Pausa entre lotes
+            if page_idx < pages - 1:
+                time.sleep(1)
 
     df_species = pd.DataFrame(total_sp)
+    if df_species.empty:
+        return df_species
+        
+    print(f"Obtenidas {len(df_species)} especies, aplicando datos marinos...")
     taxon_tree = get_cached_taxon_tree()
 
     df_species = pd.merge(
@@ -531,8 +707,14 @@ def update_dfs_projects(
 
 if __name__ == "__main__":
 
-    # BioMARató 2024
+    # BioMARató 2025
     start_time = time.time()
+    
+    print(f"Starting with rate limit: {API_RATE_LIMIT}s, max retries: {API_RETRY_MAX}")
+    print(f"Cache duration: {CACHE_DURATION}s")
+    
+    # Crear directorio de datos si no existe
+    os.makedirs("data/biomarato25", exist_ok=True)
 
     # Actualiza main metrics
     main_metrics_df = update_main_metrics_by_day(main_project_bmt)
