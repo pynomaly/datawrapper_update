@@ -16,11 +16,11 @@ API_PATH = "https://api.minka-sdg.org/v1"
 # Global session for all requests
 SESSION = requests.Session()
 
-# Rate limiting configuration - optimizado para velocidad pero seguro
-API_RATE_LIMIT = float(os.environ.get('API_RATE_LIMIT', 1.2))  # Reducido de 3s a 1.2s
-API_RETRY_MAX = int(os.environ.get('API_RETRY_MAX', 3))
-API_BACKOFF_FACTOR = int(os.environ.get('API_BACKOFF_FACTOR', 2))
-BATCH_SIZE = int(os.environ.get('BATCH_SIZE', 4))  # Procesar en lotes de 4
+# Rate limiting configuration - optimizado con manejo robusto de errores
+API_RATE_LIMIT = float(os.environ.get('API_RATE_LIMIT', 1.5))  # Ligeramente más conservador
+API_RETRY_MAX = int(os.environ.get('API_RETRY_MAX', 4))  # Más reintentos para 502s
+API_BACKOFF_FACTOR = int(os.environ.get('API_BACKOFF_FACTOR', 3))  # Backoff más agresivo
+BATCH_SIZE = int(os.environ.get('BATCH_SIZE', 3))  # Lotes más pequeños para estabilidad
 
 # Global rate limiter
 last_request_time = 0
@@ -79,7 +79,7 @@ def rate_limited_request(func):
 
 @rate_limited_request
 def safe_api_request(url, params=None, max_retries=None, use_cache=True):
-    """Hace petición a la API con cache, rate limiting y manejo de errores"""
+    """Hace petición a la API con cache, rate limiting y manejo robusto de errores"""
     if max_retries is None:
         max_retries = API_RETRY_MAX
     
@@ -95,16 +95,37 @@ def safe_api_request(url, params=None, max_retries=None, use_cache=True):
         
     for attempt in range(max_retries):
         try:
-            response = SESSION.get(url, params=params, timeout=30)
+            response = SESSION.get(url, params=params, timeout=45)  # Timeout más largo
             
+            # Manejo específico por tipo de error HTTP
             if response.status_code == 429:  # Too Many Requests
-                wait_time = API_BACKOFF_FACTOR ** attempt
-                print(f"Rate limited (429), waiting {wait_time}s before retry {attempt+1}/{max_retries}")
+                wait_time = min(60, API_BACKOFF_FACTOR ** (attempt + 2))  # Más agresivo para 429
                 time.sleep(wait_time)
                 continue
                 
-            response.raise_for_status()
-            data = response.json()
+            elif response.status_code in [502, 503, 504]:  # Server errors
+                wait_time = min(120, (API_BACKOFF_FACTOR ** (attempt + 1)) * 4)  # Backoff exponencial muy agresivo
+                time.sleep(wait_time)
+                continue
+                
+            elif response.status_code == 500:  # Internal server error
+                wait_time = min(90, (API_BACKOFF_FACTOR ** (attempt + 1)) * 6)
+                time.sleep(wait_time)
+                continue
+                
+            response.raise_for_status()  # Para otros errores HTTP
+            
+            try:
+                data = response.json()
+            except ValueError as json_err:
+                print(f"JSON parse error on attempt {attempt+1}: {json_err}")
+                if attempt < max_retries - 1:
+                    wait_time = API_BACKOFF_FACTOR ** attempt
+                    print(f"Retrying in {wait_time}s...")
+                    time.sleep(wait_time)
+                    continue
+                else:
+                    return None
             
             # Guardar en cache
             if use_cache and cache_file and data:
@@ -112,14 +133,32 @@ def safe_api_request(url, params=None, max_retries=None, use_cache=True):
                 
             return data
             
-        except requests.exceptions.RequestException as e:
-            wait_time = API_BACKOFF_FACTOR ** attempt
-            print(f"Request error (attempt {attempt+1}/{max_retries}): {e}")
+        except requests.exceptions.Timeout as e:
+            wait_time = min(60, (API_BACKOFF_FACTOR ** (attempt + 1)) * 3)
             if attempt < max_retries - 1:
-                print(f"Retrying in {wait_time}s...")
                 time.sleep(wait_time)
             else:
-                print(f"Max retries reached for {url}")
+                return None
+                
+        except requests.exceptions.ConnectionError as e:
+            wait_time = min(120, (API_BACKOFF_FACTOR ** (attempt + 1)) * 5)
+            if attempt < max_retries - 1:
+                time.sleep(wait_time)
+            else:
+                return None
+                
+        except requests.exceptions.RequestException as e:
+            wait_time = min(90, (API_BACKOFF_FACTOR ** (attempt + 1)) * 2)
+            if attempt < max_retries - 1:
+                time.sleep(wait_time)
+            else:
+                return None
+        
+        except Exception as e:
+            if attempt < max_retries - 1:
+                wait_time = API_BACKOFF_FACTOR ** (attempt + 1)
+                time.sleep(wait_time)
+            else:
                 return None
                 
     return None
