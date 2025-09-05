@@ -626,7 +626,8 @@ if __name__ == "__main__":
     start_time = time.time()
 
     # Obtener api_token de admin
-    api_token = get_admin_token()
+    # api_token = get_admin_token()
+    api_token = None
 
     # Actualiza main metrics
     main_metrics_df = update_main_metrics_by_day(main_project_bmt)
