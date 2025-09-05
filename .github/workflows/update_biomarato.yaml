@@ -24,7 +24,7 @@ jobs:
       - name: Run the script
         env:
           MINKA_USER_EMAIL: ${{ secrets.MINKA_USER_EMAIL }}
-          MINKA_PASSWORD: ${{ secrets.MINKA_PASSWORD }}
+          MINKA_USER_PASSWORD: ${{ secrets.MINKA_USER_PASSWORD }}
         run: python update_biomarato25.py
 
       - name: Commit files
