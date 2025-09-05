@@ -1,3 +1,5 @@
 mecoda-minka==1.8.4
 pandas==2.2.1
 requests==2.31.0
+playwright
+python-dotenv
