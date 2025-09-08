@@ -17,9 +17,14 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: | 
+          pip install -r requirements.txt
+          playwright install
 
       - name: Run the script
+        env:
+          MINKA_USER_EMAIL: ${{ secrets.MINKA_USER_EMAIL }}
+          MINKA_USER_PASSWORD: ${{ secrets.MINKA_USER_PASSWORD }}
         run: python update_global_counter.py
 
       - name: Commit files
