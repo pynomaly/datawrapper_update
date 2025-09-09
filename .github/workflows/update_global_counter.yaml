@@ -19,12 +19,13 @@ jobs:
       - name: Install dependencies
         run: | 
           pip install -r requirements.txt
-          playwright install
 
       - name: Run the script
         env:
           MINKA_USER_EMAIL: ${{ secrets.MINKA_USER_EMAIL }}
           MINKA_USER_PASSWORD: ${{ secrets.MINKA_USER_PASSWORD }}
+          MINKA_CLIENT_ID: ${{ secrets.MINKA_CLIENT_ID }}
+          MINKA_CLIENT_SECRET: ${{ secrets.MINKA_CLIENT_SECRET }}
         run: python update_global_counter.py
 
       - name: Commit files
