@@ -9,7 +9,6 @@ import pandas as pd
 import requests
 from dotenv import load_dotenv
 from mecoda_minka import get_dfs, get_obs
-from playwright.sync_api import sync_playwright
 
 load_dotenv()
 
@@ -19,7 +18,6 @@ API_PATH = "https://api.minka-sdg.org/v1"
 SESSION = requests.Session()
 
 # Global API token
-api_token = None
 
 main_project_bmt = 417
 
@@ -73,51 +71,30 @@ exclude_users = [
 ]
 
 
-def get_admin_token():
-    # Inicia Playwright
-    with sync_playwright() as p:
-        # Lanza el navegador Firefox
-        browser = p.firefox.launch(
-            headless=True
-        )  # headless=False abre el navegador en modo visual
-        page = browser.new_page()
+def get_access_token():
+    url = "https://www.minka-sdg.org/oauth/token"
 
-        # Navega a la URL de login de Minka SDG
-        page.goto("https://minka-sdg.org/login")
+    payload = {
+        "client_id": os.getenv("MINKA_CLIENT_ID"),
+        "client_secret": os.getenv("MINKA_CLIENT_SECRET"),
+        "grant_type": "password",
+        "username": os.getenv("MINKA_USER_EMAIL"),
+        "password": os.getenv("MINKA_USER_PASSWORD"),
+    }
 
-        # Introduce el nombre de usuario
-        page.fill('//*[@id="user_email"]', os.getenv("MINKA_USER_EMAIL"))
+    response = requests.post(url, data=payload)
 
-        # Introduce la contraseña
-        page.fill('//*[@id="user_password"]', os.getenv("MINKA_USER_PASSWORD"))
-
-        # Haz clic en el botón de login usando el prefijo "xpath="
-        page.locator(
-            "xpath=/html/body/div[1]/div[2]/div/div[2]/div/form/div[4]/input"
-        ).click()
-
-        # Navega a la URL del api_token
-        page.goto("https://minka-sdg.org/users/api_token")
-
-        # Extrae el json de esa página
-        # Espera a que la página cargue completamente
-        page.wait_for_load_state("networkidle")
-
-        # Extrae el JSON de la página
-        page_text = page.evaluate("document.body.innerText")
-        json_data = json.loads(page_text.strip())
-
-        # Extrae específicamente el api_token
-        api_token = json_data.get("api_token")
-
-        # Cierra el navegador
-        browser.close()
-
-        return api_token
+    if response.ok:
+        token = response.json().get("access_token")
+        print("Access token obteined")
+    else:
+        print("Error:", response.status_code, response.text)
+        token = None
+    return token
 
 
 def get_main_metrics(proj_id):
-    headers = {"Authorization": api_token}
+    headers = {"Authorization": f"Bearer {access_token}"}
 
     def make_api_request(url, max_retries=3):
         for attempt in range(max_retries):
@@ -166,7 +143,7 @@ def get_main_metrics(proj_id):
 
 def fetch_day_metrics(proj_id, day_str):
     """Fetch metrics for a single day"""
-    headers = {"Authorization": api_token}
+    headers = {"Authorization": f"Bearer {access_token}"}
 
     def make_api_request(url, max_retries=3):
         for attempt in range(max_retries):
@@ -285,16 +262,10 @@ def update_main_metrics_by_day(proj_id):
 
 
 def get_metrics_proj(proj_id, proj_city):
-    headers = {"Authorization": api_token}
+    headers = {"Authorization": f"Bearer {access_token}"}
     observations = f"{API_PATH}/observations?"
     species = f"{API_PATH}/observations/species_counts?"
     observers = f"{API_PATH}/observations/observers?"
-
-    params = {
-        "project_id": proj_id,
-        "order": "desc",
-        "order_by": "created_at",
-    }
 
     def make_api_request(url, max_retries=3):
         for attempt in range(max_retries):
@@ -368,7 +339,7 @@ def create_df_projs(projects):
 
 
 def get_missing_taxon(taxon_id, rank):
-    headers = {"Authorization": api_token}
+    headers = {"Authorization": f"Bearer {access_token}"}
     url = f"https://api.minka-sdg.org/v1/taxa/{taxon_id}"
     ancestors = SESSION.get(url, headers=headers).json()["results"][0]["ancestors"]
     for anc in ancestors:
@@ -377,14 +348,14 @@ def get_missing_taxon(taxon_id, rank):
 
 
 def _get_species(user_name, proj_id):
-    headers = {"Authorization": api_token}
+    headers = {"Authorization": f"Bearer {access_token}"}
     species = f"{API_PATH}/observations/species_counts"
     params = {"project_id": proj_id, "user_login": user_name, "rank": "species"}
     return SESSION.get(species, params=params, headers=headers).json()["total_results"]
 
 
 def get_list_users(id_project):
-    headers = {"Authorization": api_token}
+    headers = {"Authorization": f"Bearer {access_token}"}
     users = []
     url1 = f"https://api.minka-sdg.org/v1/observations/observers?project_id={id_project}&quality_grade=research"
     results = SESSION.get(url1, headers=headers).json()["results"]
@@ -454,7 +425,7 @@ def get_cached_taxon_tree():
 
 
 def get_marine_species(proj_id):
-    headers = {"Authorization": api_token}
+    headers = {"Authorization": f"Bearer {access_token}"}
     total_sp = []
 
     species = f"{API_PATH}/observations/species_counts?"
@@ -625,9 +596,8 @@ if __name__ == "__main__":
     # BioMARató 2024
     start_time = time.time()
 
-    # Obtener api_token de admin
-    api_token = get_admin_token()
-    # api_token = None
+    # Obtener access_token de admin
+    access_token = get_access_token()
 
     # Actualiza main metrics
     main_metrics_df = update_main_metrics_by_day(main_project_bmt)
