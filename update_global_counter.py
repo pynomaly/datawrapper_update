@@ -1,5 +1,6 @@
 import json
 import os
+import time
 
 import pandas as pd
 import requests
@@ -21,19 +22,36 @@ def get_access_token():
         "password": os.getenv("MINKA_USER_PASSWORD"),
     }
 
-    response = requests.post(url, data=payload)
+    max_retries = 3
+    timeout = 30
 
-    if response.ok:
-        token = response.json().get("access_token")
-        print("Access token obteined")
-    else:
-        print("Error:", response.status_code, response.text)
-        token = None
-    return token
+    for attempt in range(max_retries):
+        try:
+            response = requests.post(url, data=payload, timeout=timeout)
+
+            if response.ok:
+                token = response.json().get("access_token")
+                print("Access token obteined")
+                return token
+            else:
+                print("Error:", response.status_code, response.text)
+                return None
+
+        except requests.exceptions.ConnectTimeout:
+            print(f"Connection timeout (attempt {attempt + 1}/{max_retries})")
+            if attempt < max_retries - 1:
+                time.sleep(5)
+                continue
+            else:
+                print("Max retries exceeded. Unable to get access token.")
+                return None
+        except requests.exceptions.RequestException as e:
+            print(f"Request error: {e}")
+            return None
 
 
-def get_metrics_proj(proj_ids):
-    headers = {"Authorization": f"Bearer {access_token}"}
+def get_metrics_proj(proj_ids, access_token=None):
+    headers = {"Authorization": f"Bearer {access_token}"} if access_token else {}
     session = requests.Session()
     total_results = []
 
@@ -47,32 +65,38 @@ def get_metrics_proj(proj_ids):
         "order_by": "created_at",
     }
 
-    total_species = session.get(species, headers=headers, params=params).json()[
-        "total_results"
-    ]
-    total_participants = session.get(observers, headers=headers, params=params).json()[
-        "total_results"
-    ]
-    total_obs = session.get(observations, headers=headers, params=params).json()[
-        "total_results"
-    ]
+    try:
+        total_species = session.get(species, headers=headers, params=params).json()[
+            "total_results"
+        ]
+        total_participants = session.get(
+            observers, headers=headers, params=params
+        ).json()["total_results"]
+        total_obs = session.get(observations, headers=headers, params=params).json()[
+            "total_results"
+        ]
 
-    result = {
-        "observations": total_obs,
-        "species": total_species,
-        "participants": total_participants,
-    }
-    total_results.append(result)
+        result = {
+            "observations": total_obs,
+            "species": total_species,
+            "participants": total_participants,
+        }
+        total_results.append(result)
 
-    df_total = pd.DataFrame(total_results)
-    # df_total_sum = df_total.sum(axis=0)
+        df_total = pd.DataFrame(total_results)
+        return df_total
 
-    return df_total
+    except Exception as e:
+        print(f"Error fetching metrics: {e}")
+        return pd.DataFrame()
 
 
 if __name__ == "__main__":
 
     access_token = get_access_token()
+
+    if access_token is None:
+        print("Continuing without authentication token...")
 
     proj_ids = "285, 283, 124, 20, 367, 417"
 
@@ -83,9 +107,13 @@ if __name__ == "__main__":
     # 367, BioMARató 2021 (Catalunya)
     # 417, biomarato-2025-catalunya
 
-    df_total = get_metrics_proj(proj_ids)
-    downloaded_data = pd.read_csv("data/biomarato_global_counter.csv")
-    if downloaded_data["observations"].iloc[0] != df_total["observations"].iloc[0]:
-        df_total.to_csv("data/biomarato_global_counter.csv", index=False)
+    df_total = get_metrics_proj(proj_ids, access_token)
+
+    if not df_total.empty:
+        downloaded_data = pd.read_csv("data/biomarato_global_counter.csv")
+        if downloaded_data["observations"].iloc[0] != df_total["observations"].iloc[0]:
+            df_total.to_csv("data/biomarato_global_counter.csv", index=False)
+        else:
+            print("No changes in data.")
     else:
-        print("No changes in data.")
+        print("No data retrieved, skipping CSV update.")
