@@ -1,17 +1,17 @@
 PARTICIPANT,OBSERVACIONS,ESPÈCIES,IDENTIFICACIONS
-manelor,6782,616,0.0
+manelor,6784,616,0.0
 guillermoalvarez,4519,551,6704.0
 ealcaniz,4462,315,413.0
-jastals,3037,311,10.0
-conxi,2830,301,0.0
+jastals,3159,315,10.0
+conxi,3069,303,0.0
 miquel17300,2137,169,0.0
-badosa,1770,362,12059.0
+badosa,1771,362,12169.0
+yespi,1761,207,102.0
 joangarcia,1757,218,0.0
-yespi,1712,205,102.0
 evararo,1505,200,0.0
 mingokt,1362,207,84.0
 francesc_f,1240,166,833.0
-martanp,1207,181,122.0
+martanp,1212,186,122.0
 nuriasireni,1179,120,0.0
 eloi_sanz,1130,193,68.0
 urti,1117,153,0.0
@@ -30,7 +30,7 @@ gregoribdn,502,187,0.0
 divingandcombat,469,159,15.0
 eul_a_liarc,455,99,0.0
 xparellada,414,118,824.0
-annacanela,401,91,0.0
+annacanela,405,92,0.0
 romu_freediving_photography,396,159,0.0
 ferranrourediver,385,120,0.0
 xavibou,377,188,0.0
@@ -43,7 +43,7 @@ agatals,331,86,0.0
 borisweitzmann,322,140,29.0
 albertvim,318,143,123.0
 rickydiving,306,81,113.0
-saragasull,299,115,1.0
+saragasull,300,116,1.0
 sergisoldevila,298,110,14.0
 jordifors,296,86,3.0
 estades_marines,289,85,0.0
@@ -75,10 +75,10 @@ pauperrim,129,82,0.0
 francismpp,122,81,20.0
 davidtsh,116,48,0.0
 meri_superdive,113,55,2.0
+anna_olive_abello,112,59,0.0
 ruizmfrn,110,48,0.0
 cocolotus,109,82,0.0
 matfer,106,59,0.0
-anna_olive_abello,106,55,0.0
 monicafranco_fotosub,101,56,0.0
 mcollell91,99,80,0.0
 lioba,99,52,172.0
@@ -101,7 +101,7 @@ jordi2000,60,22,0.0
 erodribo,59,26,0.0
 j_simic,59,45,0.0
 joselu_00,58,47,0.0
-dani_rhincodontypus24,55,44,1885.0
+dani_rhincodontypus24,55,44,1886.0
 hectorserranocereijo,55,37,0.0
 sandrajoel,54,30,0.0
 the_underwaters,53,37,0.0
@@ -148,9 +148,9 @@ patopi,32,28,0.0
 blausubmari,31,28,0.0
 laurapb93,31,16,0.0
 pedrogono,31,19,0.0
+mdt14,30,9,0.0
 tiana,30,13,0.0
 marbp2006,30,25,0.0
-mdt14,29,9,0.0
 auroramgonzalez,29,18,0.0
 elpeco,29,17,0.0
 ed_berdie,28,23,6.0
@@ -158,6 +158,7 @@ cristi17,28,23,0.0
 cescgv,28,22,10.0
 chumi,28,16,0.0
 a_carulla,28,21,0.0
+xavierlln,27,25,1.0
 efarmengol,26,20,0.0
 elemeoow,26,17,0.0
 joselito,26,21,0.0
@@ -170,7 +171,6 @@ laiadiezahijado,25,15,0.0
 marcsendra,25,19,0.0
 jbm9359,25,19,0.0
 laia3421,25,18,0.0
-xavierlln,25,23,1.0
 giuliponcee,25,17,0.0
 nani,25,24,0.0
 pedrocdm,24,21,0.0
@@ -223,12 +223,14 @@ estherjr99,14,9,0.0
 lidiacaba,14,11,0.0
 irenelopezmoreno,14,11,0.0
 fraortsco,14,12,77.0
+srolivella,14,7,0.0
 mochilo75,14,13,0.0
 allemeersch,13,9,0.0
 giulia,13,13,0.0
 izanbermudez,13,13,0.0
 diving_lloret,13,10,0.0
 uriborrajo,13,10,0.0
+fabian,12,6,0.0
 rele,12,10,0.0
 maria-josep,12,7,21.0
 packa,12,12,0.0
@@ -240,7 +242,6 @@ francescvictoria,11,11,0.0
 alinemgallo,11,8,0.0
 centreimmersiocapdecreus,11,10,0.0
 joanpuigbomoll,11,11,6.0
-srolivella,11,6,0.0
 marticasas,10,10,0.0
 martinaaa,10,9,0.0
 paquiserramoya,10,9,0.0
@@ -248,7 +249,6 @@ alina_sus,10,7,0.0
 eliisa26,10,8,1.0
 rroviraf,10,9,0.0
 ineram,10,10,0.0
-fabian,9,5,0.0
 mattolivares,9,8,0.0
 sara_coco,9,6,0.0
 marionaa03,9,9,0.0
@@ -274,6 +274,7 @@ hermel,7,7,0.0
 sarahrusso,7,4,0.0
 jmestras,7,6,0.0
 kike,7,5,0.0
+gemmacalvo,6,2,0.0
 iolanda-g2m5,6,5,0.0
 davidmorenaoculta,6,5,0.0
 lbalaguero,6,5,0.0
@@ -284,7 +285,6 @@ tonako,6,6,0.0
 alba_muto,6,5,0.0
 barbara_alb,6,5,0.0
 laura,6,6,0.0
-gemmacalvo,5,2,0.0
 marti_argelich,5,5,0.0
 carlauca,5,1,0.0
 luciedg,5,5,0.0
@@ -305,6 +305,7 @@ rosamarivs,5,5,0.0
 annagm,5,5,0.0
 inesmasip,5,3,0.0
 quim,5,4,0.0
+thiago,4,4,0.0
 vsalvarez,4,4,0.0
 lucasbdn5,4,4,0.0
 maws,4,4,0.0
@@ -390,7 +391,6 @@ lpmayos,2,1,0.0
 suky,2,1,0.0
 juanatural,2,1,0.0
 jaom,2,2,0.0
-thiago,1,1,0.0
 naturemishi,1,1,0.0
 carolcroft,1,1,0.0
 victoria117,1,1,0.0
