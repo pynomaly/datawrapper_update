@@ -82,15 +82,32 @@ def get_access_token():
         "password": os.getenv("MINKA_USER_PASSWORD"),
     }
 
-    response = requests.post(url, data=payload)
+    max_retries = 3
+    timeout = 30
 
-    if response.ok:
-        token = response.json().get("access_token")
-        print("Access token obteined")
-    else:
-        print("Error:", response.status_code, response.text)
-        token = None
-    return token
+    for attempt in range(max_retries):
+        try:
+            response = requests.post(url, data=payload, timeout=timeout)
+
+            if response.ok:
+                token = response.json().get("access_token")
+                print("Access token obteined")
+                return token
+            else:
+                print("Error:", response.status_code, response.text)
+                return None
+
+        except requests.exceptions.ConnectTimeout:
+            print(f"Connection timeout (attempt {attempt + 1}/{max_retries})")
+            if attempt < max_retries - 1:
+                time.sleep(5)
+                continue
+            else:
+                print("Max retries exceeded. Unable to get access token.")
+                return None
+        except requests.exceptions.RequestException as e:
+            print(f"Request error: {e}")
+            return None
 
 
 def get_main_metrics(proj_id):
